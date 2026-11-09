@@ -1,0 +1,19 @@
+{
+  "name": "house-noheartburn",
+  "private": true,
+  "version": "0.1.0",
+  "workspaces": [
+    "apps/web"
+  ],
+  "scripts": {
+    "dev": "npm run dev --workspace @house-noheartburn/web",
+    "build": "npm run build --workspace @house-noheartburn/web",
+    "typecheck": "npm run typecheck --workspace @house-noheartburn/web",
+    "validate:data": "node scripts/validate-public-data.mjs public-data",
+    "test:web": "npm run typecheck --workspace @house-noheartburn/web"
+  },
+  "devDependencies": {
+    "ajv": "^8.17.1",
+    "ajv-formats": "^3.0.1"
+  }
+}

@@ -1,0 +1,489 @@
+{
+  "schema_version": 1,
+  "kind": "overview",
+  "as_of": "2026-10",
+  "published_at": "2026-11-09T16:22:40.231788+00:00",
+  "summary": {
+    "district_count": 10,
+    "published_district_count": 9,
+    "community_count": 4495,
+    "published_community_count": 392,
+    "latest_transaction_count": 1867,
+    "latest_source_count": 1,
+    "history_months": 24,
+    "min_district_samples": 5,
+    "min_community_samples": 3
+  },
+  "city_series": [
+    {
+      "month": "2024-11",
+      "status": "no_data",
+      "transaction_count": 0,
+      "source_count": 0,
+      "median_unit_price": null,
+      "median_total_price": null,
+      "p25_unit_price": null,
+      "p75_unit_price": null,
+      "mom_pct": null,
+      "yoy_pct": null
+    },
+    {
+      "month": "2024-12",
+      "status": "no_data",
+      "transaction_count": 0,
+      "source_count": 0,
+      "median_unit_price": null,
+      "median_total_price": null,
+      "p25_unit_price": null,
+      "p75_unit_price": null,
+      "mom_pct": null,
+      "yoy_pct": null
+    },
+    {
+      "month": "2025-01",
+      "status": "no_data",
+      "transaction_count": 0,
+      "source_count": 0,
+      "median_unit_price": null,
+      "median_total_price": null,
+      "p25_unit_price": null,
+      "p75_unit_price": null,
+      "mom_pct": null,
+      "yoy_pct": null
+    },
+    {
+      "month": "2025-02",
+      "status": "no_data",
+      "transaction_count": 0,
+      "source_count": 0,
+      "median_unit_price": null,
+      "median_total_price": null,
+      "p25_unit_price": null,
+      "p75_unit_price": null,
+      "mom_pct": null,
+      "yoy_pct": null
+    },
+    {
+      "month": "2025-03",
+      "status": "no_data",
+      "transaction_count": 0,
+      "source_count": 0,
+      "median_unit_price": null,
+      "median_total_price": null,
+      "p25_unit_price": null,
+      "p75_unit_price": null,
+      "mom_pct": null,
+      "yoy_pct": null
+    },
+    {
+      "month": "2025-04",
+      "status": "no_data",
+      "transaction_count": 0,
+      "source_count": 0,
+      "median_unit_price": null,
+      "median_total_price": null,
+      "p25_unit_price": null,
+      "p75_unit_price": null,
+      "mom_pct": null,
+      "yoy_pct": null
+    },
+    {
+      "month": "2025-05",
+      "status": "no_data",
+      "transaction_count": 0,
+      "source_count": 0,
+      "median_unit_price": null,
+      "median_total_price": null,
+      "p25_unit_price": null,
+      "p75_unit_price": null,
+      "mom_pct": null,
+      "yoy_pct": null
+    },
+    {
+      "month": "2025-06",
+      "status": "no_data",
+      "transaction_count": 0,
+      "source_count": 0,
+      "median_unit_price": null,
+      "median_total_price": null,
+      "p25_unit_price": null,
+      "p75_unit_price": null,
+      "mom_pct": null,
+      "yoy_pct": null
+    },
+    {
+      "month": "2025-07",
+      "status": "no_data",
+      "transaction_count": 0,
+      "source_count": 0,
+      "median_unit_price": null,
+      "median_total_price": null,
+      "p25_unit_price": null,
+      "p75_unit_price": null,
+      "mom_pct": null,
+      "yoy_pct": null
+    },
+    {
+      "month": "2025-08",
+      "status": "no_data",
+      "transaction_count": 0,
+      "source_count": 0,
+      "median_unit_price": null,
+      "median_total_price": null,
+      "p25_unit_price": null,
+      "p75_unit_price": null,
+      "mom_pct": null,
+      "yoy_pct": null
+    },
+    {
+      "month": "2025-09",
+      "status": "no_data",
+      "transaction_count": 0,
+      "source_count": 0,
+      "median_unit_price": null,
+      "median_total_price": null,
+      "p25_unit_price": null,
+      "p75_unit_price": null,
+      "mom_pct": null,
+      "yoy_pct": null
+    },
+    {
+      "month": "2025-10",
+      "status": "no_data",
+      "transaction_count": 0,
+      "source_count": 0,
+      "median_unit_price": null,
+      "median_total_price": null,
+      "p25_unit_price": null,
+      "p75_unit_price": null,
+      "mom_pct": null,
+      "yoy_pct": null
+    },
+    {
+      "month": "2025-11",
+      "status": "no_data",
+      "transaction_count": 0,
+      "source_count": 0,
+      "median_unit_price": null,
+      "median_total_price": null,
+      "p25_unit_price": null,
+      "p75_unit_price": null,
+      "mom_pct": null,
+      "yoy_pct": null
+    },
+    {
+      "month": "2025-12",
+      "status": "insufficient_sample",
+      "transaction_count": 1,
+      "source_count": 1,
+      "median_unit_price": null,
+      "median_total_price": null,
+      "p25_unit_price": null,
+      "p75_unit_price": null,
+      "mom_pct": null,
+      "yoy_pct": null
+    },
+    {
+      "month": "2026-01",
+      "status": "published",
+      "transaction_count": 2195,
+      "source_count": 1,
+      "median_unit_price": 13143,
+      "median_total_price": 870000,
+      "p25_unit_price": 9124,
+      "p75_unit_price": 18428,
+      "mom_pct": null,
+      "yoy_pct": null
+    },
+    {
+      "month": "2026-02",
+      "status": "published",
+      "transaction_count": 1796,
+      "source_count": 1,
+      "median_unit_price": 11936,
+      "median_total_price": 780000,
+      "p25_unit_price": 8216,
+      "p75_unit_price": 16582,
+      "mom_pct": -9.2,
+      "yoy_pct": null
+    },
+    {
+      "month": "2026-03",
+      "status": "published",
+      "transaction_count": 6370,
+      "source_count": 1,
+      "median_unit_price": 11847,
+      "median_total_price": 800000,
+      "p25_unit_price": 8283,
+      "p75_unit_price": 16992,
+      "mom_pct": -0.7,
+      "yoy_pct": null
+    },
+    {
+      "month": "2026-04",
+      "status": "published",
+      "transaction_count": 5246,
+      "source_count": 1,
+      "median_unit_price": 11688,
+      "median_total_price": 780000,
+      "p25_unit_price": 8227,
+      "p75_unit_price": 16589,
+      "mom_pct": -1.3,
+      "yoy_pct": null
+    },
+    {
+      "month": "2026-05",
+      "status": "published",
+      "transaction_count": 4312,
+      "source_count": 1,
+      "median_unit_price": 12230,
+      "median_total_price": 830000,
+      "p25_unit_price": 8442,
+      "p75_unit_price": 17618,
+      "mom_pct": 4.6,
+      "yoy_pct": null
+    },
+    {
+      "month": "2026-06",
+      "status": "published",
+      "transaction_count": 3687,
+      "source_count": 1,
+      "median_unit_price": 12095,
+      "median_total_price": 810000,
+      "p25_unit_price": 8304,
+      "p75_unit_price": 17868,
+      "mom_pct": -1.1,
+      "yoy_pct": null
+    },
+    {
+      "month": "2026-07",
+      "status": "published",
+      "transaction_count": 3442,
+      "source_count": 1,
+      "median_unit_price": 11856,
+      "median_total_price": 820000,
+      "p25_unit_price": 8269,
+      "p75_unit_price": 17117,
+      "mom_pct": -2.0,
+      "yoy_pct": null
+    },
+    {
+      "month": "2026-08",
+      "status": "published",
+      "transaction_count": 3353,
+      "source_count": 1,
+      "median_unit_price": 11591,
+      "median_total_price": 810000,
+      "p25_unit_price": 7945,
+      "p75_unit_price": 16689,
+      "mom_pct": -2.2,
+      "yoy_pct": null
+    },
+    {
+      "month": "2026-09",
+      "status": "published",
+      "transaction_count": 3112,
+      "source_count": 1,
+      "median_unit_price": 11378,
+      "median_total_price": 810000,
+      "p25_unit_price": 7748,
+      "p75_unit_price": 16272,
+      "mom_pct": -1.8,
+      "yoy_pct": null
+    },
+    {
+      "month": "2026-10",
+      "status": "published",
+      "transaction_count": 1867,
+      "source_count": 1,
+      "median_unit_price": 13131,
+      "median_total_price": 927000,
+      "p25_unit_price": 9204,
+      "p75_unit_price": 18272,
+      "mom_pct": 15.4,
+      "yoy_pct": null
+    }
+  ],
+  "districts": [
+    {
+      "code": "120101",
+      "name": "和平区",
+      "slug": "heping",
+      "group": "市内六区",
+      "latest_point": {
+        "month": "2026-10",
+        "status": "published",
+        "transaction_count": 35,
+        "source_count": 1,
+        "median_unit_price": 39759,
+        "median_total_price": 2230000,
+        "p25_unit_price": 33102,
+        "p75_unit_price": 49709,
+        "mom_pct": 10.7,
+        "yoy_pct": null
+      }
+    },
+    {
+      "code": "120102",
+      "name": "河东区",
+      "slug": "hedong",
+      "group": "市内六区",
+      "latest_point": {
+        "month": "2026-10",
+        "status": "published",
+        "transaction_count": 246,
+        "source_count": 1,
+        "median_unit_price": 12738,
+        "median_total_price": 791500,
+        "p25_unit_price": 9169,
+        "p75_unit_price": 15914,
+        "mom_pct": 5.1,
+        "yoy_pct": null
+      }
+    },
+    {
+      "code": "120103",
+      "name": "河西区",
+      "slug": "hexi",
+      "group": "市内六区",
+      "latest_point": {
+        "month": "2026-10",
+        "status": "published",
+        "transaction_count": 365,
+        "source_count": 1,
+        "median_unit_price": 18797,
+        "median_total_price": 1238000,
+        "p25_unit_price": 14124,
+        "p75_unit_price": 24164,
+        "mom_pct": -0.6,
+        "yoy_pct": null
+      }
+    },
+    {
+      "code": "120104",
+      "name": "南开区",
+      "slug": "nankai",
+      "group": "市内六区",
+      "latest_point": {
+        "month": "2026-10",
+        "status": "published",
+        "transaction_count": 351,
+        "source_count": 1,
+        "median_unit_price": 17408,
+        "median_total_price": 1200000,
+        "p25_unit_price": 13516,
+        "p75_unit_price": 22386,
+        "mom_pct": -0.3,
+        "yoy_pct": null
+      }
+    },
+    {
+      "code": "120105",
+      "name": "河北区",
+      "slug": "hebei",
+      "group": "市内六区",
+      "latest_point": {
+        "month": "2026-10",
+        "status": "published",
+        "transaction_count": 221,
+        "source_count": 1,
+        "median_unit_price": 11622,
+        "median_total_price": 680000,
+        "p25_unit_price": 9156,
+        "p75_unit_price": 14326,
+        "mom_pct": 9.0,
+        "yoy_pct": null
+      }
+    },
+    {
+      "code": "120106",
+      "name": "红桥区",
+      "slug": "hongqiao",
+      "group": "市内六区",
+      "latest_point": {
+        "month": "2026-10",
+        "status": "published",
+        "transaction_count": 99,
+        "source_count": 1,
+        "median_unit_price": 9595,
+        "median_total_price": 605000,
+        "p25_unit_price": 7955,
+        "p75_unit_price": 12892,
+        "mom_pct": -0.4,
+        "yoy_pct": null
+      }
+    },
+    {
+      "code": "120110",
+      "name": "东丽区",
+      "slug": "dongli",
+      "group": "环城四区",
+      "latest_point": {
+        "month": "2026-10",
+        "status": "no_data",
+        "transaction_count": 0,
+        "source_count": 0,
+        "median_unit_price": null,
+        "median_total_price": null,
+        "p25_unit_price": null,
+        "p75_unit_price": null,
+        "mom_pct": null,
+        "yoy_pct": null
+      }
+    },
+    {
+      "code": "120111",
+      "name": "西青区",
+      "slug": "xiqing",
+      "group": "环城四区",
+      "latest_point": {
+        "month": "2026-10",
+        "status": "published",
+        "transaction_count": 178,
+        "source_count": 1,
+        "median_unit_price": 11710,
+        "median_total_price": 1065000,
+        "p25_unit_price": 8624,
+        "p75_unit_price": 14376,
+        "mom_pct": 8.8,
+        "yoy_pct": null
+      }
+    },
+    {
+      "code": "120112",
+      "name": "津南区",
+      "slug": "jinnan",
+      "group": "环城四区",
+      "latest_point": {
+        "month": "2026-10",
+        "status": "published",
+        "transaction_count": 250,
+        "source_count": 1,
+        "median_unit_price": 8067,
+        "median_total_price": 737500,
+        "p25_unit_price": 5530,
+        "p75_unit_price": 11124,
+        "mom_pct": 11.0,
+        "yoy_pct": null
+      }
+    },
+    {
+      "code": "120113",
+      "name": "北辰区",
+      "slug": "beichen",
+      "group": "环城四区",
+      "latest_point": {
+        "month": "2026-10",
+        "status": "published",
+        "transaction_count": 122,
+        "source_count": 1,
+        "median_unit_price": 7810,
+        "median_total_price": 652500,
+        "p25_unit_price": 6690,
+        "p75_unit_price": 10366,
+        "mom_pct": -1.3,
+        "yoy_pct": null
+      }
+    }
+  ]
+}

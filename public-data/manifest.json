@@ -1,0 +1,34 @@
+{
+  "schema_version": 1,
+  "kind": "manifest",
+  "as_of": "2026-10",
+  "published_at": "2026-11-09T16:22:40.231788+00:00",
+  "snapshot_id": "c3e3bc1067eef8c9",
+  "content_sha256": "c3e3bc1067eef8c97d55118d4a22b2cc5e9a41283eecf9be7cdee0877020a9e8",
+  "scope": {
+    "districts": [
+      "和平区",
+      "河东区",
+      "河西区",
+      "南开区",
+      "河北区",
+      "红桥区",
+      "东丽区",
+      "西青区",
+      "津南区",
+      "北辰区"
+    ],
+    "property_use": "all",
+    "history_months": 24,
+    "data_nature": "agent_published_transactions_aggregate"
+  },
+  "summary": {
+    "as_of": "2026-10",
+    "published_at": "2026-11-09T16:22:40.231788+00:00",
+    "transaction_count": 35381,
+    "community_count": 4495,
+    "published_community_count": 392,
+    "district_count": 9,
+    "file_count": 4509
+  }
+}

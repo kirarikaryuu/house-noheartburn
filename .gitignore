@@ -1,0 +1,48 @@
+# Runtime data: never commit raw source material or review databases.
+var/
+backend/var/
+.public-data-staging/
+.public-data-previous/
+*.db
+*.db-shm
+*.db-wal
+*.sqlite
+*.sqlite3
+
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+.venv/
+venv/
+backend/*.egg-info/
+backend/build/
+backend/dist/
+
+# Node / Next.js
+node_modules/
+.next/
+out/
+apps/web/.next/
+apps/web/out/
+apps/web/public/data/
+*.tsbuildinfo
+
+# Secrets and local config
+.env
+.env.local
+.env.*.local
+!.env.example
+
+# Editors / OS
+.idea/
+.vscode/
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Local private OCR fixtures
+private-fixtures/

@@ -1,0 +1,494 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://house-noheartburn.local/contracts/public-data.schema.json",
+  "$defs": {
+    "month": {
+      "type": "string",
+      "pattern": "^[0-9]{4}-(0[1-9]|1[0-2])$"
+    },
+    "nullableInt": {
+      "type": ["integer", "null"]
+    },
+    "nullableNumber": {
+      "type": ["number", "null"]
+    },
+    "monthlyPoint": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "month",
+        "status",
+        "transaction_count",
+        "source_count",
+        "median_unit_price",
+        "median_total_price",
+        "p25_unit_price",
+        "p75_unit_price",
+        "mom_pct",
+        "yoy_pct"
+      ],
+      "properties": {
+        "month": { "$ref": "#/$defs/month" },
+        "status": {
+          "type": "string",
+          "enum": ["published", "insufficient_sample", "no_data"]
+        },
+        "transaction_count": { "type": "integer", "minimum": 0 },
+        "source_count": { "type": "integer", "minimum": 0 },
+        "median_unit_price": { "$ref": "#/$defs/nullableInt" },
+        "median_total_price": { "$ref": "#/$defs/nullableInt" },
+        "p25_unit_price": { "$ref": "#/$defs/nullableInt" },
+        "p75_unit_price": { "$ref": "#/$defs/nullableInt" },
+        "mom_pct": { "$ref": "#/$defs/nullableNumber" },
+        "yoy_pct": { "$ref": "#/$defs/nullableNumber" }
+      },
+      "allOf": [
+        {
+          "if": {
+            "properties": { "status": { "const": "published" } },
+            "required": ["status"]
+          },
+          "then": {
+            "properties": {
+              "transaction_count": { "type": "integer", "minimum": 3 },
+              "median_unit_price": { "type": "integer", "minimum": 1 },
+              "median_total_price": { "type": "integer", "minimum": 1 },
+              "p25_unit_price": { "type": "integer", "minimum": 1 },
+              "p75_unit_price": { "type": "integer", "minimum": 1 }
+            }
+          }
+        },
+        {
+          "if": {
+            "properties": { "status": { "const": "no_data" } },
+            "required": ["status"]
+          },
+          "then": {
+            "properties": {
+              "transaction_count": { "const": 0 },
+              "source_count": { "const": 0 }
+            }
+          }
+        },
+        {
+          "if": {
+            "properties": { "status": { "enum": ["no_data", "insufficient_sample"] } },
+            "required": ["status"]
+          },
+          "then": {
+            "properties": {
+              "median_unit_price": { "type": "null" },
+              "median_total_price": { "type": "null" },
+              "p25_unit_price": { "type": "null" },
+              "p75_unit_price": { "type": "null" },
+              "mom_pct": { "type": "null" },
+              "yoy_pct": { "type": "null" }
+            }
+          }
+        }
+      ]
+    },
+    "communityObservation": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "month",
+        "transaction_count",
+        "source_count",
+        "median_unit_price",
+        "median_total_price",
+        "min_unit_price",
+        "max_unit_price"
+      ],
+      "properties": {
+        "month": { "$ref": "#/$defs/month" },
+        "transaction_count": { "type": "integer", "minimum": 1 },
+        "source_count": { "type": "integer", "minimum": 0 },
+        "median_unit_price": { "type": "integer", "minimum": 1 },
+        "median_total_price": { "type": "integer", "minimum": 1 },
+        "min_unit_price": { "type": "integer", "minimum": 1 },
+        "max_unit_price": { "type": "integer", "minimum": 1 }
+      }
+    },
+    "propertyUse": {
+      "type": "string",
+      "enum": ["unknown", "residential", "commercial", "other"]
+    },
+    "publicTransaction": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "deal_date",
+        "layout",
+        "area_sqm",
+        "floor",
+        "total_price_yuan",
+        "unit_price_yuan"
+      ],
+      "properties": {
+        "deal_date": { "type": "string", "format": "date" },
+        "layout": { "type": "string" },
+        "area_sqm": { "type": "number", "exclusiveMinimum": 0 },
+        "floor": { "type": "string" },
+        "total_price_yuan": { "type": "integer", "minimum": 1 },
+        "unit_price_yuan": { "type": "integer", "minimum": 1 }
+      }
+    },
+    "distribution": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["area", "total_price"],
+      "properties": {
+        "area": {
+          "type": "object",
+          "additionalProperties": false,
+          "required": ["labels", "counts"],
+          "properties": {
+            "labels": { "type": "array", "items": { "type": "string" }, "minItems": 5, "maxItems": 5 },
+            "counts": {
+              "type": "array",
+              "items": { "type": "integer", "minimum": 0 },
+              "minItems": 5,
+              "maxItems": 5
+            }
+          }
+        },
+        "total_price": {
+          "type": "object",
+          "additionalProperties": false,
+          "required": ["labels", "counts"],
+          "properties": {
+            "labels": { "type": "array", "items": { "type": "string" }, "minItems": 5, "maxItems": 5 },
+            "counts": {
+              "type": "array",
+              "items": { "type": "integer", "minimum": 0 },
+              "minItems": 5,
+              "maxItems": 5
+            }
+          }
+        }
+      }
+    },
+    "districtMeta": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["code", "name", "slug", "group"],
+      "properties": {
+        "code": { "type": "string", "pattern": "^1201(0[1-6]|1[0-3])$" },
+        "name": { "type": "string" },
+        "slug": { "type": "string" },
+        "group": { "type": "string" }
+      }
+    },
+    "summary": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "district_count",
+        "published_district_count",
+        "community_count",
+        "published_community_count",
+        "latest_transaction_count",
+        "latest_source_count",
+        "history_months",
+        "min_district_samples",
+        "min_community_samples"
+      ],
+      "properties": {
+        "district_count": { "type": "integer", "minimum": 0 },
+        "published_district_count": { "type": "integer", "minimum": 0 },
+        "community_count": { "type": "integer", "minimum": 0 },
+        "published_community_count": { "type": "integer", "minimum": 0 },
+        "latest_transaction_count": { "type": "integer", "minimum": 0 },
+        "latest_source_count": { "type": "integer", "minimum": 0 },
+        "history_months": { "type": "integer", "minimum": 1 },
+        "min_district_samples": { "type": "integer", "minimum": 1 },
+        "min_community_samples": { "type": "integer", "minimum": 1 }
+      }
+    },
+    "manifest": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "schema_version",
+        "kind",
+        "as_of",
+        "published_at",
+        "snapshot_id",
+        "content_sha256",
+        "scope",
+        "summary"
+      ],
+      "properties": {
+        "schema_version": { "const": 1 },
+        "kind": { "const": "manifest" },
+        "as_of": {
+          "oneOf": [{ "$ref": "#/$defs/month" }, { "type": "null" }]
+        },
+        "published_at": { "type": "string", "minLength": 10 },
+        "snapshot_id": { "type": "string", "minLength": 8 },
+        "content_sha256": { "type": "string", "pattern": "^[0-9a-f]{64}$" },
+        "scope": {
+          "type": "object",
+          "additionalProperties": false,
+          "required": ["districts", "property_use", "history_months", "data_nature"],
+          "properties": {
+            "districts": {
+              "type": "array",
+              "minItems": 10,
+              "maxItems": 10,
+              "items": { "type": "string" }
+            },
+            "property_use": { "const": "all" },
+            "history_months": { "type": "integer", "minimum": 1 },
+            "data_nature": { "const": "agent_published_transactions_aggregate" }
+          }
+        },
+        "summary": {
+          "type": "object",
+          "additionalProperties": false,
+          "required": [
+            "as_of",
+            "published_at",
+            "transaction_count",
+            "community_count",
+            "published_community_count",
+            "district_count",
+            "file_count"
+          ],
+          "properties": {
+            "as_of": { "oneOf": [{ "$ref": "#/$defs/month" }, { "type": "null" }] },
+            "published_at": { "type": "string" },
+            "transaction_count": { "type": "integer", "minimum": 0 },
+            "community_count": { "type": "integer", "minimum": 0 },
+            "published_community_count": { "type": "integer", "minimum": 0 },
+            "district_count": { "type": "integer", "minimum": 0 },
+            "file_count": { "type": "integer", "minimum": 1 }
+          }
+        }
+      }
+    },
+    "overview": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["schema_version", "kind", "as_of", "published_at", "summary", "city_series", "districts"],
+      "properties": {
+        "schema_version": { "const": 1 },
+        "kind": { "const": "overview" },
+        "as_of": { "oneOf": [{ "$ref": "#/$defs/month" }, { "type": "null" }] },
+        "published_at": { "type": "string" },
+        "summary": {
+          "type": "object",
+          "additionalProperties": false,
+          "required": [
+            "district_count",
+            "published_district_count",
+            "community_count",
+            "published_community_count",
+            "latest_transaction_count",
+            "latest_source_count",
+            "history_months",
+            "min_district_samples",
+            "min_community_samples"
+          ],
+          "properties": {
+            "district_count": { "type": "integer" },
+            "published_district_count": { "type": "integer" },
+            "community_count": { "type": "integer" },
+            "published_community_count": { "type": "integer" },
+            "latest_transaction_count": { "type": "integer" },
+            "latest_source_count": { "type": "integer" },
+            "history_months": { "type": "integer" },
+            "min_district_samples": { "type": "integer" },
+            "min_community_samples": { "type": "integer" }
+          }
+        },
+        "city_series": {
+          "type": "array",
+          "items": { "$ref": "#/$defs/monthlyPoint" }
+        },
+        "districts": {
+          "type": "array",
+          "minItems": 10,
+          "maxItems": 10,
+          "items": {
+            "type": "object",
+            "additionalProperties": false,
+            "required": ["code", "name", "slug", "group", "latest_point"],
+            "properties": {
+              "code": { "type": "string" },
+              "name": { "type": "string" },
+              "slug": { "type": "string" },
+              "group": { "type": "string" },
+              "latest_point": { "$ref": "#/$defs/monthlyPoint" }
+            }
+          }
+        }
+      }
+    },
+    "district": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "schema_version",
+        "kind",
+        "as_of",
+        "district",
+        "latest",
+        "series",
+        "submarkets",
+        "communities",
+        "distribution"
+      ],
+      "properties": {
+        "schema_version": { "const": 1 },
+        "kind": { "const": "district" },
+        "as_of": { "oneOf": [{ "$ref": "#/$defs/month" }, { "type": "null" }] },
+        "district": { "$ref": "#/$defs/districtMeta" },
+        "latest": { "$ref": "#/$defs/monthlyPoint" },
+        "series": {
+          "type": "array",
+          "items": { "$ref": "#/$defs/monthlyPoint" }
+        },
+        "submarkets": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "additionalProperties": false,
+            "required": ["name", "latest", "series"],
+            "properties": {
+              "name": { "type": "string" },
+              "latest": { "$ref": "#/$defs/monthlyPoint" },
+              "series": {
+                "type": "array",
+                "items": { "$ref": "#/$defs/monthlyPoint" }
+              }
+            }
+          }
+        },
+        "communities": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "additionalProperties": false,
+            "required": ["id", "slug", "name", "submarket", "property_use", "latest", "observation"],
+            "properties": {
+              "id": { "type": "string" },
+              "slug": { "type": "string" },
+              "name": { "type": "string" },
+              "submarket": { "type": "string" },
+              "property_use": { "$ref": "#/$defs/propertyUse" },
+              "latest": { "$ref": "#/$defs/monthlyPoint" },
+              "observation": { "$ref": "#/$defs/communityObservation" }
+            }
+          }
+        },
+        "distribution": { "$ref": "#/$defs/distribution" }
+      }
+    },
+    "community": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "schema_version",
+        "kind",
+        "as_of",
+        "community",
+        "latest",
+        "observation",
+        "series",
+        "distribution",
+        "transactions"
+      ],
+      "properties": {
+        "schema_version": { "const": 1 },
+        "kind": { "const": "community" },
+        "as_of": { "oneOf": [{ "$ref": "#/$defs/month" }, { "type": "null" }] },
+        "community": {
+          "type": "object",
+          "additionalProperties": false,
+          "required": ["id", "slug", "name", "district_code", "district_name", "submarket", "property_use"],
+          "properties": {
+            "id": { "type": "string" },
+            "slug": { "type": "string" },
+            "name": { "type": "string" },
+            "district_code": { "type": "string" },
+            "district_name": { "type": "string" },
+            "submarket": { "type": "string" },
+            "property_use": { "$ref": "#/$defs/propertyUse" }
+          }
+        },
+        "latest": { "$ref": "#/$defs/monthlyPoint" },
+        "observation": { "$ref": "#/$defs/communityObservation" },
+        "series": {
+          "type": "array",
+          "items": { "$ref": "#/$defs/monthlyPoint" }
+        },
+        "distribution": { "$ref": "#/$defs/distribution" },
+        "transactions": {
+          "type": "array",
+          "items": { "$ref": "#/$defs/publicTransaction" }
+        }
+      }
+    },
+    "coverage": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["schema_version", "kind", "as_of", "from", "to", "months", "cells"],
+      "properties": {
+        "schema_version": { "const": 1 },
+        "kind": { "const": "coverage" },
+        "as_of": { "oneOf": [{ "$ref": "#/$defs/month" }, { "type": "null" }] },
+        "from": { "$ref": "#/$defs/month" },
+        "to": { "$ref": "#/$defs/month" },
+        "months": {
+          "type": "array",
+          "items": { "$ref": "#/$defs/month" }
+        },
+        "cells": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "additionalProperties": false,
+            "required": ["district_code", "month", "status", "transaction_count", "source_count"],
+            "properties": {
+              "district_code": { "type": "string" },
+              "month": { "$ref": "#/$defs/month" },
+              "status": {
+                "type": "string",
+                "enum": ["published", "insufficient_sample", "no_data"]
+              },
+              "transaction_count": { "type": "integer", "minimum": 0 },
+              "source_count": { "type": "integer", "minimum": 0 }
+            }
+          }
+        }
+      }
+    },
+    "search-index": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["schema_version", "kind", "as_of", "entries"],
+      "properties": {
+        "schema_version": { "const": 1 },
+        "kind": { "const": "search-index" },
+        "as_of": { "oneOf": [{ "$ref": "#/$defs/month" }, { "type": "null" }] },
+        "entries": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "additionalProperties": false,
+            "required": ["type", "id", "name", "subtitle", "path"],
+            "properties": {
+              "type": { "type": "string", "enum": ["district", "community"] },
+              "id": { "type": "string" },
+              "name": { "type": "string" },
+              "subtitle": { "type": "string" },
+              "path": { "type": "string", "pattern": "^/" }
+            }
+          }
+        }
+      }
+    }
+  }
+}

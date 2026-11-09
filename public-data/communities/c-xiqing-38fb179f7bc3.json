@@ -1,0 +1,545 @@
+{
+  "schema_version": 1,
+  "kind": "community",
+  "as_of": "2026-10",
+  "community": {
+    "id": "xiqing-38fb179f7bc3",
+    "slug": "c-xiqing-38fb179f7bc3",
+    "name": "亲和美园",
+    "district_code": "120111",
+    "district_name": "西青区",
+    "submarket": "大寺",
+    "property_use": "unknown"
+  },
+  "latest": {
+    "month": "2026-10",
+    "status": "insufficient_sample",
+    "transaction_count": 2,
+    "source_count": 1,
+    "median_unit_price": null,
+    "median_total_price": null,
+    "p25_unit_price": null,
+    "p75_unit_price": null,
+    "mom_pct": null,
+    "yoy_pct": null
+  },
+  "observation": {
+    "month": "2026-10",
+    "transaction_count": 2,
+    "source_count": 1,
+    "median_unit_price": 6116,
+    "median_total_price": 457500,
+    "min_unit_price": 5465,
+    "max_unit_price": 6766
+  },
+  "series": [
+    {
+      "month": "2024-11",
+      "status": "no_data",
+      "transaction_count": 0,
+      "source_count": 0,
+      "median_unit_price": null,
+      "median_total_price": null,
+      "p25_unit_price": null,
+      "p75_unit_price": null,
+      "mom_pct": null,
+      "yoy_pct": null
+    },
+    {
+      "month": "2024-12",
+      "status": "no_data",
+      "transaction_count": 0,
+      "source_count": 0,
+      "median_unit_price": null,
+      "median_total_price": null,
+      "p25_unit_price": null,
+      "p75_unit_price": null,
+      "mom_pct": null,
+      "yoy_pct": null
+    },
+    {
+      "month": "2025-01",
+      "status": "no_data",
+      "transaction_count": 0,
+      "source_count": 0,
+      "median_unit_price": null,
+      "median_total_price": null,
+      "p25_unit_price": null,
+      "p75_unit_price": null,
+      "mom_pct": null,
+      "yoy_pct": null
+    },
+    {
+      "month": "2025-02",
+      "status": "no_data",
+      "transaction_count": 0,
+      "source_count": 0,
+      "median_unit_price": null,
+      "median_total_price": null,
+      "p25_unit_price": null,
+      "p75_unit_price": null,
+      "mom_pct": null,
+      "yoy_pct": null
+    },
+    {
+      "month": "2025-03",
+      "status": "no_data",
+      "transaction_count": 0,
+      "source_count": 0,
+      "median_unit_price": null,
+      "median_total_price": null,
+      "p25_unit_price": null,
+      "p75_unit_price": null,
+      "mom_pct": null,
+      "yoy_pct": null
+    },
+    {
+      "month": "2025-04",
+      "status": "no_data",
+      "transaction_count": 0,
+      "source_count": 0,
+      "median_unit_price": null,
+      "median_total_price": null,
+      "p25_unit_price": null,
+      "p75_unit_price": null,
+      "mom_pct": null,
+      "yoy_pct": null
+    },
+    {
+      "month": "2025-05",
+      "status": "no_data",
+      "transaction_count": 0,
+      "source_count": 0,
+      "median_unit_price": null,
+      "median_total_price": null,
+      "p25_unit_price": null,
+      "p75_unit_price": null,
+      "mom_pct": null,
+      "yoy_pct": null
+    },
+    {
+      "month": "2025-06",
+      "status": "no_data",
+      "transaction_count": 0,
+      "source_count": 0,
+      "median_unit_price": null,
+      "median_total_price": null,
+      "p25_unit_price": null,
+      "p75_unit_price": null,
+      "mom_pct": null,
+      "yoy_pct": null
+    },
+    {
+      "month": "2025-07",
+      "status": "no_data",
+      "transaction_count": 0,
+      "source_count": 0,
+      "median_unit_price": null,
+      "median_total_price": null,
+      "p25_unit_price": null,
+      "p75_unit_price": null,
+      "mom_pct": null,
+      "yoy_pct": null
+    },
+    {
+      "month": "2025-08",
+      "status": "no_data",
+      "transaction_count": 0,
+      "source_count": 0,
+      "median_unit_price": null,
+      "median_total_price": null,
+      "p25_unit_price": null,
+      "p75_unit_price": null,
+      "mom_pct": null,
+      "yoy_pct": null
+    },
+    {
+      "month": "2025-09",
+      "status": "no_data",
+      "transaction_count": 0,
+      "source_count": 0,
+      "median_unit_price": null,
+      "median_total_price": null,
+      "p25_unit_price": null,
+      "p75_unit_price": null,
+      "mom_pct": null,
+      "yoy_pct": null
+    },
+    {
+      "month": "2025-10",
+      "status": "no_data",
+      "transaction_count": 0,
+      "source_count": 0,
+      "median_unit_price": null,
+      "median_total_price": null,
+      "p25_unit_price": null,
+      "p75_unit_price": null,
+      "mom_pct": null,
+      "yoy_pct": null
+    },
+    {
+      "month": "2025-11",
+      "status": "no_data",
+      "transaction_count": 0,
+      "source_count": 0,
+      "median_unit_price": null,
+      "median_total_price": null,
+      "p25_unit_price": null,
+      "p75_unit_price": null,
+      "mom_pct": null,
+      "yoy_pct": null
+    },
+    {
+      "month": "2025-12",
+      "status": "no_data",
+      "transaction_count": 0,
+      "source_count": 0,
+      "median_unit_price": null,
+      "median_total_price": null,
+      "p25_unit_price": null,
+      "p75_unit_price": null,
+      "mom_pct": null,
+      "yoy_pct": null
+    },
+    {
+      "month": "2026-01",
+      "status": "no_data",
+      "transaction_count": 0,
+      "source_count": 0,
+      "median_unit_price": null,
+      "median_total_price": null,
+      "p25_unit_price": null,
+      "p75_unit_price": null,
+      "mom_pct": null,
+      "yoy_pct": null
+    },
+    {
+      "month": "2026-02",
+      "status": "insufficient_sample",
+      "transaction_count": 1,
+      "source_count": 1,
+      "median_unit_price": null,
+      "median_total_price": null,
+      "p25_unit_price": null,
+      "p75_unit_price": null,
+      "mom_pct": null,
+      "yoy_pct": null
+    },
+    {
+      "month": "2026-03",
+      "status": "published",
+      "transaction_count": 3,
+      "source_count": 1,
+      "median_unit_price": 5778,
+      "median_total_price": 455000,
+      "p25_unit_price": 5336,
+      "p75_unit_price": 5942,
+      "mom_pct": null,
+      "yoy_pct": null
+    },
+    {
+      "month": "2026-04",
+      "status": "published",
+      "transaction_count": 4,
+      "source_count": 1,
+      "median_unit_price": 5848,
+      "median_total_price": 452500,
+      "p25_unit_price": 5312,
+      "p75_unit_price": 6489,
+      "mom_pct": 1.2,
+      "yoy_pct": null
+    },
+    {
+      "month": "2026-05",
+      "status": "published",
+      "transaction_count": 4,
+      "source_count": 1,
+      "median_unit_price": 5993,
+      "median_total_price": 415000,
+      "p25_unit_price": 5844,
+      "p75_unit_price": 6224,
+      "mom_pct": 2.5,
+      "yoy_pct": null
+    },
+    {
+      "month": "2026-06",
+      "status": "insufficient_sample",
+      "transaction_count": 1,
+      "source_count": 1,
+      "median_unit_price": null,
+      "median_total_price": null,
+      "p25_unit_price": null,
+      "p75_unit_price": null,
+      "mom_pct": null,
+      "yoy_pct": null
+    },
+    {
+      "month": "2026-07",
+      "status": "insufficient_sample",
+      "transaction_count": 2,
+      "source_count": 1,
+      "median_unit_price": null,
+      "median_total_price": null,
+      "p25_unit_price": null,
+      "p75_unit_price": null,
+      "mom_pct": null,
+      "yoy_pct": null
+    },
+    {
+      "month": "2026-08",
+      "status": "insufficient_sample",
+      "transaction_count": 1,
+      "source_count": 1,
+      "median_unit_price": null,
+      "median_total_price": null,
+      "p25_unit_price": null,
+      "p75_unit_price": null,
+      "mom_pct": null,
+      "yoy_pct": null
+    },
+    {
+      "month": "2026-09",
+      "status": "published",
+      "transaction_count": 5,
+      "source_count": 1,
+      "median_unit_price": 7073,
+      "median_total_price": 557000,
+      "p25_unit_price": 6601,
+      "p75_unit_price": 7373,
+      "mom_pct": null,
+      "yoy_pct": null
+    },
+    {
+      "month": "2026-10",
+      "status": "insufficient_sample",
+      "transaction_count": 2,
+      "source_count": 1,
+      "median_unit_price": null,
+      "median_total_price": null,
+      "p25_unit_price": null,
+      "p75_unit_price": null,
+      "mom_pct": null,
+      "yoy_pct": null
+    }
+  ],
+  "distribution": {
+    "area": {
+      "labels": [
+        "<60㎡",
+        "60-90㎡",
+        "90-120㎡",
+        "120-144㎡",
+        "≥144㎡"
+      ],
+      "counts": [
+        0,
+        22,
+        1,
+        0,
+        0
+      ]
+    },
+    "total_price": {
+      "labels": [
+        "<100万",
+        "100-200万",
+        "200-300万",
+        "300-500万",
+        "≥500万"
+      ],
+      "counts": [
+        23,
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  "transactions": [
+    {
+      "deal_date": "2026-10-20",
+      "layout": "2-1-1-1",
+      "area_sqm": 69.46,
+      "floor": "15/24",
+      "total_price_yuan": 470000,
+      "unit_price_yuan": 6766
+    },
+    {
+      "deal_date": "2026-10-19",
+      "layout": "1-1-1-2",
+      "area_sqm": 81.43,
+      "floor": "13/18",
+      "total_price_yuan": 445000,
+      "unit_price_yuan": 5465
+    },
+    {
+      "deal_date": "2026-09-22",
+      "layout": "2-1-1-1",
+      "area_sqm": 78.67,
+      "floor": "4/18",
+      "total_price_yuan": 430000,
+      "unit_price_yuan": 5466
+    },
+    {
+      "deal_date": "2026-09-21",
+      "layout": "2-1-1-1",
+      "area_sqm": 78.75,
+      "floor": "12/18",
+      "total_price_yuan": 557000,
+      "unit_price_yuan": 7073
+    },
+    {
+      "deal_date": "2026-09-11",
+      "layout": "2-1-1-1",
+      "area_sqm": 78.47,
+      "floor": "15/18",
+      "total_price_yuan": 518000,
+      "unit_price_yuan": 6601
+    },
+    {
+      "deal_date": "2026-09-04",
+      "layout": "2-1-1-1",
+      "area_sqm": 78.67,
+      "floor": "17/18",
+      "total_price_yuan": 580000,
+      "unit_price_yuan": 7373
+    },
+    {
+      "deal_date": "2026-09-03",
+      "layout": "2-1-1-1",
+      "area_sqm": 91.47,
+      "floor": "14/18",
+      "total_price_yuan": 675000,
+      "unit_price_yuan": 7379
+    },
+    {
+      "deal_date": "2026-08-31",
+      "layout": "2-1-1-1",
+      "area_sqm": 69.46,
+      "floor": "5/24",
+      "total_price_yuan": 460000,
+      "unit_price_yuan": 6623
+    },
+    {
+      "deal_date": "2026-07-30",
+      "layout": "2-1-1-1",
+      "area_sqm": 69.93,
+      "floor": "18/24",
+      "total_price_yuan": 383000,
+      "unit_price_yuan": 5470
+    },
+    {
+      "deal_date": "2026-07-17",
+      "layout": "2-1-1-1",
+      "area_sqm": 69.83,
+      "floor": "17/24",
+      "total_price_yuan": 415000,
+      "unit_price_yuan": 5943
+    },
+    {
+      "deal_date": "2026-06-04",
+      "layout": "",
+      "area_sqm": 68.66,
+      "floor": "10/23",
+      "total_price_yuan": 408000,
+      "unit_price_yuan": 5936
+    },
+    {
+      "deal_date": "2026-05-27",
+      "layout": "2-1-1-1",
+      "area_sqm": 68.67,
+      "floor": "21/23",
+      "total_price_yuan": 410000,
+      "unit_price_yuan": 5971
+    },
+    {
+      "deal_date": "2026-05-25",
+      "layout": "2-2-1-2",
+      "area_sqm": 81.72,
+      "floor": "1/18",
+      "total_price_yuan": 560000,
+      "unit_price_yuan": 6853
+    },
+    {
+      "deal_date": "2026-05-17",
+      "layout": "2-1-1-1",
+      "area_sqm": 69.93,
+      "floor": "4/24",
+      "total_price_yuan": 382000,
+      "unit_price_yuan": 5463
+    },
+    {
+      "deal_date": "2026-05-14",
+      "layout": "2-1-1-1",
+      "area_sqm": 69.83,
+      "floor": "11/24",
+      "total_price_yuan": 420000,
+      "unit_price_yuan": 6015
+    },
+    {
+      "deal_date": "2026-04-26",
+      "layout": "2-1-1-1",
+      "area_sqm": 81.64,
+      "floor": "17/18",
+      "total_price_yuan": 425000,
+      "unit_price_yuan": 5206
+    },
+    {
+      "deal_date": "2026-04-18",
+      "layout": "2-1-1-1",
+      "area_sqm": 69.93,
+      "floor": "13/24",
+      "total_price_yuan": 374000,
+      "unit_price_yuan": 5348
+    },
+    {
+      "deal_date": "2026-04-11",
+      "layout": "2-1-1-1",
+      "area_sqm": 69.46,
+      "floor": "14/24",
+      "total_price_yuan": 480000,
+      "unit_price_yuan": 6910
+    },
+    {
+      "deal_date": "2026-04-06",
+      "layout": "2-1-1-1",
+      "area_sqm": 78.75,
+      "floor": "17/18",
+      "total_price_yuan": 500000,
+      "unit_price_yuan": 6349
+    },
+    {
+      "deal_date": "2026-03-16",
+      "layout": "1-1-1-2",
+      "area_sqm": 81.72,
+      "floor": "17/18",
+      "total_price_yuan": 400000,
+      "unit_price_yuan": 4895
+    },
+    {
+      "deal_date": "2026-03-09",
+      "layout": "2-1-1-1",
+      "area_sqm": 78.75,
+      "floor": "13/18",
+      "total_price_yuan": 481000,
+      "unit_price_yuan": 6105
+    },
+    {
+      "deal_date": "2026-03-06",
+      "layout": "2-1-1-1",
+      "area_sqm": 78.75,
+      "floor": "17/18",
+      "total_price_yuan": 455000,
+      "unit_price_yuan": 5778
+    },
+    {
+      "deal_date": "2026-02-27",
+      "layout": "2-1-1-1",
+      "area_sqm": 78.47,
+      "floor": "12/18",
+      "total_price_yuan": 480000,
+      "unit_price_yuan": 6117
+    }
+  ]
+}

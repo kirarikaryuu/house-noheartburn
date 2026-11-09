@@ -1,0 +1,1715 @@
+{
+  "schema_version": 1,
+  "kind": "coverage",
+  "as_of": "2026-10",
+  "from": "2024-11",
+  "to": "2026-10",
+  "months": [
+    "2024-11",
+    "2024-12",
+    "2025-01",
+    "2025-02",
+    "2025-03",
+    "2025-04",
+    "2025-05",
+    "2025-06",
+    "2025-07",
+    "2025-08",
+    "2025-09",
+    "2025-10",
+    "2025-11",
+    "2025-12",
+    "2026-01",
+    "2026-02",
+    "2026-03",
+    "2026-04",
+    "2026-05",
+    "2026-06",
+    "2026-07",
+    "2026-08",
+    "2026-09",
+    "2026-10"
+  ],
+  "cells": [
+    {
+      "district_code": "120101",
+      "month": "2024-11",
+      "status": "no_data",
+      "transaction_count": 0,
+      "source_count": 0
+    },
+    {
+      "district_code": "120101",
+      "month": "2024-12",
+      "status": "no_data",
+      "transaction_count": 0,
+      "source_count": 0
+    },
+    {
+      "district_code": "120101",
+      "month": "2025-01",
+      "status": "no_data",
+      "transaction_count": 0,
+      "source_count": 0
+    },
+    {
+      "district_code": "120101",
+      "month": "2025-02",
+      "status": "no_data",
+      "transaction_count": 0,
+      "source_count": 0
+    },
+    {
+      "district_code": "120101",
+      "month": "2025-03",
+      "status": "no_data",
+      "transaction_count": 0,
+      "source_count": 0
+    },
+    {
+      "district_code": "120101",
+      "month": "2025-04",
+      "status": "no_data",
+      "transaction_count": 0,
+      "source_count": 0
+    },
+    {
+      "district_code": "120101",
+      "month": "2025-05",
+      "status": "no_data",
+      "transaction_count": 0,
+      "source_count": 0
+    },
+    {
+      "district_code": "120101",
+      "month": "2025-06",
+      "status": "no_data",
+      "transaction_count": 0,
+      "source_count": 0
+    },
+    {
+      "district_code": "120101",
+      "month": "2025-07",
+      "status": "no_data",
+      "transaction_count": 0,
+      "source_count": 0
+    },
+    {
+      "district_code": "120101",
+      "month": "2025-08",
+      "status": "no_data",
+      "transaction_count": 0,
+      "source_count": 0
+    },
+    {
+      "district_code": "120101",
+      "month": "2025-09",
+      "status": "no_data",
+      "transaction_count": 0,
+      "source_count": 0
+    },
+    {
+      "district_code": "120101",
+      "month": "2025-10",
+      "status": "no_data",
+      "transaction_count": 0,
+      "source_count": 0
+    },
+    {
+      "district_code": "120101",
+      "month": "2025-11",
+      "status": "no_data",
+      "transaction_count": 0,
+      "source_count": 0
+    },
+    {
+      "district_code": "120101",
+      "month": "2025-12",
+      "status": "no_data",
+      "transaction_count": 0,
+      "source_count": 0
+    },
+    {
+      "district_code": "120101",
+      "month": "2026-01",
+      "status": "no_data",
+      "transaction_count": 0,
+      "source_count": 0
+    },
+    {
+      "district_code": "120101",
+      "month": "2026-02",
+      "status": "no_data",
+      "transaction_count": 0,
+      "source_count": 0
+    },
+    {
+      "district_code": "120101",
+      "month": "2026-03",
+      "status": "published",
+      "transaction_count": 249,
+      "source_count": 1
+    },
+    {
+      "district_code": "120101",
+      "month": "2026-04",
+      "status": "published",
+      "transaction_count": 301,
+      "source_count": 1
+    },
+    {
+      "district_code": "120101",
+      "month": "2026-05",
+      "status": "published",
+      "transaction_count": 287,
+      "source_count": 1
+    },
+    {
+      "district_code": "120101",
+      "month": "2026-06",
+      "status": "published",
+      "transaction_count": 271,
+      "source_count": 1
+    },
+    {
+      "district_code": "120101",
+      "month": "2026-07",
+      "status": "published",
+      "transaction_count": 170,
+      "source_count": 1
+    },
+    {
+      "district_code": "120101",
+      "month": "2026-08",
+      "status": "published",
+      "transaction_count": 149,
+      "source_count": 1
+    },
+    {
+      "district_code": "120101",
+      "month": "2026-09",
+      "status": "published",
+      "transaction_count": 75,
+      "source_count": 1
+    },
+    {
+      "district_code": "120101",
+      "month": "2026-10",
+      "status": "published",
+      "transaction_count": 35,
+      "source_count": 1
+    },
+    {
+      "district_code": "120102",
+      "month": "2024-11",
+      "status": "no_data",
+      "transaction_count": 0,
+      "source_count": 0
+    },
+    {
+      "district_code": "120102",
+      "month": "2024-12",
+      "status": "no_data",
+      "transaction_count": 0,
+      "source_count": 0
+    },
+    {
+      "district_code": "120102",
+      "month": "2025-01",
+      "status": "no_data",
+      "transaction_count": 0,
+      "source_count": 0
+    },
+    {
+      "district_code": "120102",
+      "month": "2025-02",
+      "status": "no_data",
+      "transaction_count": 0,
+      "source_count": 0
+    },
+    {
+      "district_code": "120102",
+      "month": "2025-03",
+      "status": "no_data",
+      "transaction_count": 0,
+      "source_count": 0
+    },
+    {
+      "district_code": "120102",
+      "month": "2025-04",
+      "status": "no_data",
+      "transaction_count": 0,
+      "source_count": 0
+    },
+    {
+      "district_code": "120102",
+      "month": "2025-05",
+      "status": "no_data",
+      "transaction_count": 0,
+      "source_count": 0
+    },
+    {
+      "district_code": "120102",
+      "month": "2025-06",
+      "status": "no_data",
+      "transaction_count": 0,
+      "source_count": 0
+    },
+    {
+      "district_code": "120102",
+      "month": "2025-07",
+      "status": "no_data",
+      "transaction_count": 0,
+      "source_count": 0
+    },
+    {
+      "district_code": "120102",
+      "month": "2025-08",
+      "status": "no_data",
+      "transaction_count": 0,
+      "source_count": 0
+    },
+    {
+      "district_code": "120102",
+      "month": "2025-09",
+      "status": "no_data",
+      "transaction_count": 0,
+      "source_count": 0
+    },
+    {
+      "district_code": "120102",
+      "month": "2025-10",
+      "status": "no_data",
+      "transaction_count": 0,
+      "source_count": 0
+    },
+    {
+      "district_code": "120102",
+      "month": "2025-11",
+      "status": "no_data",
+      "transaction_count": 0,
+      "source_count": 0
+    },
+    {
+      "district_code": "120102",
+      "month": "2025-12",
+      "status": "no_data",
+      "transaction_count": 0,
+      "source_count": 0
+    },
+    {
+      "district_code": "120102",
+      "month": "2026-01",
+      "status": "published",
+      "transaction_count": 248,
+      "source_count": 1
+    },
+    {
+      "district_code": "120102",
+      "month": "2026-02",
+      "status": "published",
+      "transaction_count": 306,
+      "source_count": 1
+    },
+    {
+      "district_code": "120102",
+      "month": "2026-03",
+      "status": "published",
+      "transaction_count": 582,
+      "source_count": 1
+    },
+    {
+      "district_code": "120102",
+      "month": "2026-04",
+      "status": "published",
+      "transaction_count": 489,
+      "source_count": 1
+    },
+    {
+      "district_code": "120102",
+      "month": "2026-05",
+      "status": "published",
+      "transaction_count": 423,
+      "source_count": 1
+    },
+    {
+      "district_code": "120102",
+      "month": "2026-06",
+      "status": "published",
+      "transaction_count": 247,
+      "source_count": 1
+    },
+    {
+      "district_code": "120102",
+      "month": "2026-07",
+      "status": "published",
+      "transaction_count": 350,
+      "source_count": 1
+    },
+    {
+      "district_code": "120102",
+      "month": "2026-08",
+      "status": "published",
+      "transaction_count": 390,
+      "source_count": 1
+    },
+    {
+      "district_code": "120102",
+      "month": "2026-09",
+      "status": "published",
+      "transaction_count": 309,
+      "source_count": 1
+    },
+    {
+      "district_code": "120102",
+      "month": "2026-10",
+      "status": "published",
+      "transaction_count": 246,
+      "source_count": 1
+    },
+    {
+      "district_code": "120103",
+      "month": "2024-11",
+      "status": "no_data",
+      "transaction_count": 0,
+      "source_count": 0
+    },
+    {
+      "district_code": "120103",
+      "month": "2024-12",
+      "status": "no_data",
+      "transaction_count": 0,
+      "source_count": 0
+    },
+    {
+      "district_code": "120103",
+      "month": "2025-01",
+      "status": "no_data",
+      "transaction_count": 0,
+      "source_count": 0
+    },
+    {
+      "district_code": "120103",
+      "month": "2025-02",
+      "status": "no_data",
+      "transaction_count": 0,
+      "source_count": 0
+    },
+    {
+      "district_code": "120103",
+      "month": "2025-03",
+      "status": "no_data",
+      "transaction_count": 0,
+      "source_count": 0
+    },
+    {
+      "district_code": "120103",
+      "month": "2025-04",
+      "status": "no_data",
+      "transaction_count": 0,
+      "source_count": 0
+    },
+    {
+      "district_code": "120103",
+      "month": "2025-05",
+      "status": "no_data",
+      "transaction_count": 0,
+      "source_count": 0
+    },
+    {
+      "district_code": "120103",
+      "month": "2025-06",
+      "status": "no_data",
+      "transaction_count": 0,
+      "source_count": 0
+    },
+    {
+      "district_code": "120103",
+      "month": "2025-07",
+      "status": "no_data",
+      "transaction_count": 0,
+      "source_count": 0
+    },
+    {
+      "district_code": "120103",
+      "month": "2025-08",
+      "status": "no_data",
+      "transaction_count": 0,
+      "source_count": 0
+    },
+    {
+      "district_code": "120103",
+      "month": "2025-09",
+      "status": "no_data",
+      "transaction_count": 0,
+      "source_count": 0
+    },
+    {
+      "district_code": "120103",
+      "month": "2025-10",
+      "status": "no_data",
+      "transaction_count": 0,
+      "source_count": 0
+    },
+    {
+      "district_code": "120103",
+      "month": "2025-11",
+      "status": "no_data",
+      "transaction_count": 0,
+      "source_count": 0
+    },
+    {
+      "district_code": "120103",
+      "month": "2025-12",
+      "status": "no_data",
+      "transaction_count": 0,
+      "source_count": 0
+    },
+    {
+      "district_code": "120103",
+      "month": "2026-01",
+      "status": "published",
+      "transaction_count": 505,
+      "source_count": 1
+    },
+    {
+      "district_code": "120103",
+      "month": "2026-02",
+      "status": "published",
+      "transaction_count": 331,
+      "source_count": 1
+    },
+    {
+      "district_code": "120103",
+      "month": "2026-03",
+      "status": "published",
+      "transaction_count": 945,
+      "source_count": 1
+    },
+    {
+      "district_code": "120103",
+      "month": "2026-04",
+      "status": "published",
+      "transaction_count": 779,
+      "source_count": 1
+    },
+    {
+      "district_code": "120103",
+      "month": "2026-05",
+      "status": "published",
+      "transaction_count": 836,
+      "source_count": 1
+    },
+    {
+      "district_code": "120103",
+      "month": "2026-06",
+      "status": "published",
+      "transaction_count": 535,
+      "source_count": 1
+    },
+    {
+      "district_code": "120103",
+      "month": "2026-07",
+      "status": "published",
+      "transaction_count": 517,
+      "source_count": 1
+    },
+    {
+      "district_code": "120103",
+      "month": "2026-08",
+      "status": "published",
+      "transaction_count": 333,
+      "source_count": 1
+    },
+    {
+      "district_code": "120103",
+      "month": "2026-09",
+      "status": "published",
+      "transaction_count": 408,
+      "source_count": 1
+    },
+    {
+      "district_code": "120103",
+      "month": "2026-10",
+      "status": "published",
+      "transaction_count": 365,
+      "source_count": 1
+    },
+    {
+      "district_code": "120104",
+      "month": "2024-11",
+      "status": "no_data",
+      "transaction_count": 0,
+      "source_count": 0
+    },
+    {
+      "district_code": "120104",
+      "month": "2024-12",
+      "status": "no_data",
+      "transaction_count": 0,
+      "source_count": 0
+    },
+    {
+      "district_code": "120104",
+      "month": "2025-01",
+      "status": "no_data",
+      "transaction_count": 0,
+      "source_count": 0
+    },
+    {
+      "district_code": "120104",
+      "month": "2025-02",
+      "status": "no_data",
+      "transaction_count": 0,
+      "source_count": 0
+    },
+    {
+      "district_code": "120104",
+      "month": "2025-03",
+      "status": "no_data",
+      "transaction_count": 0,
+      "source_count": 0
+    },
+    {
+      "district_code": "120104",
+      "month": "2025-04",
+      "status": "no_data",
+      "transaction_count": 0,
+      "source_count": 0
+    },
+    {
+      "district_code": "120104",
+      "month": "2025-05",
+      "status": "no_data",
+      "transaction_count": 0,
+      "source_count": 0
+    },
+    {
+      "district_code": "120104",
+      "month": "2025-06",
+      "status": "no_data",
+      "transaction_count": 0,
+      "source_count": 0
+    },
+    {
+      "district_code": "120104",
+      "month": "2025-07",
+      "status": "no_data",
+      "transaction_count": 0,
+      "source_count": 0
+    },
+    {
+      "district_code": "120104",
+      "month": "2025-08",
+      "status": "no_data",
+      "transaction_count": 0,
+      "source_count": 0
+    },
+    {
+      "district_code": "120104",
+      "month": "2025-09",
+      "status": "no_data",
+      "transaction_count": 0,
+      "source_count": 0
+    },
+    {
+      "district_code": "120104",
+      "month": "2025-10",
+      "status": "no_data",
+      "transaction_count": 0,
+      "source_count": 0
+    },
+    {
+      "district_code": "120104",
+      "month": "2025-11",
+      "status": "no_data",
+      "transaction_count": 0,
+      "source_count": 0
+    },
+    {
+      "district_code": "120104",
+      "month": "2025-12",
+      "status": "no_data",
+      "transaction_count": 0,
+      "source_count": 0
+    },
+    {
+      "district_code": "120104",
+      "month": "2026-01",
+      "status": "published",
+      "transaction_count": 399,
+      "source_count": 1
+    },
+    {
+      "district_code": "120104",
+      "month": "2026-02",
+      "status": "published",
+      "transaction_count": 250,
+      "source_count": 1
+    },
+    {
+      "district_code": "120104",
+      "month": "2026-03",
+      "status": "published",
+      "transaction_count": 876,
+      "source_count": 1
+    },
+    {
+      "district_code": "120104",
+      "month": "2026-04",
+      "status": "published",
+      "transaction_count": 439,
+      "source_count": 1
+    },
+    {
+      "district_code": "120104",
+      "month": "2026-05",
+      "status": "published",
+      "transaction_count": 573,
+      "source_count": 1
+    },
+    {
+      "district_code": "120104",
+      "month": "2026-06",
+      "status": "published",
+      "transaction_count": 529,
+      "source_count": 1
+    },
+    {
+      "district_code": "120104",
+      "month": "2026-07",
+      "status": "published",
+      "transaction_count": 476,
+      "source_count": 1
+    },
+    {
+      "district_code": "120104",
+      "month": "2026-08",
+      "status": "published",
+      "transaction_count": 516,
+      "source_count": 1
+    },
+    {
+      "district_code": "120104",
+      "month": "2026-09",
+      "status": "published",
+      "transaction_count": 411,
+      "source_count": 1
+    },
+    {
+      "district_code": "120104",
+      "month": "2026-10",
+      "status": "published",
+      "transaction_count": 351,
+      "source_count": 1
+    },
+    {
+      "district_code": "120105",
+      "month": "2024-11",
+      "status": "no_data",
+      "transaction_count": 0,
+      "source_count": 0
+    },
+    {
+      "district_code": "120105",
+      "month": "2024-12",
+      "status": "no_data",
+      "transaction_count": 0,
+      "source_count": 0
+    },
+    {
+      "district_code": "120105",
+      "month": "2025-01",
+      "status": "no_data",
+      "transaction_count": 0,
+      "source_count": 0
+    },
+    {
+      "district_code": "120105",
+      "month": "2025-02",
+      "status": "no_data",
+      "transaction_count": 0,
+      "source_count": 0
+    },
+    {
+      "district_code": "120105",
+      "month": "2025-03",
+      "status": "no_data",
+      "transaction_count": 0,
+      "source_count": 0
+    },
+    {
+      "district_code": "120105",
+      "month": "2025-04",
+      "status": "no_data",
+      "transaction_count": 0,
+      "source_count": 0
+    },
+    {
+      "district_code": "120105",
+      "month": "2025-05",
+      "status": "no_data",
+      "transaction_count": 0,
+      "source_count": 0
+    },
+    {
+      "district_code": "120105",
+      "month": "2025-06",
+      "status": "no_data",
+      "transaction_count": 0,
+      "source_count": 0
+    },
+    {
+      "district_code": "120105",
+      "month": "2025-07",
+      "status": "no_data",
+      "transaction_count": 0,
+      "source_count": 0
+    },
+    {
+      "district_code": "120105",
+      "month": "2025-08",
+      "status": "no_data",
+      "transaction_count": 0,
+      "source_count": 0
+    },
+    {
+      "district_code": "120105",
+      "month": "2025-09",
+      "status": "no_data",
+      "transaction_count": 0,
+      "source_count": 0
+    },
+    {
+      "district_code": "120105",
+      "month": "2025-10",
+      "status": "no_data",
+      "transaction_count": 0,
+      "source_count": 0
+    },
+    {
+      "district_code": "120105",
+      "month": "2025-11",
+      "status": "no_data",
+      "transaction_count": 0,
+      "source_count": 0
+    },
+    {
+      "district_code": "120105",
+      "month": "2025-12",
+      "status": "no_data",
+      "transaction_count": 0,
+      "source_count": 0
+    },
+    {
+      "district_code": "120105",
+      "month": "2026-01",
+      "status": "published",
+      "transaction_count": 263,
+      "source_count": 1
+    },
+    {
+      "district_code": "120105",
+      "month": "2026-02",
+      "status": "published",
+      "transaction_count": 148,
+      "source_count": 1
+    },
+    {
+      "district_code": "120105",
+      "month": "2026-03",
+      "status": "published",
+      "transaction_count": 751,
+      "source_count": 1
+    },
+    {
+      "district_code": "120105",
+      "month": "2026-04",
+      "status": "published",
+      "transaction_count": 833,
+      "source_count": 1
+    },
+    {
+      "district_code": "120105",
+      "month": "2026-05",
+      "status": "published",
+      "transaction_count": 423,
+      "source_count": 1
+    },
+    {
+      "district_code": "120105",
+      "month": "2026-06",
+      "status": "published",
+      "transaction_count": 368,
+      "source_count": 1
+    },
+    {
+      "district_code": "120105",
+      "month": "2026-07",
+      "status": "published",
+      "transaction_count": 248,
+      "source_count": 1
+    },
+    {
+      "district_code": "120105",
+      "month": "2026-08",
+      "status": "published",
+      "transaction_count": 285,
+      "source_count": 1
+    },
+    {
+      "district_code": "120105",
+      "month": "2026-09",
+      "status": "published",
+      "transaction_count": 279,
+      "source_count": 1
+    },
+    {
+      "district_code": "120105",
+      "month": "2026-10",
+      "status": "published",
+      "transaction_count": 221,
+      "source_count": 1
+    },
+    {
+      "district_code": "120106",
+      "month": "2024-11",
+      "status": "no_data",
+      "transaction_count": 0,
+      "source_count": 0
+    },
+    {
+      "district_code": "120106",
+      "month": "2024-12",
+      "status": "no_data",
+      "transaction_count": 0,
+      "source_count": 0
+    },
+    {
+      "district_code": "120106",
+      "month": "2025-01",
+      "status": "no_data",
+      "transaction_count": 0,
+      "source_count": 0
+    },
+    {
+      "district_code": "120106",
+      "month": "2025-02",
+      "status": "no_data",
+      "transaction_count": 0,
+      "source_count": 0
+    },
+    {
+      "district_code": "120106",
+      "month": "2025-03",
+      "status": "no_data",
+      "transaction_count": 0,
+      "source_count": 0
+    },
+    {
+      "district_code": "120106",
+      "month": "2025-04",
+      "status": "no_data",
+      "transaction_count": 0,
+      "source_count": 0
+    },
+    {
+      "district_code": "120106",
+      "month": "2025-05",
+      "status": "no_data",
+      "transaction_count": 0,
+      "source_count": 0
+    },
+    {
+      "district_code": "120106",
+      "month": "2025-06",
+      "status": "no_data",
+      "transaction_count": 0,
+      "source_count": 0
+    },
+    {
+      "district_code": "120106",
+      "month": "2025-07",
+      "status": "no_data",
+      "transaction_count": 0,
+      "source_count": 0
+    },
+    {
+      "district_code": "120106",
+      "month": "2025-08",
+      "status": "no_data",
+      "transaction_count": 0,
+      "source_count": 0
+    },
+    {
+      "district_code": "120106",
+      "month": "2025-09",
+      "status": "no_data",
+      "transaction_count": 0,
+      "source_count": 0
+    },
+    {
+      "district_code": "120106",
+      "month": "2025-10",
+      "status": "no_data",
+      "transaction_count": 0,
+      "source_count": 0
+    },
+    {
+      "district_code": "120106",
+      "month": "2025-11",
+      "status": "no_data",
+      "transaction_count": 0,
+      "source_count": 0
+    },
+    {
+      "district_code": "120106",
+      "month": "2025-12",
+      "status": "insufficient_sample",
+      "transaction_count": 1,
+      "source_count": 1
+    },
+    {
+      "district_code": "120106",
+      "month": "2026-01",
+      "status": "published",
+      "transaction_count": 126,
+      "source_count": 1
+    },
+    {
+      "district_code": "120106",
+      "month": "2026-02",
+      "status": "published",
+      "transaction_count": 126,
+      "source_count": 1
+    },
+    {
+      "district_code": "120106",
+      "month": "2026-03",
+      "status": "published",
+      "transaction_count": 536,
+      "source_count": 1
+    },
+    {
+      "district_code": "120106",
+      "month": "2026-04",
+      "status": "published",
+      "transaction_count": 401,
+      "source_count": 1
+    },
+    {
+      "district_code": "120106",
+      "month": "2026-05",
+      "status": "published",
+      "transaction_count": 228,
+      "source_count": 1
+    },
+    {
+      "district_code": "120106",
+      "month": "2026-06",
+      "status": "published",
+      "transaction_count": 249,
+      "source_count": 1
+    },
+    {
+      "district_code": "120106",
+      "month": "2026-07",
+      "status": "published",
+      "transaction_count": 226,
+      "source_count": 1
+    },
+    {
+      "district_code": "120106",
+      "month": "2026-08",
+      "status": "published",
+      "transaction_count": 249,
+      "source_count": 1
+    },
+    {
+      "district_code": "120106",
+      "month": "2026-09",
+      "status": "published",
+      "transaction_count": 258,
+      "source_count": 1
+    },
+    {
+      "district_code": "120106",
+      "month": "2026-10",
+      "status": "published",
+      "transaction_count": 99,
+      "source_count": 1
+    },
+    {
+      "district_code": "120110",
+      "month": "2024-11",
+      "status": "no_data",
+      "transaction_count": 0,
+      "source_count": 0
+    },
+    {
+      "district_code": "120110",
+      "month": "2024-12",
+      "status": "no_data",
+      "transaction_count": 0,
+      "source_count": 0
+    },
+    {
+      "district_code": "120110",
+      "month": "2025-01",
+      "status": "no_data",
+      "transaction_count": 0,
+      "source_count": 0
+    },
+    {
+      "district_code": "120110",
+      "month": "2025-02",
+      "status": "no_data",
+      "transaction_count": 0,
+      "source_count": 0
+    },
+    {
+      "district_code": "120110",
+      "month": "2025-03",
+      "status": "no_data",
+      "transaction_count": 0,
+      "source_count": 0
+    },
+    {
+      "district_code": "120110",
+      "month": "2025-04",
+      "status": "no_data",
+      "transaction_count": 0,
+      "source_count": 0
+    },
+    {
+      "district_code": "120110",
+      "month": "2025-05",
+      "status": "no_data",
+      "transaction_count": 0,
+      "source_count": 0
+    },
+    {
+      "district_code": "120110",
+      "month": "2025-06",
+      "status": "no_data",
+      "transaction_count": 0,
+      "source_count": 0
+    },
+    {
+      "district_code": "120110",
+      "month": "2025-07",
+      "status": "no_data",
+      "transaction_count": 0,
+      "source_count": 0
+    },
+    {
+      "district_code": "120110",
+      "month": "2025-08",
+      "status": "no_data",
+      "transaction_count": 0,
+      "source_count": 0
+    },
+    {
+      "district_code": "120110",
+      "month": "2025-09",
+      "status": "no_data",
+      "transaction_count": 0,
+      "source_count": 0
+    },
+    {
+      "district_code": "120110",
+      "month": "2025-10",
+      "status": "no_data",
+      "transaction_count": 0,
+      "source_count": 0
+    },
+    {
+      "district_code": "120110",
+      "month": "2025-11",
+      "status": "no_data",
+      "transaction_count": 0,
+      "source_count": 0
+    },
+    {
+      "district_code": "120110",
+      "month": "2025-12",
+      "status": "no_data",
+      "transaction_count": 0,
+      "source_count": 0
+    },
+    {
+      "district_code": "120110",
+      "month": "2026-01",
+      "status": "published",
+      "transaction_count": 142,
+      "source_count": 1
+    },
+    {
+      "district_code": "120110",
+      "month": "2026-02",
+      "status": "published",
+      "transaction_count": 163,
+      "source_count": 1
+    },
+    {
+      "district_code": "120110",
+      "month": "2026-03",
+      "status": "published",
+      "transaction_count": 548,
+      "source_count": 1
+    },
+    {
+      "district_code": "120110",
+      "month": "2026-04",
+      "status": "published",
+      "transaction_count": 457,
+      "source_count": 1
+    },
+    {
+      "district_code": "120110",
+      "month": "2026-05",
+      "status": "published",
+      "transaction_count": 395,
+      "source_count": 1
+    },
+    {
+      "district_code": "120110",
+      "month": "2026-06",
+      "status": "published",
+      "transaction_count": 369,
+      "source_count": 1
+    },
+    {
+      "district_code": "120110",
+      "month": "2026-07",
+      "status": "published",
+      "transaction_count": 317,
+      "source_count": 1
+    },
+    {
+      "district_code": "120110",
+      "month": "2026-08",
+      "status": "published",
+      "transaction_count": 295,
+      "source_count": 1
+    },
+    {
+      "district_code": "120110",
+      "month": "2026-09",
+      "status": "published",
+      "transaction_count": 330,
+      "source_count": 1
+    },
+    {
+      "district_code": "120110",
+      "month": "2026-10",
+      "status": "no_data",
+      "transaction_count": 0,
+      "source_count": 0
+    },
+    {
+      "district_code": "120111",
+      "month": "2024-11",
+      "status": "no_data",
+      "transaction_count": 0,
+      "source_count": 0
+    },
+    {
+      "district_code": "120111",
+      "month": "2024-12",
+      "status": "no_data",
+      "transaction_count": 0,
+      "source_count": 0
+    },
+    {
+      "district_code": "120111",
+      "month": "2025-01",
+      "status": "no_data",
+      "transaction_count": 0,
+      "source_count": 0
+    },
+    {
+      "district_code": "120111",
+      "month": "2025-02",
+      "status": "no_data",
+      "transaction_count": 0,
+      "source_count": 0
+    },
+    {
+      "district_code": "120111",
+      "month": "2025-03",
+      "status": "no_data",
+      "transaction_count": 0,
+      "source_count": 0
+    },
+    {
+      "district_code": "120111",
+      "month": "2025-04",
+      "status": "no_data",
+      "transaction_count": 0,
+      "source_count": 0
+    },
+    {
+      "district_code": "120111",
+      "month": "2025-05",
+      "status": "no_data",
+      "transaction_count": 0,
+      "source_count": 0
+    },
+    {
+      "district_code": "120111",
+      "month": "2025-06",
+      "status": "no_data",
+      "transaction_count": 0,
+      "source_count": 0
+    },
+    {
+      "district_code": "120111",
+      "month": "2025-07",
+      "status": "no_data",
+      "transaction_count": 0,
+      "source_count": 0
+    },
+    {
+      "district_code": "120111",
+      "month": "2025-08",
+      "status": "no_data",
+      "transaction_count": 0,
+      "source_count": 0
+    },
+    {
+      "district_code": "120111",
+      "month": "2025-09",
+      "status": "no_data",
+      "transaction_count": 0,
+      "source_count": 0
+    },
+    {
+      "district_code": "120111",
+      "month": "2025-10",
+      "status": "no_data",
+      "transaction_count": 0,
+      "source_count": 0
+    },
+    {
+      "district_code": "120111",
+      "month": "2025-11",
+      "status": "no_data",
+      "transaction_count": 0,
+      "source_count": 0
+    },
+    {
+      "district_code": "120111",
+      "month": "2025-12",
+      "status": "no_data",
+      "transaction_count": 0,
+      "source_count": 0
+    },
+    {
+      "district_code": "120111",
+      "month": "2026-01",
+      "status": "published",
+      "transaction_count": 229,
+      "source_count": 1
+    },
+    {
+      "district_code": "120111",
+      "month": "2026-02",
+      "status": "published",
+      "transaction_count": 141,
+      "source_count": 1
+    },
+    {
+      "district_code": "120111",
+      "month": "2026-03",
+      "status": "published",
+      "transaction_count": 670,
+      "source_count": 1
+    },
+    {
+      "district_code": "120111",
+      "month": "2026-04",
+      "status": "published",
+      "transaction_count": 581,
+      "source_count": 1
+    },
+    {
+      "district_code": "120111",
+      "month": "2026-05",
+      "status": "published",
+      "transaction_count": 320,
+      "source_count": 1
+    },
+    {
+      "district_code": "120111",
+      "month": "2026-06",
+      "status": "published",
+      "transaction_count": 390,
+      "source_count": 1
+    },
+    {
+      "district_code": "120111",
+      "month": "2026-07",
+      "status": "published",
+      "transaction_count": 471,
+      "source_count": 1
+    },
+    {
+      "district_code": "120111",
+      "month": "2026-08",
+      "status": "published",
+      "transaction_count": 421,
+      "source_count": 1
+    },
+    {
+      "district_code": "120111",
+      "month": "2026-09",
+      "status": "published",
+      "transaction_count": 364,
+      "source_count": 1
+    },
+    {
+      "district_code": "120111",
+      "month": "2026-10",
+      "status": "published",
+      "transaction_count": 178,
+      "source_count": 1
+    },
+    {
+      "district_code": "120112",
+      "month": "2024-11",
+      "status": "no_data",
+      "transaction_count": 0,
+      "source_count": 0
+    },
+    {
+      "district_code": "120112",
+      "month": "2024-12",
+      "status": "no_data",
+      "transaction_count": 0,
+      "source_count": 0
+    },
+    {
+      "district_code": "120112",
+      "month": "2025-01",
+      "status": "no_data",
+      "transaction_count": 0,
+      "source_count": 0
+    },
+    {
+      "district_code": "120112",
+      "month": "2025-02",
+      "status": "no_data",
+      "transaction_count": 0,
+      "source_count": 0
+    },
+    {
+      "district_code": "120112",
+      "month": "2025-03",
+      "status": "no_data",
+      "transaction_count": 0,
+      "source_count": 0
+    },
+    {
+      "district_code": "120112",
+      "month": "2025-04",
+      "status": "no_data",
+      "transaction_count": 0,
+      "source_count": 0
+    },
+    {
+      "district_code": "120112",
+      "month": "2025-05",
+      "status": "no_data",
+      "transaction_count": 0,
+      "source_count": 0
+    },
+    {
+      "district_code": "120112",
+      "month": "2025-06",
+      "status": "no_data",
+      "transaction_count": 0,
+      "source_count": 0
+    },
+    {
+      "district_code": "120112",
+      "month": "2025-07",
+      "status": "no_data",
+      "transaction_count": 0,
+      "source_count": 0
+    },
+    {
+      "district_code": "120112",
+      "month": "2025-08",
+      "status": "no_data",
+      "transaction_count": 0,
+      "source_count": 0
+    },
+    {
+      "district_code": "120112",
+      "month": "2025-09",
+      "status": "no_data",
+      "transaction_count": 0,
+      "source_count": 0
+    },
+    {
+      "district_code": "120112",
+      "month": "2025-10",
+      "status": "no_data",
+      "transaction_count": 0,
+      "source_count": 0
+    },
+    {
+      "district_code": "120112",
+      "month": "2025-11",
+      "status": "no_data",
+      "transaction_count": 0,
+      "source_count": 0
+    },
+    {
+      "district_code": "120112",
+      "month": "2025-12",
+      "status": "no_data",
+      "transaction_count": 0,
+      "source_count": 0
+    },
+    {
+      "district_code": "120112",
+      "month": "2026-01",
+      "status": "published",
+      "transaction_count": 166,
+      "source_count": 1
+    },
+    {
+      "district_code": "120112",
+      "month": "2026-02",
+      "status": "published",
+      "transaction_count": 183,
+      "source_count": 1
+    },
+    {
+      "district_code": "120112",
+      "month": "2026-03",
+      "status": "published",
+      "transaction_count": 612,
+      "source_count": 1
+    },
+    {
+      "district_code": "120112",
+      "month": "2026-04",
+      "status": "published",
+      "transaction_count": 502,
+      "source_count": 1
+    },
+    {
+      "district_code": "120112",
+      "month": "2026-05",
+      "status": "published",
+      "transaction_count": 435,
+      "source_count": 1
+    },
+    {
+      "district_code": "120112",
+      "month": "2026-06",
+      "status": "published",
+      "transaction_count": 359,
+      "source_count": 1
+    },
+    {
+      "district_code": "120112",
+      "month": "2026-07",
+      "status": "published",
+      "transaction_count": 317,
+      "source_count": 1
+    },
+    {
+      "district_code": "120112",
+      "month": "2026-08",
+      "status": "published",
+      "transaction_count": 360,
+      "source_count": 1
+    },
+    {
+      "district_code": "120112",
+      "month": "2026-09",
+      "status": "published",
+      "transaction_count": 369,
+      "source_count": 1
+    },
+    {
+      "district_code": "120112",
+      "month": "2026-10",
+      "status": "published",
+      "transaction_count": 250,
+      "source_count": 1
+    },
+    {
+      "district_code": "120113",
+      "month": "2024-11",
+      "status": "no_data",
+      "transaction_count": 0,
+      "source_count": 0
+    },
+    {
+      "district_code": "120113",
+      "month": "2024-12",
+      "status": "no_data",
+      "transaction_count": 0,
+      "source_count": 0
+    },
+    {
+      "district_code": "120113",
+      "month": "2025-01",
+      "status": "no_data",
+      "transaction_count": 0,
+      "source_count": 0
+    },
+    {
+      "district_code": "120113",
+      "month": "2025-02",
+      "status": "no_data",
+      "transaction_count": 0,
+      "source_count": 0
+    },
+    {
+      "district_code": "120113",
+      "month": "2025-03",
+      "status": "no_data",
+      "transaction_count": 0,
+      "source_count": 0
+    },
+    {
+      "district_code": "120113",
+      "month": "2025-04",
+      "status": "no_data",
+      "transaction_count": 0,
+      "source_count": 0
+    },
+    {
+      "district_code": "120113",
+      "month": "2025-05",
+      "status": "no_data",
+      "transaction_count": 0,
+      "source_count": 0
+    },
+    {
+      "district_code": "120113",
+      "month": "2025-06",
+      "status": "no_data",
+      "transaction_count": 0,
+      "source_count": 0
+    },
+    {
+      "district_code": "120113",
+      "month": "2025-07",
+      "status": "no_data",
+      "transaction_count": 0,
+      "source_count": 0
+    },
+    {
+      "district_code": "120113",
+      "month": "2025-08",
+      "status": "no_data",
+      "transaction_count": 0,
+      "source_count": 0
+    },
+    {
+      "district_code": "120113",
+      "month": "2025-09",
+      "status": "no_data",
+      "transaction_count": 0,
+      "source_count": 0
+    },
+    {
+      "district_code": "120113",
+      "month": "2025-10",
+      "status": "no_data",
+      "transaction_count": 0,
+      "source_count": 0
+    },
+    {
+      "district_code": "120113",
+      "month": "2025-11",
+      "status": "no_data",
+      "transaction_count": 0,
+      "source_count": 0
+    },
+    {
+      "district_code": "120113",
+      "month": "2025-12",
+      "status": "no_data",
+      "transaction_count": 0,
+      "source_count": 0
+    },
+    {
+      "district_code": "120113",
+      "month": "2026-01",
+      "status": "published",
+      "transaction_count": 117,
+      "source_count": 1
+    },
+    {
+      "district_code": "120113",
+      "month": "2026-02",
+      "status": "published",
+      "transaction_count": 148,
+      "source_count": 1
+    },
+    {
+      "district_code": "120113",
+      "month": "2026-03",
+      "status": "published",
+      "transaction_count": 601,
+      "source_count": 1
+    },
+    {
+      "district_code": "120113",
+      "month": "2026-04",
+      "status": "published",
+      "transaction_count": 464,
+      "source_count": 1
+    },
+    {
+      "district_code": "120113",
+      "month": "2026-05",
+      "status": "published",
+      "transaction_count": 392,
+      "source_count": 1
+    },
+    {
+      "district_code": "120113",
+      "month": "2026-06",
+      "status": "published",
+      "transaction_count": 370,
+      "source_count": 1
+    },
+    {
+      "district_code": "120113",
+      "month": "2026-07",
+      "status": "published",
+      "transaction_count": 350,
+      "source_count": 1
+    },
+    {
+      "district_code": "120113",
+      "month": "2026-08",
+      "status": "published",
+      "transaction_count": 355,
+      "source_count": 1
+    },
+    {
+      "district_code": "120113",
+      "month": "2026-09",
+      "status": "published",
+      "transaction_count": 309,
+      "source_count": 1
+    },
+    {
+      "district_code": "120113",
+      "month": "2026-10",
+      "status": "published",
+      "transaction_count": 122,
+      "source_count": 1
+    }
+  ]
+}
