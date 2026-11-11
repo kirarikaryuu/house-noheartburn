@@ -176,7 +176,7 @@ export default async function DistrictPage({
                       {topCommunities.map((community) => (
                         <tr key={community.id}>
                           <td>
-                            <Link prefetch={false} href={`/communities/${community.slug}/`} className="font-medium hover:text-teal">
+                            <Link prefetch={false} href={`/communities/?id=${encodeURIComponent(community.slug)}`} className="font-medium hover:text-teal">
                               {community.name}
                             </Link>
                           </td>

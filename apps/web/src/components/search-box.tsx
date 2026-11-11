@@ -4,6 +4,14 @@ import Link from "next/link";
 import { useEffect, useMemo, useState } from "react";
 import type { SearchEntry } from "@/lib/types";
 
+function entryHref(entry: SearchEntry): string {
+  if (entry.type === "community") {
+    const slug = entry.path.split("/").filter(Boolean).at(-1) ?? "";
+    return `/communities/?id=${encodeURIComponent(slug)}`;
+  }
+  return entry.path;
+}
+
 export function SearchBox() {
   const [query, setQuery] = useState("");
   const [focused, setFocused] = useState(false);
@@ -60,7 +68,7 @@ export function SearchBox() {
               <Link
                 prefetch={false}
                 key={`${entry.type}-${entry.id}`}
-                href={entry.path}
+                href={entryHref(entry)}
                 className="flex items-center justify-between gap-4 px-3 py-3 transition-colors hover:bg-paper"
               >
                 <span>

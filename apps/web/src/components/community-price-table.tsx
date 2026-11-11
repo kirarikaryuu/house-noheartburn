@@ -267,7 +267,7 @@ export function CommunityPriceTable() {
                     <td className="min-w-0">
                       <Link
                         prefetch={false}
-                        href={`/communities/${community.slug}/`}
+                        href={`/communities/?id=${encodeURIComponent(community.slug)}`}
                         className="block truncate font-display text-[16px] hover:text-teal"
                         title={community.name}
                       >
