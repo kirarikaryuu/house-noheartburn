@@ -46,3 +46,10 @@ Desktop.ini
 
 # Local private OCR fixtures
 private-fixtures/
+
+# EdgeOne / local deployment artifacts
+.edgeone/
+apps/web/house-noheartburn.zip
+edgeone*.html
+eo-*.html
+eo-cookies.txt
