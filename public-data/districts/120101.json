@@ -11,13 +11,13 @@
   "latest": {
     "month": "2026-10",
     "status": "published",
-    "transaction_count": 35,
+    "transaction_count": 126,
     "source_count": 1,
-    "median_unit_price": 39759,
-    "median_total_price": 2230000,
-    "p25_unit_price": 33102,
-    "p75_unit_price": 49709,
-    "mom_pct": 10.7,
+    "median_unit_price": 39420,
+    "median_total_price": 1897500,
+    "p25_unit_price": 32049,
+    "p75_unit_price": 46821,
+    "mom_pct": 9.8,
     "yoy_pct": null
   },
   "series": [
@@ -300,29 +300,334 @@
     {
       "month": "2026-10",
       "status": "published",
-      "transaction_count": 35,
+      "transaction_count": 126,
       "source_count": 1,
-      "median_unit_price": 39759,
-      "median_total_price": 2230000,
-      "p25_unit_price": 33102,
-      "p75_unit_price": 49709,
-      "mom_pct": 10.7,
+      "median_unit_price": 39420,
+      "median_total_price": 1897500,
+      "p25_unit_price": 32049,
+      "p75_unit_price": 46821,
+      "mom_pct": 9.8,
       "yoy_pct": null
     }
   ],
   "submarkets": [
     {
+      "name": "劝业场",
+      "latest": {
+        "month": "2026-10",
+        "status": "published",
+        "transaction_count": 26,
+        "source_count": 1,
+        "median_unit_price": 41876,
+        "median_total_price": 957500,
+        "p25_unit_price": 37402,
+        "p75_unit_price": 46078,
+        "mom_pct": -3.0,
+        "yoy_pct": null
+      },
+      "series": [
+        {
+          "month": "2024-11",
+          "status": "no_data",
+          "transaction_count": 0,
+          "source_count": 0,
+          "median_unit_price": null,
+          "median_total_price": null,
+          "p25_unit_price": null,
+          "p75_unit_price": null,
+          "mom_pct": null,
+          "yoy_pct": null
+        },
+        {
+          "month": "2024-12",
+          "status": "no_data",
+          "transaction_count": 0,
+          "source_count": 0,
+          "median_unit_price": null,
+          "median_total_price": null,
+          "p25_unit_price": null,
+          "p75_unit_price": null,
+          "mom_pct": null,
+          "yoy_pct": null
+        },
+        {
+          "month": "2025-01",
+          "status": "no_data",
+          "transaction_count": 0,
+          "source_count": 0,
+          "median_unit_price": null,
+          "median_total_price": null,
+          "p25_unit_price": null,
+          "p75_unit_price": null,
+          "mom_pct": null,
+          "yoy_pct": null
+        },
+        {
+          "month": "2025-02",
+          "status": "no_data",
+          "transaction_count": 0,
+          "source_count": 0,
+          "median_unit_price": null,
+          "median_total_price": null,
+          "p25_unit_price": null,
+          "p75_unit_price": null,
+          "mom_pct": null,
+          "yoy_pct": null
+        },
+        {
+          "month": "2025-03",
+          "status": "no_data",
+          "transaction_count": 0,
+          "source_count": 0,
+          "median_unit_price": null,
+          "median_total_price": null,
+          "p25_unit_price": null,
+          "p75_unit_price": null,
+          "mom_pct": null,
+          "yoy_pct": null
+        },
+        {
+          "month": "2025-04",
+          "status": "no_data",
+          "transaction_count": 0,
+          "source_count": 0,
+          "median_unit_price": null,
+          "median_total_price": null,
+          "p25_unit_price": null,
+          "p75_unit_price": null,
+          "mom_pct": null,
+          "yoy_pct": null
+        },
+        {
+          "month": "2025-05",
+          "status": "no_data",
+          "transaction_count": 0,
+          "source_count": 0,
+          "median_unit_price": null,
+          "median_total_price": null,
+          "p25_unit_price": null,
+          "p75_unit_price": null,
+          "mom_pct": null,
+          "yoy_pct": null
+        },
+        {
+          "month": "2025-06",
+          "status": "no_data",
+          "transaction_count": 0,
+          "source_count": 0,
+          "median_unit_price": null,
+          "median_total_price": null,
+          "p25_unit_price": null,
+          "p75_unit_price": null,
+          "mom_pct": null,
+          "yoy_pct": null
+        },
+        {
+          "month": "2025-07",
+          "status": "no_data",
+          "transaction_count": 0,
+          "source_count": 0,
+          "median_unit_price": null,
+          "median_total_price": null,
+          "p25_unit_price": null,
+          "p75_unit_price": null,
+          "mom_pct": null,
+          "yoy_pct": null
+        },
+        {
+          "month": "2025-08",
+          "status": "no_data",
+          "transaction_count": 0,
+          "source_count": 0,
+          "median_unit_price": null,
+          "median_total_price": null,
+          "p25_unit_price": null,
+          "p75_unit_price": null,
+          "mom_pct": null,
+          "yoy_pct": null
+        },
+        {
+          "month": "2025-09",
+          "status": "no_data",
+          "transaction_count": 0,
+          "source_count": 0,
+          "median_unit_price": null,
+          "median_total_price": null,
+          "p25_unit_price": null,
+          "p75_unit_price": null,
+          "mom_pct": null,
+          "yoy_pct": null
+        },
+        {
+          "month": "2025-10",
+          "status": "no_data",
+          "transaction_count": 0,
+          "source_count": 0,
+          "median_unit_price": null,
+          "median_total_price": null,
+          "p25_unit_price": null,
+          "p75_unit_price": null,
+          "mom_pct": null,
+          "yoy_pct": null
+        },
+        {
+          "month": "2025-11",
+          "status": "no_data",
+          "transaction_count": 0,
+          "source_count": 0,
+          "median_unit_price": null,
+          "median_total_price": null,
+          "p25_unit_price": null,
+          "p75_unit_price": null,
+          "mom_pct": null,
+          "yoy_pct": null
+        },
+        {
+          "month": "2025-12",
+          "status": "no_data",
+          "transaction_count": 0,
+          "source_count": 0,
+          "median_unit_price": null,
+          "median_total_price": null,
+          "p25_unit_price": null,
+          "p75_unit_price": null,
+          "mom_pct": null,
+          "yoy_pct": null
+        },
+        {
+          "month": "2026-01",
+          "status": "no_data",
+          "transaction_count": 0,
+          "source_count": 0,
+          "median_unit_price": null,
+          "median_total_price": null,
+          "p25_unit_price": null,
+          "p75_unit_price": null,
+          "mom_pct": null,
+          "yoy_pct": null
+        },
+        {
+          "month": "2026-02",
+          "status": "no_data",
+          "transaction_count": 0,
+          "source_count": 0,
+          "median_unit_price": null,
+          "median_total_price": null,
+          "p25_unit_price": null,
+          "p75_unit_price": null,
+          "mom_pct": null,
+          "yoy_pct": null
+        },
+        {
+          "month": "2026-03",
+          "status": "published",
+          "transaction_count": 62,
+          "source_count": 1,
+          "median_unit_price": 45124,
+          "median_total_price": 838500,
+          "p25_unit_price": 33429,
+          "p75_unit_price": 59604,
+          "mom_pct": null,
+          "yoy_pct": null
+        },
+        {
+          "month": "2026-04",
+          "status": "published",
+          "transaction_count": 78,
+          "source_count": 1,
+          "median_unit_price": 46100,
+          "median_total_price": 842500,
+          "p25_unit_price": 33716,
+          "p75_unit_price": 56316,
+          "mom_pct": 2.2,
+          "yoy_pct": null
+        },
+        {
+          "month": "2026-05",
+          "status": "published",
+          "transaction_count": 73,
+          "source_count": 1,
+          "median_unit_price": 42733,
+          "median_total_price": 830000,
+          "p25_unit_price": 34648,
+          "p75_unit_price": 55954,
+          "mom_pct": -7.3,
+          "yoy_pct": null
+        },
+        {
+          "month": "2026-06",
+          "status": "published",
+          "transaction_count": 85,
+          "source_count": 1,
+          "median_unit_price": 47468,
+          "median_total_price": 808000,
+          "p25_unit_price": 37045,
+          "p75_unit_price": 61007,
+          "mom_pct": 11.1,
+          "yoy_pct": null
+        },
+        {
+          "month": "2026-07",
+          "status": "published",
+          "transaction_count": 30,
+          "source_count": 1,
+          "median_unit_price": 41468,
+          "median_total_price": 795000,
+          "p25_unit_price": 34728,
+          "p75_unit_price": 60824,
+          "mom_pct": -12.6,
+          "yoy_pct": null
+        },
+        {
+          "month": "2026-08",
+          "status": "published",
+          "transaction_count": 25,
+          "source_count": 1,
+          "median_unit_price": 36276,
+          "median_total_price": 1310000,
+          "p25_unit_price": 28911,
+          "p75_unit_price": 43985,
+          "mom_pct": -12.5,
+          "yoy_pct": null
+        },
+        {
+          "month": "2026-09",
+          "status": "published",
+          "transaction_count": 14,
+          "source_count": 1,
+          "median_unit_price": 43192,
+          "median_total_price": 936500,
+          "p25_unit_price": 32080,
+          "p75_unit_price": 58244,
+          "mom_pct": 19.1,
+          "yoy_pct": null
+        },
+        {
+          "month": "2026-10",
+          "status": "published",
+          "transaction_count": 26,
+          "source_count": 1,
+          "median_unit_price": 41876,
+          "median_total_price": 957500,
+          "p25_unit_price": 37402,
+          "p75_unit_price": 46078,
+          "mom_pct": -3.0,
+          "yoy_pct": null
+        }
+      ]
+    },
+    {
       "name": "体育馆街",
       "latest": {
         "month": "2026-10",
         "status": "published",
-        "transaction_count": 8,
+        "transaction_count": 28,
         "source_count": 1,
-        "median_unit_price": 53680,
-        "median_total_price": 2665000,
-        "p25_unit_price": 48519,
-        "p75_unit_price": 56656,
-        "mom_pct": 52.5,
+        "median_unit_price": 41352,
+        "median_total_price": 2215000,
+        "p25_unit_price": 30002,
+        "p75_unit_price": 56459,
+        "mom_pct": 17.5,
         "yoy_pct": null
       },
       "series": [
@@ -605,318 +910,13 @@
         {
           "month": "2026-10",
           "status": "published",
-          "transaction_count": 8,
+          "transaction_count": 28,
           "source_count": 1,
-          "median_unit_price": 53680,
-          "median_total_price": 2665000,
-          "p25_unit_price": 48519,
-          "p75_unit_price": 56656,
-          "mom_pct": 52.5,
-          "yoy_pct": null
-        }
-      ]
-    },
-    {
-      "name": "劝业场",
-      "latest": {
-        "month": "2026-09",
-        "status": "published",
-        "transaction_count": 14,
-        "source_count": 1,
-        "median_unit_price": 43192,
-        "median_total_price": 936500,
-        "p25_unit_price": 32080,
-        "p75_unit_price": 58244,
-        "mom_pct": 19.1,
-        "yoy_pct": null
-      },
-      "series": [
-        {
-          "month": "2024-11",
-          "status": "no_data",
-          "transaction_count": 0,
-          "source_count": 0,
-          "median_unit_price": null,
-          "median_total_price": null,
-          "p25_unit_price": null,
-          "p75_unit_price": null,
-          "mom_pct": null,
-          "yoy_pct": null
-        },
-        {
-          "month": "2024-12",
-          "status": "no_data",
-          "transaction_count": 0,
-          "source_count": 0,
-          "median_unit_price": null,
-          "median_total_price": null,
-          "p25_unit_price": null,
-          "p75_unit_price": null,
-          "mom_pct": null,
-          "yoy_pct": null
-        },
-        {
-          "month": "2025-01",
-          "status": "no_data",
-          "transaction_count": 0,
-          "source_count": 0,
-          "median_unit_price": null,
-          "median_total_price": null,
-          "p25_unit_price": null,
-          "p75_unit_price": null,
-          "mom_pct": null,
-          "yoy_pct": null
-        },
-        {
-          "month": "2025-02",
-          "status": "no_data",
-          "transaction_count": 0,
-          "source_count": 0,
-          "median_unit_price": null,
-          "median_total_price": null,
-          "p25_unit_price": null,
-          "p75_unit_price": null,
-          "mom_pct": null,
-          "yoy_pct": null
-        },
-        {
-          "month": "2025-03",
-          "status": "no_data",
-          "transaction_count": 0,
-          "source_count": 0,
-          "median_unit_price": null,
-          "median_total_price": null,
-          "p25_unit_price": null,
-          "p75_unit_price": null,
-          "mom_pct": null,
-          "yoy_pct": null
-        },
-        {
-          "month": "2025-04",
-          "status": "no_data",
-          "transaction_count": 0,
-          "source_count": 0,
-          "median_unit_price": null,
-          "median_total_price": null,
-          "p25_unit_price": null,
-          "p75_unit_price": null,
-          "mom_pct": null,
-          "yoy_pct": null
-        },
-        {
-          "month": "2025-05",
-          "status": "no_data",
-          "transaction_count": 0,
-          "source_count": 0,
-          "median_unit_price": null,
-          "median_total_price": null,
-          "p25_unit_price": null,
-          "p75_unit_price": null,
-          "mom_pct": null,
-          "yoy_pct": null
-        },
-        {
-          "month": "2025-06",
-          "status": "no_data",
-          "transaction_count": 0,
-          "source_count": 0,
-          "median_unit_price": null,
-          "median_total_price": null,
-          "p25_unit_price": null,
-          "p75_unit_price": null,
-          "mom_pct": null,
-          "yoy_pct": null
-        },
-        {
-          "month": "2025-07",
-          "status": "no_data",
-          "transaction_count": 0,
-          "source_count": 0,
-          "median_unit_price": null,
-          "median_total_price": null,
-          "p25_unit_price": null,
-          "p75_unit_price": null,
-          "mom_pct": null,
-          "yoy_pct": null
-        },
-        {
-          "month": "2025-08",
-          "status": "no_data",
-          "transaction_count": 0,
-          "source_count": 0,
-          "median_unit_price": null,
-          "median_total_price": null,
-          "p25_unit_price": null,
-          "p75_unit_price": null,
-          "mom_pct": null,
-          "yoy_pct": null
-        },
-        {
-          "month": "2025-09",
-          "status": "no_data",
-          "transaction_count": 0,
-          "source_count": 0,
-          "median_unit_price": null,
-          "median_total_price": null,
-          "p25_unit_price": null,
-          "p75_unit_price": null,
-          "mom_pct": null,
-          "yoy_pct": null
-        },
-        {
-          "month": "2025-10",
-          "status": "no_data",
-          "transaction_count": 0,
-          "source_count": 0,
-          "median_unit_price": null,
-          "median_total_price": null,
-          "p25_unit_price": null,
-          "p75_unit_price": null,
-          "mom_pct": null,
-          "yoy_pct": null
-        },
-        {
-          "month": "2025-11",
-          "status": "no_data",
-          "transaction_count": 0,
-          "source_count": 0,
-          "median_unit_price": null,
-          "median_total_price": null,
-          "p25_unit_price": null,
-          "p75_unit_price": null,
-          "mom_pct": null,
-          "yoy_pct": null
-        },
-        {
-          "month": "2025-12",
-          "status": "no_data",
-          "transaction_count": 0,
-          "source_count": 0,
-          "median_unit_price": null,
-          "median_total_price": null,
-          "p25_unit_price": null,
-          "p75_unit_price": null,
-          "mom_pct": null,
-          "yoy_pct": null
-        },
-        {
-          "month": "2026-01",
-          "status": "no_data",
-          "transaction_count": 0,
-          "source_count": 0,
-          "median_unit_price": null,
-          "median_total_price": null,
-          "p25_unit_price": null,
-          "p75_unit_price": null,
-          "mom_pct": null,
-          "yoy_pct": null
-        },
-        {
-          "month": "2026-02",
-          "status": "no_data",
-          "transaction_count": 0,
-          "source_count": 0,
-          "median_unit_price": null,
-          "median_total_price": null,
-          "p25_unit_price": null,
-          "p75_unit_price": null,
-          "mom_pct": null,
-          "yoy_pct": null
-        },
-        {
-          "month": "2026-03",
-          "status": "published",
-          "transaction_count": 62,
-          "source_count": 1,
-          "median_unit_price": 45124,
-          "median_total_price": 838500,
-          "p25_unit_price": 33429,
-          "p75_unit_price": 59604,
-          "mom_pct": null,
-          "yoy_pct": null
-        },
-        {
-          "month": "2026-04",
-          "status": "published",
-          "transaction_count": 78,
-          "source_count": 1,
-          "median_unit_price": 46100,
-          "median_total_price": 842500,
-          "p25_unit_price": 33716,
-          "p75_unit_price": 56316,
-          "mom_pct": 2.2,
-          "yoy_pct": null
-        },
-        {
-          "month": "2026-05",
-          "status": "published",
-          "transaction_count": 73,
-          "source_count": 1,
-          "median_unit_price": 42733,
-          "median_total_price": 830000,
-          "p25_unit_price": 34648,
-          "p75_unit_price": 55954,
-          "mom_pct": -7.3,
-          "yoy_pct": null
-        },
-        {
-          "month": "2026-06",
-          "status": "published",
-          "transaction_count": 85,
-          "source_count": 1,
-          "median_unit_price": 47468,
-          "median_total_price": 808000,
-          "p25_unit_price": 37045,
-          "p75_unit_price": 61007,
-          "mom_pct": 11.1,
-          "yoy_pct": null
-        },
-        {
-          "month": "2026-07",
-          "status": "published",
-          "transaction_count": 30,
-          "source_count": 1,
-          "median_unit_price": 41468,
-          "median_total_price": 795000,
-          "p25_unit_price": 34728,
-          "p75_unit_price": 60824,
-          "mom_pct": -12.6,
-          "yoy_pct": null
-        },
-        {
-          "month": "2026-08",
-          "status": "published",
-          "transaction_count": 25,
-          "source_count": 1,
-          "median_unit_price": 36276,
-          "median_total_price": 1310000,
-          "p25_unit_price": 28911,
-          "p75_unit_price": 43985,
-          "mom_pct": -12.5,
-          "yoy_pct": null
-        },
-        {
-          "month": "2026-09",
-          "status": "published",
-          "transaction_count": 14,
-          "source_count": 1,
-          "median_unit_price": 43192,
-          "median_total_price": 936500,
-          "p25_unit_price": 32080,
-          "p75_unit_price": 58244,
-          "mom_pct": 19.1,
-          "yoy_pct": null
-        },
-        {
-          "month": "2026-10",
-          "status": "insufficient_sample",
-          "transaction_count": 2,
-          "source_count": 1,
-          "median_unit_price": null,
-          "median_total_price": null,
-          "p25_unit_price": null,
-          "p75_unit_price": null,
-          "mom_pct": null,
+          "median_unit_price": 41352,
+          "median_total_price": 2215000,
+          "p25_unit_price": 30002,
+          "p75_unit_price": 56459,
+          "mom_pct": 17.5,
           "yoy_pct": null
         }
       ]
@@ -926,13 +926,13 @@
       "latest": {
         "month": "2026-10",
         "status": "published",
-        "transaction_count": 8,
+        "transaction_count": 23,
         "source_count": 1,
-        "median_unit_price": 40710,
-        "median_total_price": 2170000,
-        "p25_unit_price": 36069,
-        "p75_unit_price": 49935,
-        "mom_pct": 2.8,
+        "median_unit_price": 40137,
+        "median_total_price": 2040000,
+        "p25_unit_price": 33154,
+        "p75_unit_price": 47707,
+        "mom_pct": 1.3,
         "yoy_pct": null
       },
       "series": [
@@ -1215,13 +1215,13 @@
         {
           "month": "2026-10",
           "status": "published",
-          "transaction_count": 8,
+          "transaction_count": 23,
           "source_count": 1,
-          "median_unit_price": 40710,
-          "median_total_price": 2170000,
-          "p25_unit_price": 36069,
-          "p75_unit_price": 49935,
-          "mom_pct": 2.8,
+          "median_unit_price": 40137,
+          "median_total_price": 2040000,
+          "p25_unit_price": 33154,
+          "p75_unit_price": 47707,
+          "mom_pct": 1.3,
           "yoy_pct": null
         }
       ]
@@ -1229,15 +1229,15 @@
     {
       "name": "南市",
       "latest": {
-        "month": "2026-09",
+        "month": "2026-10",
         "status": "published",
-        "transaction_count": 12,
+        "transaction_count": 13,
         "source_count": 1,
-        "median_unit_price": 37590,
-        "median_total_price": 3815000,
-        "p25_unit_price": 27318,
-        "p75_unit_price": 41492,
-        "mom_pct": 6.4,
+        "median_unit_price": 37624,
+        "median_total_price": 2020000,
+        "p25_unit_price": 34810,
+        "p75_unit_price": 41976,
+        "mom_pct": 0.1,
         "yoy_pct": null
       },
       "series": [
@@ -1519,14 +1519,14 @@
         },
         {
           "month": "2026-10",
-          "status": "insufficient_sample",
-          "transaction_count": 3,
+          "status": "published",
+          "transaction_count": 13,
           "source_count": 1,
-          "median_unit_price": null,
-          "median_total_price": null,
-          "p25_unit_price": null,
-          "p75_unit_price": null,
-          "mom_pct": null,
+          "median_unit_price": 37624,
+          "median_total_price": 2020000,
+          "p25_unit_price": 34810,
+          "p75_unit_price": 41976,
+          "mom_pct": 0.1,
           "yoy_pct": null
         }
       ]
@@ -1536,13 +1536,13 @@
       "latest": {
         "month": "2026-10",
         "status": "published",
-        "transaction_count": 5,
+        "transaction_count": 15,
         "source_count": 1,
-        "median_unit_price": 37300,
-        "median_total_price": 1620000,
-        "p25_unit_price": 34321,
-        "p75_unit_price": 43200,
-        "mom_pct": 19.7,
+        "median_unit_price": 35104,
+        "median_total_price": 2080000,
+        "p25_unit_price": 31554,
+        "p75_unit_price": 47628,
+        "mom_pct": 12.7,
         "yoy_pct": null
       },
       "series": [
@@ -1825,13 +1825,13 @@
         {
           "month": "2026-10",
           "status": "published",
-          "transaction_count": 5,
+          "transaction_count": 15,
           "source_count": 1,
-          "median_unit_price": 37300,
-          "median_total_price": 1620000,
-          "p25_unit_price": 34321,
-          "p75_unit_price": 43200,
-          "mom_pct": 19.7,
+          "median_unit_price": 35104,
+          "median_total_price": 2080000,
+          "p25_unit_price": 31554,
+          "p75_unit_price": 47628,
+          "mom_pct": 12.7,
           "yoy_pct": null
         }
       ]
@@ -1841,12 +1841,12 @@
       "latest": {
         "month": "2026-10",
         "status": "published",
-        "transaction_count": 9,
+        "transaction_count": 21,
         "source_count": 1,
         "median_unit_price": 34847,
-        "median_total_price": 1680000,
-        "p25_unit_price": 27877,
-        "p75_unit_price": 37556,
+        "median_total_price": 1805000,
+        "p25_unit_price": 30073,
+        "p75_unit_price": 40044,
         "mom_pct": 2.9,
         "yoy_pct": null
       },
@@ -2130,12 +2130,12 @@
         {
           "month": "2026-10",
           "status": "published",
-          "transaction_count": 9,
+          "transaction_count": 21,
           "source_count": 1,
           "median_unit_price": 34847,
-          "median_total_price": 1680000,
-          "p25_unit_price": 27877,
-          "p75_unit_price": 37556,
+          "median_total_price": 1805000,
+          "p25_unit_price": 30073,
+          "p75_unit_price": 40044,
           "mom_pct": 2.9,
           "yoy_pct": null
         }
@@ -2900,34 +2900,6 @@
       }
     },
     {
-      "id": "heping-98bf384c9a13",
-      "slug": "c-heping-98bf384c9a13",
-      "name": "益寿里",
-      "submarket": "体育馆街",
-      "property_use": "unknown",
-      "latest": {
-        "month": "2026-07",
-        "status": "insufficient_sample",
-        "transaction_count": 1,
-        "source_count": 1,
-        "median_unit_price": null,
-        "median_total_price": null,
-        "p25_unit_price": null,
-        "p75_unit_price": null,
-        "mom_pct": null,
-        "yoy_pct": null
-      },
-      "observation": {
-        "month": "2026-07",
-        "transaction_count": 1,
-        "source_count": 1,
-        "median_unit_price": 70822,
-        "median_total_price": 2750000,
-        "min_unit_price": 70822,
-        "max_unit_price": 70822
-      }
-    },
-    {
       "id": "heping-69bcc9afd153",
       "slug": "c-heping-69bcc9afd153",
       "name": "谦受益里",
@@ -3152,34 +3124,6 @@
       }
     },
     {
-      "id": "heping-85a078d467d0",
-      "slug": "c-heping-85a078d467d0",
-      "name": "襄阳道",
-      "submarket": "体育馆街",
-      "property_use": "unknown",
-      "latest": {
-        "month": "2026-10",
-        "status": "insufficient_sample",
-        "transaction_count": 1,
-        "source_count": 1,
-        "median_unit_price": null,
-        "median_total_price": null,
-        "p25_unit_price": null,
-        "p75_unit_price": null,
-        "mom_pct": null,
-        "yoy_pct": null
-      },
-      "observation": {
-        "month": "2026-10",
-        "transaction_count": 1,
-        "source_count": 1,
-        "median_unit_price": 68650,
-        "median_total_price": 1800000,
-        "min_unit_price": 68650,
-        "max_unit_price": 68650
-      }
-    },
-    {
       "id": "heping-99d653015f05",
       "slug": "c-heping-99d653015f05",
       "name": "昆明路(体育馆街)",
@@ -3233,6 +3177,34 @@
         "median_total_price": 641000,
         "min_unit_price": 67616,
         "max_unit_price": 67616
+      }
+    },
+    {
+      "id": "heping-85a078d467d0",
+      "slug": "c-heping-85a078d467d0",
+      "name": "襄阳道",
+      "submarket": "体育馆街",
+      "property_use": "unknown",
+      "latest": {
+        "month": "2026-10",
+        "status": "insufficient_sample",
+        "transaction_count": 2,
+        "source_count": 1,
+        "median_unit_price": null,
+        "median_total_price": null,
+        "p25_unit_price": null,
+        "p75_unit_price": null,
+        "mom_pct": null,
+        "yoy_pct": null
+      },
+      "observation": {
+        "month": "2026-10",
+        "transaction_count": 2,
+        "source_count": 1,
+        "median_unit_price": 67232,
+        "median_total_price": 2210000,
+        "min_unit_price": 65813,
+        "max_unit_price": 68650
       }
     },
     {
@@ -3348,38 +3320,10 @@
       }
     },
     {
-      "id": "heping-5bbfe9432cbf",
-      "slug": "c-heping-5bbfe9432cbf",
-      "name": "锦州道",
-      "submarket": "劝业场",
-      "property_use": "unknown",
-      "latest": {
-        "month": "2026-06",
-        "status": "published",
-        "transaction_count": 5,
-        "source_count": 1,
-        "median_unit_price": 65968,
-        "median_total_price": 825000,
-        "p25_unit_price": 63413,
-        "p75_unit_price": 67514,
-        "mom_pct": null,
-        "yoy_pct": null
-      },
-      "observation": {
-        "month": "2026-06",
-        "transaction_count": 5,
-        "source_count": 1,
-        "median_unit_price": 65968,
-        "median_total_price": 825000,
-        "min_unit_price": 45970,
-        "max_unit_price": 100877
-      }
-    },
-    {
-      "id": "heping-a99b5f300235",
-      "slug": "c-heping-a99b5f300235",
-      "name": "天新北里",
-      "submarket": "南营门街",
+      "id": "heping-90a5e7a08923",
+      "slug": "c-heping-90a5e7a08923",
+      "name": "唐山道",
+      "submarket": "小白楼",
       "property_use": "unknown",
       "latest": {
         "month": "2026-10",
@@ -3397,10 +3341,10 @@
         "month": "2026-10",
         "transaction_count": 1,
         "source_count": 1,
-        "median_unit_price": 65004,
-        "median_total_price": 1746000,
-        "min_unit_price": 65004,
-        "max_unit_price": 65004
+        "median_unit_price": 66124,
+        "median_total_price": 650000,
+        "min_unit_price": 66124,
+        "max_unit_price": 66124
       }
     },
     {
@@ -3485,6 +3429,34 @@
         "median_total_price": 729000,
         "min_unit_price": 64513,
         "max_unit_price": 64513
+      }
+    },
+    {
+      "id": "heping-228613054c8a",
+      "slug": "c-heping-228613054c8a",
+      "name": "柳州路",
+      "submarket": "体育馆街",
+      "property_use": "unknown",
+      "latest": {
+        "month": "2026-10",
+        "status": "insufficient_sample",
+        "transaction_count": 2,
+        "source_count": 1,
+        "median_unit_price": null,
+        "median_total_price": null,
+        "p25_unit_price": null,
+        "p75_unit_price": null,
+        "mom_pct": null,
+        "yoy_pct": null
+      },
+      "observation": {
+        "month": "2026-10",
+        "transaction_count": 2,
+        "source_count": 1,
+        "median_unit_price": 63712,
+        "median_total_price": 2815000,
+        "min_unit_price": 56587,
+        "max_unit_price": 70838
       }
     },
     {
@@ -3768,6 +3740,34 @@
       }
     },
     {
+      "id": "heping-85bcd0d63378",
+      "slug": "c-heping-85bcd0d63378",
+      "name": "万全道",
+      "submarket": "劝业场",
+      "property_use": "unknown",
+      "latest": {
+        "month": "2026-10",
+        "status": "insufficient_sample",
+        "transaction_count": 1,
+        "source_count": 1,
+        "median_unit_price": null,
+        "median_total_price": null,
+        "p25_unit_price": null,
+        "p75_unit_price": null,
+        "mom_pct": null,
+        "yoy_pct": null
+      },
+      "observation": {
+        "month": "2026-10",
+        "transaction_count": 1,
+        "source_count": 1,
+        "median_unit_price": 60619,
+        "median_total_price": 842000,
+        "min_unit_price": 60619,
+        "max_unit_price": 60619
+      }
+    },
+    {
       "id": "heping-82715442d253",
       "slug": "c-heping-82715442d253",
       "name": "增贤里",
@@ -3793,34 +3793,6 @@
         "median_total_price": 730000,
         "min_unit_price": 60581,
         "max_unit_price": 60581
-      }
-    },
-    {
-      "id": "heping-457bfea11769",
-      "slug": "c-heping-457bfea11769",
-      "name": "怀远里",
-      "submarket": "南市",
-      "property_use": "unknown",
-      "latest": {
-        "month": "2026-08",
-        "status": "published",
-        "transaction_count": 3,
-        "source_count": 1,
-        "median_unit_price": 60073,
-        "median_total_price": 2010000,
-        "p25_unit_price": 56769,
-        "p75_unit_price": 60922,
-        "mom_pct": null,
-        "yoy_pct": null
-      },
-      "observation": {
-        "month": "2026-08",
-        "transaction_count": 3,
-        "source_count": 1,
-        "median_unit_price": 60073,
-        "median_total_price": 2010000,
-        "min_unit_price": 53465,
-        "max_unit_price": 61770
       }
     },
     {
@@ -3880,13 +3852,13 @@
       }
     },
     {
-      "id": "heping-7179431ad23a",
-      "slug": "c-heping-7179431ad23a",
-      "name": "包头道",
-      "submarket": "劝业场",
+      "id": "heping-42fccbeb46d5",
+      "slug": "c-heping-42fccbeb46d5",
+      "name": "郑业里",
+      "submarket": "体育馆街",
       "property_use": "unknown",
       "latest": {
-        "month": "2026-03",
+        "month": "2026-10",
         "status": "insufficient_sample",
         "transaction_count": 1,
         "source_count": 1,
@@ -3898,13 +3870,13 @@
         "yoy_pct": null
       },
       "observation": {
-        "month": "2026-03",
+        "month": "2026-10",
         "transaction_count": 1,
         "source_count": 1,
-        "median_unit_price": 59498,
-        "median_total_price": 758000,
-        "min_unit_price": 59498,
-        "max_unit_price": 59498
+        "median_unit_price": 59417,
+        "median_total_price": 2590000,
+        "min_unit_price": 59417,
+        "max_unit_price": 59417
       }
     },
     {
@@ -3992,34 +3964,6 @@
       }
     },
     {
-      "id": "heping-42fccbeb46d5",
-      "slug": "c-heping-42fccbeb46d5",
-      "name": "郑业里",
-      "submarket": "体育馆街",
-      "property_use": "unknown",
-      "latest": {
-        "month": "2026-07",
-        "status": "insufficient_sample",
-        "transaction_count": 2,
-        "source_count": 1,
-        "median_unit_price": null,
-        "median_total_price": null,
-        "p25_unit_price": null,
-        "p75_unit_price": null,
-        "mom_pct": null,
-        "yoy_pct": null
-      },
-      "observation": {
-        "month": "2026-07",
-        "transaction_count": 2,
-        "source_count": 1,
-        "median_unit_price": 58796,
-        "median_total_price": 2895000,
-        "min_unit_price": 58186,
-        "max_unit_price": 59406
-      }
-    },
-    {
       "id": "heping-d5fc8caa5149",
       "slug": "c-heping-d5fc8caa5149",
       "name": "义顺里",
@@ -4073,6 +4017,34 @@
         "median_total_price": 750000,
         "min_unit_price": 58640,
         "max_unit_price": 58640
+      }
+    },
+    {
+      "id": "heping-370191c1433c",
+      "slug": "c-heping-370191c1433c",
+      "name": "复元里",
+      "submarket": "南营门街",
+      "property_use": "unknown",
+      "latest": {
+        "month": "2026-10",
+        "status": "insufficient_sample",
+        "transaction_count": 2,
+        "source_count": 1,
+        "median_unit_price": null,
+        "median_total_price": null,
+        "p25_unit_price": null,
+        "p75_unit_price": null,
+        "mom_pct": null,
+        "yoy_pct": null
+      },
+      "observation": {
+        "month": "2026-10",
+        "transaction_count": 2,
+        "source_count": 1,
+        "median_unit_price": 58336,
+        "median_total_price": 1955000,
+        "min_unit_price": 48478,
+        "max_unit_price": 68194
       }
     },
     {
@@ -4188,15 +4160,15 @@
       }
     },
     {
-      "id": "heping-370191c1433c",
-      "slug": "c-heping-370191c1433c",
-      "name": "复元里",
-      "submarket": "南营门街",
+      "id": "heping-78dc855bbe0b",
+      "slug": "c-heping-78dc855bbe0b",
+      "name": "信义里(小白楼)",
+      "submarket": "小白楼",
       "property_use": "unknown",
       "latest": {
-        "month": "2026-05",
+        "month": "2026-10",
         "status": "insufficient_sample",
-        "transaction_count": 2,
+        "transaction_count": 1,
         "source_count": 1,
         "median_unit_price": null,
         "median_total_price": null,
@@ -4206,13 +4178,13 @@
         "yoy_pct": null
       },
       "observation": {
-        "month": "2026-05",
-        "transaction_count": 2,
+        "month": "2026-10",
+        "transaction_count": 1,
         "source_count": 1,
-        "median_unit_price": 57714,
-        "median_total_price": 2638000,
-        "min_unit_price": 54544,
-        "max_unit_price": 60885
+        "median_unit_price": 57676,
+        "median_total_price": 943000,
+        "min_unit_price": 57676,
+        "max_unit_price": 57676
       }
     },
     {
@@ -4272,34 +4244,6 @@
       }
     },
     {
-      "id": "heping-b285c3af56f4",
-      "slug": "c-heping-b285c3af56f4",
-      "name": "世昌里",
-      "submarket": "南营门街",
-      "property_use": "unknown",
-      "latest": {
-        "month": "2026-08",
-        "status": "insufficient_sample",
-        "transaction_count": 1,
-        "source_count": 1,
-        "median_unit_price": null,
-        "median_total_price": null,
-        "p25_unit_price": null,
-        "p75_unit_price": null,
-        "mom_pct": null,
-        "yoy_pct": null
-      },
-      "observation": {
-        "month": "2026-08",
-        "transaction_count": 1,
-        "source_count": 1,
-        "median_unit_price": 56949,
-        "median_total_price": 1930000,
-        "min_unit_price": 56949,
-        "max_unit_price": 56949
-      }
-    },
-    {
       "id": "heping-1bdd50d4bb93",
       "slug": "c-heping-1bdd50d4bb93",
       "name": "柳安新村",
@@ -4353,34 +4297,6 @@
         "median_total_price": 2560000,
         "min_unit_price": 56600,
         "max_unit_price": 56600
-      }
-    },
-    {
-      "id": "heping-228613054c8a",
-      "slug": "c-heping-228613054c8a",
-      "name": "柳州路",
-      "submarket": "体育馆街",
-      "property_use": "unknown",
-      "latest": {
-        "month": "2026-10",
-        "status": "insufficient_sample",
-        "transaction_count": 1,
-        "source_count": 1,
-        "median_unit_price": null,
-        "median_total_price": null,
-        "p25_unit_price": null,
-        "p75_unit_price": null,
-        "mom_pct": null,
-        "yoy_pct": null
-      },
-      "observation": {
-        "month": "2026-10",
-        "transaction_count": 1,
-        "source_count": 1,
-        "median_unit_price": 56587,
-        "median_total_price": 3230000,
-        "min_unit_price": 56587,
-        "max_unit_price": 56587
       }
     },
     {
@@ -4524,34 +4440,6 @@
       }
     },
     {
-      "id": "heping-45bcc20871c8",
-      "slug": "c-heping-45bcc20871c8",
-      "name": "河北路(劝业场)",
-      "submarket": "劝业场",
-      "property_use": "unknown",
-      "latest": {
-        "month": "2026-07",
-        "status": "insufficient_sample",
-        "transaction_count": 2,
-        "source_count": 1,
-        "median_unit_price": null,
-        "median_total_price": null,
-        "p25_unit_price": null,
-        "p75_unit_price": null,
-        "mom_pct": null,
-        "yoy_pct": null
-      },
-      "observation": {
-        "month": "2026-07",
-        "transaction_count": 2,
-        "source_count": 1,
-        "median_unit_price": 55920,
-        "median_total_price": 771500,
-        "min_unit_price": 47561,
-        "max_unit_price": 64280
-      }
-    },
-    {
       "id": "heping-83329b37c34e",
       "slug": "c-heping-83329b37c34e",
       "name": "武昌路",
@@ -4605,6 +4493,62 @@
         "median_total_price": 650000,
         "min_unit_price": 38217,
         "max_unit_price": 72562
+      }
+    },
+    {
+      "id": "heping-5bbfe9432cbf",
+      "slug": "c-heping-5bbfe9432cbf",
+      "name": "锦州道",
+      "submarket": "劝业场",
+      "property_use": "unknown",
+      "latest": {
+        "month": "2026-10",
+        "status": "insufficient_sample",
+        "transaction_count": 1,
+        "source_count": 1,
+        "median_unit_price": null,
+        "median_total_price": null,
+        "p25_unit_price": null,
+        "p75_unit_price": null,
+        "mom_pct": null,
+        "yoy_pct": null
+      },
+      "observation": {
+        "month": "2026-10",
+        "transaction_count": 1,
+        "source_count": 1,
+        "median_unit_price": 55356,
+        "median_total_price": 708000,
+        "min_unit_price": 55356,
+        "max_unit_price": 55356
+      }
+    },
+    {
+      "id": "heping-10cc916b840c",
+      "slug": "c-heping-10cc916b840c",
+      "name": "崇仁里",
+      "submarket": "小白楼",
+      "property_use": "unknown",
+      "latest": {
+        "month": "2026-10",
+        "status": "insufficient_sample",
+        "transaction_count": 1,
+        "source_count": 1,
+        "median_unit_price": null,
+        "median_total_price": null,
+        "p25_unit_price": null,
+        "p75_unit_price": null,
+        "mom_pct": null,
+        "yoy_pct": null
+      },
+      "observation": {
+        "month": "2026-10",
+        "transaction_count": 1,
+        "source_count": 1,
+        "median_unit_price": 54997,
+        "median_total_price": 1695000,
+        "min_unit_price": 54997,
+        "max_unit_price": 54997
       }
     },
     {
@@ -4748,6 +4692,34 @@
       }
     },
     {
+      "id": "heping-73b0f9893277",
+      "slug": "c-heping-73b0f9893277",
+      "name": "新疆路",
+      "submarket": "劝业场",
+      "property_use": "unknown",
+      "latest": {
+        "month": "2026-10",
+        "status": "insufficient_sample",
+        "transaction_count": 1,
+        "source_count": 1,
+        "median_unit_price": null,
+        "median_total_price": null,
+        "p25_unit_price": null,
+        "p75_unit_price": null,
+        "mom_pct": null,
+        "yoy_pct": null
+      },
+      "observation": {
+        "month": "2026-10",
+        "transaction_count": 1,
+        "source_count": 1,
+        "median_unit_price": 54601,
+        "median_total_price": 718000,
+        "min_unit_price": 54601,
+        "max_unit_price": 54601
+      }
+    },
+    {
       "id": "heping-0050dc29e4c6",
       "slug": "c-heping-0050dc29e4c6",
       "name": "津彪哥说四宜里",
@@ -4829,34 +4801,6 @@
         "median_total_price": 840000,
         "min_unit_price": 50184,
         "max_unit_price": 56766
-      }
-    },
-    {
-      "id": "heping-9ffc02f0aee7",
-      "slug": "c-heping-9ffc02f0aee7",
-      "name": "和平翰林公馆",
-      "submarket": "劝业场",
-      "property_use": "unknown",
-      "latest": {
-        "month": "2026-09",
-        "status": "insufficient_sample",
-        "transaction_count": 1,
-        "source_count": 1,
-        "median_unit_price": null,
-        "median_total_price": null,
-        "p25_unit_price": null,
-        "p75_unit_price": null,
-        "mom_pct": null,
-        "yoy_pct": null
-      },
-      "observation": {
-        "month": "2026-09",
-        "transaction_count": 1,
-        "source_count": 1,
-        "median_unit_price": 53396,
-        "median_total_price": 3255000,
-        "min_unit_price": 53396,
-        "max_unit_price": 53396
       }
     },
     {
@@ -5000,34 +4944,6 @@
       }
     },
     {
-      "id": "heping-2478b074cf7e",
-      "slug": "c-heping-2478b074cf7e",
-      "name": "慧昌里",
-      "submarket": "劝业场",
-      "property_use": "unknown",
-      "latest": {
-        "month": "2026-04",
-        "status": "insufficient_sample",
-        "transaction_count": 1,
-        "source_count": 1,
-        "median_unit_price": null,
-        "median_total_price": null,
-        "p25_unit_price": null,
-        "p75_unit_price": null,
-        "mom_pct": null,
-        "yoy_pct": null
-      },
-      "observation": {
-        "month": "2026-04",
-        "transaction_count": 1,
-        "source_count": 1,
-        "median_unit_price": 52346,
-        "median_total_price": 1060000,
-        "min_unit_price": 52346,
-        "max_unit_price": 52346
-      }
-    },
-    {
       "id": "heping-5085deb5dfa2",
       "slug": "c-heping-5085deb5dfa2",
       "name": "河大宿舍",
@@ -5081,34 +4997,6 @@
         "median_total_price": 1630000,
         "min_unit_price": 52060,
         "max_unit_price": 52060
-      }
-    },
-    {
-      "id": "heping-78fa41d8eeec",
-      "slug": "c-heping-78fa41d8eeec",
-      "name": "河北路(小白楼)",
-      "submarket": "小白楼",
-      "property_use": "unknown",
-      "latest": {
-        "month": "2026-10",
-        "status": "insufficient_sample",
-        "transaction_count": 1,
-        "source_count": 1,
-        "median_unit_price": null,
-        "median_total_price": null,
-        "p25_unit_price": null,
-        "p75_unit_price": null,
-        "mom_pct": null,
-        "yoy_pct": null
-      },
-      "observation": {
-        "month": "2026-10",
-        "transaction_count": 1,
-        "source_count": 1,
-        "median_unit_price": 52055,
-        "median_total_price": 722000,
-        "min_unit_price": 52055,
-        "max_unit_price": 52055
       }
     },
     {
@@ -5364,34 +5252,6 @@
       }
     },
     {
-      "id": "heping-90ce9519b827",
-      "slug": "c-heping-90ce9519b827",
-      "name": "福林里",
-      "submarket": "体育馆街",
-      "property_use": "unknown",
-      "latest": {
-        "month": "2026-10",
-        "status": "published",
-        "transaction_count": 3,
-        "source_count": 1,
-        "median_unit_price": 50944,
-        "median_total_price": 2550000,
-        "p25_unit_price": 50635,
-        "p75_unit_price": 53680,
-        "mom_pct": null,
-        "yoy_pct": null
-      },
-      "observation": {
-        "month": "2026-10",
-        "transaction_count": 3,
-        "source_count": 1,
-        "median_unit_price": 50944,
-        "median_total_price": 2550000,
-        "min_unit_price": 50326,
-        "max_unit_price": 56416
-      }
-    },
-    {
       "id": "heping-5151cfa3ea53",
       "slug": "c-heping-5151cfa3ea53",
       "name": "老华利里",
@@ -5417,6 +5277,118 @@
         "median_total_price": 736000,
         "min_unit_price": 50900,
         "max_unit_price": 50900
+      }
+    },
+    {
+      "id": "heping-90ce9519b827",
+      "slug": "c-heping-90ce9519b827",
+      "name": "福林里",
+      "submarket": "体育馆街",
+      "property_use": "unknown",
+      "latest": {
+        "month": "2026-10",
+        "status": "published",
+        "transaction_count": 4,
+        "source_count": 1,
+        "median_unit_price": 50635,
+        "median_total_price": 2665000,
+        "p25_unit_price": 48730,
+        "p75_unit_price": 52312,
+        "mom_pct": null,
+        "yoy_pct": null
+      },
+      "observation": {
+        "month": "2026-10",
+        "transaction_count": 4,
+        "source_count": 1,
+        "median_unit_price": 50635,
+        "median_total_price": 2665000,
+        "min_unit_price": 43941,
+        "max_unit_price": 56416
+      }
+    },
+    {
+      "id": "heping-762a3e223b66",
+      "slug": "c-heping-762a3e223b66",
+      "name": "山西路",
+      "submarket": "劝业场",
+      "property_use": "unknown",
+      "latest": {
+        "month": "2026-10",
+        "status": "insufficient_sample",
+        "transaction_count": 1,
+        "source_count": 1,
+        "median_unit_price": null,
+        "median_total_price": null,
+        "p25_unit_price": null,
+        "p75_unit_price": null,
+        "mom_pct": null,
+        "yoy_pct": null
+      },
+      "observation": {
+        "month": "2026-10",
+        "transaction_count": 1,
+        "source_count": 1,
+        "median_unit_price": 50409,
+        "median_total_price": 1110000,
+        "min_unit_price": 50409,
+        "max_unit_price": 50409
+      }
+    },
+    {
+      "id": "heping-693852dd9bda",
+      "slug": "c-heping-693852dd9bda",
+      "name": "南荣里",
+      "submarket": "南市",
+      "property_use": "unknown",
+      "latest": {
+        "month": "2026-10",
+        "status": "insufficient_sample",
+        "transaction_count": 2,
+        "source_count": 1,
+        "median_unit_price": null,
+        "median_total_price": null,
+        "p25_unit_price": null,
+        "p75_unit_price": null,
+        "mom_pct": null,
+        "yoy_pct": null
+      },
+      "observation": {
+        "month": "2026-10",
+        "transaction_count": 2,
+        "source_count": 1,
+        "median_unit_price": 50301,
+        "median_total_price": 1405000,
+        "min_unit_price": 40367,
+        "max_unit_price": 60235
+      }
+    },
+    {
+      "id": "heping-02f4fd938fbb",
+      "slug": "c-heping-02f4fd938fbb",
+      "name": "金泉里",
+      "submarket": "新兴街",
+      "property_use": "unknown",
+      "latest": {
+        "month": "2026-10",
+        "status": "insufficient_sample",
+        "transaction_count": 1,
+        "source_count": 1,
+        "median_unit_price": null,
+        "median_total_price": null,
+        "p25_unit_price": null,
+        "p75_unit_price": null,
+        "mom_pct": null,
+        "yoy_pct": null
+      },
+      "observation": {
+        "month": "2026-10",
+        "transaction_count": 1,
+        "source_count": 1,
+        "median_unit_price": 49961,
+        "median_total_price": 2580000,
+        "min_unit_price": 49961,
+        "max_unit_price": 49961
       }
     },
     {
@@ -5504,6 +5476,34 @@
       }
     },
     {
+      "id": "heping-a9ff4835d6ac",
+      "slug": "c-heping-a9ff4835d6ac",
+      "name": "四平东道",
+      "submarket": "劝业场",
+      "property_use": "unknown",
+      "latest": {
+        "month": "2026-10",
+        "status": "insufficient_sample",
+        "transaction_count": 1,
+        "source_count": 1,
+        "median_unit_price": null,
+        "median_total_price": null,
+        "p25_unit_price": null,
+        "p75_unit_price": null,
+        "mom_pct": null,
+        "yoy_pct": null
+      },
+      "observation": {
+        "month": "2026-10",
+        "transaction_count": 1,
+        "source_count": 1,
+        "median_unit_price": 49190,
+        "median_total_price": 820000,
+        "min_unit_price": 49190,
+        "max_unit_price": 49190
+      }
+    },
+    {
       "id": "heping-ed498e12d210",
       "slug": "c-heping-ed498e12d210",
       "name": "睦和里",
@@ -5529,34 +5529,6 @@
         "median_total_price": 850000,
         "min_unit_price": 49105,
         "max_unit_price": 49105
-      }
-    },
-    {
-      "id": "heping-a973e09c8557",
-      "slug": "c-heping-a973e09c8557",
-      "name": "金德园",
-      "submarket": "南营门街",
-      "property_use": "unknown",
-      "latest": {
-        "month": "2026-10",
-        "status": "insufficient_sample",
-        "transaction_count": 1,
-        "source_count": 1,
-        "median_unit_price": null,
-        "median_total_price": null,
-        "p25_unit_price": null,
-        "p75_unit_price": null,
-        "mom_pct": null,
-        "yoy_pct": null
-      },
-      "observation": {
-        "month": "2026-10",
-        "transaction_count": 1,
-        "source_count": 1,
-        "median_unit_price": 49092,
-        "median_total_price": 4273000,
-        "min_unit_price": 49092,
-        "max_unit_price": 49092
       }
     },
     {
@@ -5669,34 +5641,6 @@
         "median_total_price": 1750000,
         "min_unit_price": 48611,
         "max_unit_price": 48611
-      }
-    },
-    {
-      "id": "heping-10cc916b840c",
-      "slug": "c-heping-10cc916b840c",
-      "name": "崇仁里",
-      "submarket": "小白楼",
-      "property_use": "unknown",
-      "latest": {
-        "month": "2026-08",
-        "status": "insufficient_sample",
-        "transaction_count": 2,
-        "source_count": 1,
-        "median_unit_price": null,
-        "median_total_price": null,
-        "p25_unit_price": null,
-        "p75_unit_price": null,
-        "mom_pct": null,
-        "yoy_pct": null
-      },
-      "observation": {
-        "month": "2026-08",
-        "transaction_count": 2,
-        "source_count": 1,
-        "median_unit_price": 48590,
-        "median_total_price": 1973743,
-        "min_unit_price": 48541,
-        "max_unit_price": 48640
       }
     },
     {
@@ -5840,34 +5784,6 @@
       }
     },
     {
-      "id": "heping-762a3e223b66",
-      "slug": "c-heping-762a3e223b66",
-      "name": "山西路",
-      "submarket": "劝业场",
-      "property_use": "unknown",
-      "latest": {
-        "month": "2026-09",
-        "status": "insufficient_sample",
-        "transaction_count": 2,
-        "source_count": 1,
-        "median_unit_price": null,
-        "median_total_price": null,
-        "p25_unit_price": null,
-        "p75_unit_price": null,
-        "mom_pct": null,
-        "yoy_pct": null
-      },
-      "observation": {
-        "month": "2026-09",
-        "transaction_count": 2,
-        "source_count": 1,
-        "median_unit_price": 48004,
-        "median_total_price": 697500,
-        "min_unit_price": 36392,
-        "max_unit_price": 59617
-      }
-    },
-    {
       "id": "heping-109dbc71656c",
       "slug": "c-heping-109dbc71656c",
       "name": "光学新里",
@@ -5949,6 +5865,62 @@
         "median_total_price": 1580000,
         "min_unit_price": 47734,
         "max_unit_price": 47734
+      }
+    },
+    {
+      "id": "heping-fa23826afdad",
+      "slug": "c-heping-fa23826afdad",
+      "name": "成都道",
+      "submarket": "体育馆街",
+      "property_use": "unknown",
+      "latest": {
+        "month": "2026-10",
+        "status": "insufficient_sample",
+        "transaction_count": 1,
+        "source_count": 1,
+        "median_unit_price": null,
+        "median_total_price": null,
+        "p25_unit_price": null,
+        "p75_unit_price": null,
+        "mom_pct": null,
+        "yoy_pct": null
+      },
+      "observation": {
+        "month": "2026-10",
+        "transaction_count": 1,
+        "source_count": 1,
+        "median_unit_price": 47667,
+        "median_total_price": 3330000,
+        "min_unit_price": 47667,
+        "max_unit_price": 47667
+      }
+    },
+    {
+      "id": "heping-a973e09c8557",
+      "slug": "c-heping-a973e09c8557",
+      "name": "金德园",
+      "submarket": "南营门街",
+      "property_use": "unknown",
+      "latest": {
+        "month": "2026-10",
+        "status": "insufficient_sample",
+        "transaction_count": 2,
+        "source_count": 1,
+        "median_unit_price": null,
+        "median_total_price": null,
+        "p25_unit_price": null,
+        "p75_unit_price": null,
+        "mom_pct": null,
+        "yoy_pct": null
+      },
+      "observation": {
+        "month": "2026-10",
+        "transaction_count": 2,
+        "source_count": 1,
+        "median_unit_price": 47514,
+        "median_total_price": 4131500,
+        "min_unit_price": 45936,
+        "max_unit_price": 49092
       }
     },
     {
@@ -6064,34 +6036,6 @@
       }
     },
     {
-      "id": "heping-fa23826afdad",
-      "slug": "c-heping-fa23826afdad",
-      "name": "成都道",
-      "submarket": "体育馆街",
-      "property_use": "unknown",
-      "latest": {
-        "month": "2026-07",
-        "status": "insufficient_sample",
-        "transaction_count": 1,
-        "source_count": 1,
-        "median_unit_price": null,
-        "median_total_price": null,
-        "p25_unit_price": null,
-        "p75_unit_price": null,
-        "mom_pct": null,
-        "yoy_pct": null
-      },
-      "observation": {
-        "month": "2026-07",
-        "transaction_count": 1,
-        "source_count": 1,
-        "median_unit_price": 46982,
-        "median_total_price": 755000,
-        "min_unit_price": 46982,
-        "max_unit_price": 46982
-      }
-    },
-    {
       "id": "heping-bd648c7b4294",
       "slug": "c-heping-bd648c7b4294",
       "name": "民园大楼",
@@ -6117,6 +6061,62 @@
         "median_total_price": 680000,
         "min_unit_price": 46961,
         "max_unit_price": 46961
+      }
+    },
+    {
+      "id": "heping-a99b5f300235",
+      "slug": "c-heping-a99b5f300235",
+      "name": "天新北里",
+      "submarket": "南营门街",
+      "property_use": "unknown",
+      "latest": {
+        "month": "2026-10",
+        "status": "insufficient_sample",
+        "transaction_count": 2,
+        "source_count": 1,
+        "median_unit_price": null,
+        "median_total_price": null,
+        "p25_unit_price": null,
+        "p75_unit_price": null,
+        "mom_pct": null,
+        "yoy_pct": null
+      },
+      "observation": {
+        "month": "2026-10",
+        "transaction_count": 2,
+        "source_count": 1,
+        "median_unit_price": 46953,
+        "median_total_price": 1323000,
+        "min_unit_price": 28902,
+        "max_unit_price": 65004
+      }
+    },
+    {
+      "id": "heping-d80f78c44bf3",
+      "slug": "c-heping-d80f78c44bf3",
+      "name": "银行里",
+      "submarket": "南营门街",
+      "property_use": "unknown",
+      "latest": {
+        "month": "2026-10",
+        "status": "insufficient_sample",
+        "transaction_count": 1,
+        "source_count": 1,
+        "median_unit_price": null,
+        "median_total_price": null,
+        "p25_unit_price": null,
+        "p75_unit_price": null,
+        "mom_pct": null,
+        "yoy_pct": null
+      },
+      "observation": {
+        "month": "2026-10",
+        "transaction_count": 1,
+        "source_count": 1,
+        "median_unit_price": 46936,
+        "median_total_price": 1800000,
+        "min_unit_price": 46936,
+        "max_unit_price": 46936
       }
     },
     {
@@ -6176,34 +6176,6 @@
       }
     },
     {
-      "id": "heping-02f4fd938fbb",
-      "slug": "c-heping-02f4fd938fbb",
-      "name": "金泉里",
-      "submarket": "新兴街",
-      "property_use": "unknown",
-      "latest": {
-        "month": "2026-06",
-        "status": "insufficient_sample",
-        "transaction_count": 1,
-        "source_count": 1,
-        "median_unit_price": null,
-        "median_total_price": null,
-        "p25_unit_price": null,
-        "p75_unit_price": null,
-        "mom_pct": null,
-        "yoy_pct": null
-      },
-      "observation": {
-        "month": "2026-06",
-        "transaction_count": 1,
-        "source_count": 1,
-        "median_unit_price": 46622,
-        "median_total_price": 2498000,
-        "min_unit_price": 46622,
-        "max_unit_price": 46622
-      }
-    },
-    {
       "id": "heping-d00ba1c87ba5",
       "slug": "c-heping-d00ba1c87ba5",
       "name": "庆捷里",
@@ -6232,6 +6204,34 @@
       }
     },
     {
+      "id": "heping-0bc0d3928f1d",
+      "slug": "c-heping-0bc0d3928f1d",
+      "name": "天昌里(和平)",
+      "submarket": "劝业场",
+      "property_use": "unknown",
+      "latest": {
+        "month": "2026-10",
+        "status": "insufficient_sample",
+        "transaction_count": 1,
+        "source_count": 1,
+        "median_unit_price": null,
+        "median_total_price": null,
+        "p25_unit_price": null,
+        "p75_unit_price": null,
+        "mom_pct": null,
+        "yoy_pct": null
+      },
+      "observation": {
+        "month": "2026-10",
+        "transaction_count": 1,
+        "source_count": 1,
+        "median_unit_price": 46475,
+        "median_total_price": 1035000,
+        "min_unit_price": 46475,
+        "max_unit_price": 46475
+      }
+    },
+    {
       "id": "heping-18c3cb76eb4d",
       "slug": "c-heping-18c3cb76eb4d",
       "name": "新安庆里",
@@ -6257,34 +6257,6 @@
         "median_total_price": 5000000,
         "min_unit_price": 46369,
         "max_unit_price": 46369
-      }
-    },
-    {
-      "id": "heping-fc92899b7058",
-      "slug": "c-heping-fc92899b7058",
-      "name": "保利金香槟",
-      "submarket": "南市",
-      "property_use": "unknown",
-      "latest": {
-        "month": "2026-09",
-        "status": "insufficient_sample",
-        "transaction_count": 1,
-        "source_count": 1,
-        "median_unit_price": null,
-        "median_total_price": null,
-        "p25_unit_price": null,
-        "p75_unit_price": null,
-        "mom_pct": null,
-        "yoy_pct": null
-      },
-      "observation": {
-        "month": "2026-09",
-        "transaction_count": 1,
-        "source_count": 1,
-        "median_unit_price": 46215,
-        "median_total_price": 4158000,
-        "min_unit_price": 46215,
-        "max_unit_price": 46215
       }
     },
     {
@@ -6344,13 +6316,13 @@
       }
     },
     {
-      "id": "heping-5304ef029390",
-      "slug": "c-heping-5304ef029390",
-      "name": "信华楼",
-      "submarket": "南营门街",
+      "id": "heping-bf3f8bd7b35d",
+      "slug": "c-heping-bf3f8bd7b35d",
+      "name": "兴河里",
+      "submarket": "新兴街",
       "property_use": "unknown",
       "latest": {
-        "month": "2026-09",
+        "month": "2026-10",
         "status": "insufficient_sample",
         "transaction_count": 1,
         "source_count": 1,
@@ -6362,13 +6334,13 @@
         "yoy_pct": null
       },
       "observation": {
-        "month": "2026-09",
+        "month": "2026-10",
         "transaction_count": 1,
         "source_count": 1,
-        "median_unit_price": 45995,
-        "median_total_price": 1556000,
-        "min_unit_price": 45995,
-        "max_unit_price": 45995
+        "median_unit_price": 46054,
+        "median_total_price": 1640000,
+        "min_unit_price": 46054,
+        "max_unit_price": 46054
       }
     },
     {
@@ -6397,34 +6369,6 @@
         "median_total_price": 725000,
         "min_unit_price": 45973,
         "max_unit_price": 45973
-      }
-    },
-    {
-      "id": "heping-2094c0a56ae6",
-      "slug": "c-heping-2094c0a56ae6",
-      "name": "裕德里",
-      "submarket": "南市",
-      "property_use": "unknown",
-      "latest": {
-        "month": "2026-09",
-        "status": "insufficient_sample",
-        "transaction_count": 1,
-        "source_count": 1,
-        "median_unit_price": null,
-        "median_total_price": null,
-        "p25_unit_price": null,
-        "p75_unit_price": null,
-        "mom_pct": null,
-        "yoy_pct": null
-      },
-      "observation": {
-        "month": "2026-09",
-        "transaction_count": 1,
-        "source_count": 1,
-        "median_unit_price": 45860,
-        "median_total_price": 1800000,
-        "min_unit_price": 45860,
-        "max_unit_price": 45860
       }
     },
     {
@@ -6484,13 +6428,13 @@
       }
     },
     {
-      "id": "heping-be160f470bf4",
-      "slug": "c-heping-be160f470bf4",
-      "name": "辽宁路",
-      "submarket": "劝业场",
+      "id": "heping-2094c0a56ae6",
+      "slug": "c-heping-2094c0a56ae6",
+      "name": "裕德里",
+      "submarket": "南市",
       "property_use": "unknown",
       "latest": {
-        "month": "2026-08",
+        "month": "2026-10",
         "status": "insufficient_sample",
         "transaction_count": 2,
         "source_count": 1,
@@ -6502,13 +6446,13 @@
         "yoy_pct": null
       },
       "observation": {
-        "month": "2026-08",
+        "month": "2026-10",
         "transaction_count": 2,
         "source_count": 1,
-        "median_unit_price": 45571,
-        "median_total_price": 1030000,
-        "min_unit_price": 44109,
-        "max_unit_price": 47033
+        "median_unit_price": 45538,
+        "median_total_price": 1780000,
+        "min_unit_price": 41976,
+        "max_unit_price": 49099
       }
     },
     {
@@ -6537,6 +6481,34 @@
         "median_total_price": 1629000,
         "min_unit_price": 44178,
         "max_unit_price": 46840
+      }
+    },
+    {
+      "id": "heping-b285c3af56f4",
+      "slug": "c-heping-b285c3af56f4",
+      "name": "世昌里",
+      "submarket": "南营门街",
+      "property_use": "unknown",
+      "latest": {
+        "month": "2026-10",
+        "status": "published",
+        "transaction_count": 3,
+        "source_count": 1,
+        "median_unit_price": 45477,
+        "median_total_price": 1260000,
+        "p25_unit_price": 38260,
+        "p75_unit_price": 48824,
+        "mom_pct": null,
+        "yoy_pct": null
+      },
+      "observation": {
+        "month": "2026-10",
+        "transaction_count": 3,
+        "source_count": 1,
+        "median_unit_price": 45477,
+        "median_total_price": 1260000,
+        "min_unit_price": 31042,
+        "max_unit_price": 52170
       }
     },
     {
@@ -6624,41 +6596,41 @@
       }
     },
     {
-      "id": "heping-3d1e01a911ae",
-      "slug": "c-heping-3d1e01a911ae",
-      "name": "庆云里",
-      "submarket": "体育馆街",
-      "property_use": "unknown",
-      "latest": {
-        "month": "2026-05",
-        "status": "insufficient_sample",
-        "transaction_count": 1,
-        "source_count": 1,
-        "median_unit_price": null,
-        "median_total_price": null,
-        "p25_unit_price": null,
-        "p75_unit_price": null,
-        "mom_pct": null,
-        "yoy_pct": null
-      },
-      "observation": {
-        "month": "2026-05",
-        "transaction_count": 1,
-        "source_count": 1,
-        "median_unit_price": 44674,
-        "median_total_price": 650000,
-        "min_unit_price": 44674,
-        "max_unit_price": 44674
-      }
-    },
-    {
-      "id": "heping-8c220a8ed050",
-      "slug": "c-heping-8c220a8ed050",
-      "name": "察哈尔路",
+      "id": "heping-9ffc02f0aee7",
+      "slug": "c-heping-9ffc02f0aee7",
+      "name": "和平翰林公馆",
       "submarket": "劝业场",
       "property_use": "unknown",
       "latest": {
-        "month": "2026-05",
+        "month": "2026-10",
+        "status": "insufficient_sample",
+        "transaction_count": 1,
+        "source_count": 1,
+        "median_unit_price": null,
+        "median_total_price": null,
+        "p25_unit_price": null,
+        "p75_unit_price": null,
+        "mom_pct": null,
+        "yoy_pct": null
+      },
+      "observation": {
+        "month": "2026-10",
+        "transaction_count": 1,
+        "source_count": 1,
+        "median_unit_price": 44887,
+        "median_total_price": 3920000,
+        "min_unit_price": 44887,
+        "max_unit_price": 44887
+      }
+    },
+    {
+      "id": "heping-78fa41d8eeec",
+      "slug": "c-heping-78fa41d8eeec",
+      "name": "河北路(小白楼)",
+      "submarket": "小白楼",
+      "property_use": "unknown",
+      "latest": {
+        "month": "2026-10",
         "status": "insufficient_sample",
         "transaction_count": 2,
         "source_count": 1,
@@ -6670,13 +6642,13 @@
         "yoy_pct": null
       },
       "observation": {
-        "month": "2026-05",
+        "month": "2026-10",
         "transaction_count": 2,
         "source_count": 1,
-        "median_unit_price": 44551,
-        "median_total_price": 1265000,
-        "min_unit_price": 37887,
-        "max_unit_price": 51215
+        "median_unit_price": 44763,
+        "median_total_price": 1401000,
+        "min_unit_price": 37471,
+        "max_unit_price": 52055
       }
     },
     {
@@ -6789,6 +6761,34 @@
         "median_total_price": 11200000,
         "min_unit_price": 38209,
         "max_unit_price": 50171
+      }
+    },
+    {
+      "id": "heping-2478b074cf7e",
+      "slug": "c-heping-2478b074cf7e",
+      "name": "慧昌里",
+      "submarket": "劝业场",
+      "property_use": "unknown",
+      "latest": {
+        "month": "2026-10",
+        "status": "insufficient_sample",
+        "transaction_count": 1,
+        "source_count": 1,
+        "median_unit_price": null,
+        "median_total_price": null,
+        "p25_unit_price": null,
+        "p75_unit_price": null,
+        "mom_pct": null,
+        "yoy_pct": null
+      },
+      "observation": {
+        "month": "2026-10",
+        "transaction_count": 1,
+        "source_count": 1,
+        "median_unit_price": 44149,
+        "median_total_price": 1230000,
+        "min_unit_price": 44149,
+        "max_unit_price": 44149
       }
     },
     {
@@ -6932,6 +6932,62 @@
       }
     },
     {
+      "id": "heping-c5c8709ae45a",
+      "slug": "c-heping-c5c8709ae45a",
+      "name": "营口道(和平区)",
+      "submarket": "劝业场",
+      "property_use": "unknown",
+      "latest": {
+        "month": "2026-10",
+        "status": "insufficient_sample",
+        "transaction_count": 1,
+        "source_count": 1,
+        "median_unit_price": null,
+        "median_total_price": null,
+        "p25_unit_price": null,
+        "p75_unit_price": null,
+        "mom_pct": null,
+        "yoy_pct": null
+      },
+      "observation": {
+        "month": "2026-10",
+        "transaction_count": 1,
+        "source_count": 1,
+        "median_unit_price": 43805,
+        "median_total_price": 753000,
+        "min_unit_price": 43805,
+        "max_unit_price": 43805
+      }
+    },
+    {
+      "id": "heping-8c220a8ed050",
+      "slug": "c-heping-8c220a8ed050",
+      "name": "察哈尔路",
+      "submarket": "劝业场",
+      "property_use": "unknown",
+      "latest": {
+        "month": "2026-10",
+        "status": "insufficient_sample",
+        "transaction_count": 1,
+        "source_count": 1,
+        "median_unit_price": null,
+        "median_total_price": null,
+        "p25_unit_price": null,
+        "p75_unit_price": null,
+        "mom_pct": null,
+        "yoy_pct": null
+      },
+      "observation": {
+        "month": "2026-10",
+        "transaction_count": 1,
+        "source_count": 1,
+        "median_unit_price": 43761,
+        "median_total_price": 740000,
+        "min_unit_price": 43761,
+        "max_unit_price": 43761
+      }
+    },
+    {
       "id": "heping-28a46baac529",
       "slug": "c-heping-28a46baac529",
       "name": "迎新里(和平)",
@@ -6988,6 +7044,34 @@
       }
     },
     {
+      "id": "heping-6836136d3a9b",
+      "slug": "c-heping-6836136d3a9b",
+      "name": "沈阳道",
+      "submarket": "劝业场",
+      "property_use": "unknown",
+      "latest": {
+        "month": "2026-10",
+        "status": "insufficient_sample",
+        "transaction_count": 1,
+        "source_count": 1,
+        "median_unit_price": null,
+        "median_total_price": null,
+        "p25_unit_price": null,
+        "p75_unit_price": null,
+        "mom_pct": null,
+        "yoy_pct": null
+      },
+      "observation": {
+        "month": "2026-10",
+        "transaction_count": 1,
+        "source_count": 1,
+        "median_unit_price": 43284,
+        "median_total_price": 580000,
+        "min_unit_price": 43284,
+        "max_unit_price": 43284
+      }
+    },
+    {
       "id": "heping-33d6eeca704c",
       "slug": "c-heping-33d6eeca704c",
       "name": "荣善新里",
@@ -7041,34 +7125,6 @@
         "median_total_price": 3800000,
         "min_unit_price": 43099,
         "max_unit_price": 43099
-      }
-    },
-    {
-      "id": "heping-c5c8709ae45a",
-      "slug": "c-heping-c5c8709ae45a",
-      "name": "营口道(和平区)",
-      "submarket": "劝业场",
-      "property_use": "unknown",
-      "latest": {
-        "month": "2026-06",
-        "status": "insufficient_sample",
-        "transaction_count": 2,
-        "source_count": 1,
-        "median_unit_price": null,
-        "median_total_price": null,
-        "p25_unit_price": null,
-        "p75_unit_price": null,
-        "mom_pct": null,
-        "yoy_pct": null
-      },
-      "observation": {
-        "month": "2026-06",
-        "transaction_count": 2,
-        "source_count": 1,
-        "median_unit_price": 43033,
-        "median_total_price": 925000,
-        "min_unit_price": 26995,
-        "max_unit_price": 59072
       }
     },
     {
@@ -7296,34 +7352,6 @@
       }
     },
     {
-      "id": "heping-6d2d298e3c99",
-      "slug": "c-heping-6d2d298e3c99",
-      "name": "新文化花园新景居",
-      "submarket": "南市",
-      "property_use": "unknown",
-      "latest": {
-        "month": "2026-10",
-        "status": "insufficient_sample",
-        "transaction_count": 1,
-        "source_count": 1,
-        "median_unit_price": null,
-        "median_total_price": null,
-        "p25_unit_price": null,
-        "p75_unit_price": null,
-        "mom_pct": null,
-        "yoy_pct": null
-      },
-      "observation": {
-        "month": "2026-10",
-        "transaction_count": 1,
-        "source_count": 1,
-        "median_unit_price": 42459,
-        "median_total_price": 1720000,
-        "min_unit_price": 42459,
-        "max_unit_price": 42459
-      }
-    },
-    {
       "id": "heping-65ed84f3f771",
       "slug": "c-heping-65ed84f3f771",
       "name": "建津里",
@@ -7349,6 +7377,34 @@
         "median_total_price": 711498,
         "min_unit_price": 34299,
         "max_unit_price": 50440
+      }
+    },
+    {
+      "id": "heping-13393222bff3",
+      "slug": "c-heping-13393222bff3",
+      "name": "广西路",
+      "submarket": "体育馆街",
+      "property_use": "unknown",
+      "latest": {
+        "month": "2026-10",
+        "status": "insufficient_sample",
+        "transaction_count": 1,
+        "source_count": 1,
+        "median_unit_price": null,
+        "median_total_price": null,
+        "p25_unit_price": null,
+        "p75_unit_price": null,
+        "mom_pct": null,
+        "yoy_pct": null
+      },
+      "observation": {
+        "month": "2026-10",
+        "transaction_count": 1,
+        "source_count": 1,
+        "median_unit_price": 42299,
+        "median_total_price": 780000,
+        "min_unit_price": 42299,
+        "max_unit_price": 42299
       }
     },
     {
@@ -7408,34 +7464,6 @@
       }
     },
     {
-      "id": "heping-8184040d56fb",
-      "slug": "c-heping-8184040d56fb",
-      "name": "求志里",
-      "submarket": "体育馆街",
-      "property_use": "unknown",
-      "latest": {
-        "month": "2026-05",
-        "status": "insufficient_sample",
-        "transaction_count": 2,
-        "source_count": 1,
-        "median_unit_price": null,
-        "median_total_price": null,
-        "p25_unit_price": null,
-        "p75_unit_price": null,
-        "mom_pct": null,
-        "yoy_pct": null
-      },
-      "observation": {
-        "month": "2026-05",
-        "transaction_count": 2,
-        "source_count": 1,
-        "median_unit_price": 42087,
-        "median_total_price": 1070000,
-        "min_unit_price": 30395,
-        "max_unit_price": 53779
-      }
-    },
-    {
       "id": "heping-3d58fac9d742",
       "slug": "c-heping-3d58fac9d742",
       "name": "文化村",
@@ -7461,6 +7489,34 @@
         "median_total_price": 1843000,
         "min_unit_price": 39020,
         "max_unit_price": 44899
+      }
+    },
+    {
+      "id": "heping-1835a1773583",
+      "slug": "c-heping-1835a1773583",
+      "name": "曲阳胡同",
+      "submarket": "劝业场",
+      "property_use": "unknown",
+      "latest": {
+        "month": "2026-10",
+        "status": "insufficient_sample",
+        "transaction_count": 1,
+        "source_count": 1,
+        "median_unit_price": null,
+        "median_total_price": null,
+        "p25_unit_price": null,
+        "p75_unit_price": null,
+        "mom_pct": null,
+        "yoy_pct": null
+      },
+      "observation": {
+        "month": "2026-10",
+        "transaction_count": 1,
+        "source_count": 1,
+        "median_unit_price": 41845,
+        "median_total_price": 880000,
+        "min_unit_price": 41845,
+        "max_unit_price": 41845
       }
     },
     {
@@ -7520,6 +7576,34 @@
       }
     },
     {
+      "id": "heping-be160f470bf4",
+      "slug": "c-heping-be160f470bf4",
+      "name": "辽宁路",
+      "submarket": "劝业场",
+      "property_use": "unknown",
+      "latest": {
+        "month": "2026-10",
+        "status": "published",
+        "transaction_count": 4,
+        "source_count": 1,
+        "median_unit_price": 41641,
+        "median_total_price": 1134000,
+        "p25_unit_price": 40994,
+        "p75_unit_price": 45445,
+        "mom_pct": null,
+        "yoy_pct": null
+      },
+      "observation": {
+        "month": "2026-10",
+        "transaction_count": 4,
+        "source_count": 1,
+        "median_unit_price": 41641,
+        "median_total_price": 1134000,
+        "min_unit_price": 39852,
+        "max_unit_price": 56056
+      }
+    },
+    {
       "id": "heping-d7b444e2c035",
       "slug": "c-heping-d7b444e2c035",
       "name": "同卫里(和平)",
@@ -7545,34 +7629,6 @@
         "median_total_price": 1515000,
         "min_unit_price": 41632,
         "max_unit_price": 41632
-      }
-    },
-    {
-      "id": "heping-d80f78c44bf3",
-      "slug": "c-heping-d80f78c44bf3",
-      "name": "银行里",
-      "submarket": "南营门街",
-      "property_use": "unknown",
-      "latest": {
-        "month": "2026-09",
-        "status": "insufficient_sample",
-        "transaction_count": 1,
-        "source_count": 1,
-        "median_unit_price": null,
-        "median_total_price": null,
-        "p25_unit_price": null,
-        "p75_unit_price": null,
-        "mom_pct": null,
-        "yoy_pct": null
-      },
-      "observation": {
-        "month": "2026-09",
-        "transaction_count": 1,
-        "source_count": 1,
-        "median_unit_price": 41331,
-        "median_total_price": 1900000,
-        "min_unit_price": 41331,
-        "max_unit_price": 41331
       }
     },
     {
@@ -7660,34 +7716,6 @@
       }
     },
     {
-      "id": "heping-6836136d3a9b",
-      "slug": "c-heping-6836136d3a9b",
-      "name": "沈阳道",
-      "submarket": "劝业场",
-      "property_use": "unknown",
-      "latest": {
-        "month": "2026-06",
-        "status": "insufficient_sample",
-        "transaction_count": 2,
-        "source_count": 1,
-        "median_unit_price": null,
-        "median_total_price": null,
-        "p25_unit_price": null,
-        "p75_unit_price": null,
-        "mom_pct": null,
-        "yoy_pct": null
-      },
-      "observation": {
-        "month": "2026-06",
-        "transaction_count": 2,
-        "source_count": 1,
-        "median_unit_price": 40821,
-        "median_total_price": 745000,
-        "min_unit_price": 32191,
-        "max_unit_price": 49451
-      }
-    },
-    {
       "id": "heping-40062f105100",
       "slug": "c-heping-40062f105100",
       "name": "宜天花园",
@@ -7741,6 +7769,62 @@
         "median_total_price": 2220000,
         "min_unit_price": 40600,
         "max_unit_price": 40600
+      }
+    },
+    {
+      "id": "heping-18d8df1ee0e5",
+      "slug": "c-heping-18d8df1ee0e5",
+      "name": "朗文名邸",
+      "submarket": "新兴街",
+      "property_use": "unknown",
+      "latest": {
+        "month": "2026-10",
+        "status": "published",
+        "transaction_count": 3,
+        "source_count": 1,
+        "median_unit_price": 40407,
+        "median_total_price": 4128000,
+        "p25_unit_price": 40226,
+        "p75_unit_price": 43109,
+        "mom_pct": null,
+        "yoy_pct": null
+      },
+      "observation": {
+        "month": "2026-10",
+        "transaction_count": 3,
+        "source_count": 1,
+        "median_unit_price": 40407,
+        "median_total_price": 4128000,
+        "min_unit_price": 40044,
+        "max_unit_price": 45811
+      }
+    },
+    {
+      "id": "heping-3d1e01a911ae",
+      "slug": "c-heping-3d1e01a911ae",
+      "name": "庆云里",
+      "submarket": "体育馆街",
+      "property_use": "unknown",
+      "latest": {
+        "month": "2026-10",
+        "status": "insufficient_sample",
+        "transaction_count": 1,
+        "source_count": 1,
+        "median_unit_price": null,
+        "median_total_price": null,
+        "p25_unit_price": null,
+        "p75_unit_price": null,
+        "mom_pct": null,
+        "yoy_pct": null
+      },
+      "observation": {
+        "month": "2026-10",
+        "transaction_count": 1,
+        "source_count": 1,
+        "median_unit_price": 40406,
+        "median_total_price": 1990000,
+        "min_unit_price": 40406,
+        "max_unit_price": 40406
       }
     },
     {
@@ -7800,34 +7884,6 @@
       }
     },
     {
-      "id": "heping-ff6c44022c54",
-      "slug": "c-heping-ff6c44022c54",
-      "name": "乐福里",
-      "submarket": "新兴街",
-      "property_use": "unknown",
-      "latest": {
-        "month": "2026-08",
-        "status": "insufficient_sample",
-        "transaction_count": 1,
-        "source_count": 1,
-        "median_unit_price": null,
-        "median_total_price": null,
-        "p25_unit_price": null,
-        "p75_unit_price": null,
-        "mom_pct": null,
-        "yoy_pct": null
-      },
-      "observation": {
-        "month": "2026-08",
-        "transaction_count": 1,
-        "source_count": 1,
-        "median_unit_price": 40267,
-        "median_total_price": 1808000,
-        "min_unit_price": 40267,
-        "max_unit_price": 40267
-      }
-    },
-    {
       "id": "heping-153a7fe8d110",
       "slug": "c-heping-153a7fe8d110",
       "name": "乐余里",
@@ -7884,115 +7940,31 @@
       }
     },
     {
-      "id": "heping-18d8df1ee0e5",
-      "slug": "c-heping-18d8df1ee0e5",
-      "name": "朗文名邸",
-      "submarket": "新兴街",
+      "id": "heping-39ec0a9ab104",
+      "slug": "c-heping-39ec0a9ab104",
+      "name": "吉利花园",
+      "submarket": "南营门街",
       "property_use": "unknown",
       "latest": {
         "month": "2026-10",
-        "status": "insufficient_sample",
-        "transaction_count": 1,
+        "status": "published",
+        "transaction_count": 5,
         "source_count": 1,
-        "median_unit_price": null,
-        "median_total_price": null,
-        "p25_unit_price": null,
-        "p75_unit_price": null,
+        "median_unit_price": 39968,
+        "median_total_price": 2270000,
+        "p25_unit_price": 39759,
+        "p75_unit_price": 40137,
         "mom_pct": null,
         "yoy_pct": null
       },
       "observation": {
         "month": "2026-10",
-        "transaction_count": 1,
+        "transaction_count": 5,
         "source_count": 1,
-        "median_unit_price": 40044,
-        "median_total_price": 5056000,
-        "min_unit_price": 40044,
-        "max_unit_price": 40044
-      }
-    },
-    {
-      "id": "heping-3e73c7c05085",
-      "slug": "c-heping-3e73c7c05085",
-      "name": "同方花园",
-      "submarket": "南市",
-      "property_use": "unknown",
-      "latest": {
-        "month": "2026-08",
-        "status": "insufficient_sample",
-        "transaction_count": 1,
-        "source_count": 1,
-        "median_unit_price": null,
-        "median_total_price": null,
-        "p25_unit_price": null,
-        "p75_unit_price": null,
-        "mom_pct": null,
-        "yoy_pct": null
-      },
-      "observation": {
-        "month": "2026-08",
-        "transaction_count": 1,
-        "source_count": 1,
-        "median_unit_price": 40042,
-        "median_total_price": 5400000,
-        "min_unit_price": 40042,
-        "max_unit_price": 40042
-      }
-    },
-    {
-      "id": "heping-693852dd9bda",
-      "slug": "c-heping-693852dd9bda",
-      "name": "南荣里",
-      "submarket": "南市",
-      "property_use": "unknown",
-      "latest": {
-        "month": "2026-07",
-        "status": "insufficient_sample",
-        "transaction_count": 1,
-        "source_count": 1,
-        "median_unit_price": null,
-        "median_total_price": null,
-        "p25_unit_price": null,
-        "p75_unit_price": null,
-        "mom_pct": null,
-        "yoy_pct": null
-      },
-      "observation": {
-        "month": "2026-07",
-        "transaction_count": 1,
-        "source_count": 1,
-        "median_unit_price": 39988,
-        "median_total_price": 2065000,
-        "min_unit_price": 39988,
-        "max_unit_price": 39988
-      }
-    },
-    {
-      "id": "heping-c0f64e184035",
-      "slug": "c-heping-c0f64e184035",
-      "name": "长沙路",
-      "submarket": "体育馆街",
-      "property_use": "unknown",
-      "latest": {
-        "month": "2026-09",
-        "status": "insufficient_sample",
-        "transaction_count": 1,
-        "source_count": 1,
-        "median_unit_price": null,
-        "median_total_price": null,
-        "p25_unit_price": null,
-        "p75_unit_price": null,
-        "mom_pct": null,
-        "yoy_pct": null
-      },
-      "observation": {
-        "month": "2026-09",
-        "transaction_count": 1,
-        "source_count": 1,
-        "median_unit_price": 39699,
-        "median_total_price": 686000,
-        "min_unit_price": 39699,
-        "max_unit_price": 39699
+        "median_unit_price": 39968,
+        "median_total_price": 2270000,
+        "min_unit_price": 37460,
+        "max_unit_price": 42335
       }
     },
     {
@@ -8021,6 +7993,34 @@
         "median_total_price": 2677000,
         "min_unit_price": 39606,
         "max_unit_price": 39606
+      }
+    },
+    {
+      "id": "heping-3e73c7c05085",
+      "slug": "c-heping-3e73c7c05085",
+      "name": "同方花园",
+      "submarket": "南市",
+      "property_use": "unknown",
+      "latest": {
+        "month": "2026-10",
+        "status": "insufficient_sample",
+        "transaction_count": 1,
+        "source_count": 1,
+        "median_unit_price": null,
+        "median_total_price": null,
+        "p25_unit_price": null,
+        "p75_unit_price": null,
+        "mom_pct": null,
+        "yoy_pct": null
+      },
+      "observation": {
+        "month": "2026-10",
+        "transaction_count": 1,
+        "source_count": 1,
+        "median_unit_price": 39508,
+        "median_total_price": 5329000,
+        "min_unit_price": 39508,
+        "max_unit_price": 39508
       }
     },
     {
@@ -8136,34 +8136,6 @@
       }
     },
     {
-      "id": "heping-557b258e1e7d",
-      "slug": "c-heping-557b258e1e7d",
-      "name": "兴富里",
-      "submarket": "体育馆街",
-      "property_use": "unknown",
-      "latest": {
-        "month": "2026-07",
-        "status": "insufficient_sample",
-        "transaction_count": 1,
-        "source_count": 1,
-        "median_unit_price": null,
-        "median_total_price": null,
-        "p25_unit_price": null,
-        "p75_unit_price": null,
-        "mom_pct": null,
-        "yoy_pct": null
-      },
-      "observation": {
-        "month": "2026-07",
-        "transaction_count": 1,
-        "source_count": 1,
-        "median_unit_price": 39395,
-        "median_total_price": 860000,
-        "min_unit_price": 39395,
-        "max_unit_price": 39395
-      }
-    },
-    {
       "id": "heping-2da69201fa1e",
       "slug": "c-heping-2da69201fa1e",
       "name": "河北里",
@@ -8192,6 +8164,34 @@
       }
     },
     {
+      "id": "heping-b137f4594646",
+      "slug": "c-heping-b137f4594646",
+      "name": "华中里",
+      "submarket": "劝业场",
+      "property_use": "unknown",
+      "latest": {
+        "month": "2026-10",
+        "status": "insufficient_sample",
+        "transaction_count": 1,
+        "source_count": 1,
+        "median_unit_price": null,
+        "median_total_price": null,
+        "p25_unit_price": null,
+        "p75_unit_price": null,
+        "mom_pct": null,
+        "yoy_pct": null
+      },
+      "observation": {
+        "month": "2026-10",
+        "transaction_count": 1,
+        "source_count": 1,
+        "median_unit_price": 39332,
+        "median_total_price": 730000,
+        "min_unit_price": 39332,
+        "max_unit_price": 39332
+      }
+    },
+    {
       "id": "heping-947d6d2fcd77",
       "slug": "c-heping-947d6d2fcd77",
       "name": "庆有西里",
@@ -8217,34 +8217,6 @@
         "median_total_price": 1730000,
         "min_unit_price": 39220,
         "max_unit_price": 39220
-      }
-    },
-    {
-      "id": "heping-1f6d899bd7e7",
-      "slug": "c-heping-1f6d899bd7e7",
-      "name": "赤峰道",
-      "submarket": "劝业场",
-      "property_use": "unknown",
-      "latest": {
-        "month": "2026-08",
-        "status": "insufficient_sample",
-        "transaction_count": 1,
-        "source_count": 1,
-        "median_unit_price": null,
-        "median_total_price": null,
-        "p25_unit_price": null,
-        "p75_unit_price": null,
-        "mom_pct": null,
-        "yoy_pct": null
-      },
-      "observation": {
-        "month": "2026-08",
-        "transaction_count": 1,
-        "source_count": 1,
-        "median_unit_price": 39145,
-        "median_total_price": 1446000,
-        "min_unit_price": 39145,
-        "max_unit_price": 39145
       }
     },
     {
@@ -8360,34 +8332,6 @@
       }
     },
     {
-      "id": "heping-85bcd0d63378",
-      "slug": "c-heping-85bcd0d63378",
-      "name": "万全道",
-      "submarket": "劝业场",
-      "property_use": "unknown",
-      "latest": {
-        "month": "2026-08",
-        "status": "insufficient_sample",
-        "transaction_count": 1,
-        "source_count": 1,
-        "median_unit_price": null,
-        "median_total_price": null,
-        "p25_unit_price": null,
-        "p75_unit_price": null,
-        "mom_pct": null,
-        "yoy_pct": null
-      },
-      "observation": {
-        "month": "2026-08",
-        "transaction_count": 1,
-        "source_count": 1,
-        "median_unit_price": 38966,
-        "median_total_price": 980000,
-        "min_unit_price": 38966,
-        "max_unit_price": 38966
-      }
-    },
-    {
       "id": "heping-08806187990e",
       "slug": "c-heping-08806187990e",
       "name": "蓉芳里",
@@ -8444,10 +8388,10 @@
       }
     },
     {
-      "id": "heping-39ec0a9ab104",
-      "slug": "c-heping-39ec0a9ab104",
-      "name": "吉利花园",
-      "submarket": "南营门街",
+      "id": "heping-6d2d298e3c99",
+      "slug": "c-heping-6d2d298e3c99",
+      "name": "新文化花园新景居",
+      "submarket": "南市",
       "property_use": "unknown",
       "latest": {
         "month": "2026-10",
@@ -8465,38 +8409,10 @@
         "month": "2026-10",
         "transaction_count": 2,
         "source_count": 1,
-        "median_unit_price": 38610,
-        "median_total_price": 2170000,
-        "min_unit_price": 37460,
-        "max_unit_price": 39759
-      }
-    },
-    {
-      "id": "heping-73b0f9893277",
-      "slug": "c-heping-73b0f9893277",
-      "name": "新疆路",
-      "submarket": "劝业场",
-      "property_use": "unknown",
-      "latest": {
-        "month": "2026-05",
-        "status": "insufficient_sample",
-        "transaction_count": 1,
-        "source_count": 1,
-        "median_unit_price": null,
-        "median_total_price": null,
-        "p25_unit_price": null,
-        "p75_unit_price": null,
-        "mom_pct": null,
-        "yoy_pct": null
-      },
-      "observation": {
-        "month": "2026-05",
-        "transaction_count": 1,
-        "source_count": 1,
-        "median_unit_price": 38311,
-        "median_total_price": 726000,
-        "min_unit_price": 38311,
-        "max_unit_price": 38311
+        "median_unit_price": 38634,
+        "median_total_price": 1870000,
+        "min_unit_price": 34810,
+        "max_unit_price": 42459
       }
     },
     {
@@ -8668,6 +8584,34 @@
       }
     },
     {
+      "id": "heping-6af4b77f49d6",
+      "slug": "c-heping-6af4b77f49d6",
+      "name": "天汇雅苑",
+      "submarket": "南市",
+      "property_use": "unknown",
+      "latest": {
+        "month": "2026-10",
+        "status": "insufficient_sample",
+        "transaction_count": 1,
+        "source_count": 1,
+        "median_unit_price": null,
+        "median_total_price": null,
+        "p25_unit_price": null,
+        "p75_unit_price": null,
+        "mom_pct": null,
+        "yoy_pct": null
+      },
+      "observation": {
+        "month": "2026-10",
+        "transaction_count": 1,
+        "source_count": 1,
+        "median_unit_price": 37624,
+        "median_total_price": 4560000,
+        "min_unit_price": 37624,
+        "max_unit_price": 37624
+      }
+    },
+    {
       "id": "heping-c98aeb5a7413",
       "slug": "c-heping-c98aeb5a7413",
       "name": "气象西里",
@@ -8780,6 +8724,62 @@
       }
     },
     {
+      "id": "heping-7179431ad23a",
+      "slug": "c-heping-7179431ad23a",
+      "name": "包头道",
+      "submarket": "劝业场",
+      "property_use": "unknown",
+      "latest": {
+        "month": "2026-10",
+        "status": "insufficient_sample",
+        "transaction_count": 1,
+        "source_count": 1,
+        "median_unit_price": null,
+        "median_total_price": null,
+        "p25_unit_price": null,
+        "p75_unit_price": null,
+        "mom_pct": null,
+        "yoy_pct": null
+      },
+      "observation": {
+        "month": "2026-10",
+        "transaction_count": 1,
+        "source_count": 1,
+        "median_unit_price": 37476,
+        "median_total_price": 1975000,
+        "min_unit_price": 37476,
+        "max_unit_price": 37476
+      }
+    },
+    {
+      "id": "heping-ff6c44022c54",
+      "slug": "c-heping-ff6c44022c54",
+      "name": "乐福里",
+      "submarket": "新兴街",
+      "property_use": "unknown",
+      "latest": {
+        "month": "2026-10",
+        "status": "insufficient_sample",
+        "transaction_count": 1,
+        "source_count": 1,
+        "median_unit_price": null,
+        "median_total_price": null,
+        "p25_unit_price": null,
+        "p75_unit_price": null,
+        "mom_pct": null,
+        "yoy_pct": null
+      },
+      "observation": {
+        "month": "2026-10",
+        "transaction_count": 1,
+        "source_count": 1,
+        "median_unit_price": 37416,
+        "median_total_price": 1680000,
+        "min_unit_price": 37416,
+        "max_unit_price": 37416
+      }
+    },
+    {
       "id": "heping-7bf676cb2668",
       "slug": "c-heping-7bf676cb2668",
       "name": "云汉楼",
@@ -8805,6 +8805,34 @@
         "median_total_price": 2139000,
         "min_unit_price": 37415,
         "max_unit_price": 37415
+      }
+    },
+    {
+      "id": "heping-1f6d899bd7e7",
+      "slug": "c-heping-1f6d899bd7e7",
+      "name": "赤峰道",
+      "submarket": "劝业场",
+      "property_use": "unknown",
+      "latest": {
+        "month": "2026-10",
+        "status": "insufficient_sample",
+        "transaction_count": 1,
+        "source_count": 1,
+        "median_unit_price": null,
+        "median_total_price": null,
+        "p25_unit_price": null,
+        "p75_unit_price": null,
+        "mom_pct": null,
+        "yoy_pct": null
+      },
+      "observation": {
+        "month": "2026-10",
+        "transaction_count": 1,
+        "source_count": 1,
+        "median_unit_price": 37378,
+        "median_total_price": 650000,
+        "min_unit_price": 37378,
+        "max_unit_price": 37378
       }
     },
     {
@@ -9032,62 +9060,6 @@
       }
     },
     {
-      "id": "heping-d035ebc8c12a",
-      "slug": "c-heping-d035ebc8c12a",
-      "name": "泰华里",
-      "submarket": "体育馆街",
-      "property_use": "unknown",
-      "latest": {
-        "month": "2026-07",
-        "status": "insufficient_sample",
-        "transaction_count": 1,
-        "source_count": 1,
-        "median_unit_price": null,
-        "median_total_price": null,
-        "p25_unit_price": null,
-        "p75_unit_price": null,
-        "mom_pct": null,
-        "yoy_pct": null
-      },
-      "observation": {
-        "month": "2026-07",
-        "transaction_count": 1,
-        "source_count": 1,
-        "median_unit_price": 36994,
-        "median_total_price": 1600000,
-        "min_unit_price": 36994,
-        "max_unit_price": 36994
-      }
-    },
-    {
-      "id": "heping-488a6f3e1aa1",
-      "slug": "c-heping-488a6f3e1aa1",
-      "name": "卫华里",
-      "submarket": "小白楼",
-      "property_use": "unknown",
-      "latest": {
-        "month": "2026-08",
-        "status": "insufficient_sample",
-        "transaction_count": 2,
-        "source_count": 1,
-        "median_unit_price": null,
-        "median_total_price": null,
-        "p25_unit_price": null,
-        "p75_unit_price": null,
-        "mom_pct": null,
-        "yoy_pct": null
-      },
-      "observation": {
-        "month": "2026-08",
-        "transaction_count": 2,
-        "source_count": 1,
-        "median_unit_price": 36891,
-        "median_total_price": 2300000,
-        "min_unit_price": 27032,
-        "max_unit_price": 46750
-      }
-    },
-    {
       "id": "heping-f9bbdabb703d",
       "slug": "c-heping-f9bbdabb703d",
       "name": "聚庆里",
@@ -9256,13 +9228,13 @@
       }
     },
     {
-      "id": "heping-6af4b77f49d6",
-      "slug": "c-heping-6af4b77f49d6",
-      "name": "天汇雅苑",
-      "submarket": "南市",
+      "id": "heping-d035ebc8c12a",
+      "slug": "c-heping-d035ebc8c12a",
+      "name": "泰华里",
+      "submarket": "体育馆街",
       "property_use": "unknown",
       "latest": {
-        "month": "2026-09",
+        "month": "2026-10",
         "status": "insufficient_sample",
         "transaction_count": 1,
         "source_count": 1,
@@ -9274,13 +9246,13 @@
         "yoy_pct": null
       },
       "observation": {
-        "month": "2026-09",
+        "month": "2026-10",
         "transaction_count": 1,
         "source_count": 1,
-        "median_unit_price": 36333,
-        "median_total_price": 7700000,
-        "min_unit_price": 36333,
-        "max_unit_price": 36333
+        "median_unit_price": 36239,
+        "median_total_price": 1850000,
+        "min_unit_price": 36239,
+        "max_unit_price": 36239
       }
     },
     {
@@ -9340,6 +9312,34 @@
       }
     },
     {
+      "id": "heping-5304ef029390",
+      "slug": "c-heping-5304ef029390",
+      "name": "信华楼",
+      "submarket": "南营门街",
+      "property_use": "unknown",
+      "latest": {
+        "month": "2026-10",
+        "status": "insufficient_sample",
+        "transaction_count": 1,
+        "source_count": 1,
+        "median_unit_price": null,
+        "median_total_price": null,
+        "p25_unit_price": null,
+        "p75_unit_price": null,
+        "mom_pct": null,
+        "yoy_pct": null
+      },
+      "observation": {
+        "month": "2026-10",
+        "transaction_count": 1,
+        "source_count": 1,
+        "median_unit_price": 36081,
+        "median_total_price": 2040000,
+        "min_unit_price": 36081,
+        "max_unit_price": 36081
+      }
+    },
+    {
       "id": "heping-acbf0e896e09",
       "slug": "c-heping-acbf0e896e09",
       "name": "山东路(和平区)",
@@ -9365,6 +9365,34 @@
         "median_total_price": 735000,
         "min_unit_price": 36065,
         "max_unit_price": 36065
+      }
+    },
+    {
+      "id": "heping-457bfea11769",
+      "slug": "c-heping-457bfea11769",
+      "name": "怀远里",
+      "submarket": "南市",
+      "property_use": "unknown",
+      "latest": {
+        "month": "2026-10",
+        "status": "insufficient_sample",
+        "transaction_count": 1,
+        "source_count": 1,
+        "median_unit_price": null,
+        "median_total_price": null,
+        "p25_unit_price": null,
+        "p75_unit_price": null,
+        "mom_pct": null,
+        "yoy_pct": null
+      },
+      "observation": {
+        "month": "2026-10",
+        "transaction_count": 1,
+        "source_count": 1,
+        "median_unit_price": 35912,
+        "median_total_price": 2010000,
+        "min_unit_price": 35912,
+        "max_unit_price": 35912
       }
     },
     {
@@ -9452,34 +9480,6 @@
       }
     },
     {
-      "id": "heping-a9ff4835d6ac",
-      "slug": "c-heping-a9ff4835d6ac",
-      "name": "四平东道",
-      "submarket": "劝业场",
-      "property_use": "unknown",
-      "latest": {
-        "month": "2026-09",
-        "status": "insufficient_sample",
-        "transaction_count": 1,
-        "source_count": 1,
-        "median_unit_price": null,
-        "median_total_price": null,
-        "p25_unit_price": null,
-        "p75_unit_price": null,
-        "mom_pct": null,
-        "yoy_pct": null
-      },
-      "observation": {
-        "month": "2026-09",
-        "transaction_count": 1,
-        "source_count": 1,
-        "median_unit_price": 35660,
-        "median_total_price": 710000,
-        "min_unit_price": 35660,
-        "max_unit_price": 35660
-      }
-    },
-    {
       "id": "heping-98a52c21641b",
       "slug": "c-heping-98a52c21641b",
       "name": "朝阳里",
@@ -9508,62 +9508,6 @@
       }
     },
     {
-      "id": "heping-a54a9a18532c",
-      "slug": "c-heping-a54a9a18532c",
-      "name": "富顿大厦",
-      "submarket": "南市",
-      "property_use": "unknown",
-      "latest": {
-        "month": "2026-08",
-        "status": "insufficient_sample",
-        "transaction_count": 1,
-        "source_count": 1,
-        "median_unit_price": null,
-        "median_total_price": null,
-        "p25_unit_price": null,
-        "p75_unit_price": null,
-        "mom_pct": null,
-        "yoy_pct": null
-      },
-      "observation": {
-        "month": "2026-08",
-        "transaction_count": 1,
-        "source_count": 1,
-        "median_unit_price": 35639,
-        "median_total_price": 3700000,
-        "min_unit_price": 35639,
-        "max_unit_price": 35639
-      }
-    },
-    {
-      "id": "heping-9b2342803167",
-      "slug": "c-heping-9b2342803167",
-      "name": "青岛道",
-      "submarket": "小白楼",
-      "property_use": "unknown",
-      "latest": {
-        "month": "2026-03",
-        "status": "insufficient_sample",
-        "transaction_count": 1,
-        "source_count": 1,
-        "median_unit_price": null,
-        "median_total_price": null,
-        "p25_unit_price": null,
-        "p75_unit_price": null,
-        "mom_pct": null,
-        "yoy_pct": null
-      },
-      "observation": {
-        "month": "2026-03",
-        "transaction_count": 1,
-        "source_count": 1,
-        "median_unit_price": 35591,
-        "median_total_price": 2486000,
-        "min_unit_price": 35591,
-        "max_unit_price": 35591
-      }
-    },
-    {
       "id": "heping-8cc6836b6050",
       "slug": "c-heping-8cc6836b6050",
       "name": "福进里",
@@ -9589,6 +9533,34 @@
         "median_total_price": 850000,
         "min_unit_price": 35550,
         "max_unit_price": 35550
+      }
+    },
+    {
+      "id": "heping-8f03203121a9",
+      "slug": "c-heping-8f03203121a9",
+      "name": "森淼清华园",
+      "submarket": "新兴街",
+      "property_use": "unknown",
+      "latest": {
+        "month": "2026-10",
+        "status": "insufficient_sample",
+        "transaction_count": 2,
+        "source_count": 1,
+        "median_unit_price": null,
+        "median_total_price": null,
+        "p25_unit_price": null,
+        "p75_unit_price": null,
+        "mom_pct": null,
+        "yoy_pct": null
+      },
+      "observation": {
+        "month": "2026-10",
+        "transaction_count": 2,
+        "source_count": 1,
+        "median_unit_price": 35498,
+        "median_total_price": 5555000,
+        "min_unit_price": 34847,
+        "max_unit_price": 36149
       }
     },
     {
@@ -9676,34 +9648,6 @@
       }
     },
     {
-      "id": "heping-7d2975255f0f",
-      "slug": "c-heping-7d2975255f0f",
-      "name": "天新里",
-      "submarket": "南营门街",
-      "property_use": "unknown",
-      "latest": {
-        "month": "2026-08",
-        "status": "insufficient_sample",
-        "transaction_count": 1,
-        "source_count": 1,
-        "median_unit_price": null,
-        "median_total_price": null,
-        "p25_unit_price": null,
-        "p75_unit_price": null,
-        "mom_pct": null,
-        "yoy_pct": null
-      },
-      "observation": {
-        "month": "2026-08",
-        "transaction_count": 1,
-        "source_count": 1,
-        "median_unit_price": 35220,
-        "median_total_price": 1780000,
-        "min_unit_price": 35220,
-        "max_unit_price": 35220
-      }
-    },
-    {
       "id": "heping-f775b3cab6c3",
       "slug": "c-heping-f775b3cab6c3",
       "name": "大理道",
@@ -9729,6 +9673,34 @@
         "median_total_price": 3950000,
         "min_unit_price": 35196,
         "max_unit_price": 35196
+      }
+    },
+    {
+      "id": "heping-97a924a4c4c4",
+      "slug": "c-heping-97a924a4c4c4",
+      "name": "有声里",
+      "submarket": "体育馆街",
+      "property_use": "unknown",
+      "latest": {
+        "month": "2026-10",
+        "status": "insufficient_sample",
+        "transaction_count": 1,
+        "source_count": 1,
+        "median_unit_price": null,
+        "median_total_price": null,
+        "p25_unit_price": null,
+        "p75_unit_price": null,
+        "mom_pct": null,
+        "yoy_pct": null
+      },
+      "observation": {
+        "month": "2026-10",
+        "transaction_count": 1,
+        "source_count": 1,
+        "median_unit_price": 35152,
+        "median_total_price": 1160000,
+        "min_unit_price": 35152,
+        "max_unit_price": 35152
       }
     },
     {
@@ -9760,40 +9732,12 @@
       }
     },
     {
-      "id": "heping-f659d6ddd3c6",
-      "slug": "c-heping-f659d6ddd3c6",
-      "name": "气象东里",
+      "id": "heping-9b2342803167",
+      "slug": "c-heping-9b2342803167",
+      "name": "青岛道",
       "submarket": "小白楼",
       "property_use": "unknown",
       "latest": {
-        "month": "2026-08",
-        "status": "insufficient_sample",
-        "transaction_count": 2,
-        "source_count": 1,
-        "median_unit_price": null,
-        "median_total_price": null,
-        "p25_unit_price": null,
-        "p75_unit_price": null,
-        "mom_pct": null,
-        "yoy_pct": null
-      },
-      "observation": {
-        "month": "2026-08",
-        "transaction_count": 2,
-        "source_count": 1,
-        "median_unit_price": 34991,
-        "median_total_price": 1627500,
-        "min_unit_price": 29059,
-        "max_unit_price": 40923
-      }
-    },
-    {
-      "id": "heping-8f03203121a9",
-      "slug": "c-heping-8f03203121a9",
-      "name": "森淼清华园",
-      "submarket": "新兴街",
-      "property_use": "unknown",
-      "latest": {
         "month": "2026-10",
         "status": "insufficient_sample",
         "transaction_count": 1,
@@ -9809,10 +9753,10 @@
         "month": "2026-10",
         "transaction_count": 1,
         "source_count": 1,
-        "median_unit_price": 34847,
-        "median_total_price": 4850000,
-        "min_unit_price": 34847,
-        "max_unit_price": 34847
+        "median_unit_price": 35104,
+        "median_total_price": 2306000,
+        "min_unit_price": 35104,
+        "max_unit_price": 35104
       }
     },
     {
@@ -9928,34 +9872,6 @@
       }
     },
     {
-      "id": "heping-38458fc4acf6",
-      "slug": "c-heping-38458fc4acf6",
-      "name": "融御融景华庭",
-      "submarket": "小白楼",
-      "property_use": "unknown",
-      "latest": {
-        "month": "2026-10",
-        "status": "insufficient_sample",
-        "transaction_count": 1,
-        "source_count": 1,
-        "median_unit_price": null,
-        "median_total_price": null,
-        "p25_unit_price": null,
-        "p75_unit_price": null,
-        "mom_pct": null,
-        "yoy_pct": null
-      },
-      "observation": {
-        "month": "2026-10",
-        "transaction_count": 1,
-        "source_count": 1,
-        "median_unit_price": 34321,
-        "median_total_price": 3220000,
-        "min_unit_price": 34321,
-        "max_unit_price": 34321
-      }
-    },
-    {
       "id": "heping-d07b66249800",
       "slug": "c-heping-d07b66249800",
       "name": "天海里",
@@ -10040,15 +9956,15 @@
       }
     },
     {
-      "id": "heping-90a5e7a08923",
-      "slug": "c-heping-90a5e7a08923",
-      "name": "唐山道",
+      "id": "heping-38458fc4acf6",
+      "slug": "c-heping-38458fc4acf6",
+      "name": "融御融景华庭",
       "submarket": "小白楼",
       "property_use": "unknown",
       "latest": {
-        "month": "2026-04",
+        "month": "2026-10",
         "status": "insufficient_sample",
-        "transaction_count": 1,
+        "transaction_count": 2,
         "source_count": 1,
         "median_unit_price": null,
         "median_total_price": null,
@@ -10058,13 +9974,13 @@
         "yoy_pct": null
       },
       "observation": {
-        "month": "2026-04",
-        "transaction_count": 1,
+        "month": "2026-10",
+        "transaction_count": 2,
         "source_count": 1,
-        "median_unit_price": 34093,
-        "median_total_price": 2320000,
-        "min_unit_price": 34093,
-        "max_unit_price": 34093
+        "median_unit_price": 33895,
+        "median_total_price": 3174000,
+        "min_unit_price": 33469,
+        "max_unit_price": 34321
       }
     },
     {
@@ -10124,13 +10040,41 @@
       }
     },
     {
-      "id": "heping-bf3f8bd7b35d",
-      "slug": "c-heping-bf3f8bd7b35d",
-      "name": "兴河里",
-      "submarket": "新兴街",
+      "id": "heping-488a6f3e1aa1",
+      "slug": "c-heping-488a6f3e1aa1",
+      "name": "卫华里",
+      "submarket": "小白楼",
       "property_use": "unknown",
       "latest": {
-        "month": "2026-09",
+        "month": "2026-10",
+        "status": "insufficient_sample",
+        "transaction_count": 2,
+        "source_count": 1,
+        "median_unit_price": null,
+        "median_total_price": null,
+        "p25_unit_price": null,
+        "p75_unit_price": null,
+        "mom_pct": null,
+        "yoy_pct": null
+      },
+      "observation": {
+        "month": "2026-10",
+        "transaction_count": 2,
+        "source_count": 1,
+        "median_unit_price": 33304,
+        "median_total_price": 2002000,
+        "min_unit_price": 32761,
+        "max_unit_price": 33848
+      }
+    },
+    {
+      "id": "heping-6d6967bb1810",
+      "slug": "c-heping-6d6967bb1810",
+      "name": "观云里",
+      "submarket": "南营门街",
+      "property_use": "unknown",
+      "latest": {
+        "month": "2026-10",
         "status": "insufficient_sample",
         "transaction_count": 1,
         "source_count": 1,
@@ -10142,13 +10086,13 @@
         "yoy_pct": null
       },
       "observation": {
-        "month": "2026-09",
+        "month": "2026-10",
         "transaction_count": 1,
         "source_count": 1,
-        "median_unit_price": 33474,
-        "median_total_price": 1750000,
-        "min_unit_price": 33474,
-        "max_unit_price": 33474
+        "median_unit_price": 33233,
+        "median_total_price": 1648000,
+        "min_unit_price": 33233,
+        "max_unit_price": 33233
       }
     },
     {
@@ -10177,6 +10121,62 @@
         "median_total_price": 2098000,
         "min_unit_price": 33107,
         "max_unit_price": 33107
+      }
+    },
+    {
+      "id": "heping-7d2975255f0f",
+      "slug": "c-heping-7d2975255f0f",
+      "name": "天新里",
+      "submarket": "南营门街",
+      "property_use": "unknown",
+      "latest": {
+        "month": "2026-10",
+        "status": "insufficient_sample",
+        "transaction_count": 1,
+        "source_count": 1,
+        "median_unit_price": null,
+        "median_total_price": null,
+        "p25_unit_price": null,
+        "p75_unit_price": null,
+        "mom_pct": null,
+        "yoy_pct": null
+      },
+      "observation": {
+        "month": "2026-10",
+        "transaction_count": 1,
+        "source_count": 1,
+        "median_unit_price": 33075,
+        "median_total_price": 1880000,
+        "min_unit_price": 33075,
+        "max_unit_price": 33075
+      }
+    },
+    {
+      "id": "heping-a61463bf78c6",
+      "slug": "c-heping-a61463bf78c6",
+      "name": "志善里",
+      "submarket": "劝业场",
+      "property_use": "unknown",
+      "latest": {
+        "month": "2026-10",
+        "status": "insufficient_sample",
+        "transaction_count": 2,
+        "source_count": 1,
+        "median_unit_price": null,
+        "median_total_price": null,
+        "p25_unit_price": null,
+        "p75_unit_price": null,
+        "mom_pct": null,
+        "yoy_pct": null
+      },
+      "observation": {
+        "month": "2026-10",
+        "transaction_count": 2,
+        "source_count": 1,
+        "median_unit_price": 33044,
+        "median_total_price": 2457500,
+        "min_unit_price": 32391,
+        "max_unit_price": 33698
       }
     },
     {
@@ -10317,6 +10317,62 @@
         "median_total_price": 1825000,
         "min_unit_price": 32414,
         "max_unit_price": 32951
+      }
+    },
+    {
+      "id": "heping-98bf384c9a13",
+      "slug": "c-heping-98bf384c9a13",
+      "name": "益寿里",
+      "submarket": "体育馆街",
+      "property_use": "unknown",
+      "latest": {
+        "month": "2026-10",
+        "status": "published",
+        "transaction_count": 3,
+        "source_count": 1,
+        "median_unit_price": 32668,
+        "median_total_price": 2665000,
+        "p25_unit_price": 30648,
+        "p75_unit_price": 54116,
+        "mom_pct": null,
+        "yoy_pct": null
+      },
+      "observation": {
+        "month": "2026-10",
+        "transaction_count": 3,
+        "source_count": 1,
+        "median_unit_price": 32668,
+        "median_total_price": 2665000,
+        "min_unit_price": 28628,
+        "max_unit_price": 75564
+      }
+    },
+    {
+      "id": "heping-fc92899b7058",
+      "slug": "c-heping-fc92899b7058",
+      "name": "保利金香槟",
+      "submarket": "南市",
+      "property_use": "unknown",
+      "latest": {
+        "month": "2026-10",
+        "status": "insufficient_sample",
+        "transaction_count": 1,
+        "source_count": 1,
+        "median_unit_price": null,
+        "median_total_price": null,
+        "p25_unit_price": null,
+        "p75_unit_price": null,
+        "mom_pct": null,
+        "yoy_pct": null
+      },
+      "observation": {
+        "month": "2026-10",
+        "transaction_count": 1,
+        "source_count": 1,
+        "median_unit_price": 32650,
+        "median_total_price": 2564000,
+        "min_unit_price": 32650,
+        "max_unit_price": 32650
       }
     },
     {
@@ -10628,34 +10684,6 @@
       }
     },
     {
-      "id": "heping-a40c2186bfad",
-      "slug": "c-heping-a40c2186bfad",
-      "name": "三友里",
-      "submarket": "新兴街",
-      "property_use": "unknown",
-      "latest": {
-        "month": "2026-08",
-        "status": "insufficient_sample",
-        "transaction_count": 2,
-        "source_count": 1,
-        "median_unit_price": null,
-        "median_total_price": null,
-        "p25_unit_price": null,
-        "p75_unit_price": null,
-        "mom_pct": null,
-        "yoy_pct": null
-      },
-      "observation": {
-        "month": "2026-08",
-        "transaction_count": 2,
-        "source_count": 1,
-        "median_unit_price": 32045,
-        "median_total_price": 1775000,
-        "min_unit_price": 23157,
-        "max_unit_price": 40933
-      }
-    },
-    {
       "id": "heping-e8464deddc7a",
       "slug": "c-heping-e8464deddc7a",
       "name": "云琅新居",
@@ -10740,13 +10768,13 @@
       }
     },
     {
-      "id": "heping-6d6967bb1810",
-      "slug": "c-heping-6d6967bb1810",
-      "name": "观云里",
-      "submarket": "南营门街",
+      "id": "heping-16b20bc6e5c7",
+      "slug": "c-heping-16b20bc6e5c7",
+      "name": "南京路(和平区)",
+      "submarket": "小白楼",
       "property_use": "unknown",
       "latest": {
-        "month": "2026-08",
+        "month": "2026-10",
         "status": "insufficient_sample",
         "transaction_count": 2,
         "source_count": 1,
@@ -10758,13 +10786,13 @@
         "yoy_pct": null
       },
       "observation": {
-        "month": "2026-08",
+        "month": "2026-10",
         "transaction_count": 2,
         "source_count": 1,
-        "median_unit_price": 31680,
-        "median_total_price": 2210000,
-        "min_unit_price": 27553,
-        "max_unit_price": 35808
+        "median_unit_price": 31554,
+        "median_total_price": 2325000,
+        "min_unit_price": 30415,
+        "max_unit_price": 32693
       }
     },
     {
@@ -10796,6 +10824,34 @@
       }
     },
     {
+      "id": "heping-557b258e1e7d",
+      "slug": "c-heping-557b258e1e7d",
+      "name": "兴富里",
+      "submarket": "体育馆街",
+      "property_use": "unknown",
+      "latest": {
+        "month": "2026-10",
+        "status": "insufficient_sample",
+        "transaction_count": 1,
+        "source_count": 1,
+        "median_unit_price": null,
+        "median_total_price": null,
+        "p25_unit_price": null,
+        "p75_unit_price": null,
+        "mom_pct": null,
+        "yoy_pct": null
+      },
+      "observation": {
+        "month": "2026-10",
+        "transaction_count": 1,
+        "source_count": 1,
+        "median_unit_price": 31472,
+        "median_total_price": 823315,
+        "min_unit_price": 31472,
+        "max_unit_price": 31472
+      }
+    },
+    {
       "id": "heping-0f1f69243b93",
       "slug": "c-heping-0f1f69243b93",
       "name": "福安里",
@@ -10821,6 +10877,34 @@
         "median_total_price": 758000,
         "min_unit_price": 31387,
         "max_unit_price": 31387
+      }
+    },
+    {
+      "id": "heping-a54a9a18532c",
+      "slug": "c-heping-a54a9a18532c",
+      "name": "富顿大厦",
+      "submarket": "南市",
+      "property_use": "unknown",
+      "latest": {
+        "month": "2026-10",
+        "status": "insufficient_sample",
+        "transaction_count": 1,
+        "source_count": 1,
+        "median_unit_price": null,
+        "median_total_price": null,
+        "p25_unit_price": null,
+        "p75_unit_price": null,
+        "mom_pct": null,
+        "yoy_pct": null
+      },
+      "observation": {
+        "month": "2026-10",
+        "transaction_count": 1,
+        "source_count": 1,
+        "median_unit_price": 31385,
+        "median_total_price": 4640000,
+        "min_unit_price": 31385,
+        "max_unit_price": 31385
       }
     },
     {
@@ -10880,6 +10964,34 @@
       }
     },
     {
+      "id": "heping-45bcc20871c8",
+      "slug": "c-heping-45bcc20871c8",
+      "name": "河北路(劝业场)",
+      "submarket": "劝业场",
+      "property_use": "unknown",
+      "latest": {
+        "month": "2026-10",
+        "status": "insufficient_sample",
+        "transaction_count": 1,
+        "source_count": 1,
+        "median_unit_price": null,
+        "median_total_price": null,
+        "p25_unit_price": null,
+        "p75_unit_price": null,
+        "mom_pct": null,
+        "yoy_pct": null
+      },
+      "observation": {
+        "month": "2026-10",
+        "transaction_count": 1,
+        "source_count": 1,
+        "median_unit_price": 31005,
+        "median_total_price": 737310,
+        "min_unit_price": 31005,
+        "max_unit_price": 31005
+      }
+    },
+    {
       "id": "heping-0ac1c67aa16c",
       "slug": "c-heping-0ac1c67aa16c",
       "name": "康乐里",
@@ -10905,34 +11017,6 @@
         "median_total_price": 1860000,
         "min_unit_price": 30887,
         "max_unit_price": 30887
-      }
-    },
-    {
-      "id": "heping-00ffa9b07b2c",
-      "slug": "c-heping-00ffa9b07b2c",
-      "name": "兴隆南里",
-      "submarket": "劝业场",
-      "property_use": "unknown",
-      "latest": {
-        "month": "2026-07",
-        "status": "insufficient_sample",
-        "transaction_count": 1,
-        "source_count": 1,
-        "median_unit_price": null,
-        "median_total_price": null,
-        "p25_unit_price": null,
-        "p75_unit_price": null,
-        "mom_pct": null,
-        "yoy_pct": null
-      },
-      "observation": {
-        "month": "2026-07",
-        "transaction_count": 1,
-        "source_count": 1,
-        "median_unit_price": 30872,
-        "median_total_price": 1647000,
-        "min_unit_price": 30872,
-        "max_unit_price": 30872
       }
     },
     {
@@ -11045,34 +11129,6 @@
         "median_total_price": 772000,
         "min_unit_price": 30720,
         "max_unit_price": 30720
-      }
-    },
-    {
-      "id": "heping-ea4f7c1cfae4",
-      "slug": "c-heping-ea4f7c1cfae4",
-      "name": "台儿庄路(和平区)",
-      "submarket": "小白楼",
-      "property_use": "unknown",
-      "latest": {
-        "month": "2026-05",
-        "status": "published",
-        "transaction_count": 3,
-        "source_count": 1,
-        "median_unit_price": 30615,
-        "median_total_price": 1960000,
-        "p25_unit_price": 30194,
-        "p75_unit_price": 31456,
-        "mom_pct": null,
-        "yoy_pct": null
-      },
-      "observation": {
-        "month": "2026-05",
-        "transaction_count": 3,
-        "source_count": 1,
-        "median_unit_price": 30615,
-        "median_total_price": 1960000,
-        "min_unit_price": 29774,
-        "max_unit_price": 32296
       }
     },
     {
@@ -11244,6 +11300,90 @@
       }
     },
     {
+      "id": "heping-8184040d56fb",
+      "slug": "c-heping-8184040d56fb",
+      "name": "求志里",
+      "submarket": "体育馆街",
+      "property_use": "unknown",
+      "latest": {
+        "month": "2026-10",
+        "status": "insufficient_sample",
+        "transaction_count": 1,
+        "source_count": 1,
+        "median_unit_price": null,
+        "median_total_price": null,
+        "p25_unit_price": null,
+        "p75_unit_price": null,
+        "mom_pct": null,
+        "yoy_pct": null
+      },
+      "observation": {
+        "month": "2026-10",
+        "transaction_count": 1,
+        "source_count": 1,
+        "median_unit_price": 30113,
+        "median_total_price": 720000,
+        "min_unit_price": 30113,
+        "max_unit_price": 30113
+      }
+    },
+    {
+      "id": "heping-da8e55a4b14f",
+      "slug": "c-heping-da8e55a4b14f",
+      "name": "世家新苑",
+      "submarket": "新兴街",
+      "property_use": "unknown",
+      "latest": {
+        "month": "2026-10",
+        "status": "insufficient_sample",
+        "transaction_count": 1,
+        "source_count": 1,
+        "median_unit_price": null,
+        "median_total_price": null,
+        "p25_unit_price": null,
+        "p75_unit_price": null,
+        "mom_pct": null,
+        "yoy_pct": null
+      },
+      "observation": {
+        "month": "2026-10",
+        "transaction_count": 1,
+        "source_count": 1,
+        "median_unit_price": 30073,
+        "median_total_price": 1805000,
+        "min_unit_price": 30073,
+        "max_unit_price": 30073
+      }
+    },
+    {
+      "id": "heping-ea4f7c1cfae4",
+      "slug": "c-heping-ea4f7c1cfae4",
+      "name": "台儿庄路(和平区)",
+      "submarket": "小白楼",
+      "property_use": "unknown",
+      "latest": {
+        "month": "2026-10",
+        "status": "insufficient_sample",
+        "transaction_count": 1,
+        "source_count": 1,
+        "median_unit_price": null,
+        "median_total_price": null,
+        "p25_unit_price": null,
+        "p75_unit_price": null,
+        "mom_pct": null,
+        "yoy_pct": null
+      },
+      "observation": {
+        "month": "2026-10",
+        "transaction_count": 1,
+        "source_count": 1,
+        "median_unit_price": 30061,
+        "median_total_price": 1963000,
+        "min_unit_price": 30061,
+        "max_unit_price": 30061
+      }
+    },
+    {
       "id": "heping-832a43861344",
       "slug": "c-heping-832a43861344",
       "name": "建设路",
@@ -11272,41 +11412,13 @@
       }
     },
     {
-      "id": "heping-da8e55a4b14f",
-      "slug": "c-heping-da8e55a4b14f",
-      "name": "世家新苑",
-      "submarket": "新兴街",
-      "property_use": "unknown",
-      "latest": {
-        "month": "2026-09",
-        "status": "insufficient_sample",
-        "transaction_count": 1,
-        "source_count": 1,
-        "median_unit_price": null,
-        "median_total_price": null,
-        "p25_unit_price": null,
-        "p75_unit_price": null,
-        "mom_pct": null,
-        "yoy_pct": null
-      },
-      "observation": {
-        "month": "2026-09",
-        "transaction_count": 1,
-        "source_count": 1,
-        "median_unit_price": 29949,
-        "median_total_price": 1804000,
-        "min_unit_price": 29949,
-        "max_unit_price": 29949
-      }
-    },
-    {
-      "id": "heping-a61463bf78c6",
-      "slug": "c-heping-a61463bf78c6",
-      "name": "志善里",
+      "id": "heping-00ffa9b07b2c",
+      "slug": "c-heping-00ffa9b07b2c",
+      "name": "兴隆南里",
       "submarket": "劝业场",
       "property_use": "unknown",
       "latest": {
-        "month": "2026-06",
+        "month": "2026-10",
         "status": "insufficient_sample",
         "transaction_count": 1,
         "source_count": 1,
@@ -11318,13 +11430,13 @@
         "yoy_pct": null
       },
       "observation": {
-        "month": "2026-06",
+        "month": "2026-10",
         "transaction_count": 1,
         "source_count": 1,
-        "median_unit_price": 29945,
-        "median_total_price": 1685000,
-        "min_unit_price": 29945,
-        "max_unit_price": 29945
+        "median_unit_price": 29886,
+        "median_total_price": 1520000,
+        "min_unit_price": 29886,
+        "max_unit_price": 29886
       }
     },
     {
@@ -11381,6 +11493,34 @@
         "median_total_price": 3165000,
         "min_unit_price": 25100,
         "max_unit_price": 34285
+      }
+    },
+    {
+      "id": "heping-e13783ed4acd",
+      "slug": "c-heping-e13783ed4acd",
+      "name": "诚基经贸中心",
+      "submarket": "体育馆街",
+      "property_use": "unknown",
+      "latest": {
+        "month": "2026-10",
+        "status": "published",
+        "transaction_count": 3,
+        "source_count": 1,
+        "median_unit_price": 29668,
+        "median_total_price": 1560000,
+        "p25_unit_price": 27866,
+        "p75_unit_price": 30131,
+        "mom_pct": null,
+        "yoy_pct": null
+      },
+      "observation": {
+        "month": "2026-10",
+        "transaction_count": 3,
+        "source_count": 1,
+        "median_unit_price": 29668,
+        "median_total_price": 1560000,
+        "min_unit_price": 26064,
+        "max_unit_price": 30594
       }
     },
     {
@@ -11468,6 +11608,34 @@
       }
     },
     {
+      "id": "heping-f659d6ddd3c6",
+      "slug": "c-heping-f659d6ddd3c6",
+      "name": "气象东里",
+      "submarket": "小白楼",
+      "property_use": "unknown",
+      "latest": {
+        "month": "2026-10",
+        "status": "insufficient_sample",
+        "transaction_count": 2,
+        "source_count": 1,
+        "median_unit_price": null,
+        "median_total_price": null,
+        "p25_unit_price": null,
+        "p75_unit_price": null,
+        "mom_pct": null,
+        "yoy_pct": null
+      },
+      "observation": {
+        "month": "2026-10",
+        "transaction_count": 2,
+        "source_count": 1,
+        "median_unit_price": 29518,
+        "median_total_price": 1895000,
+        "min_unit_price": 27100,
+        "max_unit_price": 31935
+      }
+    },
+    {
       "id": "heping-671d0b596472",
       "slug": "c-heping-671d0b596472",
       "name": "春荣里",
@@ -11552,6 +11720,34 @@
       }
     },
     {
+      "id": "heping-a40c2186bfad",
+      "slug": "c-heping-a40c2186bfad",
+      "name": "三友里",
+      "submarket": "新兴街",
+      "property_use": "unknown",
+      "latest": {
+        "month": "2026-10",
+        "status": "insufficient_sample",
+        "transaction_count": 1,
+        "source_count": 1,
+        "median_unit_price": null,
+        "median_total_price": null,
+        "p25_unit_price": null,
+        "p75_unit_price": null,
+        "mom_pct": null,
+        "yoy_pct": null
+      },
+      "observation": {
+        "month": "2026-10",
+        "transaction_count": 1,
+        "source_count": 1,
+        "median_unit_price": 28172,
+        "median_total_price": 822000,
+        "min_unit_price": 28172,
+        "max_unit_price": 28172
+      }
+    },
+    {
       "id": "heping-de1e1bdd460a",
       "slug": "c-heping-de1e1bdd460a",
       "name": "开封里小区",
@@ -11577,34 +11773,6 @@
         "median_total_price": 1866000,
         "min_unit_price": 27492,
         "max_unit_price": 28765
-      }
-    },
-    {
-      "id": "heping-78dc855bbe0b",
-      "slug": "c-heping-78dc855bbe0b",
-      "name": "信义里(小白楼)",
-      "submarket": "小白楼",
-      "property_use": "unknown",
-      "latest": {
-        "month": "2026-08",
-        "status": "insufficient_sample",
-        "transaction_count": 1,
-        "source_count": 1,
-        "median_unit_price": null,
-        "median_total_price": null,
-        "p25_unit_price": null,
-        "p75_unit_price": null,
-        "mom_pct": null,
-        "yoy_pct": null
-      },
-      "observation": {
-        "month": "2026-08",
-        "transaction_count": 1,
-        "source_count": 1,
-        "median_unit_price": 27977,
-        "median_total_price": 1790000,
-        "min_unit_price": 27977,
-        "max_unit_price": 27977
       }
     },
     {
@@ -11860,13 +12028,13 @@
       }
     },
     {
-      "id": "heping-16b20bc6e5c7",
-      "slug": "c-heping-16b20bc6e5c7",
-      "name": "南京路(和平区)",
-      "submarket": "小白楼",
+      "id": "heping-95f5d441fd36",
+      "slug": "c-heping-95f5d441fd36",
+      "name": "爱建公寓",
+      "submarket": "劝业场",
       "property_use": "unknown",
       "latest": {
-        "month": "2026-06",
+        "month": "2026-10",
         "status": "insufficient_sample",
         "transaction_count": 1,
         "source_count": 1,
@@ -11878,13 +12046,13 @@
         "yoy_pct": null
       },
       "observation": {
-        "month": "2026-06",
+        "month": "2026-10",
         "transaction_count": 1,
         "source_count": 1,
-        "median_unit_price": 26100,
-        "median_total_price": 2420000,
-        "min_unit_price": 26100,
-        "max_unit_price": 26100
+        "median_unit_price": 25855,
+        "median_total_price": 2849000,
+        "min_unit_price": 25855,
+        "max_unit_price": 25855
       }
     },
     {
@@ -11969,6 +12137,34 @@
         "median_total_price": 680008,
         "min_unit_price": 25545,
         "max_unit_price": 25545
+      }
+    },
+    {
+      "id": "heping-a3433b9e6043",
+      "slug": "c-heping-a3433b9e6043",
+      "name": "新华路(劝业场)",
+      "submarket": "小白楼",
+      "property_use": "unknown",
+      "latest": {
+        "month": "2026-10",
+        "status": "insufficient_sample",
+        "transaction_count": 1,
+        "source_count": 1,
+        "median_unit_price": null,
+        "median_total_price": null,
+        "p25_unit_price": null,
+        "p75_unit_price": null,
+        "mom_pct": null,
+        "yoy_pct": null
+      },
+      "observation": {
+        "month": "2026-10",
+        "transaction_count": 1,
+        "source_count": 1,
+        "median_unit_price": 25537,
+        "median_total_price": 2200000,
+        "min_unit_price": 25537,
+        "max_unit_price": 25537
       }
     },
     {
@@ -12308,6 +12504,34 @@
       }
     },
     {
+      "id": "heping-c0f64e184035",
+      "slug": "c-heping-c0f64e184035",
+      "name": "长沙路",
+      "submarket": "体育馆街",
+      "property_use": "unknown",
+      "latest": {
+        "month": "2026-10",
+        "status": "insufficient_sample",
+        "transaction_count": 1,
+        "source_count": 1,
+        "median_unit_price": null,
+        "median_total_price": null,
+        "p25_unit_price": null,
+        "p75_unit_price": null,
+        "mom_pct": null,
+        "yoy_pct": null
+      },
+      "observation": {
+        "month": "2026-10",
+        "transaction_count": 1,
+        "source_count": 1,
+        "median_unit_price": 23644,
+        "median_total_price": 850000,
+        "min_unit_price": 23644,
+        "max_unit_price": 23644
+      }
+    },
+    {
       "id": "heping-5b2772124315",
       "slug": "c-heping-5b2772124315",
       "name": "开发里",
@@ -12510,7 +12734,7 @@
       "submarket": "南营门街",
       "property_use": "unknown",
       "latest": {
-        "month": "2026-09",
+        "month": "2026-10",
         "status": "insufficient_sample",
         "transaction_count": 1,
         "source_count": 1,
@@ -12522,13 +12746,13 @@
         "yoy_pct": null
       },
       "observation": {
-        "month": "2026-09",
+        "month": "2026-10",
         "transaction_count": 1,
         "source_count": 1,
-        "median_unit_price": 22164,
-        "median_total_price": 1530000,
-        "min_unit_price": 22164,
-        "max_unit_price": 22164
+        "median_unit_price": 22623,
+        "median_total_price": 1480000,
+        "min_unit_price": 22623,
+        "max_unit_price": 22623
       }
     },
     {
@@ -12672,34 +12896,6 @@
       }
     },
     {
-      "id": "heping-a3433b9e6043",
-      "slug": "c-heping-a3433b9e6043",
-      "name": "新华路(劝业场)",
-      "submarket": "小白楼",
-      "property_use": "unknown",
-      "latest": {
-        "month": "2026-09",
-        "status": "insufficient_sample",
-        "transaction_count": 1,
-        "source_count": 1,
-        "median_unit_price": null,
-        "median_total_price": null,
-        "p25_unit_price": null,
-        "p75_unit_price": null,
-        "mom_pct": null,
-        "yoy_pct": null
-      },
-      "observation": {
-        "month": "2026-09",
-        "transaction_count": 1,
-        "source_count": 1,
-        "median_unit_price": 20476,
-        "median_total_price": 860000,
-        "min_unit_price": 20476,
-        "max_unit_price": 20476
-      }
-    },
-    {
       "id": "heping-1e287f3e5d1f",
       "slug": "c-heping-1e287f3e5d1f",
       "name": "华润紫阳里",
@@ -12812,34 +13008,6 @@
       }
     },
     {
-      "id": "heping-e13783ed4acd",
-      "slug": "c-heping-e13783ed4acd",
-      "name": "诚基经贸中心",
-      "submarket": "体育馆街",
-      "property_use": "unknown",
-      "latest": {
-        "month": "2026-09",
-        "status": "insufficient_sample",
-        "transaction_count": 1,
-        "source_count": 1,
-        "median_unit_price": null,
-        "median_total_price": null,
-        "p25_unit_price": null,
-        "p75_unit_price": null,
-        "mom_pct": null,
-        "yoy_pct": null
-      },
-      "observation": {
-        "month": "2026-09",
-        "transaction_count": 1,
-        "source_count": 1,
-        "median_unit_price": 19201,
-        "median_total_price": 2830000,
-        "min_unit_price": 19201,
-        "max_unit_price": 19201
-      }
-    },
-    {
       "id": "heping-6fbcb6871d67",
       "slug": "c-heping-6fbcb6871d67",
       "name": "新春巷",
@@ -12868,6 +13036,34 @@
       }
     },
     {
+      "id": "heping-3c3977a8b4c0",
+      "slug": "c-heping-3c3977a8b4c0",
+      "name": "革新里",
+      "submarket": "体育馆街",
+      "property_use": "unknown",
+      "latest": {
+        "month": "2026-10",
+        "status": "insufficient_sample",
+        "transaction_count": 1,
+        "source_count": 1,
+        "median_unit_price": null,
+        "median_total_price": null,
+        "p25_unit_price": null,
+        "p75_unit_price": null,
+        "mom_pct": null,
+        "yoy_pct": null
+      },
+      "observation": {
+        "month": "2026-10",
+        "transaction_count": 1,
+        "source_count": 1,
+        "median_unit_price": 18559,
+        "median_total_price": 1030000,
+        "min_unit_price": 18559,
+        "max_unit_price": 18559
+      }
+    },
+    {
       "id": "heping-ad65d0b73924",
       "slug": "c-heping-ad65d0b73924",
       "name": "承德道",
@@ -12893,6 +13089,34 @@
         "median_total_price": 950000,
         "min_unit_price": 17625,
         "max_unit_price": 17625
+      }
+    },
+    {
+      "id": "heping-d69aeb2e903e",
+      "slug": "c-heping-d69aeb2e903e",
+      "name": "世界里",
+      "submarket": "体育馆街",
+      "property_use": "unknown",
+      "latest": {
+        "month": "2026-10",
+        "status": "insufficient_sample",
+        "transaction_count": 1,
+        "source_count": 1,
+        "median_unit_price": null,
+        "median_total_price": null,
+        "p25_unit_price": null,
+        "p75_unit_price": null,
+        "mom_pct": null,
+        "yoy_pct": null
+      },
+      "observation": {
+        "month": "2026-10",
+        "transaction_count": 1,
+        "source_count": 1,
+        "median_unit_price": 17007,
+        "median_total_price": 400000,
+        "min_unit_price": 17007,
+        "max_unit_price": 17007
       }
     },
     {
@@ -13046,11 +13270,11 @@
         "≥144㎡"
       ],
       "counts": [
-        1084,
-        293,
-        80,
-        34,
-        46
+        1145,
+        315,
+        84,
+        36,
+        48
       ]
     },
     "total_price": {
@@ -13062,11 +13286,11 @@
         "≥500万"
       ],
       "counts": [
-        378,
-        658,
-        300,
-        157,
-        44
+        400,
+        689,
+        328,
+        165,
+        46
       ]
     }
   }

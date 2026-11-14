@@ -14,22 +14,22 @@
   "latest": {
     "month": "2026-10",
     "status": "published",
-    "transaction_count": 4,
+    "transaction_count": 6,
     "source_count": 1,
-    "median_unit_price": 20300,
-    "median_total_price": 880000,
-    "p25_unit_price": 19082,
-    "p75_unit_price": 22084,
+    "median_unit_price": 20204,
+    "median_total_price": 875000,
+    "p25_unit_price": 17388,
+    "p75_unit_price": 20623,
     "mom_pct": null,
     "yoy_pct": null
   },
   "observation": {
     "month": "2026-10",
-    "transaction_count": 4,
+    "transaction_count": 6,
     "source_count": 1,
-    "median_unit_price": 20300,
-    "median_total_price": 880000,
-    "min_unit_price": 16540,
+    "median_unit_price": 20204,
+    "median_total_price": 875000,
+    "min_unit_price": 13523,
     "max_unit_price": 26325
   },
   "series": [
@@ -312,13 +312,13 @@
     {
       "month": "2026-10",
       "status": "published",
-      "transaction_count": 4,
+      "transaction_count": 6,
       "source_count": 1,
-      "median_unit_price": 20300,
-      "median_total_price": 880000,
-      "p25_unit_price": 19082,
-      "p75_unit_price": 22084,
-      "mom_pct": -6.6,
+      "median_unit_price": 20204,
+      "median_total_price": 875000,
+      "p25_unit_price": 17388,
+      "p75_unit_price": 20623,
+      "mom_pct": -7.0,
       "yoy_pct": null
     }
   ],
@@ -332,8 +332,8 @@
         "≥144㎡"
       ],
       "counts": [
-        24,
-        2,
+        25,
+        3,
         0,
         0,
         0
@@ -348,7 +348,7 @@
         "≥500万"
       ],
       "counts": [
-        16,
+        18,
         10,
         0,
         0,
@@ -357,6 +357,22 @@
     }
   },
   "transactions": [
+    {
+      "deal_date": "2026-10-31",
+      "layout": "1-1-1-1",
+      "area_sqm": 43.46,
+      "floor": "4/6",
+      "total_price_yuan": 890000,
+      "unit_price_yuan": 20479
+    },
+    {
+      "deal_date": "2026-10-21",
+      "layout": "2-1-1-1",
+      "area_sqm": 60.86,
+      "floor": "6/6",
+      "total_price_yuan": 823000,
+      "unit_price_yuan": 13523
+    },
     {
       "deal_date": "2026-10-18",
       "layout": "2-1-1-1",

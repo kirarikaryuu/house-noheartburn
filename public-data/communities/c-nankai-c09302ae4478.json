@@ -14,22 +14,22 @@
   "latest": {
     "month": "2026-10",
     "status": "published",
-    "transaction_count": 3,
+    "transaction_count": 5,
     "source_count": 1,
     "median_unit_price": 14022,
-    "median_total_price": 1230000,
-    "p25_unit_price": 13482,
-    "p75_unit_price": 14865,
+    "median_total_price": 1360000,
+    "p25_unit_price": 12942,
+    "p75_unit_price": 14535,
     "mom_pct": null,
     "yoy_pct": null
   },
   "observation": {
     "month": "2026-10",
-    "transaction_count": 3,
+    "transaction_count": 5,
     "source_count": 1,
     "median_unit_price": 14022,
-    "median_total_price": 1230000,
-    "min_unit_price": 12942,
+    "median_total_price": 1360000,
+    "min_unit_price": 11707,
     "max_unit_price": 15708
   },
   "series": [
@@ -312,12 +312,12 @@
     {
       "month": "2026-10",
       "status": "published",
-      "transaction_count": 3,
+      "transaction_count": 5,
       "source_count": 1,
       "median_unit_price": 14022,
-      "median_total_price": 1230000,
-      "p25_unit_price": 13482,
-      "p75_unit_price": 14865,
+      "median_total_price": 1360000,
+      "p25_unit_price": 12942,
+      "p75_unit_price": 14535,
       "mom_pct": null,
       "yoy_pct": null
     }
@@ -334,9 +334,9 @@
       "counts": [
         2,
         3,
-        9,
+        10,
         2,
-        0
+        1
       ]
     },
     "total_price": {
@@ -349,7 +349,7 @@
       ],
       "counts": [
         2,
-        12,
+        14,
         2,
         0,
         0
@@ -357,6 +357,22 @@
     }
   },
   "transactions": [
+    {
+      "deal_date": "2026-10-24",
+      "layout": "2-2-1-2",
+      "area_sqm": 93.57,
+      "floor": "11/28",
+      "total_price_yuan": 1360000,
+      "unit_price_yuan": 14535
+    },
+    {
+      "deal_date": "2026-10-23",
+      "layout": "4-2-1-2",
+      "area_sqm": 158.03,
+      "floor": "8/18",
+      "total_price_yuan": 1850000,
+      "unit_price_yuan": 11707
+    },
     {
       "deal_date": "2026-10-14",
       "layout": "2-2-1-1",

@@ -2,9 +2,9 @@
   "schema_version": 1,
   "kind": "manifest",
   "as_of": "2026-10",
-  "published_at": "2026-11-09T16:22:40.231788+00:00",
-  "snapshot_id": "923c18260e2aea18",
-  "content_sha256": "923c18260e2aea1808f695abfb303e411e2171122547b292ba15b7a27599579f",
+  "published_at": "2026-11-14T10:02:44.978983+00:00",
+  "snapshot_id": "04ba3c37a885c30e",
+  "content_sha256": "04ba3c37a885c30e83f069e483c98c81430b55dd5225cf9acde1cc8d4503c3d9",
   "scope": {
     "districts": [
       "和平区",
@@ -24,11 +24,11 @@
   },
   "summary": {
     "as_of": "2026-10",
-    "published_at": "2026-11-09T16:22:40.231788+00:00",
-    "transaction_count": 35381,
-    "community_count": 4495,
-    "published_community_count": 392,
-    "district_count": 9,
-    "file_count": 4509
+    "published_at": "2026-11-14T10:02:44.978983+00:00",
+    "transaction_count": 35947,
+    "community_count": 4518,
+    "published_community_count": 406,
+    "district_count": 10,
+    "file_count": 4532
   }
 }
