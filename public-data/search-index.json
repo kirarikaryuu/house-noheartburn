@@ -2861,13 +2861,6 @@
     },
     {
       "type": "community",
-      "id": "hedong-0265804f1170",
-      "name": "中海钻石湾",
-      "subtitle": "河东区 · 大王庄",
-      "path": "/communities/c-hedong-0265804f1170/"
-    },
-    {
-      "type": "community",
       "id": "hedong-e2c64119597b",
       "name": "海河金茂府",
       "subtitle": "河东区 · 大王庄",
@@ -2886,6 +2879,13 @@
       "name": "龙湖·海河砚熙台",
       "subtitle": "河东区 · 大直沽",
       "path": "/communities/c-hedong-74b10045bc0e/"
+    },
+    {
+      "type": "community",
+      "id": "hedong-0265804f1170",
+      "name": "中海钻石湾",
+      "subtitle": "河东区 · 大王庄",
+      "path": "/communities/c-hedong-0265804f1170/"
     },
     {
       "type": "community",
@@ -2914,13 +2914,6 @@
       "name": "悦东嘉园",
       "subtitle": "河东区 · 大直沽",
       "path": "/communities/c-hedong-2dad818b52e0/"
-    },
-    {
-      "type": "community",
-      "id": "hedong-330dd9362418",
-      "name": "农垦含章雅著",
-      "subtitle": "河东区 · 向阳楼",
-      "path": "/communities/c-hedong-330dd9362418/"
     },
     {
       "type": "community",
@@ -2966,13 +2959,6 @@
     },
     {
       "type": "community",
-      "id": "hedong-f2b66a84ec2b",
-      "name": "长征楼(河东区)",
-      "subtitle": "河东区 · 唐家口",
-      "path": "/communities/c-hedong-f2b66a84ec2b/"
-    },
-    {
-      "type": "community",
       "id": "hedong-d48c1d6d34d8",
       "name": "北海里",
       "subtitle": "河东区 · 唐家口",
@@ -3001,10 +2987,24 @@
     },
     {
       "type": "community",
+      "id": "hedong-98e94c1bf9e5",
+      "name": "林枫馨苑",
+      "subtitle": "河东区 · 大王庄",
+      "path": "/communities/c-hedong-98e94c1bf9e5/"
+    },
+    {
+      "type": "community",
       "id": "hedong-f950b1e2894b",
       "name": "润泉公寓",
       "subtitle": "河东区 · 大王庄",
       "path": "/communities/c-hedong-f950b1e2894b/"
+    },
+    {
+      "type": "community",
+      "id": "hedong-916f7bf1fd68",
+      "name": "长城公寓",
+      "subtitle": "河东区 · 大王庄",
+      "path": "/communities/c-hedong-916f7bf1fd68/"
     },
     {
       "type": "community",
@@ -3022,17 +3022,24 @@
     },
     {
       "type": "community",
-      "id": "hedong-98e94c1bf9e5",
-      "name": "林枫馨苑",
-      "subtitle": "河东区 · 大王庄",
-      "path": "/communities/c-hedong-98e94c1bf9e5/"
-    },
-    {
-      "type": "community",
       "id": "hedong-1b873a37771e",
       "name": "万欣城菊园",
       "subtitle": "河东区 · 上杭路",
       "path": "/communities/c-hedong-1b873a37771e/"
+    },
+    {
+      "type": "community",
+      "id": "hedong-a5a5c4a36d14",
+      "name": "紫玉园",
+      "subtitle": "河东区 · 太阳城",
+      "path": "/communities/c-hedong-a5a5c4a36d14/"
+    },
+    {
+      "type": "community",
+      "id": "hedong-330dd9362418",
+      "name": "农垦含章雅著",
+      "subtitle": "河东区 · 向阳楼",
+      "path": "/communities/c-hedong-330dd9362418/"
     },
     {
       "type": "community",
@@ -3050,10 +3057,10 @@
     },
     {
       "type": "community",
-      "id": "hedong-7541a7edef6e",
-      "name": "祥云名轩",
-      "subtitle": "河东区 · 大王庄",
-      "path": "/communities/c-hedong-7541a7edef6e/"
+      "id": "hedong-2d2a31988b12",
+      "name": "中储正荣栋境",
+      "subtitle": "河东区 · 上杭路",
+      "path": "/communities/c-hedong-2d2a31988b12/"
     },
     {
       "type": "community",
@@ -3064,10 +3071,17 @@
     },
     {
       "type": "community",
-      "id": "hedong-a5a5c4a36d14",
-      "name": "紫玉园",
-      "subtitle": "河东区 · 太阳城",
-      "path": "/communities/c-hedong-a5a5c4a36d14/"
+      "id": "hedong-7541a7edef6e",
+      "name": "祥云名轩",
+      "subtitle": "河东区 · 大王庄",
+      "path": "/communities/c-hedong-7541a7edef6e/"
+    },
+    {
+      "type": "community",
+      "id": "hedong-52ba2c7b1cef",
+      "name": "翰澜苑",
+      "subtitle": "河东区 · 向阳楼",
+      "path": "/communities/c-hedong-52ba2c7b1cef/"
     },
     {
       "type": "community",
@@ -3075,13 +3089,6 @@
       "name": "万达公馆",
       "subtitle": "河东区 · 大直沽",
       "path": "/communities/c-hedong-afddb20a52d9/"
-    },
-    {
-      "type": "community",
-      "id": "hedong-916f7bf1fd68",
-      "name": "长城公寓",
-      "subtitle": "河东区 · 大王庄",
-      "path": "/communities/c-hedong-916f7bf1fd68/"
     },
     {
       "type": "community",
@@ -3113,24 +3120,10 @@
     },
     {
       "type": "community",
-      "id": "hedong-b5a5457bee4c",
-      "name": "神州花园",
-      "subtitle": "河东区 · 大直沽",
-      "path": "/communities/c-hedong-b5a5457bee4c/"
-    },
-    {
-      "type": "community",
       "id": "hedong-c076acdfbfc0",
       "name": "紫乐名轩",
       "subtitle": "河东区 · 二号桥街",
       "path": "/communities/c-hedong-c076acdfbfc0/"
-    },
-    {
-      "type": "community",
-      "id": "hedong-53607037b7e2",
-      "name": "汇和家园",
-      "subtitle": "河东区 · 春华街",
-      "path": "/communities/c-hedong-53607037b7e2/"
     },
     {
       "type": "community",
@@ -3145,20 +3138,6 @@
       "name": "海峰公寓",
       "subtitle": "河东区 · 大直沽",
       "path": "/communities/c-hedong-e3504dfd1397/"
-    },
-    {
-      "type": "community",
-      "id": "hedong-2d2a31988b12",
-      "name": "中储正荣栋境",
-      "subtitle": "河东区 · 上杭路",
-      "path": "/communities/c-hedong-2d2a31988b12/"
-    },
-    {
-      "type": "community",
-      "id": "hedong-52ba2c7b1cef",
-      "name": "翰澜苑",
-      "subtitle": "河东区 · 向阳楼",
-      "path": "/communities/c-hedong-52ba2c7b1cef/"
     },
     {
       "type": "community",
@@ -3204,6 +3183,13 @@
     },
     {
       "type": "community",
+      "id": "hedong-b5a5457bee4c",
+      "name": "神州花园",
+      "subtitle": "河东区 · 大直沽",
+      "path": "/communities/c-hedong-b5a5457bee4c/"
+    },
+    {
+      "type": "community",
       "id": "hedong-9612bb0427fe",
       "name": "格调榴园",
       "subtitle": "河东区 · 二号桥街",
@@ -3215,6 +3201,13 @@
       "name": "冠华公寓",
       "subtitle": "河东区 · 大王庄",
       "path": "/communities/c-hedong-42410ca43809/"
+    },
+    {
+      "type": "community",
+      "id": "hedong-fdf2c375852d",
+      "name": "丰盈里",
+      "subtitle": "河东区 · 大王庄",
+      "path": "/communities/c-hedong-fdf2c375852d/"
     },
     {
       "type": "community",
@@ -3239,13 +3232,6 @@
     },
     {
       "type": "community",
-      "id": "hedong-53c3628b0ced",
-      "name": "红城(柏丽花园)",
-      "subtitle": "河东区 · 常州道",
-      "path": "/communities/c-hedong-53c3628b0ced/"
-    },
-    {
-      "type": "community",
       "id": "hedong-6723735f21be",
       "name": "水利家园",
       "subtitle": "河东区 · 唐家口",
@@ -3257,6 +3243,20 @@
       "name": "聚安东园",
       "subtitle": "河东区 · 春华街",
       "path": "/communities/c-hedong-3d508f6c1d4a/"
+    },
+    {
+      "type": "community",
+      "id": "hedong-cc2f9d9ea74e",
+      "name": "丰盛园",
+      "subtitle": "河东区 · 大王庄",
+      "path": "/communities/c-hedong-cc2f9d9ea74e/"
+    },
+    {
+      "type": "community",
+      "id": "hedong-53c3628b0ced",
+      "name": "红城(柏丽花园)",
+      "subtitle": "河东区 · 常州道",
+      "path": "/communities/c-hedong-53c3628b0ced/"
     },
     {
       "type": "community",
@@ -3309,24 +3309,10 @@
     },
     {
       "type": "community",
-      "id": "hedong-5daaa5133d83",
-      "name": "秋实园",
-      "subtitle": "河东区 · 春华街",
-      "path": "/communities/c-hedong-5daaa5133d83/"
-    },
-    {
-      "type": "community",
       "id": "hedong-fa10385d753c",
       "name": "明和里",
       "subtitle": "河东区 · 春华街",
       "path": "/communities/c-hedong-fa10385d753c/"
-    },
-    {
-      "type": "community",
-      "id": "hedong-ce50abd8e70d",
-      "name": "大通时尚花园",
-      "subtitle": "河东区 · 向阳楼",
-      "path": "/communities/c-hedong-ce50abd8e70d/"
     },
     {
       "type": "community",
@@ -3344,6 +3330,13 @@
     },
     {
       "type": "community",
+      "id": "hedong-ce50abd8e70d",
+      "name": "大通时尚花园",
+      "subtitle": "河东区 · 向阳楼",
+      "path": "/communities/c-hedong-ce50abd8e70d/"
+    },
+    {
+      "type": "community",
       "id": "hedong-f20c7051fb0e",
       "name": "太阳城皓鸿园",
       "subtitle": "河东区 · 太阳城",
@@ -3355,6 +3348,13 @@
       "name": "朝华园",
       "subtitle": "河东区 · 常州道",
       "path": "/communities/c-hedong-b85301f801d4/"
+    },
+    {
+      "type": "community",
+      "id": "hedong-fdf1dccff1ce",
+      "name": "招商雍景湾",
+      "subtitle": "河东区 · 富民路",
+      "path": "/communities/c-hedong-fdf1dccff1ce/"
     },
     {
       "type": "community",
@@ -3383,6 +3383,20 @@
       "name": "顺泰公寓",
       "subtitle": "河东区 · 唐家口",
       "path": "/communities/c-hedong-fdd8d28940f4/"
+    },
+    {
+      "type": "community",
+      "id": "hedong-f8eb529d813c",
+      "name": "良园公寓",
+      "subtitle": "河东区 · 大王庄",
+      "path": "/communities/c-hedong-f8eb529d813c/"
+    },
+    {
+      "type": "community",
+      "id": "hedong-530760718d41",
+      "name": "格调竹境",
+      "subtitle": "河东区 · 中山门街",
+      "path": "/communities/c-hedong-530760718d41/"
     },
     {
       "type": "community",
@@ -3421,10 +3435,10 @@
     },
     {
       "type": "community",
-      "id": "hedong-fdf1dccff1ce",
-      "name": "招商雍景湾",
-      "subtitle": "河东区 · 富民路",
-      "path": "/communities/c-hedong-fdf1dccff1ce/"
+      "id": "hedong-eecdeb486092",
+      "name": "融科瀚棠",
+      "subtitle": "河东区 · 二号桥街",
+      "path": "/communities/c-hedong-eecdeb486092/"
     },
     {
       "type": "community",
@@ -3442,10 +3456,10 @@
     },
     {
       "type": "community",
-      "id": "hedong-87084624b956",
-      "name": "太阳城皓林园",
-      "subtitle": "河东区 · 太阳城",
-      "path": "/communities/c-hedong-87084624b956/"
+      "id": "hedong-53607037b7e2",
+      "name": "汇和家园",
+      "subtitle": "河东区 · 春华街",
+      "path": "/communities/c-hedong-53607037b7e2/"
     },
     {
       "type": "community",
@@ -3456,10 +3470,10 @@
     },
     {
       "type": "community",
-      "id": "hedong-62d587e7b485",
-      "name": "雍祥园",
-      "subtitle": "河东区 · 向阳楼",
-      "path": "/communities/c-hedong-62d587e7b485/"
+      "id": "hedong-c0fe055427a0",
+      "name": "懿德园",
+      "subtitle": "河东区 · 上杭路",
+      "path": "/communities/c-hedong-c0fe055427a0/"
     },
     {
       "type": "community",
@@ -3491,17 +3505,10 @@
     },
     {
       "type": "community",
-      "id": "hedong-cc2f9d9ea74e",
-      "name": "丰盛园",
-      "subtitle": "河东区 · 大王庄",
-      "path": "/communities/c-hedong-cc2f9d9ea74e/"
-    },
-    {
-      "type": "community",
-      "id": "hedong-eecdeb486092",
-      "name": "融科瀚棠",
-      "subtitle": "河东区 · 二号桥街",
-      "path": "/communities/c-hedong-eecdeb486092/"
+      "id": "hedong-aef6dd9786f3",
+      "name": "靓锦名居",
+      "subtitle": "河东区 · 大直沽",
+      "path": "/communities/c-hedong-aef6dd9786f3/"
     },
     {
       "type": "community",
@@ -3509,13 +3516,6 @@
       "name": "金玫瑰公寓",
       "subtitle": "河东区 · 大王庄",
       "path": "/communities/c-hedong-7dbff5b6dcf6/"
-    },
-    {
-      "type": "community",
-      "id": "hedong-530760718d41",
-      "name": "格调竹境",
-      "subtitle": "河东区 · 中山门街",
-      "path": "/communities/c-hedong-530760718d41/"
     },
     {
       "type": "community",
@@ -3533,10 +3533,10 @@
     },
     {
       "type": "community",
-      "id": "hedong-5d5212795e6e",
-      "name": "太阳城绿萱园",
+      "id": "hedong-81ef6835bef0",
+      "name": "太阳城蓝山园",
       "subtitle": "河东区 · 太阳城",
-      "path": "/communities/c-hedong-5d5212795e6e/"
+      "path": "/communities/c-hedong-81ef6835bef0/"
     },
     {
       "type": "community",
@@ -3547,24 +3547,10 @@
     },
     {
       "type": "community",
-      "id": "hedong-1a45acdb6ff0",
-      "name": "嘉华里",
-      "subtitle": "河东区 · 唐家口",
-      "path": "/communities/c-hedong-1a45acdb6ff0/"
-    },
-    {
-      "type": "community",
       "id": "hedong-b4d73fd6c810",
       "name": "直沽园",
       "subtitle": "河东区 · 大直沽",
       "path": "/communities/c-hedong-b4d73fd6c810/"
-    },
-    {
-      "type": "community",
-      "id": "hedong-5d0a533b0d86",
-      "name": "十五经路12号",
-      "subtitle": "河东区 · 大王庄",
-      "path": "/communities/c-hedong-5d0a533b0d86/"
     },
     {
       "type": "community",
@@ -3582,10 +3568,52 @@
     },
     {
       "type": "community",
+      "id": "hedong-c7874d7308d2",
+      "name": "第六大道大洋嘉园",
+      "subtitle": "河东区 · 上杭路",
+      "path": "/communities/c-hedong-c7874d7308d2/"
+    },
+    {
+      "type": "community",
+      "id": "hedong-e97363938fda",
+      "name": "华馨公寓",
+      "subtitle": "河东区 · 唐家口",
+      "path": "/communities/c-hedong-e97363938fda/"
+    },
+    {
+      "type": "community",
+      "id": "hedong-928ba7058ba2",
+      "name": "一品家园",
+      "subtitle": "河东区 · 常州道",
+      "path": "/communities/c-hedong-928ba7058ba2/"
+    },
+    {
+      "type": "community",
+      "id": "hedong-1a45acdb6ff0",
+      "name": "嘉华里",
+      "subtitle": "河东区 · 唐家口",
+      "path": "/communities/c-hedong-1a45acdb6ff0/"
+    },
+    {
+      "type": "community",
+      "id": "hedong-4d2057d3e7f2",
+      "name": "太阳城皓阳园",
+      "subtitle": "河东区 · 太阳城",
+      "path": "/communities/c-hedong-4d2057d3e7f2/"
+    },
+    {
+      "type": "community",
       "id": "hedong-efcd5d04bf41",
       "name": "天津彪晨阳小区",
       "subtitle": "河东区 · 向阳楼",
       "path": "/communities/c-hedong-efcd5d04bf41/"
+    },
+    {
+      "type": "community",
+      "id": "hedong-62d587e7b485",
+      "name": "雍祥园",
+      "subtitle": "河东区 · 向阳楼",
+      "path": "/communities/c-hedong-62d587e7b485/"
     },
     {
       "type": "community",
@@ -3603,13 +3631,6 @@
     },
     {
       "type": "community",
-      "id": "hedong-49f32bb88c33",
-      "name": "汇贤里",
-      "subtitle": "河东区 · 大直沽",
-      "path": "/communities/c-hedong-49f32bb88c33/"
-    },
-    {
-      "type": "community",
       "id": "hedong-1637c0c93bf8",
       "name": "七纬路",
       "subtitle": "河东区 · 大王庄",
@@ -3624,10 +3645,17 @@
     },
     {
       "type": "community",
-      "id": "hedong-4d2057d3e7f2",
-      "name": "太阳城皓阳园",
+      "id": "hedong-87084624b956",
+      "name": "太阳城皓林园",
       "subtitle": "河东区 · 太阳城",
-      "path": "/communities/c-hedong-4d2057d3e7f2/"
+      "path": "/communities/c-hedong-87084624b956/"
+    },
+    {
+      "type": "community",
+      "id": "hedong-f2b66a84ec2b",
+      "name": "长征楼(河东区)",
+      "subtitle": "河东区 · 唐家口",
+      "path": "/communities/c-hedong-f2b66a84ec2b/"
     },
     {
       "type": "community",
@@ -3645,13 +3673,6 @@
     },
     {
       "type": "community",
-      "id": "hedong-4c5cd34d08b9",
-      "name": "六纬路(大王庄)",
-      "subtitle": "河东区 · 大王庄",
-      "path": "/communities/c-hedong-4c5cd34d08b9/"
-    },
-    {
-      "type": "community",
       "id": "hedong-b1da5f85ff62",
       "name": "弘轩公寓",
       "subtitle": "河东区 · 唐家口",
@@ -3659,52 +3680,10 @@
     },
     {
       "type": "community",
-      "id": "hedong-1a74af31623b",
-      "name": "晨阳花园",
-      "subtitle": "河东区 · 向阳楼",
-      "path": "/communities/c-hedong-1a74af31623b/"
-    },
-    {
-      "type": "community",
-      "id": "hedong-784b94ab7717",
-      "name": "诚厚里",
-      "subtitle": "河东区 · 大王庄",
-      "path": "/communities/c-hedong-784b94ab7717/"
-    },
-    {
-      "type": "community",
-      "id": "hedong-dca4ab72182b",
-      "name": "融科金月湾",
-      "subtitle": "河东区 · 富民路",
-      "path": "/communities/c-hedong-dca4ab72182b/"
-    },
-    {
-      "type": "community",
-      "id": "hedong-aef6dd9786f3",
-      "name": "靓锦名居",
-      "subtitle": "河东区 · 大直沽",
-      "path": "/communities/c-hedong-aef6dd9786f3/"
-    },
-    {
-      "type": "community",
       "id": "hedong-d95f6b6c4fb8",
       "name": "乐东馨园",
       "subtitle": "河东区 · 常州道",
       "path": "/communities/c-hedong-d95f6b6c4fb8/"
-    },
-    {
-      "type": "community",
-      "id": "hedong-81ef6835bef0",
-      "name": "太阳城蓝山园",
-      "subtitle": "河东区 · 太阳城",
-      "path": "/communities/c-hedong-81ef6835bef0/"
-    },
-    {
-      "type": "community",
-      "id": "hedong-355840876b3a",
-      "name": "冠云西里",
-      "subtitle": "河东区 · 万新村",
-      "path": "/communities/c-hedong-355840876b3a/"
     },
     {
       "type": "community",
@@ -3722,17 +3701,17 @@
     },
     {
       "type": "community",
-      "id": "hedong-fa70521700d8",
-      "name": "瑞光里",
-      "subtitle": "河东区 · 春华街",
-      "path": "/communities/c-hedong-fa70521700d8/"
-    },
-    {
-      "type": "community",
       "id": "hedong-c8c9dbeab51b",
       "name": "怡然庭苑",
       "subtitle": "河东区 · 二号桥街",
       "path": "/communities/c-hedong-c8c9dbeab51b/"
+    },
+    {
+      "type": "community",
+      "id": "hedong-5d5212795e6e",
+      "name": "太阳城绿萱园",
+      "subtitle": "河东区 · 太阳城",
+      "path": "/communities/c-hedong-5d5212795e6e/"
     },
     {
       "type": "community",
@@ -3792,13 +3771,6 @@
     },
     {
       "type": "community",
-      "id": "hedong-c0fe055427a0",
-      "name": "懿德园",
-      "subtitle": "河东区 · 上杭路",
-      "path": "/communities/c-hedong-c0fe055427a0/"
-    },
-    {
-      "type": "community",
       "id": "hedong-fa59d187ed25",
       "name": "第六大道道俊华园",
       "subtitle": "河东区 · 上杭路",
@@ -3813,24 +3785,10 @@
     },
     {
       "type": "community",
-      "id": "hedong-fdf2c375852d",
-      "name": "丰盈里",
-      "subtitle": "河东区 · 大王庄",
-      "path": "/communities/c-hedong-fdf2c375852d/"
-    },
-    {
-      "type": "community",
       "id": "hedong-1bb1faa51d9d",
       "name": "天善社大街81号",
       "subtitle": "河东区 · 春华街",
       "path": "/communities/c-hedong-1bb1faa51d9d/"
-    },
-    {
-      "type": "community",
-      "id": "hedong-c7874d7308d2",
-      "name": "第六大道大洋嘉园",
-      "subtitle": "河东区 · 上杭路",
-      "path": "/communities/c-hedong-c7874d7308d2/"
     },
     {
       "type": "community",
@@ -3845,27 +3803,6 @@
       "name": "环卫楼",
       "subtitle": "河东区 · 唐家口",
       "path": "/communities/c-hedong-c62beafff656/"
-    },
-    {
-      "type": "community",
-      "id": "hedong-928ba7058ba2",
-      "name": "一品家园",
-      "subtitle": "河东区 · 常州道",
-      "path": "/communities/c-hedong-928ba7058ba2/"
-    },
-    {
-      "type": "community",
-      "id": "hedong-8f62d55cc486",
-      "name": "滨河家园",
-      "subtitle": "河东区 · 富民路",
-      "path": "/communities/c-hedong-8f62d55cc486/"
-    },
-    {
-      "type": "community",
-      "id": "hedong-4fda3bd9a9df",
-      "name": "金堂南里",
-      "subtitle": "河东区 · 唐家口",
-      "path": "/communities/c-hedong-4fda3bd9a9df/"
     },
     {
       "type": "community",
@@ -3904,17 +3841,17 @@
     },
     {
       "type": "community",
-      "id": "hedong-e97363938fda",
-      "name": "华馨公寓",
-      "subtitle": "河东区 · 唐家口",
-      "path": "/communities/c-hedong-e97363938fda/"
-    },
-    {
-      "type": "community",
       "id": "hedong-19592fda7fe0",
       "name": "华亭里(河东区)",
       "subtitle": "河东区 · 春华街",
       "path": "/communities/c-hedong-19592fda7fe0/"
+    },
+    {
+      "type": "community",
+      "id": "hedong-58ae12d149b8",
+      "name": "中海钻石湾洋楼公馆",
+      "subtitle": "河东区 · 大王庄",
+      "path": "/communities/c-hedong-58ae12d149b8/"
     },
     {
       "type": "community",
@@ -3939,17 +3876,17 @@
     },
     {
       "type": "community",
-      "id": "hedong-1e22aaa4e710",
-      "name": "东亚风尚国际",
-      "subtitle": "河东区 · 唐家口",
-      "path": "/communities/c-hedong-1e22aaa4e710/"
-    },
-    {
-      "type": "community",
       "id": "hedong-55bda4400dfd",
       "name": "阳光星期8昕旺南苑",
       "subtitle": "河东区 · 向阳楼",
       "path": "/communities/c-hedong-55bda4400dfd/"
+    },
+    {
+      "type": "community",
+      "id": "hedong-46a14c226727",
+      "name": "新义信里",
+      "subtitle": "河东区 · 大王庄",
+      "path": "/communities/c-hedong-46a14c226727/"
     },
     {
       "type": "community",
@@ -3967,6 +3904,13 @@
     },
     {
       "type": "community",
+      "id": "hedong-e3aa44becc1c",
+      "name": "柏丽花园",
+      "subtitle": "河东区 · 常州道",
+      "path": "/communities/c-hedong-e3aa44becc1c/"
+    },
+    {
+      "type": "community",
       "id": "hedong-2ea79eeb2d68",
       "name": "第六大道陆典庭园",
       "subtitle": "河东区 · 上杭路",
@@ -3974,10 +3918,10 @@
     },
     {
       "type": "community",
-      "id": "hedong-e3aa44becc1c",
-      "name": "柏丽花园",
-      "subtitle": "河东区 · 常州道",
-      "path": "/communities/c-hedong-e3aa44becc1c/"
+      "id": "hedong-1a74af31623b",
+      "name": "晨阳花园",
+      "subtitle": "河东区 · 向阳楼",
+      "path": "/communities/c-hedong-1a74af31623b/"
     },
     {
       "type": "community",
@@ -3992,13 +3936,6 @@
       "name": "凤溪花园",
       "subtitle": "河东区 · 常州道",
       "path": "/communities/c-hedong-09993c3006c0/"
-    },
-    {
-      "type": "community",
-      "id": "hedong-4b98a465cce3",
-      "name": "光华公寓",
-      "subtitle": "河东区 · 富民路",
-      "path": "/communities/c-hedong-4b98a465cce3/"
     },
     {
       "type": "community",
@@ -4030,6 +3967,13 @@
     },
     {
       "type": "community",
+      "id": "hedong-cc847010d60c",
+      "name": "毛条厂路",
+      "subtitle": "河东区 · 二号桥街",
+      "path": "/communities/c-hedong-cc847010d60c/"
+    },
+    {
+      "type": "community",
       "id": "hedong-88c6fd004fe1",
       "name": "怡安温泉公寓",
       "subtitle": "河东区 · 大王庄",
@@ -4037,10 +3981,10 @@
     },
     {
       "type": "community",
-      "id": "hedong-eb5fe3537fca",
-      "name": "昕旺北苑",
-      "subtitle": "河东区 · 向阳楼",
-      "path": "/communities/c-hedong-eb5fe3537fca/"
+      "id": "hedong-d14c94bda7d4",
+      "name": "秀丽园",
+      "subtitle": "河东区 · 太阳城",
+      "path": "/communities/c-hedong-d14c94bda7d4/"
     },
     {
       "type": "community",
@@ -4079,10 +4023,10 @@
     },
     {
       "type": "community",
-      "id": "hedong-08fbdea50e80",
-      "name": "富民河畔家园",
-      "subtitle": "河东区 · 富民路",
-      "path": "/communities/c-hedong-08fbdea50e80/"
+      "id": "hedong-eb5fe3537fca",
+      "name": "昕旺北苑",
+      "subtitle": "河东区 · 向阳楼",
+      "path": "/communities/c-hedong-eb5fe3537fca/"
     },
     {
       "type": "community",
@@ -4114,10 +4058,10 @@
     },
     {
       "type": "community",
-      "id": "hedong-55f3f5ff1f6c",
-      "name": "互助西里",
-      "subtitle": "河东区 · 中山门街",
-      "path": "/communities/c-hedong-55f3f5ff1f6c/"
+      "id": "hedong-dfc6e5b25581",
+      "name": "来安里小区",
+      "subtitle": "河东区 · 上杭路",
+      "path": "/communities/c-hedong-dfc6e5b25581/"
     },
     {
       "type": "community",
@@ -4135,10 +4079,10 @@
     },
     {
       "type": "community",
-      "id": "hedong-dfc6e5b25581",
-      "name": "来安里小区",
-      "subtitle": "河东区 · 上杭路",
-      "path": "/communities/c-hedong-dfc6e5b25581/"
+      "id": "hedong-dca4ab72182b",
+      "name": "融科金月湾",
+      "subtitle": "河东区 · 富民路",
+      "path": "/communities/c-hedong-dca4ab72182b/"
     },
     {
       "type": "community",
@@ -4149,10 +4093,24 @@
     },
     {
       "type": "community",
+      "id": "hedong-af4552ea5d48",
+      "name": "新景安里",
+      "subtitle": "河东区 · 大王庄",
+      "path": "/communities/c-hedong-af4552ea5d48/"
+    },
+    {
+      "type": "community",
       "id": "hedong-96f0daff6a14",
       "name": "翠荫里",
       "subtitle": "河东区 · 向阳楼",
       "path": "/communities/c-hedong-96f0daff6a14/"
+    },
+    {
+      "type": "community",
+      "id": "hedong-5dcbf6ec1b27",
+      "name": "鑫泰家园",
+      "subtitle": "河东区 · 春华街",
+      "path": "/communities/c-hedong-5dcbf6ec1b27/"
     },
     {
       "type": "community",
@@ -4170,10 +4128,17 @@
     },
     {
       "type": "community",
-      "id": "hedong-aae70eb868a6",
-      "name": "大直沽后街",
-      "subtitle": "河东区 · 大直沽",
-      "path": "/communities/c-hedong-aae70eb868a6/"
+      "id": "hedong-5daaa5133d83",
+      "name": "秋实园",
+      "subtitle": "河东区 · 春华街",
+      "path": "/communities/c-hedong-5daaa5133d83/"
+    },
+    {
+      "type": "community",
+      "id": "hedong-08fbdea50e80",
+      "name": "富民河畔家园",
+      "subtitle": "河东区 · 富民路",
+      "path": "/communities/c-hedong-08fbdea50e80/"
     },
     {
       "type": "community",
@@ -4219,6 +4184,27 @@
     },
     {
       "type": "community",
+      "id": "hedong-4fda3bd9a9df",
+      "name": "金堂南里",
+      "subtitle": "河东区 · 唐家口",
+      "path": "/communities/c-hedong-4fda3bd9a9df/"
+    },
+    {
+      "type": "community",
+      "id": "hedong-4c5cd34d08b9",
+      "name": "六纬路(大王庄)",
+      "subtitle": "河东区 · 大王庄",
+      "path": "/communities/c-hedong-4c5cd34d08b9/"
+    },
+    {
+      "type": "community",
+      "id": "hedong-e63088aafea5",
+      "name": "中山门东里",
+      "subtitle": "河东区 · 中山门街",
+      "path": "/communities/c-hedong-e63088aafea5/"
+    },
+    {
+      "type": "community",
       "id": "hedong-22c2a24a5638",
       "name": "工业大学家属院",
       "subtitle": "河东区 · 唐家口",
@@ -4240,10 +4226,10 @@
     },
     {
       "type": "community",
-      "id": "hedong-9e662f698aec",
-      "name": "大直沽后台",
-      "subtitle": "河东区 · 大直沽",
-      "path": "/communities/c-hedong-9e662f698aec/"
+      "id": "hedong-fb7b4cda8647",
+      "name": "晨光楼(河东区)",
+      "subtitle": "河东区 · 向阳楼",
+      "path": "/communities/c-hedong-fb7b4cda8647/"
     },
     {
       "type": "community",
@@ -4289,10 +4275,17 @@
     },
     {
       "type": "community",
-      "id": "hedong-5d463532bbd0",
-      "name": "云丽园",
-      "subtitle": "河东区 · 太阳城",
-      "path": "/communities/c-hedong-5d463532bbd0/"
+      "id": "hedong-5d0a533b0d86",
+      "name": "十五经路12号",
+      "subtitle": "河东区 · 大王庄",
+      "path": "/communities/c-hedong-5d0a533b0d86/"
+    },
+    {
+      "type": "community",
+      "id": "hedong-55f6ffc7a26f",
+      "name": "东尚名居",
+      "subtitle": "河东区 · 上杭路",
+      "path": "/communities/c-hedong-55f6ffc7a26f/"
     },
     {
       "type": "community",
@@ -4324,17 +4317,17 @@
     },
     {
       "type": "community",
-      "id": "hedong-fb7b4cda8647",
-      "name": "晨光楼(河东区)",
-      "subtitle": "河东区 · 向阳楼",
-      "path": "/communities/c-hedong-fb7b4cda8647/"
-    },
-    {
-      "type": "community",
       "id": "hedong-91f745f97852",
       "name": "巨福园公寓",
       "subtitle": "河东区 · 春华街",
       "path": "/communities/c-hedong-91f745f97852/"
+    },
+    {
+      "type": "community",
+      "id": "hedong-9e662f698aec",
+      "name": "大直沽后台",
+      "subtitle": "河东区 · 大直沽",
+      "path": "/communities/c-hedong-9e662f698aec/"
     },
     {
       "type": "community",
@@ -4366,10 +4359,10 @@
     },
     {
       "type": "community",
-      "id": "hedong-f8eb529d813c",
-      "name": "良园公寓",
-      "subtitle": "河东区 · 大王庄",
-      "path": "/communities/c-hedong-f8eb529d813c/"
+      "id": "hedong-8249350d665f",
+      "name": "月光园",
+      "subtitle": "河东区 · 春华街",
+      "path": "/communities/c-hedong-8249350d665f/"
     },
     {
       "type": "community",
@@ -4436,13 +4429,6 @@
     },
     {
       "type": "community",
-      "id": "hedong-55f6ffc7a26f",
-      "name": "东尚名居",
-      "subtitle": "河东区 · 上杭路",
-      "path": "/communities/c-hedong-55f6ffc7a26f/"
-    },
-    {
-      "type": "community",
       "id": "hedong-0f7ec9f79070",
       "name": "刘台大街",
       "subtitle": "河东区 · 大直沽",
@@ -4468,13 +4454,6 @@
       "name": "环秀西里",
       "subtitle": "河东区 · 万新村",
       "path": "/communities/c-hedong-8aee626f7d0c/"
-    },
-    {
-      "type": "community",
-      "id": "hedong-aa0a4149458c",
-      "name": "盛世嘉园",
-      "subtitle": "河东区 · 常州道",
-      "path": "/communities/c-hedong-aa0a4149458c/"
     },
     {
       "type": "community",
@@ -4513,13 +4492,6 @@
     },
     {
       "type": "community",
-      "id": "hedong-2bd1c32c2151",
-      "name": "三省里",
-      "subtitle": "河东区 · 大王庄",
-      "path": "/communities/c-hedong-2bd1c32c2151/"
-    },
-    {
-      "type": "community",
       "id": "hedong-01741b1f4b6d",
       "name": "益寿东里",
       "subtitle": "河东区 · 常州道",
@@ -4555,10 +4527,17 @@
     },
     {
       "type": "community",
-      "id": "hedong-5b33b3f6deb4",
-      "name": "唐口新村九段",
-      "subtitle": "河东区 · 唐家口",
-      "path": "/communities/c-hedong-5b33b3f6deb4/"
+      "id": "hedong-b55e3b172e0a",
+      "name": "试验楼",
+      "subtitle": "河东区 · 中山门街",
+      "path": "/communities/c-hedong-b55e3b172e0a/"
+    },
+    {
+      "type": "community",
+      "id": "hedong-2bb45503fd4b",
+      "name": "第六大道俊东公寓",
+      "subtitle": "河东区 · 上杭路",
+      "path": "/communities/c-hedong-2bb45503fd4b/"
     },
     {
       "type": "community",
@@ -4660,6 +4639,20 @@
     },
     {
       "type": "community",
+      "id": "hedong-355840876b3a",
+      "name": "冠云西里",
+      "subtitle": "河东区 · 万新村",
+      "path": "/communities/c-hedong-355840876b3a/"
+    },
+    {
+      "type": "community",
+      "id": "hedong-aa0a4149458c",
+      "name": "盛世嘉园",
+      "subtitle": "河东区 · 常州道",
+      "path": "/communities/c-hedong-aa0a4149458c/"
+    },
+    {
+      "type": "community",
       "id": "hedong-70e7e482a543",
       "name": "天津彪丹荔园",
       "subtitle": "河东区 · 太阳城",
@@ -4667,10 +4660,17 @@
     },
     {
       "type": "community",
-      "id": "hedong-46a14c226727",
-      "name": "新义信里",
+      "id": "hedong-2bd1c32c2151",
+      "name": "三省里",
       "subtitle": "河东区 · 大王庄",
-      "path": "/communities/c-hedong-46a14c226727/"
+      "path": "/communities/c-hedong-2bd1c32c2151/"
+    },
+    {
+      "type": "community",
+      "id": "hedong-5d463532bbd0",
+      "name": "云丽园",
+      "subtitle": "河东区 · 太阳城",
+      "path": "/communities/c-hedong-5d463532bbd0/"
     },
     {
       "type": "community",
@@ -4688,17 +4688,17 @@
     },
     {
       "type": "community",
+      "id": "hedong-5b33b3f6deb4",
+      "name": "唐口新村九段",
+      "subtitle": "河东区 · 唐家口",
+      "path": "/communities/c-hedong-5b33b3f6deb4/"
+    },
+    {
+      "type": "community",
       "id": "hedong-e1593ac5e303",
       "name": "东旭新里",
       "subtitle": "河东区 · 大直沽",
       "path": "/communities/c-hedong-e1593ac5e303/"
-    },
-    {
-      "type": "community",
-      "id": "hedong-7b9f874ceff5",
-      "name": "万平里",
-      "subtitle": "河东区 · 上杭路",
-      "path": "/communities/c-hedong-7b9f874ceff5/"
     },
     {
       "type": "community",
@@ -4723,10 +4723,17 @@
     },
     {
       "type": "community",
-      "id": "hedong-123b7d2b5eed",
-      "name": "远翠东里",
-      "subtitle": "河东区 · 万新村",
-      "path": "/communities/c-hedong-123b7d2b5eed/"
+      "id": "hedong-8f62d55cc486",
+      "name": "滨河家园",
+      "subtitle": "河东区 · 富民路",
+      "path": "/communities/c-hedong-8f62d55cc486/"
+    },
+    {
+      "type": "community",
+      "id": "hedong-1b1a688869b6",
+      "name": "晨阳小区",
+      "subtitle": "河东区 · 向阳楼",
+      "path": "/communities/c-hedong-1b1a688869b6/"
     },
     {
       "type": "community",
@@ -4737,31 +4744,17 @@
     },
     {
       "type": "community",
-      "id": "hedong-8249350d665f",
-      "name": "月光园",
-      "subtitle": "河东区 · 春华街",
-      "path": "/communities/c-hedong-8249350d665f/"
+      "id": "hedong-49f32bb88c33",
+      "name": "汇贤里",
+      "subtitle": "河东区 · 大直沽",
+      "path": "/communities/c-hedong-49f32bb88c33/"
     },
     {
       "type": "community",
-      "id": "hedong-4d63469574c0",
-      "name": "水东里",
-      "subtitle": "河东区 · 二号桥街",
-      "path": "/communities/c-hedong-4d63469574c0/"
-    },
-    {
-      "type": "community",
-      "id": "hedong-4748efc053b1",
-      "name": "和睦西里",
-      "subtitle": "河东区 · 中山门街",
-      "path": "/communities/c-hedong-4748efc053b1/"
-    },
-    {
-      "type": "community",
-      "id": "hedong-ef3eb47067ca",
-      "name": "国强里(河东区)",
-      "subtitle": "河东区 · 中山门街",
-      "path": "/communities/c-hedong-ef3eb47067ca/"
+      "id": "hedong-aec7edd7e588",
+      "name": "大众家园",
+      "subtitle": "河东区 · 常州道",
+      "path": "/communities/c-hedong-aec7edd7e588/"
     },
     {
       "type": "community",
@@ -4783,6 +4776,13 @@
       "name": "富豪新开门",
       "subtitle": "河东区 · 唐家口",
       "path": "/communities/c-hedong-6d7719238b31/"
+    },
+    {
+      "type": "community",
+      "id": "hedong-161de92608a2",
+      "name": "前进新里",
+      "subtitle": "河东区 · 向阳楼",
+      "path": "/communities/c-hedong-161de92608a2/"
     },
     {
       "type": "community",
@@ -4842,10 +4842,10 @@
     },
     {
       "type": "community",
-      "id": "hedong-81754a9e1c77",
-      "name": "冠云中里",
-      "subtitle": "河东区 · 万新村",
-      "path": "/communities/c-hedong-81754a9e1c77/"
+      "id": "hedong-fa70521700d8",
+      "name": "瑞光里",
+      "subtitle": "河东区 · 春华街",
+      "path": "/communities/c-hedong-fa70521700d8/"
     },
     {
       "type": "community",
@@ -4853,13 +4853,6 @@
       "name": "倚虹中里",
       "subtitle": "河东区 · 万新村",
       "path": "/communities/c-hedong-835ed4080a91/"
-    },
-    {
-      "type": "community",
-      "id": "hedong-b3e030a55848",
-      "name": "和进里",
-      "subtitle": "河东区 · 大直沽",
-      "path": "/communities/c-hedong-b3e030a55848/"
     },
     {
       "type": "community",
@@ -4884,13 +4877,6 @@
     },
     {
       "type": "community",
-      "id": "hedong-1daf7526bc69",
-      "name": "近营里",
-      "subtitle": "河东区 · 常州道",
-      "path": "/communities/c-hedong-1daf7526bc69/"
-    },
-    {
-      "type": "community",
       "id": "hedong-ae9a34d46b4f",
       "name": "顺达西里",
       "subtitle": "河东区 · 向阳楼",
@@ -4912,10 +4898,24 @@
     },
     {
       "type": "community",
-      "id": "hedong-161de92608a2",
-      "name": "前进新里",
-      "subtitle": "河东区 · 向阳楼",
-      "path": "/communities/c-hedong-161de92608a2/"
+      "id": "hedong-c553f5e48c75",
+      "name": "临营西里",
+      "subtitle": "河东区 · 常州道",
+      "path": "/communities/c-hedong-c553f5e48c75/"
+    },
+    {
+      "type": "community",
+      "id": "hedong-81754a9e1c77",
+      "name": "冠云中里",
+      "subtitle": "河东区 · 万新村",
+      "path": "/communities/c-hedong-81754a9e1c77/"
+    },
+    {
+      "type": "community",
+      "id": "hedong-4b98a465cce3",
+      "name": "光华公寓",
+      "subtitle": "河东区 · 富民路",
+      "path": "/communities/c-hedong-4b98a465cce3/"
     },
     {
       "type": "community",
@@ -4947,6 +4947,20 @@
     },
     {
       "type": "community",
+      "id": "hedong-8991bc252c0f",
+      "name": "沧浪西里",
+      "subtitle": "河东区 · 万新村",
+      "path": "/communities/c-hedong-8991bc252c0f/"
+    },
+    {
+      "type": "community",
+      "id": "hedong-ef3eb47067ca",
+      "name": "国强里(河东区)",
+      "subtitle": "河东区 · 中山门街",
+      "path": "/communities/c-hedong-ef3eb47067ca/"
+    },
+    {
+      "type": "community",
       "id": "hedong-9a94d128e2e5",
       "name": "金康园",
       "subtitle": "河东区 · 唐家口",
@@ -4968,6 +4982,20 @@
     },
     {
       "type": "community",
+      "id": "hedong-1e22aaa4e710",
+      "name": "东亚风尚国际",
+      "subtitle": "河东区 · 唐家口",
+      "path": "/communities/c-hedong-1e22aaa4e710/"
+    },
+    {
+      "type": "community",
+      "id": "hedong-aae70eb868a6",
+      "name": "大直沽后街",
+      "subtitle": "河东区 · 大直沽",
+      "path": "/communities/c-hedong-aae70eb868a6/"
+    },
+    {
+      "type": "community",
       "id": "hedong-49523c182ee9",
       "name": "嘉祥里",
       "subtitle": "河东区 · 大王庄",
@@ -4979,6 +5007,13 @@
       "name": "万东路118号",
       "subtitle": "河东区 · 向阳楼",
       "path": "/communities/c-hedong-30264de516d8/"
+    },
+    {
+      "type": "community",
+      "id": "hedong-a2c793700b8a",
+      "name": "城市之星大廈",
+      "subtitle": "河东区 · 春华街",
+      "path": "/communities/c-hedong-a2c793700b8a/"
     },
     {
       "type": "community",
@@ -5010,10 +5045,10 @@
     },
     {
       "type": "community",
-      "id": "hedong-eb84a22ec14b",
-      "name": "龙峰嘉园",
-      "subtitle": "河东区 · 二号桥街",
-      "path": "/communities/c-hedong-eb84a22ec14b/"
+      "id": "hedong-784b94ab7717",
+      "name": "诚厚里",
+      "subtitle": "河东区 · 大王庄",
+      "path": "/communities/c-hedong-784b94ab7717/"
     },
     {
       "type": "community",
@@ -5021,6 +5056,13 @@
       "name": "东润名邸",
       "subtitle": "河东区 · 大直沽",
       "path": "/communities/c-hedong-bd3e9afe17db/"
+    },
+    {
+      "type": "community",
+      "id": "hedong-fc1a6f488725",
+      "name": "海委公寓",
+      "subtitle": "河东区 · 中山门街",
+      "path": "/communities/c-hedong-fc1a6f488725/"
     },
     {
       "type": "community",
@@ -5052,10 +5094,10 @@
     },
     {
       "type": "community",
-      "id": "hedong-46e2801fbf50",
-      "name": "玉山里(河东)",
-      "subtitle": "河东区 · 常州道",
-      "path": "/communities/c-hedong-46e2801fbf50/"
+      "id": "hedong-eb84a22ec14b",
+      "name": "龙峰嘉园",
+      "subtitle": "河东区 · 二号桥街",
+      "path": "/communities/c-hedong-eb84a22ec14b/"
     },
     {
       "type": "community",
@@ -5080,10 +5122,17 @@
     },
     {
       "type": "community",
-      "id": "hedong-bad3e08df742",
-      "name": "倚虹东里",
-      "subtitle": "河东区 · 万新村",
-      "path": "/communities/c-hedong-bad3e08df742/"
+      "id": "hedong-46e2801fbf50",
+      "name": "玉山里(河东)",
+      "subtitle": "河东区 · 常州道",
+      "path": "/communities/c-hedong-46e2801fbf50/"
+    },
+    {
+      "type": "community",
+      "id": "hedong-4d63469574c0",
+      "name": "水东里",
+      "subtitle": "河东区 · 二号桥街",
+      "path": "/communities/c-hedong-4d63469574c0/"
     },
     {
       "type": "community",
@@ -5122,6 +5171,13 @@
     },
     {
       "type": "community",
+      "id": "hedong-b0d6c8b9d4e0",
+      "name": "万隆滨河新苑",
+      "subtitle": "河东区 · 富民路",
+      "path": "/communities/c-hedong-b0d6c8b9d4e0/"
+    },
+    {
+      "type": "community",
       "id": "hedong-e6d20a953027",
       "name": "天津彪十四经路",
       "subtitle": "河东区 · 大王庄",
@@ -5129,10 +5185,10 @@
     },
     {
       "type": "community",
-      "id": "hedong-d14c94bda7d4",
-      "name": "秀丽园",
-      "subtitle": "河东区 · 太阳城",
-      "path": "/communities/c-hedong-d14c94bda7d4/"
+      "id": "hedong-bbfcb7c3c48f",
+      "name": "程林里小区",
+      "subtitle": "河东区 · 上杭路",
+      "path": "/communities/c-hedong-bbfcb7c3c48f/"
     },
     {
       "type": "community",
@@ -5185,10 +5241,31 @@
     },
     {
       "type": "community",
+      "id": "hedong-57c4e0d2768a",
+      "name": "同心嘉园",
+      "subtitle": "河东区 · 二号桥街",
+      "path": "/communities/c-hedong-57c4e0d2768a/"
+    },
+    {
+      "type": "community",
+      "id": "hedong-54c4715320a1",
+      "name": "曲溪中里",
+      "subtitle": "河东区 · 万新村",
+      "path": "/communities/c-hedong-54c4715320a1/"
+    },
+    {
+      "type": "community",
       "id": "hedong-23445097b7ac",
       "name": "凤麟公寓",
       "subtitle": "河东区 · 上杭路",
       "path": "/communities/c-hedong-23445097b7ac/"
+    },
+    {
+      "type": "community",
+      "id": "hedong-f16526a26ab0",
+      "name": "芳水河畔家园",
+      "subtitle": "河东区 · 上杭路",
+      "path": "/communities/c-hedong-f16526a26ab0/"
     },
     {
       "type": "community",
@@ -5206,10 +5283,10 @@
     },
     {
       "type": "community",
-      "id": "hedong-af4552ea5d48",
-      "name": "新景安里",
-      "subtitle": "河东区 · 大王庄",
-      "path": "/communities/c-hedong-af4552ea5d48/"
+      "id": "hedong-7b9f874ceff5",
+      "name": "万平里",
+      "subtitle": "河东区 · 上杭路",
+      "path": "/communities/c-hedong-7b9f874ceff5/"
     },
     {
       "type": "community",
@@ -5227,24 +5304,10 @@
     },
     {
       "type": "community",
-      "id": "hedong-5dcbf6ec1b27",
-      "name": "鑫泰家园",
-      "subtitle": "河东区 · 春华街",
-      "path": "/communities/c-hedong-5dcbf6ec1b27/"
-    },
-    {
-      "type": "community",
       "id": "hedong-3e9a8861adb7",
       "name": "平福里",
       "subtitle": "河东区 · 春华街",
       "path": "/communities/c-hedong-3e9a8861adb7/"
-    },
-    {
-      "type": "community",
-      "id": "hedong-3ca2a55997a2",
-      "name": "环秀中里",
-      "subtitle": "河东区 · 万新村",
-      "path": "/communities/c-hedong-3ca2a55997a2/"
     },
     {
       "type": "community",
@@ -5255,17 +5318,17 @@
     },
     {
       "type": "community",
+      "id": "hedong-feaf355006ba",
+      "name": "靓东花园",
+      "subtitle": "河东区 · 二号桥街",
+      "path": "/communities/c-hedong-feaf355006ba/"
+    },
+    {
+      "type": "community",
       "id": "hedong-4f4b95984444",
       "name": "欢颜里",
       "subtitle": "河东区 · 常州道",
       "path": "/communities/c-hedong-4f4b95984444/"
-    },
-    {
-      "type": "community",
-      "id": "hedong-160983b025b7",
-      "name": "曲溪西里",
-      "subtitle": "河东区 · 万新村",
-      "path": "/communities/c-hedong-160983b025b7/"
     },
     {
       "type": "community",
@@ -5283,17 +5346,17 @@
     },
     {
       "type": "community",
-      "id": "hedong-b0d6c8b9d4e0",
-      "name": "万隆滨河新苑",
-      "subtitle": "河东区 · 富民路",
-      "path": "/communities/c-hedong-b0d6c8b9d4e0/"
+      "id": "hedong-9c6246aec6da",
+      "name": "万和里",
+      "subtitle": "河东区 · 上杭路",
+      "path": "/communities/c-hedong-9c6246aec6da/"
     },
     {
       "type": "community",
-      "id": "hedong-aec7edd7e588",
-      "name": "大众家园",
-      "subtitle": "河东区 · 常州道",
-      "path": "/communities/c-hedong-aec7edd7e588/"
+      "id": "hedong-8aa2e035720f",
+      "name": "静墅里",
+      "subtitle": "河东区 · 上杭路",
+      "path": "/communities/c-hedong-8aa2e035720f/"
     },
     {
       "type": "community",
@@ -5304,24 +5367,17 @@
     },
     {
       "type": "community",
-      "id": "hedong-bbfcb7c3c48f",
-      "name": "程林里小区",
-      "subtitle": "河东区 · 上杭路",
-      "path": "/communities/c-hedong-bbfcb7c3c48f/"
-    },
-    {
-      "type": "community",
-      "id": "hedong-54c4715320a1",
-      "name": "曲溪中里",
-      "subtitle": "河东区 · 万新村",
-      "path": "/communities/c-hedong-54c4715320a1/"
-    },
-    {
-      "type": "community",
       "id": "hedong-51912a9966f7",
       "name": "华康西里",
       "subtitle": "河东区 · 春华街",
       "path": "/communities/c-hedong-51912a9966f7/"
+    },
+    {
+      "type": "community",
+      "id": "hedong-1daf7526bc69",
+      "name": "近营里",
+      "subtitle": "河东区 · 常州道",
+      "path": "/communities/c-hedong-1daf7526bc69/"
     },
     {
       "type": "community",
@@ -5339,17 +5395,17 @@
     },
     {
       "type": "community",
+      "id": "hedong-de07c62cb41b",
+      "name": "阳新里",
+      "subtitle": "河东区 · 向阳楼",
+      "path": "/communities/c-hedong-de07c62cb41b/"
+    },
+    {
+      "type": "community",
       "id": "hedong-f4d16b31752d",
       "name": "福庭里",
       "subtitle": "河东区 · 二号桥街",
       "path": "/communities/c-hedong-f4d16b31752d/"
-    },
-    {
-      "type": "community",
-      "id": "hedong-5d6c2a1dec95",
-      "name": "曲溪东里",
-      "subtitle": "河东区 · 万新村",
-      "path": "/communities/c-hedong-5d6c2a1dec95/"
     },
     {
       "type": "community",
@@ -5381,10 +5437,24 @@
     },
     {
       "type": "community",
+      "id": "hedong-3ca2a55997a2",
+      "name": "环秀中里",
+      "subtitle": "河东区 · 万新村",
+      "path": "/communities/c-hedong-3ca2a55997a2/"
+    },
+    {
+      "type": "community",
       "id": "hedong-61a902a5758d",
       "name": "金昌里",
       "subtitle": "河东区 · 大直沽",
       "path": "/communities/c-hedong-61a902a5758d/"
+    },
+    {
+      "type": "community",
+      "id": "hedong-bad3e08df742",
+      "name": "倚虹东里",
+      "subtitle": "河东区 · 万新村",
+      "path": "/communities/c-hedong-bad3e08df742/"
     },
     {
       "type": "community",
@@ -5416,13 +5486,6 @@
     },
     {
       "type": "community",
-      "id": "hedong-c721bb8f5d50",
-      "name": "和睦北里",
-      "subtitle": "河东区 · 中山门街",
-      "path": "/communities/c-hedong-c721bb8f5d50/"
-    },
-    {
-      "type": "community",
       "id": "hedong-af372efd075c",
       "name": "从阳明里",
       "subtitle": "河东区 · 向阳楼",
@@ -5437,6 +5500,13 @@
     },
     {
       "type": "community",
+      "id": "hedong-16e23263885c",
+      "name": "建新东里",
+      "subtitle": "河东区 · 二号桥街",
+      "path": "/communities/c-hedong-16e23263885c/"
+    },
+    {
+      "type": "community",
       "id": "hedong-739959417178",
       "name": "祈和新苑",
       "subtitle": "河东区 · 向阳楼",
@@ -5444,10 +5514,10 @@
     },
     {
       "type": "community",
-      "id": "hedong-e3b8d29a23c4",
-      "name": "红顶花园南园",
-      "subtitle": "河东区 · 向阳楼",
-      "path": "/communities/c-hedong-e3b8d29a23c4/"
+      "id": "hedong-b953513c1aa1",
+      "name": "东瑞家园",
+      "subtitle": "河东区 · 常州道",
+      "path": "/communities/c-hedong-b953513c1aa1/"
     },
     {
       "type": "community",
@@ -5455,6 +5525,13 @@
       "name": "团结东里",
       "subtitle": "河东区 · 中山门街",
       "path": "/communities/c-hedong-7c932d905422/"
+    },
+    {
+      "type": "community",
+      "id": "hedong-160983b025b7",
+      "name": "曲溪西里",
+      "subtitle": "河东区 · 万新村",
+      "path": "/communities/c-hedong-160983b025b7/"
     },
     {
       "type": "community",
@@ -5472,31 +5549,17 @@
     },
     {
       "type": "community",
-      "id": "hedong-feaf355006ba",
-      "name": "靓东花园",
+      "id": "hedong-5d6c2a1dec95",
+      "name": "曲溪东里",
+      "subtitle": "河东区 · 万新村",
+      "path": "/communities/c-hedong-5d6c2a1dec95/"
+    },
+    {
+      "type": "community",
+      "id": "hedong-4711e6a7b9f8",
+      "name": "福天里",
       "subtitle": "河东区 · 二号桥街",
-      "path": "/communities/c-hedong-feaf355006ba/"
-    },
-    {
-      "type": "community",
-      "id": "hedong-b953513c1aa1",
-      "name": "东瑞家园",
-      "subtitle": "河东区 · 常州道",
-      "path": "/communities/c-hedong-b953513c1aa1/"
-    },
-    {
-      "type": "community",
-      "id": "hedong-9c6246aec6da",
-      "name": "万和里",
-      "subtitle": "河东区 · 上杭路",
-      "path": "/communities/c-hedong-9c6246aec6da/"
-    },
-    {
-      "type": "community",
-      "id": "hedong-de07c62cb41b",
-      "name": "阳新里",
-      "subtitle": "河东区 · 向阳楼",
-      "path": "/communities/c-hedong-de07c62cb41b/"
+      "path": "/communities/c-hedong-4711e6a7b9f8/"
     },
     {
       "type": "community",
@@ -5514,17 +5577,17 @@
     },
     {
       "type": "community",
-      "id": "hedong-1b1a688869b6",
-      "name": "晨阳小区",
-      "subtitle": "河东区 · 向阳楼",
-      "path": "/communities/c-hedong-1b1a688869b6/"
-    },
-    {
-      "type": "community",
       "id": "hedong-23204e194467",
       "name": "滇池里",
       "subtitle": "河东区 · 向阳楼",
       "path": "/communities/c-hedong-23204e194467/"
+    },
+    {
+      "type": "community",
+      "id": "hedong-b3e030a55848",
+      "name": "和进里",
+      "subtitle": "河东区 · 大直沽",
+      "path": "/communities/c-hedong-b3e030a55848/"
     },
     {
       "type": "community",
@@ -5535,17 +5598,17 @@
     },
     {
       "type": "community",
+      "id": "hedong-79a65175e5d6",
+      "name": "东惠家园",
+      "subtitle": "河东区 · 常州道",
+      "path": "/communities/c-hedong-79a65175e5d6/"
+    },
+    {
+      "type": "community",
       "id": "hedong-e51e078e026a",
       "name": "河滨楼",
       "subtitle": "河东区 · 大直沽",
       "path": "/communities/c-hedong-e51e078e026a/"
-    },
-    {
-      "type": "community",
-      "id": "hedong-2bb45503fd4b",
-      "name": "第六大道俊东公寓",
-      "subtitle": "河东区 · 上杭路",
-      "path": "/communities/c-hedong-2bb45503fd4b/"
     },
     {
       "type": "community",
@@ -5577,10 +5640,31 @@
     },
     {
       "type": "community",
-      "id": "hedong-a2fce22b99da",
-      "name": "凤岐里",
+      "id": "hedong-55f3f5ff1f6c",
+      "name": "互助西里",
+      "subtitle": "河东区 · 中山门街",
+      "path": "/communities/c-hedong-55f3f5ff1f6c/"
+    },
+    {
+      "type": "community",
+      "id": "hedong-a207f6a98052",
+      "name": "松风西里",
       "subtitle": "河东区 · 万新村",
-      "path": "/communities/c-hedong-a2fce22b99da/"
+      "path": "/communities/c-hedong-a207f6a98052/"
+    },
+    {
+      "type": "community",
+      "id": "hedong-e3b8d29a23c4",
+      "name": "红顶花园南园",
+      "subtitle": "河东区 · 向阳楼",
+      "path": "/communities/c-hedong-e3b8d29a23c4/"
+    },
+    {
+      "type": "community",
+      "id": "hedong-c721bb8f5d50",
+      "name": "和睦北里",
+      "subtitle": "河东区 · 中山门街",
+      "path": "/communities/c-hedong-c721bb8f5d50/"
     },
     {
       "type": "community",
@@ -5588,6 +5672,13 @@
       "name": "向阳楼",
       "subtitle": "河东区 · 向阳楼",
       "path": "/communities/c-hedong-15cd6bafa99c/"
+    },
+    {
+      "type": "community",
+      "id": "hedong-a2fce22b99da",
+      "name": "凤岐里",
+      "subtitle": "河东区 · 万新村",
+      "path": "/communities/c-hedong-a2fce22b99da/"
     },
     {
       "type": "community",
@@ -5612,17 +5703,17 @@
     },
     {
       "type": "community",
-      "id": "hedong-57c4e0d2768a",
-      "name": "同心嘉园",
-      "subtitle": "河东区 · 二号桥街",
-      "path": "/communities/c-hedong-57c4e0d2768a/"
-    },
-    {
-      "type": "community",
       "id": "hedong-b15f85ca237e",
       "name": "临营东里",
       "subtitle": "河东区 · 常州道",
       "path": "/communities/c-hedong-b15f85ca237e/"
+    },
+    {
+      "type": "community",
+      "id": "hedong-c8fcb437a062",
+      "name": "安吉花园",
+      "subtitle": "河东区 · 二号桥街",
+      "path": "/communities/c-hedong-c8fcb437a062/"
     },
     {
       "type": "community",
@@ -5654,10 +5745,10 @@
     },
     {
       "type": "community",
-      "id": "hedong-8991bc252c0f",
-      "name": "沧浪西里",
-      "subtitle": "河东区 · 万新村",
-      "path": "/communities/c-hedong-8991bc252c0f/"
+      "id": "hedong-4748efc053b1",
+      "name": "和睦西里",
+      "subtitle": "河东区 · 中山门街",
+      "path": "/communities/c-hedong-4748efc053b1/"
     },
     {
       "type": "community",
@@ -5665,6 +5756,13 @@
       "name": "东兴园",
       "subtitle": "河东区 · 大直沽",
       "path": "/communities/c-hedong-fc31e3321354/"
+    },
+    {
+      "type": "community",
+      "id": "hedong-123b7d2b5eed",
+      "name": "远翠东里",
+      "subtitle": "河东区 · 万新村",
+      "path": "/communities/c-hedong-123b7d2b5eed/"
     },
     {
       "type": "community",
@@ -5679,13 +5777,6 @@
       "name": "天津彪冠云中里",
       "subtitle": "河东区 · 万新村",
       "path": "/communities/c-hedong-30480b5a1fc3/"
-    },
-    {
-      "type": "community",
-      "id": "hedong-79a65175e5d6",
-      "name": "东惠家园",
-      "subtitle": "河东区 · 常州道",
-      "path": "/communities/c-hedong-79a65175e5d6/"
     },
     {
       "type": "community",
@@ -5710,24 +5801,10 @@
     },
     {
       "type": "community",
-      "id": "hedong-b55e3b172e0a",
-      "name": "试验楼",
-      "subtitle": "河东区 · 中山门街",
-      "path": "/communities/c-hedong-b55e3b172e0a/"
-    },
-    {
-      "type": "community",
       "id": "hedong-973c6af521f9",
       "name": "天津彪福东里",
       "subtitle": "河东区 · 二号桥街",
       "path": "/communities/c-hedong-973c6af521f9/"
-    },
-    {
-      "type": "community",
-      "id": "hedong-a207f6a98052",
-      "name": "松风西里",
-      "subtitle": "河东区 · 万新村",
-      "path": "/communities/c-hedong-a207f6a98052/"
     },
     {
       "type": "community",
@@ -5752,10 +5829,10 @@
     },
     {
       "type": "community",
-      "id": "hedong-16e23263885c",
-      "name": "建新东里",
+      "id": "hedong-6a0725b67a68",
+      "name": "紫乐广场",
       "subtitle": "河东区 · 二号桥街",
-      "path": "/communities/c-hedong-16e23263885c/"
+      "path": "/communities/c-hedong-6a0725b67a68/"
     },
     {
       "type": "community",
@@ -5801,13 +5878,6 @@
     },
     {
       "type": "community",
-      "id": "hedong-a2c793700b8a",
-      "name": "城市之星大廈",
-      "subtitle": "河东区 · 春华街",
-      "path": "/communities/c-hedong-a2c793700b8a/"
-    },
-    {
-      "type": "community",
       "id": "hedong-1707942132de",
       "name": "日月家园",
       "subtitle": "河东区 · 唐家口",
@@ -5815,24 +5885,10 @@
     },
     {
       "type": "community",
-      "id": "hedong-8355825cdaf9",
-      "name": "红星大厦",
-      "subtitle": "河东区 · 上杭路",
-      "path": "/communities/c-hedong-8355825cdaf9/"
-    },
-    {
-      "type": "community",
       "id": "hedong-f4eb65e4362e",
       "name": "祥泰公寓",
       "subtitle": "河东区 · 常州道",
       "path": "/communities/c-hedong-f4eb65e4362e/"
-    },
-    {
-      "type": "community",
-      "id": "hedong-c8fcb437a062",
-      "name": "安吉花园",
-      "subtitle": "河东区 · 二号桥街",
-      "path": "/communities/c-hedong-c8fcb437a062/"
     },
     {
       "type": "community",
@@ -5857,10 +5913,10 @@
     },
     {
       "type": "community",
-      "id": "hedong-fc1a6f488725",
-      "name": "海委公寓",
-      "subtitle": "河东区 · 中山门街",
-      "path": "/communities/c-hedong-fc1a6f488725/"
+      "id": "hedong-8355825cdaf9",
+      "name": "红星大厦",
+      "subtitle": "河东区 · 上杭路",
+      "path": "/communities/c-hedong-8355825cdaf9/"
     },
     {
       "type": "community",
@@ -5871,45 +5927,10 @@
     },
     {
       "type": "community",
-      "id": "hedong-c553f5e48c75",
-      "name": "临营西里",
-      "subtitle": "河东区 · 常州道",
-      "path": "/communities/c-hedong-c553f5e48c75/"
-    },
-    {
-      "type": "community",
       "id": "hedong-19341b4728ad",
       "name": "顺达东里",
       "subtitle": "河东区 · 向阳楼",
       "path": "/communities/c-hedong-19341b4728ad/"
-    },
-    {
-      "type": "community",
-      "id": "hedong-e63088aafea5",
-      "name": "中山门东里",
-      "subtitle": "河东区 · 中山门街",
-      "path": "/communities/c-hedong-e63088aafea5/"
-    },
-    {
-      "type": "community",
-      "id": "hedong-6a0725b67a68",
-      "name": "紫乐广场",
-      "subtitle": "河东区 · 二号桥街",
-      "path": "/communities/c-hedong-6a0725b67a68/"
-    },
-    {
-      "type": "community",
-      "id": "hedong-4711e6a7b9f8",
-      "name": "福天里",
-      "subtitle": "河东区 · 二号桥街",
-      "path": "/communities/c-hedong-4711e6a7b9f8/"
-    },
-    {
-      "type": "community",
-      "id": "hedong-f16526a26ab0",
-      "name": "芳水河畔家园",
-      "subtitle": "河东区 · 上杭路",
-      "path": "/communities/c-hedong-f16526a26ab0/"
     },
     {
       "type": "community",
