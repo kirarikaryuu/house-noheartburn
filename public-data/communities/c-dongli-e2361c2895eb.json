@@ -8,13 +8,13 @@
     "name": "米兰东湖湾",
     "district_code": "120110",
     "district_name": "东丽区",
-    "submarket": "东丽湖",
+    "submarket": "湖",
     "property_use": "unknown"
   },
   "latest": {
     "month": "2026-10",
     "status": "insufficient_sample",
-    "transaction_count": 1,
+    "transaction_count": 2,
     "source_count": 1,
     "median_unit_price": null,
     "median_total_price": null,
@@ -25,12 +25,12 @@
   },
   "observation": {
     "month": "2026-10",
-    "transaction_count": 1,
+    "transaction_count": 2,
     "source_count": 1,
-    "median_unit_price": 3756,
-    "median_total_price": 338000,
+    "median_unit_price": 4442,
+    "median_total_price": 274000,
     "min_unit_price": 3756,
-    "max_unit_price": 3756
+    "max_unit_price": 5129
   },
   "series": [
     {
@@ -312,7 +312,7 @@
     {
       "month": "2026-10",
       "status": "insufficient_sample",
-      "transaction_count": 1,
+      "transaction_count": 2,
       "source_count": 1,
       "median_unit_price": null,
       "median_total_price": null,
@@ -332,7 +332,7 @@
         "≥144㎡"
       ],
       "counts": [
-        2,
+        3,
         2,
         7,
         1,
@@ -348,7 +348,7 @@
         "≥500万"
       ],
       "counts": [
-        12,
+        13,
         0,
         0,
         0,
@@ -364,6 +364,14 @@
       "floor": "8/9",
       "total_price_yuan": 338000,
       "unit_price_yuan": 3756
+    },
+    {
+      "deal_date": "2026-10-09",
+      "layout": "1-1-0-1",
+      "area_sqm": 40.94,
+      "floor": "1/4",
+      "total_price_yuan": 210000,
+      "unit_price_yuan": 5129
     },
     {
       "deal_date": "2026-09-15",

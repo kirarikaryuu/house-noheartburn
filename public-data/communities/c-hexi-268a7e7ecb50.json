@@ -12,25 +12,25 @@
     "property_use": "unknown"
   },
   "latest": {
-    "month": "2026-09",
-    "status": "published",
-    "transaction_count": 3,
+    "month": "2026-10",
+    "status": "insufficient_sample",
+    "transaction_count": 2,
     "source_count": 1,
-    "median_unit_price": 28552,
-    "median_total_price": 1080000,
-    "p25_unit_price": 26860,
-    "p75_unit_price": 28974,
+    "median_unit_price": null,
+    "median_total_price": null,
+    "p25_unit_price": null,
+    "p75_unit_price": null,
     "mom_pct": null,
     "yoy_pct": null
   },
   "observation": {
-    "month": "2026-09",
-    "transaction_count": 3,
+    "month": "2026-10",
+    "transaction_count": 2,
     "source_count": 1,
-    "median_unit_price": 28552,
-    "median_total_price": 1080000,
-    "min_unit_price": 25168,
-    "max_unit_price": 29396
+    "median_unit_price": 23974,
+    "median_total_price": 926000,
+    "min_unit_price": 23228,
+    "max_unit_price": 24719
   },
   "series": [
     {
@@ -311,9 +311,9 @@
     },
     {
       "month": "2026-10",
-      "status": "no_data",
-      "transaction_count": 0,
-      "source_count": 0,
+      "status": "insufficient_sample",
+      "transaction_count": 2,
+      "source_count": 1,
       "median_unit_price": null,
       "median_total_price": null,
       "p25_unit_price": null,
@@ -332,7 +332,7 @@
         "≥144㎡"
       ],
       "counts": [
-        48,
+        50,
         9,
         0,
         0,
@@ -348,7 +348,7 @@
         "≥500万"
       ],
       "counts": [
-        28,
+        30,
         28,
         1,
         0,
@@ -357,6 +357,22 @@
     }
   },
   "transactions": [
+    {
+      "deal_date": "2026-10-31",
+      "layout": "1-1-1-1",
+      "area_sqm": 40.05,
+      "floor": "3/7",
+      "total_price_yuan": 990000,
+      "unit_price_yuan": 24719
+    },
+    {
+      "deal_date": "2026-10-21",
+      "layout": "1-1-1-1",
+      "area_sqm": 37.11,
+      "floor": "1/7",
+      "total_price_yuan": 862000,
+      "unit_price_yuan": 23228
+    },
     {
       "deal_date": "2026-09-29",
       "layout": "2-1-1-1",

@@ -2756,13 +2756,13 @@
       "latest": {
         "month": "2026-10",
         "status": "published",
-        "transaction_count": 30,
+        "transaction_count": 31,
         "source_count": 1,
-        "median_unit_price": 10126,
-        "median_total_price": 630000,
-        "p25_unit_price": 8915,
-        "p75_unit_price": 12081,
-        "mom_pct": 2.0,
+        "median_unit_price": 10188,
+        "median_total_price": 665000,
+        "p25_unit_price": 8965,
+        "p75_unit_price": 13084,
+        "mom_pct": 2.6,
         "yoy_pct": null
       },
       "series": [
@@ -3045,13 +3045,13 @@
         {
           "month": "2026-10",
           "status": "published",
-          "transaction_count": 30,
+          "transaction_count": 31,
           "source_count": 1,
-          "median_unit_price": 10126,
-          "median_total_price": 630000,
-          "p25_unit_price": 8915,
-          "p75_unit_price": 12081,
-          "mom_pct": 2.0,
+          "median_unit_price": 10188,
+          "median_total_price": 665000,
+          "p25_unit_price": 8965,
+          "p75_unit_price": 13084,
+          "mom_pct": 2.6,
           "yoy_pct": null
         }
       ]
@@ -6550,34 +6550,6 @@
       }
     },
     {
-      "id": "hedong-a91dd6baaebd",
-      "slug": "c-hedong-a91dd6baaebd",
-      "name": "天津彪盛华园",
-      "submarket": "春华街",
-      "property_use": "unknown",
-      "latest": {
-        "month": "2026-05",
-        "status": "insufficient_sample",
-        "transaction_count": 1,
-        "source_count": 1,
-        "median_unit_price": null,
-        "median_total_price": null,
-        "p25_unit_price": null,
-        "p75_unit_price": null,
-        "mom_pct": null,
-        "yoy_pct": null
-      },
-      "observation": {
-        "month": "2026-05",
-        "transaction_count": 1,
-        "source_count": 1,
-        "median_unit_price": 16439,
-        "median_total_price": 1470000,
-        "min_unit_price": 16439,
-        "max_unit_price": 16439
-      }
-    },
-    {
       "id": "hedong-aef6dd9786f3",
       "slug": "c-hedong-aef6dd9786f3",
       "name": "靓锦名居",
@@ -6967,34 +6939,6 @@
         "median_total_price": 1340000,
         "min_unit_price": 15324,
         "max_unit_price": 15981
-      }
-    },
-    {
-      "id": "hedong-efcd5d04bf41",
-      "slug": "c-hedong-efcd5d04bf41",
-      "name": "天津彪晨阳小区",
-      "submarket": "向阳楼",
-      "property_use": "unknown",
-      "latest": {
-        "month": "2026-05",
-        "status": "insufficient_sample",
-        "transaction_count": 1,
-        "source_count": 1,
-        "median_unit_price": null,
-        "median_total_price": null,
-        "p25_unit_price": null,
-        "p75_unit_price": null,
-        "mom_pct": null,
-        "yoy_pct": null
-      },
-      "observation": {
-        "month": "2026-05",
-        "transaction_count": 1,
-        "source_count": 1,
-        "median_unit_price": 15690,
-        "median_total_price": 758000,
-        "min_unit_price": 15690,
-        "max_unit_price": 15690
       }
     },
     {
@@ -7670,34 +7614,6 @@
       }
     },
     {
-      "id": "hedong-c0e5998bff1c",
-      "slug": "c-hedong-c0e5998bff1c",
-      "name": "津彪哥欣荣馨苑",
-      "submarket": "唐家口",
-      "property_use": "unknown",
-      "latest": {
-        "month": "2026-07",
-        "status": "insufficient_sample",
-        "transaction_count": 1,
-        "source_count": 1,
-        "median_unit_price": null,
-        "median_total_price": null,
-        "p25_unit_price": null,
-        "p75_unit_price": null,
-        "mom_pct": null,
-        "yoy_pct": null
-      },
-      "observation": {
-        "month": "2026-07",
-        "transaction_count": 1,
-        "source_count": 1,
-        "median_unit_price": 14744,
-        "median_total_price": 1200000,
-        "min_unit_price": 14744,
-        "max_unit_price": 14744
-      }
-    },
-    {
       "id": "hedong-1bb1faa51d9d",
       "slug": "c-hedong-1bb1faa51d9d",
       "name": "天善社大街81号",
@@ -7807,34 +7723,6 @@
         "median_total_price": 2020000,
         "min_unit_price": 14587,
         "max_unit_price": 14587
-      }
-    },
-    {
-      "id": "hedong-793a5a975e6b",
-      "slug": "c-hedong-793a5a975e6b",
-      "name": "天津彪环卫楼",
-      "submarket": "唐家口",
-      "property_use": "unknown",
-      "latest": {
-        "month": "2026-05",
-        "status": "insufficient_sample",
-        "transaction_count": 1,
-        "source_count": 1,
-        "median_unit_price": null,
-        "median_total_price": null,
-        "p25_unit_price": null,
-        "p75_unit_price": null,
-        "mom_pct": null,
-        "yoy_pct": null
-      },
-      "observation": {
-        "month": "2026-05",
-        "transaction_count": 1,
-        "source_count": 1,
-        "median_unit_price": 14561,
-        "median_total_price": 325000,
-        "min_unit_price": 14561,
-        "max_unit_price": 14561
       }
     },
     {
@@ -10106,34 +9994,6 @@
       }
     },
     {
-      "id": "hedong-ac0305dd27d7",
-      "slug": "c-hedong-ac0305dd27d7",
-      "name": "天津彪松风西里",
-      "submarket": "万新村",
-      "property_use": "unknown",
-      "latest": {
-        "month": "2026-05",
-        "status": "insufficient_sample",
-        "transaction_count": 1,
-        "source_count": 1,
-        "median_unit_price": null,
-        "median_total_price": null,
-        "p25_unit_price": null,
-        "p75_unit_price": null,
-        "mom_pct": null,
-        "yoy_pct": null
-      },
-      "observation": {
-        "month": "2026-05",
-        "transaction_count": 1,
-        "source_count": 1,
-        "median_unit_price": 12366,
-        "median_total_price": 450000,
-        "min_unit_price": 12366,
-        "max_unit_price": 12366
-      }
-    },
-    {
       "id": "hedong-57862ba86b12",
       "slug": "c-hedong-57862ba86b12",
       "name": "丰业里",
@@ -10638,34 +10498,6 @@
       }
     },
     {
-      "id": "hedong-48d70d95e718",
-      "slug": "c-hedong-48d70d95e718",
-      "name": "天津彪华光里",
-      "submarket": "春华街",
-      "property_use": "unknown",
-      "latest": {
-        "month": "2026-06",
-        "status": "insufficient_sample",
-        "transaction_count": 1,
-        "source_count": 1,
-        "median_unit_price": null,
-        "median_total_price": null,
-        "p25_unit_price": null,
-        "p75_unit_price": null,
-        "mom_pct": null,
-        "yoy_pct": null
-      },
-      "observation": {
-        "month": "2026-06",
-        "transaction_count": 1,
-        "source_count": 1,
-        "median_unit_price": 12013,
-        "median_total_price": 500000,
-        "min_unit_price": 12013,
-        "max_unit_price": 12013
-      }
-    },
-    {
       "id": "hedong-b55e3b172e0a",
       "slug": "c-hedong-b55e3b172e0a",
       "name": "试验楼",
@@ -10946,34 +10778,6 @@
       }
     },
     {
-      "id": "hedong-566f1a8747ff",
-      "slug": "c-hedong-566f1a8747ff",
-      "name": "津彪哥和睦西里",
-      "submarket": "中山门街",
-      "property_use": "unknown",
-      "latest": {
-        "month": "2026-07",
-        "status": "insufficient_sample",
-        "transaction_count": 1,
-        "source_count": 1,
-        "median_unit_price": null,
-        "median_total_price": null,
-        "p25_unit_price": null,
-        "p75_unit_price": null,
-        "mom_pct": null,
-        "yoy_pct": null
-      },
-      "observation": {
-        "month": "2026-07",
-        "transaction_count": 1,
-        "source_count": 1,
-        "median_unit_price": 11721,
-        "median_total_price": 500000,
-        "min_unit_price": 11721,
-        "max_unit_price": 11721
-      }
-    },
-    {
       "id": "hedong-c41938246faa",
       "slug": "c-hedong-c41938246faa",
       "name": "顺达公寓",
@@ -11167,34 +10971,6 @@
         "median_total_price": 880000,
         "min_unit_price": 10334,
         "max_unit_price": 12735
-      }
-    },
-    {
-      "id": "hedong-70e7e482a543",
-      "slug": "c-hedong-70e7e482a543",
-      "name": "天津彪丹荔园",
-      "submarket": "太阳城",
-      "property_use": "unknown",
-      "latest": {
-        "month": "2026-05",
-        "status": "insufficient_sample",
-        "transaction_count": 1,
-        "source_count": 1,
-        "median_unit_price": null,
-        "median_total_price": null,
-        "p25_unit_price": null,
-        "p75_unit_price": null,
-        "mom_pct": null,
-        "yoy_pct": null
-      },
-      "observation": {
-        "month": "2026-05",
-        "transaction_count": 1,
-        "source_count": 1,
-        "median_unit_price": 11563,
-        "median_total_price": 1135000,
-        "min_unit_price": 11563,
-        "max_unit_price": 11563
       }
     },
     {
@@ -12430,34 +12206,6 @@
       }
     },
     {
-      "id": "hedong-6a39e780f7b6",
-      "slug": "c-hedong-6a39e780f7b6",
-      "name": "津彪哥天泉东里",
-      "submarket": "万新村",
-      "property_use": "unknown",
-      "latest": {
-        "month": "2026-07",
-        "status": "insufficient_sample",
-        "transaction_count": 1,
-        "source_count": 1,
-        "median_unit_price": null,
-        "median_total_price": null,
-        "p25_unit_price": null,
-        "p75_unit_price": null,
-        "mom_pct": null,
-        "yoy_pct": null
-      },
-      "observation": {
-        "month": "2026-07",
-        "transaction_count": 1,
-        "source_count": 1,
-        "median_unit_price": 10404,
-        "median_total_price": 430000,
-        "min_unit_price": 10404,
-        "max_unit_price": 10404
-      }
-    },
-    {
       "id": "hedong-fbdd161c5ca8",
       "slug": "c-hedong-fbdd161c5ca8",
       "name": "津塘路(二号桥)",
@@ -13267,34 +13015,6 @@
         "median_total_price": 985000,
         "min_unit_price": 6419,
         "max_unit_price": 16126
-      }
-    },
-    {
-      "id": "hedong-e6d20a953027",
-      "slug": "c-hedong-e6d20a953027",
-      "name": "天津彪十四经路",
-      "submarket": "大王庄",
-      "property_use": "unknown",
-      "latest": {
-        "month": "2026-05",
-        "status": "insufficient_sample",
-        "transaction_count": 1,
-        "source_count": 1,
-        "median_unit_price": null,
-        "median_total_price": null,
-        "p25_unit_price": null,
-        "p75_unit_price": null,
-        "mom_pct": null,
-        "yoy_pct": null
-      },
-      "observation": {
-        "month": "2026-05",
-        "transaction_count": 1,
-        "source_count": 1,
-        "median_unit_price": 9807,
-        "median_total_price": 555000,
-        "min_unit_price": 9807,
-        "max_unit_price": 9807
       }
     },
     {
@@ -14415,34 +14135,6 @@
         "median_total_price": 400000,
         "min_unit_price": 5812,
         "max_unit_price": 12717
-      }
-    },
-    {
-      "id": "hedong-3f20d1e79728",
-      "slug": "c-hedong-3f20d1e79728",
-      "name": "天津彪阳明里",
-      "submarket": "向阳楼",
-      "property_use": "unknown",
-      "latest": {
-        "month": "2026-06",
-        "status": "insufficient_sample",
-        "transaction_count": 1,
-        "source_count": 1,
-        "median_unit_price": null,
-        "median_total_price": null,
-        "p25_unit_price": null,
-        "p75_unit_price": null,
-        "mom_pct": null,
-        "yoy_pct": null
-      },
-      "observation": {
-        "month": "2026-06",
-        "transaction_count": 1,
-        "source_count": 1,
-        "median_unit_price": 8667,
-        "median_total_price": 585000,
-        "min_unit_price": 8667,
-        "max_unit_price": 8667
       }
     },
     {
@@ -15650,34 +15342,6 @@
       }
     },
     {
-      "id": "hedong-30480b5a1fc3",
-      "slug": "c-hedong-30480b5a1fc3",
-      "name": "天津彪冠云中里",
-      "submarket": "万新村",
-      "property_use": "unknown",
-      "latest": {
-        "month": "2026-06",
-        "status": "insufficient_sample",
-        "transaction_count": 1,
-        "source_count": 1,
-        "median_unit_price": null,
-        "median_total_price": null,
-        "p25_unit_price": null,
-        "p75_unit_price": null,
-        "mom_pct": null,
-        "yoy_pct": null
-      },
-      "observation": {
-        "month": "2026-06",
-        "transaction_count": 1,
-        "source_count": 1,
-        "median_unit_price": 7357,
-        "median_total_price": 410000,
-        "min_unit_price": 7357,
-        "max_unit_price": 7357
-      }
-    },
-    {
       "id": "hedong-fdb97573df81",
       "slug": "c-hedong-fdb97573df81",
       "name": "公馆星期8",
@@ -15759,34 +15423,6 @@
         "median_total_price": 280000,
         "min_unit_price": 6884,
         "max_unit_price": 7161
-      }
-    },
-    {
-      "id": "hedong-973c6af521f9",
-      "slug": "c-hedong-973c6af521f9",
-      "name": "天津彪福东里",
-      "submarket": "二号桥街",
-      "property_use": "unknown",
-      "latest": {
-        "month": "2026-05",
-        "status": "insufficient_sample",
-        "transaction_count": 1,
-        "source_count": 1,
-        "median_unit_price": null,
-        "median_total_price": null,
-        "p25_unit_price": null,
-        "p75_unit_price": null,
-        "mom_pct": null,
-        "yoy_pct": null
-      },
-      "observation": {
-        "month": "2026-05",
-        "transaction_count": 1,
-        "source_count": 1,
-        "median_unit_price": 6987,
-        "median_total_price": 380000,
-        "min_unit_price": 6987,
-        "max_unit_price": 6987
       }
     },
     {

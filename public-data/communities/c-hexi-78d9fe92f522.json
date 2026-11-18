@@ -14,23 +14,23 @@
   "latest": {
     "month": "2026-10",
     "status": "published",
-    "transaction_count": 3,
+    "transaction_count": 5,
     "source_count": 1,
     "median_unit_price": 18718,
-    "median_total_price": 1301000,
-    "p25_unit_price": 17380,
-    "p75_unit_price": 21441,
+    "median_total_price": 1660000,
+    "p25_unit_price": 16780,
+    "p75_unit_price": 24164,
     "mom_pct": null,
     "yoy_pct": null
   },
   "observation": {
     "month": "2026-10",
-    "transaction_count": 3,
+    "transaction_count": 5,
     "source_count": 1,
     "median_unit_price": 18718,
-    "median_total_price": 1301000,
+    "median_total_price": 1660000,
     "min_unit_price": 16041,
-    "max_unit_price": 24164
+    "max_unit_price": 28493
   },
   "series": [
     {
@@ -312,12 +312,12 @@
     {
       "month": "2026-10",
       "status": "published",
-      "transaction_count": 3,
+      "transaction_count": 5,
       "source_count": 1,
       "median_unit_price": 18718,
-      "median_total_price": 1301000,
-      "p25_unit_price": 17380,
-      "p75_unit_price": 21441,
+      "median_total_price": 1660000,
+      "p25_unit_price": 16780,
+      "p75_unit_price": 24164,
       "mom_pct": null,
       "yoy_pct": null
     }
@@ -332,9 +332,9 @@
         "≥144㎡"
       ],
       "counts": [
-        14,
+        15,
         3,
-        3,
+        4,
         0,
         0
       ]
@@ -349,7 +349,7 @@
       ],
       "counts": [
         1,
-        18,
+        20,
         1,
         0,
         0
@@ -357,6 +357,22 @@
     }
   },
   "transactions": [
+    {
+      "deal_date": "2026-10-29",
+      "layout": "2-1-1-1",
+      "area_sqm": 58.26,
+      "floor": "1/7",
+      "total_price_yuan": 1660000,
+      "unit_price_yuan": 28493
+    },
+    {
+      "deal_date": "2026-10-28",
+      "layout": "2-1-1-1",
+      "area_sqm": 102.5,
+      "floor": "6/7",
+      "total_price_yuan": 1720000,
+      "unit_price_yuan": 16780
+    },
     {
       "deal_date": "2026-10-19",
       "layout": "2-2-1-1",

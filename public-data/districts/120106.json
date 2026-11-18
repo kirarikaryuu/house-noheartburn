@@ -11,13 +11,13 @@
   "latest": {
     "month": "2026-10",
     "status": "published",
-    "transaction_count": 224,
+    "transaction_count": 213,
     "source_count": 1,
-    "median_unit_price": 9767,
-    "median_total_price": 615500,
-    "p25_unit_price": 7882,
-    "p75_unit_price": 13462,
-    "mom_pct": 1.4,
+    "median_unit_price": 9951,
+    "median_total_price": 638000,
+    "p25_unit_price": 8032,
+    "p75_unit_price": 13826,
+    "mom_pct": 5.3,
     "yoy_pct": null
   },
   "series": [
@@ -192,49 +192,49 @@
     {
       "month": "2026-01",
       "status": "published",
-      "transaction_count": 126,
+      "transaction_count": 115,
       "source_count": 1,
-      "median_unit_price": 9958,
-      "median_total_price": 579000,
-      "p25_unit_price": 7889,
-      "p75_unit_price": 13561,
+      "median_unit_price": 10047,
+      "median_total_price": 595000,
+      "p25_unit_price": 7999,
+      "p75_unit_price": 14002,
       "mom_pct": null,
       "yoy_pct": null
     },
     {
       "month": "2026-02",
       "status": "published",
-      "transaction_count": 126,
+      "transaction_count": 101,
       "source_count": 1,
-      "median_unit_price": 8820,
+      "median_unit_price": 9209,
       "median_total_price": 550000,
-      "p25_unit_price": 7440,
-      "p75_unit_price": 11863,
-      "mom_pct": -11.4,
+      "p25_unit_price": 7594,
+      "p75_unit_price": 13089,
+      "mom_pct": -8.3,
       "yoy_pct": null
     },
     {
       "month": "2026-03",
       "status": "published",
-      "transaction_count": 536,
+      "transaction_count": 462,
       "source_count": 1,
-      "median_unit_price": 9600,
-      "median_total_price": 600000,
-      "p25_unit_price": 7449,
-      "p75_unit_price": 12525,
-      "mom_pct": 8.8,
+      "median_unit_price": 9808,
+      "median_total_price": 596500,
+      "p25_unit_price": 7598,
+      "p75_unit_price": 12940,
+      "mom_pct": 6.5,
       "yoy_pct": null
     },
     {
       "month": "2026-04",
       "status": "published",
-      "transaction_count": 401,
+      "transaction_count": 383,
       "source_count": 1,
-      "median_unit_price": 9555,
-      "median_total_price": 580000,
-      "p25_unit_price": 7606,
-      "p75_unit_price": 12817,
-      "mom_pct": -0.5,
+      "median_unit_price": 9749,
+      "median_total_price": 594000,
+      "p25_unit_price": 7734,
+      "p75_unit_price": 13159,
+      "mom_pct": -0.6,
       "yoy_pct": null
     },
     {
@@ -242,71 +242,71 @@
       "status": "published",
       "transaction_count": 228,
       "source_count": 1,
-      "median_unit_price": 9967,
-      "median_total_price": 595000,
-      "p25_unit_price": 8087,
-      "p75_unit_price": 13283,
-      "mom_pct": 4.3,
+      "median_unit_price": 9894,
+      "median_total_price": 582500,
+      "p25_unit_price": 8051,
+      "p75_unit_price": 13018,
+      "mom_pct": 1.5,
       "yoy_pct": null
     },
     {
       "month": "2026-06",
       "status": "published",
-      "transaction_count": 249,
+      "transaction_count": 252,
       "source_count": 1,
-      "median_unit_price": 9532,
-      "median_total_price": 538000,
+      "median_unit_price": 9344,
+      "median_total_price": 539000,
       "p25_unit_price": 7522,
-      "p75_unit_price": 12456,
-      "mom_pct": -4.4,
+      "p75_unit_price": 12413,
+      "mom_pct": -5.6,
       "yoy_pct": null
     },
     {
       "month": "2026-07",
       "status": "published",
-      "transaction_count": 226,
+      "transaction_count": 231,
       "source_count": 1,
-      "median_unit_price": 10062,
-      "median_total_price": 633500,
-      "p25_unit_price": 7865,
-      "p75_unit_price": 13280,
-      "mom_pct": 5.6,
+      "median_unit_price": 9969,
+      "median_total_price": 632000,
+      "p25_unit_price": 7844,
+      "p75_unit_price": 13038,
+      "mom_pct": 6.7,
       "yoy_pct": null
     },
     {
       "month": "2026-08",
       "status": "published",
-      "transaction_count": 249,
+      "transaction_count": 258,
       "source_count": 1,
-      "median_unit_price": 9906,
-      "median_total_price": 610000,
-      "p25_unit_price": 7928,
-      "p75_unit_price": 13867,
-      "mom_pct": -1.6,
+      "median_unit_price": 9837,
+      "median_total_price": 605000,
+      "p25_unit_price": 7896,
+      "p75_unit_price": 13196,
+      "mom_pct": -1.3,
       "yoy_pct": null
     },
     {
       "month": "2026-09",
       "status": "published",
-      "transaction_count": 258,
+      "transaction_count": 260,
       "source_count": 1,
-      "median_unit_price": 9630,
-      "median_total_price": 570000,
-      "p25_unit_price": 7675,
-      "p75_unit_price": 13400,
-      "mom_pct": -2.8,
+      "median_unit_price": 9450,
+      "median_total_price": 560500,
+      "p25_unit_price": 7649,
+      "p75_unit_price": 13105,
+      "mom_pct": -3.9,
       "yoy_pct": null
     },
     {
       "month": "2026-10",
       "status": "published",
-      "transaction_count": 224,
+      "transaction_count": 213,
       "source_count": 1,
-      "median_unit_price": 9767,
-      "median_total_price": 615500,
-      "p25_unit_price": 7882,
-      "p75_unit_price": 13462,
-      "mom_pct": 1.4,
+      "median_unit_price": 9951,
+      "median_total_price": 638000,
+      "p25_unit_price": 8032,
+      "p75_unit_price": 13826,
+      "mom_pct": 5.3,
       "yoy_pct": null
     }
   ],
@@ -3057,311 +3057,6 @@
       ]
     },
     {
-      "name": "天穆镇",
-      "latest": {
-        "month": "2026-03",
-        "status": "published",
-        "transaction_count": 53,
-        "source_count": 1,
-        "median_unit_price": 8774,
-        "median_total_price": 838000,
-        "p25_unit_price": 7343,
-        "p75_unit_price": 11315,
-        "mom_pct": 16.4,
-        "yoy_pct": null
-      },
-      "series": [
-        {
-          "month": "2024-11",
-          "status": "no_data",
-          "transaction_count": 0,
-          "source_count": 0,
-          "median_unit_price": null,
-          "median_total_price": null,
-          "p25_unit_price": null,
-          "p75_unit_price": null,
-          "mom_pct": null,
-          "yoy_pct": null
-        },
-        {
-          "month": "2024-12",
-          "status": "no_data",
-          "transaction_count": 0,
-          "source_count": 0,
-          "median_unit_price": null,
-          "median_total_price": null,
-          "p25_unit_price": null,
-          "p75_unit_price": null,
-          "mom_pct": null,
-          "yoy_pct": null
-        },
-        {
-          "month": "2025-01",
-          "status": "no_data",
-          "transaction_count": 0,
-          "source_count": 0,
-          "median_unit_price": null,
-          "median_total_price": null,
-          "p25_unit_price": null,
-          "p75_unit_price": null,
-          "mom_pct": null,
-          "yoy_pct": null
-        },
-        {
-          "month": "2025-02",
-          "status": "no_data",
-          "transaction_count": 0,
-          "source_count": 0,
-          "median_unit_price": null,
-          "median_total_price": null,
-          "p25_unit_price": null,
-          "p75_unit_price": null,
-          "mom_pct": null,
-          "yoy_pct": null
-        },
-        {
-          "month": "2025-03",
-          "status": "no_data",
-          "transaction_count": 0,
-          "source_count": 0,
-          "median_unit_price": null,
-          "median_total_price": null,
-          "p25_unit_price": null,
-          "p75_unit_price": null,
-          "mom_pct": null,
-          "yoy_pct": null
-        },
-        {
-          "month": "2025-04",
-          "status": "no_data",
-          "transaction_count": 0,
-          "source_count": 0,
-          "median_unit_price": null,
-          "median_total_price": null,
-          "p25_unit_price": null,
-          "p75_unit_price": null,
-          "mom_pct": null,
-          "yoy_pct": null
-        },
-        {
-          "month": "2025-05",
-          "status": "no_data",
-          "transaction_count": 0,
-          "source_count": 0,
-          "median_unit_price": null,
-          "median_total_price": null,
-          "p25_unit_price": null,
-          "p75_unit_price": null,
-          "mom_pct": null,
-          "yoy_pct": null
-        },
-        {
-          "month": "2025-06",
-          "status": "no_data",
-          "transaction_count": 0,
-          "source_count": 0,
-          "median_unit_price": null,
-          "median_total_price": null,
-          "p25_unit_price": null,
-          "p75_unit_price": null,
-          "mom_pct": null,
-          "yoy_pct": null
-        },
-        {
-          "month": "2025-07",
-          "status": "no_data",
-          "transaction_count": 0,
-          "source_count": 0,
-          "median_unit_price": null,
-          "median_total_price": null,
-          "p25_unit_price": null,
-          "p75_unit_price": null,
-          "mom_pct": null,
-          "yoy_pct": null
-        },
-        {
-          "month": "2025-08",
-          "status": "no_data",
-          "transaction_count": 0,
-          "source_count": 0,
-          "median_unit_price": null,
-          "median_total_price": null,
-          "p25_unit_price": null,
-          "p75_unit_price": null,
-          "mom_pct": null,
-          "yoy_pct": null
-        },
-        {
-          "month": "2025-09",
-          "status": "no_data",
-          "transaction_count": 0,
-          "source_count": 0,
-          "median_unit_price": null,
-          "median_total_price": null,
-          "p25_unit_price": null,
-          "p75_unit_price": null,
-          "mom_pct": null,
-          "yoy_pct": null
-        },
-        {
-          "month": "2025-10",
-          "status": "no_data",
-          "transaction_count": 0,
-          "source_count": 0,
-          "median_unit_price": null,
-          "median_total_price": null,
-          "p25_unit_price": null,
-          "p75_unit_price": null,
-          "mom_pct": null,
-          "yoy_pct": null
-        },
-        {
-          "month": "2025-11",
-          "status": "no_data",
-          "transaction_count": 0,
-          "source_count": 0,
-          "median_unit_price": null,
-          "median_total_price": null,
-          "p25_unit_price": null,
-          "p75_unit_price": null,
-          "mom_pct": null,
-          "yoy_pct": null
-        },
-        {
-          "month": "2025-12",
-          "status": "no_data",
-          "transaction_count": 0,
-          "source_count": 0,
-          "median_unit_price": null,
-          "median_total_price": null,
-          "p25_unit_price": null,
-          "p75_unit_price": null,
-          "mom_pct": null,
-          "yoy_pct": null
-        },
-        {
-          "month": "2026-01",
-          "status": "no_data",
-          "transaction_count": 0,
-          "source_count": 0,
-          "median_unit_price": null,
-          "median_total_price": null,
-          "p25_unit_price": null,
-          "p75_unit_price": null,
-          "mom_pct": null,
-          "yoy_pct": null
-        },
-        {
-          "month": "2026-02",
-          "status": "published",
-          "transaction_count": 19,
-          "source_count": 1,
-          "median_unit_price": 7537,
-          "median_total_price": 620000,
-          "p25_unit_price": 6618,
-          "p75_unit_price": 9865,
-          "mom_pct": null,
-          "yoy_pct": null
-        },
-        {
-          "month": "2026-03",
-          "status": "published",
-          "transaction_count": 53,
-          "source_count": 1,
-          "median_unit_price": 8774,
-          "median_total_price": 838000,
-          "p25_unit_price": 7343,
-          "p75_unit_price": 11315,
-          "mom_pct": 16.4,
-          "yoy_pct": null
-        },
-        {
-          "month": "2026-04",
-          "status": "no_data",
-          "transaction_count": 0,
-          "source_count": 0,
-          "median_unit_price": null,
-          "median_total_price": null,
-          "p25_unit_price": null,
-          "p75_unit_price": null,
-          "mom_pct": null,
-          "yoy_pct": null
-        },
-        {
-          "month": "2026-05",
-          "status": "no_data",
-          "transaction_count": 0,
-          "source_count": 0,
-          "median_unit_price": null,
-          "median_total_price": null,
-          "p25_unit_price": null,
-          "p75_unit_price": null,
-          "mom_pct": null,
-          "yoy_pct": null
-        },
-        {
-          "month": "2026-06",
-          "status": "no_data",
-          "transaction_count": 0,
-          "source_count": 0,
-          "median_unit_price": null,
-          "median_total_price": null,
-          "p25_unit_price": null,
-          "p75_unit_price": null,
-          "mom_pct": null,
-          "yoy_pct": null
-        },
-        {
-          "month": "2026-07",
-          "status": "no_data",
-          "transaction_count": 0,
-          "source_count": 0,
-          "median_unit_price": null,
-          "median_total_price": null,
-          "p25_unit_price": null,
-          "p75_unit_price": null,
-          "mom_pct": null,
-          "yoy_pct": null
-        },
-        {
-          "month": "2026-08",
-          "status": "no_data",
-          "transaction_count": 0,
-          "source_count": 0,
-          "median_unit_price": null,
-          "median_total_price": null,
-          "p25_unit_price": null,
-          "p75_unit_price": null,
-          "mom_pct": null,
-          "yoy_pct": null
-        },
-        {
-          "month": "2026-09",
-          "status": "no_data",
-          "transaction_count": 0,
-          "source_count": 0,
-          "median_unit_price": null,
-          "median_total_price": null,
-          "p25_unit_price": null,
-          "p75_unit_price": null,
-          "mom_pct": null,
-          "yoy_pct": null
-        },
-        {
-          "month": "2026-10",
-          "status": "no_data",
-          "transaction_count": 0,
-          "source_count": 0,
-          "median_unit_price": null,
-          "median_total_price": null,
-          "p25_unit_price": null,
-          "p75_unit_price": null,
-          "mom_pct": null,
-          "yoy_pct": null
-        }
-      ]
-    },
-    {
       "name": "和苑",
       "latest": {
         "month": "2026-10",
@@ -3671,13 +3366,13 @@
       "latest": {
         "month": "2026-10",
         "status": "published",
-        "transaction_count": 37,
+        "transaction_count": 26,
         "source_count": 1,
-        "median_unit_price": 7830,
-        "median_total_price": 462000,
-        "p25_unit_price": 6857,
-        "p75_unit_price": 9528,
-        "mom_pct": 3.7,
+        "median_unit_price": 7807,
+        "median_total_price": 466000,
+        "p25_unit_price": 6956,
+        "p75_unit_price": 9376,
+        "mom_pct": 5.4,
         "yoy_pct": null
       },
       "series": [
@@ -3852,49 +3547,49 @@
         {
           "month": "2026-01",
           "status": "published",
-          "transaction_count": 25,
+          "transaction_count": 14,
           "source_count": 1,
-          "median_unit_price": 6964,
-          "median_total_price": 416000,
-          "p25_unit_price": 6225,
-          "p75_unit_price": 9381,
+          "median_unit_price": 6861,
+          "median_total_price": 418000,
+          "p25_unit_price": 6292,
+          "p75_unit_price": 8125,
           "mom_pct": null,
           "yoy_pct": null
         },
         {
           "month": "2026-02",
           "status": "published",
-          "transaction_count": 26,
+          "transaction_count": 20,
           "source_count": 1,
-          "median_unit_price": 8206,
+          "median_unit_price": 8117,
           "median_total_price": 507500,
-          "p25_unit_price": 6878,
-          "p75_unit_price": 8946,
-          "mom_pct": 17.8,
+          "p25_unit_price": 6808,
+          "p75_unit_price": 8792,
+          "mom_pct": 18.3,
           "yoy_pct": null
         },
         {
           "month": "2026-03",
           "status": "published",
-          "transaction_count": 84,
+          "transaction_count": 61,
           "source_count": 1,
-          "median_unit_price": 7397,
-          "median_total_price": 460000,
-          "p25_unit_price": 6769,
-          "p75_unit_price": 8362,
-          "mom_pct": -9.9,
+          "median_unit_price": 7548,
+          "median_total_price": 465000,
+          "p25_unit_price": 7015,
+          "p75_unit_price": 8308,
+          "mom_pct": -7.0,
           "yoy_pct": null
         },
         {
           "month": "2026-04",
           "status": "published",
-          "transaction_count": 72,
+          "transaction_count": 54,
           "source_count": 1,
-          "median_unit_price": 7330,
-          "median_total_price": 442500,
-          "p25_unit_price": 6394,
-          "p75_unit_price": 7934,
-          "mom_pct": -0.9,
+          "median_unit_price": 7370,
+          "median_total_price": 447500,
+          "p25_unit_price": 6807,
+          "p75_unit_price": 8195,
+          "mom_pct": -2.4,
           "yoy_pct": null
         },
         {
@@ -3902,71 +3597,71 @@
           "status": "published",
           "transaction_count": 41,
           "source_count": 1,
-          "median_unit_price": 8135,
+          "median_unit_price": 8016,
           "median_total_price": 520000,
-          "p25_unit_price": 7220,
-          "p75_unit_price": 9827,
-          "mom_pct": 11.0,
+          "p25_unit_price": 7330,
+          "p75_unit_price": 9174,
+          "mom_pct": 8.8,
           "yoy_pct": null
         },
         {
           "month": "2026-06",
           "status": "published",
-          "transaction_count": 45,
+          "transaction_count": 48,
           "source_count": 1,
-          "median_unit_price": 7731,
-          "median_total_price": 430000,
-          "p25_unit_price": 6486,
-          "p75_unit_price": 8712,
-          "mom_pct": -5.0,
+          "median_unit_price": 7797,
+          "median_total_price": 441000,
+          "p25_unit_price": 6742,
+          "p75_unit_price": 8480,
+          "mom_pct": -2.7,
           "yoy_pct": null
         },
         {
           "month": "2026-07",
           "status": "published",
-          "transaction_count": 35,
+          "transaction_count": 40,
           "source_count": 1,
-          "median_unit_price": 7454,
-          "median_total_price": 525000,
-          "p25_unit_price": 6229,
-          "p75_unit_price": 8215,
-          "mom_pct": -3.6,
+          "median_unit_price": 7550,
+          "median_total_price": 545000,
+          "p25_unit_price": 6275,
+          "p75_unit_price": 8240,
+          "mom_pct": -3.2,
           "yoy_pct": null
         },
         {
           "month": "2026-08",
           "status": "published",
-          "transaction_count": 44,
+          "transaction_count": 53,
           "source_count": 1,
-          "median_unit_price": 7959,
-          "median_total_price": 484500,
-          "p25_unit_price": 7317,
-          "p75_unit_price": 9905,
-          "mom_pct": 6.8,
+          "median_unit_price": 7928,
+          "median_total_price": 469000,
+          "p25_unit_price": 7450,
+          "p75_unit_price": 9837,
+          "mom_pct": 5.0,
           "yoy_pct": null
         },
         {
           "month": "2026-09",
           "status": "published",
-          "transaction_count": 40,
+          "transaction_count": 42,
           "source_count": 1,
-          "median_unit_price": 7552,
-          "median_total_price": 521488,
-          "p25_unit_price": 6748,
-          "p75_unit_price": 8841,
-          "mom_pct": -5.1,
+          "median_unit_price": 7406,
+          "median_total_price": 460500,
+          "p25_unit_price": 6724,
+          "p75_unit_price": 8287,
+          "mom_pct": -6.6,
           "yoy_pct": null
         },
         {
           "month": "2026-10",
           "status": "published",
-          "transaction_count": 37,
+          "transaction_count": 26,
           "source_count": 1,
-          "median_unit_price": 7830,
-          "median_total_price": 462000,
-          "p25_unit_price": 6857,
-          "p75_unit_price": 9528,
-          "mom_pct": 3.7,
+          "median_unit_price": 7807,
+          "median_total_price": 466000,
+          "p25_unit_price": 6956,
+          "p75_unit_price": 9376,
+          "mom_pct": 5.4,
           "yoy_pct": null
         }
       ]
@@ -4223,34 +3918,6 @@
         "median_total_price": 1550000,
         "min_unit_price": 23726,
         "max_unit_price": 23726
-      }
-    },
-    {
-      "id": "hongqiao-3017d9850cd7",
-      "slug": "c-hongqiao-3017d9850cd7",
-      "name": "天津彪明华里",
-      "submarket": "铃铛阁",
-      "property_use": "unknown",
-      "latest": {
-        "month": "2026-05",
-        "status": "insufficient_sample",
-        "transaction_count": 1,
-        "source_count": 1,
-        "median_unit_price": null,
-        "median_total_price": null,
-        "p25_unit_price": null,
-        "p75_unit_price": null,
-        "mom_pct": null,
-        "yoy_pct": null
-      },
-      "observation": {
-        "month": "2026-05",
-        "transaction_count": 1,
-        "source_count": 1,
-        "median_unit_price": 23501,
-        "median_total_price": 2485000,
-        "min_unit_price": 23501,
-        "max_unit_price": 23501
       }
     },
     {
@@ -4702,34 +4369,6 @@
       }
     },
     {
-      "id": "hongqiao-6bda203fe594",
-      "slug": "c-hongqiao-6bda203fe594",
-      "name": "金地艺城华府北泽雅居",
-      "submarket": "天穆镇",
-      "property_use": "unknown",
-      "latest": {
-        "month": "2026-03",
-        "status": "insufficient_sample",
-        "transaction_count": 1,
-        "source_count": 1,
-        "median_unit_price": null,
-        "median_total_price": null,
-        "p25_unit_price": null,
-        "p75_unit_price": null,
-        "mom_pct": null,
-        "yoy_pct": null
-      },
-      "observation": {
-        "month": "2026-03",
-        "transaction_count": 1,
-        "source_count": 1,
-        "median_unit_price": 18703,
-        "median_total_price": 2530000,
-        "min_unit_price": 18703,
-        "max_unit_price": 18703
-      }
-    },
-    {
       "id": "hongqiao-e552101ddc20",
       "slug": "c-hongqiao-e552101ddc20",
       "name": "中兴泊仕湾",
@@ -5066,34 +4705,6 @@
       }
     },
     {
-      "id": "hongqiao-9f2272a26e79",
-      "slug": "c-hongqiao-9f2272a26e79",
-      "name": "金侨云璟",
-      "submarket": "天穆镇",
-      "property_use": "unknown",
-      "latest": {
-        "month": "2026-03",
-        "status": "insufficient_sample",
-        "transaction_count": 1,
-        "source_count": 1,
-        "median_unit_price": null,
-        "median_total_price": null,
-        "p25_unit_price": null,
-        "p75_unit_price": null,
-        "mom_pct": null,
-        "yoy_pct": null
-      },
-      "observation": {
-        "month": "2026-03",
-        "transaction_count": 1,
-        "source_count": 1,
-        "median_unit_price": 16719,
-        "median_total_price": 2175000,
-        "min_unit_price": 16719,
-        "max_unit_price": 16719
-      }
-    },
-    {
       "id": "hongqiao-8d128bf72108",
       "slug": "c-hongqiao-8d128bf72108",
       "name": "龙悦花园",
@@ -5346,34 +4957,6 @@
       }
     },
     {
-      "id": "hongqiao-7a32ceb906c6",
-      "slug": "c-hongqiao-7a32ceb906c6",
-      "name": "龙曜城",
-      "submarket": "天穆镇",
-      "property_use": "unknown",
-      "latest": {
-        "month": "2026-03",
-        "status": "published",
-        "transaction_count": 3,
-        "source_count": 1,
-        "median_unit_price": 15426,
-        "median_total_price": 1270000,
-        "p25_unit_price": 15335,
-        "p75_unit_price": 18008,
-        "mom_pct": null,
-        "yoy_pct": null
-      },
-      "observation": {
-        "month": "2026-03",
-        "transaction_count": 3,
-        "source_count": 1,
-        "median_unit_price": 15426,
-        "median_total_price": 1270000,
-        "min_unit_price": 15244,
-        "max_unit_price": 20589
-      }
-    },
-    {
       "id": "hongqiao-091990739578",
       "slug": "c-hongqiao-091990739578",
       "name": "洪湖雅园",
@@ -5598,34 +5181,6 @@
       }
     },
     {
-      "id": "hongqiao-c75fba4063a0",
-      "slug": "c-hongqiao-c75fba4063a0",
-      "name": "九和府",
-      "submarket": "双环邨",
-      "property_use": "unknown",
-      "latest": {
-        "month": "2026-08",
-        "status": "insufficient_sample",
-        "transaction_count": 2,
-        "source_count": 1,
-        "median_unit_price": null,
-        "median_total_price": null,
-        "p25_unit_price": null,
-        "p75_unit_price": null,
-        "mom_pct": null,
-        "yoy_pct": null
-      },
-      "observation": {
-        "month": "2026-08",
-        "transaction_count": 2,
-        "source_count": 1,
-        "median_unit_price": 14718,
-        "median_total_price": 1518000,
-        "min_unit_price": 14525,
-        "max_unit_price": 14910
-      }
-    },
-    {
       "id": "hongqiao-2a6542be9901",
       "slug": "c-hongqiao-2a6542be9901",
       "name": "欢庆楼",
@@ -5707,34 +5262,6 @@
         "median_total_price": 1100000,
         "min_unit_price": 14439,
         "max_unit_price": 14439
-      }
-    },
-    {
-      "id": "hongqiao-443dc399fe82",
-      "slug": "c-hongqiao-443dc399fe82",
-      "name": "启春里",
-      "submarket": "双环邨",
-      "property_use": "unknown",
-      "latest": {
-        "month": "2026-10",
-        "status": "insufficient_sample",
-        "transaction_count": 1,
-        "source_count": 1,
-        "median_unit_price": null,
-        "median_total_price": null,
-        "p25_unit_price": null,
-        "p75_unit_price": null,
-        "mom_pct": null,
-        "yoy_pct": null
-      },
-      "observation": {
-        "month": "2026-10",
-        "transaction_count": 1,
-        "source_count": 1,
-        "median_unit_price": 14284,
-        "median_total_price": 1425000,
-        "min_unit_price": 14284,
-        "max_unit_price": 14284
       }
     },
     {
@@ -6138,7 +5665,7 @@
       "latest": {
         "month": "2026-08",
         "status": "insufficient_sample",
-        "transaction_count": 1,
+        "transaction_count": 2,
         "source_count": 1,
         "median_unit_price": null,
         "median_total_price": null,
@@ -6149,40 +5676,12 @@
       },
       "observation": {
         "month": "2026-08",
-        "transaction_count": 1,
+        "transaction_count": 2,
         "source_count": 1,
         "median_unit_price": 12664,
         "median_total_price": 1100000,
         "min_unit_price": 12664,
         "max_unit_price": 12664
-      }
-    },
-    {
-      "id": "hongqiao-6efc8cf10eab",
-      "slug": "c-hongqiao-6efc8cf10eab",
-      "name": "文澜花园",
-      "submarket": "天穆镇",
-      "property_use": "unknown",
-      "latest": {
-        "month": "2026-03",
-        "status": "insufficient_sample",
-        "transaction_count": 1,
-        "source_count": 1,
-        "median_unit_price": null,
-        "median_total_price": null,
-        "p25_unit_price": null,
-        "p75_unit_price": null,
-        "mom_pct": null,
-        "yoy_pct": null
-      },
-      "observation": {
-        "month": "2026-03",
-        "transaction_count": 1,
-        "source_count": 1,
-        "median_unit_price": 12597,
-        "median_total_price": 1100000,
-        "min_unit_price": 12597,
-        "max_unit_price": 12597
       }
     },
     {
@@ -6270,34 +5769,6 @@
       }
     },
     {
-      "id": "hongqiao-799ad8e1d79f",
-      "slug": "c-hongqiao-799ad8e1d79f",
-      "name": "融创宸阅和鸣",
-      "submarket": "天穆镇",
-      "property_use": "unknown",
-      "latest": {
-        "month": "2026-03",
-        "status": "published",
-        "transaction_count": 3,
-        "source_count": 1,
-        "median_unit_price": 12480,
-        "median_total_price": 1000000,
-        "p25_unit_price": 12424,
-        "p75_unit_price": 13030,
-        "mom_pct": null,
-        "yoy_pct": null
-      },
-      "observation": {
-        "month": "2026-03",
-        "transaction_count": 3,
-        "source_count": 1,
-        "median_unit_price": 12480,
-        "median_total_price": 1000000,
-        "min_unit_price": 12369,
-        "max_unit_price": 13581
-      }
-    },
-    {
       "id": "hongqiao-8b27a64b77d9",
       "slug": "c-hongqiao-8b27a64b77d9",
       "name": "欧澜家园",
@@ -6323,34 +5794,6 @@
         "median_total_price": 1282955,
         "min_unit_price": 12445,
         "max_unit_price": 12445
-      }
-    },
-    {
-      "id": "hongqiao-eac8b7381cc4",
-      "slug": "c-hongqiao-eac8b7381cc4",
-      "name": "锦西南里",
-      "submarket": "咸阳北路",
-      "property_use": "unknown",
-      "latest": {
-        "month": "2026-05",
-        "status": "insufficient_sample",
-        "transaction_count": 1,
-        "source_count": 1,
-        "median_unit_price": null,
-        "median_total_price": null,
-        "p25_unit_price": null,
-        "p75_unit_price": null,
-        "mom_pct": null,
-        "yoy_pct": null
-      },
-      "observation": {
-        "month": "2026-05",
-        "transaction_count": 1,
-        "source_count": 1,
-        "median_unit_price": 12424,
-        "median_total_price": 1165000,
-        "min_unit_price": 12424,
-        "max_unit_price": 12424
       }
     },
     {
@@ -6382,34 +5825,6 @@
       }
     },
     {
-      "id": "hongqiao-3c74f866ca44",
-      "slug": "c-hongqiao-3c74f866ca44",
-      "name": "天津彪敦煌楼",
-      "submarket": "西于庄",
-      "property_use": "unknown",
-      "latest": {
-        "month": "2026-05",
-        "status": "insufficient_sample",
-        "transaction_count": 1,
-        "source_count": 1,
-        "median_unit_price": null,
-        "median_total_price": null,
-        "p25_unit_price": null,
-        "p75_unit_price": null,
-        "mom_pct": null,
-        "yoy_pct": null
-      },
-      "observation": {
-        "month": "2026-05",
-        "transaction_count": 1,
-        "source_count": 1,
-        "median_unit_price": 12340,
-        "median_total_price": 308000,
-        "min_unit_price": 12340,
-        "max_unit_price": 12340
-      }
-    },
-    {
       "id": "hongqiao-01d26605bec5",
       "slug": "c-hongqiao-01d26605bec5",
       "name": "愿景家园",
@@ -6435,34 +5850,6 @@
         "median_total_price": 728000,
         "min_unit_price": 12246,
         "max_unit_price": 12246
-      }
-    },
-    {
-      "id": "hongqiao-bf9cb5b47869",
-      "slug": "c-hongqiao-bf9cb5b47869",
-      "name": "绿地新里北苑",
-      "submarket": "天穆镇",
-      "property_use": "unknown",
-      "latest": {
-        "month": "2026-03",
-        "status": "published",
-        "transaction_count": 3,
-        "source_count": 1,
-        "median_unit_price": 12236,
-        "median_total_price": 1150000,
-        "p25_unit_price": 12009,
-        "p75_unit_price": 12270,
-        "mom_pct": null,
-        "yoy_pct": null
-      },
-      "observation": {
-        "month": "2026-03",
-        "transaction_count": 3,
-        "source_count": 1,
-        "median_unit_price": 12236,
-        "median_total_price": 1150000,
-        "min_unit_price": 11782,
-        "max_unit_price": 12305
       }
     },
     {
@@ -7194,34 +6581,6 @@
       }
     },
     {
-      "id": "hongqiao-5cc0f233c5cd",
-      "slug": "c-hongqiao-5cc0f233c5cd",
-      "name": "金侨宸公馆",
-      "submarket": "天穆镇",
-      "property_use": "unknown",
-      "latest": {
-        "month": "2026-02",
-        "status": "insufficient_sample",
-        "transaction_count": 1,
-        "source_count": 1,
-        "median_unit_price": null,
-        "median_total_price": null,
-        "p25_unit_price": null,
-        "p75_unit_price": null,
-        "mom_pct": null,
-        "yoy_pct": null
-      },
-      "observation": {
-        "month": "2026-02",
-        "transaction_count": 1,
-        "source_count": 1,
-        "median_unit_price": 11147,
-        "median_total_price": 920000,
-        "min_unit_price": 11147,
-        "max_unit_price": 11147
-      }
-    },
-    {
       "id": "hongqiao-1c39e1a4ea4e",
       "slug": "c-hongqiao-1c39e1a4ea4e",
       "name": "泛洋大廈",
@@ -7306,34 +6665,6 @@
       }
     },
     {
-      "id": "hongqiao-09f643ae08bf",
-      "slug": "c-hongqiao-09f643ae08bf",
-      "name": "雍祥府",
-      "submarket": "天穆镇",
-      "property_use": "unknown",
-      "latest": {
-        "month": "2026-03",
-        "status": "insufficient_sample",
-        "transaction_count": 1,
-        "source_count": 1,
-        "median_unit_price": null,
-        "median_total_price": null,
-        "p25_unit_price": null,
-        "p75_unit_price": null,
-        "mom_pct": null,
-        "yoy_pct": null
-      },
-      "observation": {
-        "month": "2026-03",
-        "transaction_count": 1,
-        "source_count": 1,
-        "median_unit_price": 11116,
-        "median_total_price": 1274000,
-        "min_unit_price": 11116,
-        "max_unit_price": 11116
-      }
-    },
-    {
       "id": "hongqiao-4aeb507b8f80",
       "slug": "c-hongqiao-4aeb507b8f80",
       "name": "瑞兴里",
@@ -7387,34 +6718,6 @@
         "median_total_price": 1140000,
         "min_unit_price": 11005,
         "max_unit_price": 11005
-      }
-    },
-    {
-      "id": "hongqiao-2c2b02b6b66a",
-      "slug": "c-hongqiao-2c2b02b6b66a",
-      "name": "金地艺城华府北润华庭",
-      "submarket": "天穆镇",
-      "property_use": "unknown",
-      "latest": {
-        "month": "2026-03",
-        "status": "published",
-        "transaction_count": 5,
-        "source_count": 1,
-        "median_unit_price": 11001,
-        "median_total_price": 1160000,
-        "p25_unit_price": 10536,
-        "p75_unit_price": 11315,
-        "mom_pct": null,
-        "yoy_pct": null
-      },
-      "observation": {
-        "month": "2026-03",
-        "transaction_count": 5,
-        "source_count": 1,
-        "median_unit_price": 11001,
-        "median_total_price": 1160000,
-        "min_unit_price": 9591,
-        "max_unit_price": 11979
       }
     },
     {
@@ -7726,34 +7029,6 @@
       }
     },
     {
-      "id": "hongqiao-0b58788d5f9b",
-      "slug": "c-hongqiao-0b58788d5f9b",
-      "name": "天津彪绥中楼",
-      "submarket": "咸阳北路",
-      "property_use": "unknown",
-      "latest": {
-        "month": "2026-05",
-        "status": "insufficient_sample",
-        "transaction_count": 1,
-        "source_count": 1,
-        "median_unit_price": null,
-        "median_total_price": null,
-        "p25_unit_price": null,
-        "p75_unit_price": null,
-        "mom_pct": null,
-        "yoy_pct": null
-      },
-      "observation": {
-        "month": "2026-05",
-        "transaction_count": 1,
-        "source_count": 1,
-        "median_unit_price": 10698,
-        "median_total_price": 455000,
-        "min_unit_price": 10698,
-        "max_unit_price": 10698
-      }
-    },
-    {
       "id": "hongqiao-518e32a2673f",
       "slug": "c-hongqiao-518e32a2673f",
       "name": "中嘉花园秀水苑",
@@ -7894,62 +7169,6 @@
       }
     },
     {
-      "id": "hongqiao-3b94590977a2",
-      "slug": "c-hongqiao-3b94590977a2",
-      "name": "天津恒大御景湾",
-      "submarket": "天穆镇",
-      "property_use": "unknown",
-      "latest": {
-        "month": "2026-03",
-        "status": "insufficient_sample",
-        "transaction_count": 1,
-        "source_count": 1,
-        "median_unit_price": null,
-        "median_total_price": null,
-        "p25_unit_price": null,
-        "p75_unit_price": null,
-        "mom_pct": null,
-        "yoy_pct": null
-      },
-      "observation": {
-        "month": "2026-03",
-        "transaction_count": 1,
-        "source_count": 1,
-        "median_unit_price": 10506,
-        "median_total_price": 1100000,
-        "min_unit_price": 10506,
-        "max_unit_price": 10506
-      }
-    },
-    {
-      "id": "hongqiao-2062dffbcfe9",
-      "slug": "c-hongqiao-2062dffbcfe9",
-      "name": "天津彪富泰兴园",
-      "submarket": "邵公庄",
-      "property_use": "unknown",
-      "latest": {
-        "month": "2026-05",
-        "status": "insufficient_sample",
-        "transaction_count": 1,
-        "source_count": 1,
-        "median_unit_price": null,
-        "median_total_price": null,
-        "p25_unit_price": null,
-        "p75_unit_price": null,
-        "mom_pct": null,
-        "yoy_pct": null
-      },
-      "observation": {
-        "month": "2026-05",
-        "transaction_count": 1,
-        "source_count": 1,
-        "median_unit_price": 10500,
-        "median_total_price": 792000,
-        "min_unit_price": 10500,
-        "max_unit_price": 10500
-      }
-    },
-    {
       "id": "hongqiao-2bec871219e2",
       "slug": "c-hongqiao-2bec871219e2",
       "name": "瑞亨花园",
@@ -8087,34 +7306,6 @@
         "median_total_price": 453000,
         "min_unit_price": 10402,
         "max_unit_price": 10402
-      }
-    },
-    {
-      "id": "hongqiao-da9ae5f63622",
-      "slug": "c-hongqiao-da9ae5f63622",
-      "name": "佳园新里",
-      "submarket": "双环邨",
-      "property_use": "unknown",
-      "latest": {
-        "month": "2026-04",
-        "status": "insufficient_sample",
-        "transaction_count": 1,
-        "source_count": 1,
-        "median_unit_price": null,
-        "median_total_price": null,
-        "p25_unit_price": null,
-        "p75_unit_price": null,
-        "mom_pct": null,
-        "yoy_pct": null
-      },
-      "observation": {
-        "month": "2026-04",
-        "transaction_count": 1,
-        "source_count": 1,
-        "median_unit_price": 10358,
-        "median_total_price": 930000,
-        "min_unit_price": 10358,
-        "max_unit_price": 10358
       }
     },
     {
@@ -8314,90 +7505,6 @@
       }
     },
     {
-      "id": "hongqiao-2aaf4588c096",
-      "slug": "c-hongqiao-2aaf4588c096",
-      "name": "恒春里",
-      "submarket": "双环邨",
-      "property_use": "unknown",
-      "latest": {
-        "month": "2026-09",
-        "status": "insufficient_sample",
-        "transaction_count": 1,
-        "source_count": 1,
-        "median_unit_price": null,
-        "median_total_price": null,
-        "p25_unit_price": null,
-        "p75_unit_price": null,
-        "mom_pct": null,
-        "yoy_pct": null
-      },
-      "observation": {
-        "month": "2026-09",
-        "transaction_count": 1,
-        "source_count": 1,
-        "median_unit_price": 10146,
-        "median_total_price": 548000,
-        "min_unit_price": 10146,
-        "max_unit_price": 10146
-      }
-    },
-    {
-      "id": "hongqiao-30b265dd7ea4",
-      "slug": "c-hongqiao-30b265dd7ea4",
-      "name": "融创璟园",
-      "submarket": "天穆镇",
-      "property_use": "unknown",
-      "latest": {
-        "month": "2026-03",
-        "status": "published",
-        "transaction_count": 3,
-        "source_count": 1,
-        "median_unit_price": 10084,
-        "median_total_price": 1100000,
-        "p25_unit_price": 9429,
-        "p75_unit_price": 10240,
-        "mom_pct": null,
-        "yoy_pct": null
-      },
-      "observation": {
-        "month": "2026-03",
-        "transaction_count": 3,
-        "source_count": 1,
-        "median_unit_price": 10084,
-        "median_total_price": 1100000,
-        "min_unit_price": 8774,
-        "max_unit_price": 10396
-      }
-    },
-    {
-      "id": "hongqiao-6583323010b2",
-      "slug": "c-hongqiao-6583323010b2",
-      "name": "正荣府",
-      "submarket": "天穆镇",
-      "property_use": "unknown",
-      "latest": {
-        "month": "2026-03",
-        "status": "insufficient_sample",
-        "transaction_count": 1,
-        "source_count": 1,
-        "median_unit_price": null,
-        "median_total_price": null,
-        "p25_unit_price": null,
-        "p75_unit_price": null,
-        "mom_pct": null,
-        "yoy_pct": null
-      },
-      "observation": {
-        "month": "2026-03",
-        "transaction_count": 1,
-        "source_count": 1,
-        "median_unit_price": 10058,
-        "median_total_price": 855000,
-        "min_unit_price": 10058,
-        "max_unit_price": 10058
-      }
-    },
-    {
       "id": "hongqiao-35acb02a4f1d",
       "slug": "c-hongqiao-35acb02a4f1d",
       "name": "民畅园",
@@ -8461,52 +7568,24 @@
       "property_use": "unknown",
       "latest": {
         "month": "2026-08",
-        "status": "insufficient_sample",
-        "transaction_count": 2,
+        "status": "published",
+        "transaction_count": 4,
         "source_count": 1,
-        "median_unit_price": null,
-        "median_total_price": null,
-        "p25_unit_price": null,
-        "p75_unit_price": null,
+        "median_unit_price": 9987,
+        "median_total_price": 670000,
+        "p25_unit_price": 8534,
+        "p75_unit_price": 11440,
         "mom_pct": null,
         "yoy_pct": null
       },
       "observation": {
         "month": "2026-08",
-        "transaction_count": 2,
+        "transaction_count": 4,
         "source_count": 1,
         "median_unit_price": 9987,
         "median_total_price": 670000,
         "min_unit_price": 8534,
         "max_unit_price": 11440
-      }
-    },
-    {
-      "id": "hongqiao-5740eda9562e",
-      "slug": "c-hongqiao-5740eda9562e",
-      "name": "天津彪佳园北里",
-      "submarket": "双环邨",
-      "property_use": "unknown",
-      "latest": {
-        "month": "2026-05",
-        "status": "insufficient_sample",
-        "transaction_count": 1,
-        "source_count": 1,
-        "median_unit_price": null,
-        "median_total_price": null,
-        "p25_unit_price": null,
-        "p75_unit_price": null,
-        "mom_pct": null,
-        "yoy_pct": null
-      },
-      "observation": {
-        "month": "2026-05",
-        "transaction_count": 1,
-        "source_count": 1,
-        "median_unit_price": 9983,
-        "median_total_price": 595000,
-        "min_unit_price": 9983,
-        "max_unit_price": 9983
       }
     },
     {
@@ -8622,34 +7701,6 @@
       }
     },
     {
-      "id": "hongqiao-dc6c6bb35421",
-      "slug": "c-hongqiao-dc6c6bb35421",
-      "name": "佳欣里",
-      "submarket": "双环邨",
-      "property_use": "unknown",
-      "latest": {
-        "month": "2026-10",
-        "status": "insufficient_sample",
-        "transaction_count": 2,
-        "source_count": 1,
-        "median_unit_price": null,
-        "median_total_price": null,
-        "p25_unit_price": null,
-        "p75_unit_price": null,
-        "mom_pct": null,
-        "yoy_pct": null
-      },
-      "observation": {
-        "month": "2026-10",
-        "transaction_count": 2,
-        "source_count": 1,
-        "median_unit_price": 9784,
-        "median_total_price": 595000,
-        "min_unit_price": 9489,
-        "max_unit_price": 10079
-      }
-    },
-    {
       "id": "hongqiao-0fd355ed6d9a",
       "slug": "c-hongqiao-0fd355ed6d9a",
       "name": "七段大楼",
@@ -8703,34 +7754,6 @@
         "median_total_price": 488000,
         "min_unit_price": 9762,
         "max_unit_price": 9762
-      }
-    },
-    {
-      "id": "hongqiao-be0c5cc6d722",
-      "slug": "c-hongqiao-be0c5cc6d722",
-      "name": "佳园北里",
-      "submarket": "双环邨",
-      "property_use": "unknown",
-      "latest": {
-        "month": "2026-10",
-        "status": "published",
-        "transaction_count": 3,
-        "source_count": 1,
-        "median_unit_price": 9726,
-        "median_total_price": 565000,
-        "p25_unit_price": 7151,
-        "p75_unit_price": 9736,
-        "mom_pct": null,
-        "yoy_pct": null
-      },
-      "observation": {
-        "month": "2026-10",
-        "transaction_count": 3,
-        "source_count": 1,
-        "median_unit_price": 9726,
-        "median_total_price": 565000,
-        "min_unit_price": 4576,
-        "max_unit_price": 9745
       }
     },
     {
@@ -9266,34 +8289,6 @@
       }
     },
     {
-      "id": "hongqiao-12532f410997",
-      "slug": "c-hongqiao-12532f410997",
-      "name": "暖香里",
-      "submarket": "双环邨",
-      "property_use": "unknown",
-      "latest": {
-        "month": "2026-07",
-        "status": "insufficient_sample",
-        "transaction_count": 1,
-        "source_count": 1,
-        "median_unit_price": null,
-        "median_total_price": null,
-        "p25_unit_price": null,
-        "p75_unit_price": null,
-        "mom_pct": null,
-        "yoy_pct": null
-      },
-      "observation": {
-        "month": "2026-07",
-        "transaction_count": 1,
-        "source_count": 1,
-        "median_unit_price": 9129,
-        "median_total_price": 910000,
-        "min_unit_price": 9129,
-        "max_unit_price": 9129
-      }
-    },
-    {
       "id": "hongqiao-b888d297cede",
       "slug": "c-hongqiao-b888d297cede",
       "name": "佳庆里",
@@ -9302,7 +8297,7 @@
       "latest": {
         "month": "2026-08",
         "status": "insufficient_sample",
-        "transaction_count": 1,
+        "transaction_count": 2,
         "source_count": 1,
         "median_unit_price": null,
         "median_total_price": null,
@@ -9313,7 +8308,7 @@
       },
       "observation": {
         "month": "2026-08",
-        "transaction_count": 1,
+        "transaction_count": 2,
         "source_count": 1,
         "median_unit_price": 9121,
         "median_total_price": 420000,
@@ -9459,34 +8454,6 @@
         "median_total_price": 756500,
         "min_unit_price": 9001,
         "max_unit_price": 9078
-      }
-    },
-    {
-      "id": "hongqiao-2f5e9d43ed78",
-      "slug": "c-hongqiao-2f5e9d43ed78",
-      "name": "天津彪子风采里",
-      "submarket": "丁字沽街",
-      "property_use": "unknown",
-      "latest": {
-        "month": "2026-05",
-        "status": "insufficient_sample",
-        "transaction_count": 1,
-        "source_count": 1,
-        "median_unit_price": null,
-        "median_total_price": null,
-        "p25_unit_price": null,
-        "p75_unit_price": null,
-        "mom_pct": null,
-        "yoy_pct": null
-      },
-      "observation": {
-        "month": "2026-05",
-        "transaction_count": 1,
-        "source_count": 1,
-        "median_unit_price": 9031,
-        "median_total_price": 670000,
-        "min_unit_price": 9031,
-        "max_unit_price": 9031
       }
     },
     {
@@ -10022,34 +8989,6 @@
       }
     },
     {
-      "id": "hongqiao-c2b987988b45",
-      "slug": "c-hongqiao-c2b987988b45",
-      "name": "文安欣苑",
-      "submarket": "天穆镇",
-      "property_use": "unknown",
-      "latest": {
-        "month": "2026-03",
-        "status": "insufficient_sample",
-        "transaction_count": 1,
-        "source_count": 1,
-        "median_unit_price": null,
-        "median_total_price": null,
-        "p25_unit_price": null,
-        "p75_unit_price": null,
-        "mom_pct": null,
-        "yoy_pct": null
-      },
-      "observation": {
-        "month": "2026-03",
-        "transaction_count": 1,
-        "source_count": 1,
-        "median_unit_price": 8696,
-        "median_total_price": 750000,
-        "min_unit_price": 8696,
-        "max_unit_price": 8696
-      }
-    },
-    {
       "id": "hongqiao-54850aa50730",
       "slug": "c-hongqiao-54850aa50730",
       "name": "河怡花园",
@@ -10192,7 +9131,7 @@
     {
       "id": "hongqiao-e38ced96ca82",
       "slug": "c-hongqiao-e38ced96ca82",
-      "name": "天津彪哥锦西南里",
+      "name": "锦西南里",
       "submarket": "咸阳北路",
       "property_use": "unknown",
       "latest": {
@@ -10215,62 +9154,6 @@
         "median_total_price": 800000,
         "min_unit_price": 8586,
         "max_unit_price": 8586
-      }
-    },
-    {
-      "id": "hongqiao-6570ab3b691b",
-      "slug": "c-hongqiao-6570ab3b691b",
-      "name": "天津彪国和园",
-      "submarket": "和苑",
-      "property_use": "unknown",
-      "latest": {
-        "month": "2026-05",
-        "status": "insufficient_sample",
-        "transaction_count": 2,
-        "source_count": 1,
-        "median_unit_price": null,
-        "median_total_price": null,
-        "p25_unit_price": null,
-        "p75_unit_price": null,
-        "mom_pct": null,
-        "yoy_pct": null
-      },
-      "observation": {
-        "month": "2026-05",
-        "transaction_count": 2,
-        "source_count": 1,
-        "median_unit_price": 8564,
-        "median_total_price": 537500,
-        "min_unit_price": 8126,
-        "max_unit_price": 9003
-      }
-    },
-    {
-      "id": "hongqiao-97ca2746c620",
-      "slug": "c-hongqiao-97ca2746c620",
-      "name": "和春里",
-      "submarket": "双环邨",
-      "property_use": "unknown",
-      "latest": {
-        "month": "2026-08",
-        "status": "insufficient_sample",
-        "transaction_count": 1,
-        "source_count": 1,
-        "median_unit_price": null,
-        "median_total_price": null,
-        "p25_unit_price": null,
-        "p75_unit_price": null,
-        "mom_pct": null,
-        "yoy_pct": null
-      },
-      "observation": {
-        "month": "2026-08",
-        "transaction_count": 1,
-        "source_count": 1,
-        "median_unit_price": 8561,
-        "median_total_price": 653000,
-        "min_unit_price": 8561,
-        "max_unit_price": 8561
       }
     },
     {
@@ -10467,62 +9350,6 @@
         "median_total_price": 532000,
         "min_unit_price": 8404,
         "max_unit_price": 8404
-      }
-    },
-    {
-      "id": "hongqiao-a25a125f7500",
-      "slug": "c-hongqiao-a25a125f7500",
-      "name": "蓝岸森林",
-      "submarket": "天穆镇",
-      "property_use": "unknown",
-      "latest": {
-        "month": "2026-03",
-        "status": "published",
-        "transaction_count": 4,
-        "source_count": 1,
-        "median_unit_price": 8394,
-        "median_total_price": 687500,
-        "p25_unit_price": 8089,
-        "p75_unit_price": 8762,
-        "mom_pct": null,
-        "yoy_pct": null
-      },
-      "observation": {
-        "month": "2026-03",
-        "transaction_count": 4,
-        "source_count": 1,
-        "median_unit_price": 8394,
-        "median_total_price": 687500,
-        "min_unit_price": 7343,
-        "max_unit_price": 9700
-      }
-    },
-    {
-      "id": "hongqiao-f1d78d55625b",
-      "slug": "c-hongqiao-f1d78d55625b",
-      "name": "天津不益鑫里",
-      "submarket": "邵公庄",
-      "property_use": "unknown",
-      "latest": {
-        "month": "2026-05",
-        "status": "insufficient_sample",
-        "transaction_count": 1,
-        "source_count": 1,
-        "median_unit_price": null,
-        "median_total_price": null,
-        "p25_unit_price": null,
-        "p75_unit_price": null,
-        "mom_pct": null,
-        "yoy_pct": null
-      },
-      "observation": {
-        "month": "2026-05",
-        "transaction_count": 1,
-        "source_count": 1,
-        "median_unit_price": 8360,
-        "median_total_price": 385000,
-        "min_unit_price": 8360,
-        "max_unit_price": 8360
       }
     },
     {
@@ -10834,34 +9661,6 @@
       }
     },
     {
-      "id": "hongqiao-5d2b3f80544f",
-      "slug": "c-hongqiao-5d2b3f80544f",
-      "name": "佳宁里",
-      "submarket": "双环邨",
-      "property_use": "unknown",
-      "latest": {
-        "month": "2026-10",
-        "status": "insufficient_sample",
-        "transaction_count": 1,
-        "source_count": 1,
-        "median_unit_price": null,
-        "median_total_price": null,
-        "p25_unit_price": null,
-        "p75_unit_price": null,
-        "mom_pct": null,
-        "yoy_pct": null
-      },
-      "observation": {
-        "month": "2026-10",
-        "transaction_count": 1,
-        "source_count": 1,
-        "median_unit_price": 8043,
-        "median_total_price": 390000,
-        "min_unit_price": 8043,
-        "max_unit_price": 8043
-      }
-    },
-    {
       "id": "hongqiao-10dc05ef9ea0",
       "slug": "c-hongqiao-10dc05ef9ea0",
       "name": "浩达公寓",
@@ -10915,34 +9714,6 @@
         "median_total_price": 386000,
         "min_unit_price": 5286,
         "max_unit_price": 9336
-      }
-    },
-    {
-      "id": "hongqiao-01e6cb405b3a",
-      "slug": "c-hongqiao-01e6cb405b3a",
-      "name": "天津彪哥金苑公寓",
-      "submarket": "双环邨",
-      "property_use": "unknown",
-      "latest": {
-        "month": "2026-06",
-        "status": "insufficient_sample",
-        "transaction_count": 1,
-        "source_count": 1,
-        "median_unit_price": null,
-        "median_total_price": null,
-        "p25_unit_price": null,
-        "p75_unit_price": null,
-        "mom_pct": null,
-        "yoy_pct": null
-      },
-      "observation": {
-        "month": "2026-06",
-        "transaction_count": 1,
-        "source_count": 1,
-        "median_unit_price": 8006,
-        "median_total_price": 780000,
-        "min_unit_price": 8006,
-        "max_unit_price": 8006
       }
     },
     {
@@ -11058,34 +9829,6 @@
       }
     },
     {
-      "id": "hongqiao-30c1e57deaea",
-      "slug": "c-hongqiao-30c1e57deaea",
-      "name": "欢颜东里",
-      "submarket": "天穆镇",
-      "property_use": "unknown",
-      "latest": {
-        "month": "2026-03",
-        "status": "insufficient_sample",
-        "transaction_count": 2,
-        "source_count": 1,
-        "median_unit_price": null,
-        "median_total_price": null,
-        "p25_unit_price": null,
-        "p75_unit_price": null,
-        "mom_pct": null,
-        "yoy_pct": null
-      },
-      "observation": {
-        "month": "2026-03",
-        "transaction_count": 2,
-        "source_count": 1,
-        "median_unit_price": 7842,
-        "median_total_price": 539000,
-        "min_unit_price": 7296,
-        "max_unit_price": 8388
-      }
-    },
-    {
       "id": "hongqiao-45dbee1501bf",
       "slug": "c-hongqiao-45dbee1501bf",
       "name": "桃花园东里",
@@ -11142,90 +9885,6 @@
       }
     },
     {
-      "id": "hongqiao-3b4e44498b3c",
-      "slug": "c-hongqiao-3b4e44498b3c",
-      "name": "天和丽园",
-      "submarket": "天穆镇",
-      "property_use": "unknown",
-      "latest": {
-        "month": "2026-03",
-        "status": "published",
-        "transaction_count": 7,
-        "source_count": 1,
-        "median_unit_price": 7783,
-        "median_total_price": 570000,
-        "p25_unit_price": 7442,
-        "p75_unit_price": 8537,
-        "mom_pct": null,
-        "yoy_pct": null
-      },
-      "observation": {
-        "month": "2026-03",
-        "transaction_count": 7,
-        "source_count": 1,
-        "median_unit_price": 7783,
-        "median_total_price": 570000,
-        "min_unit_price": 7154,
-        "max_unit_price": 8996
-      }
-    },
-    {
-      "id": "hongqiao-d35404e48054",
-      "slug": "c-hongqiao-d35404e48054",
-      "name": "瑞宁嘉园",
-      "submarket": "天穆镇",
-      "property_use": "unknown",
-      "latest": {
-        "month": "2026-03",
-        "status": "published",
-        "transaction_count": 5,
-        "source_count": 1,
-        "median_unit_price": 7781,
-        "median_total_price": 590000,
-        "p25_unit_price": 7231,
-        "p75_unit_price": 8263,
-        "mom_pct": null,
-        "yoy_pct": null
-      },
-      "observation": {
-        "month": "2026-03",
-        "transaction_count": 5,
-        "source_count": 1,
-        "median_unit_price": 7781,
-        "median_total_price": 590000,
-        "min_unit_price": 6532,
-        "max_unit_price": 11172
-      }
-    },
-    {
-      "id": "hongqiao-46b3f1e9a76d",
-      "slug": "c-hongqiao-46b3f1e9a76d",
-      "name": "佳园东里(西区)",
-      "submarket": "双环邨",
-      "property_use": "unknown",
-      "latest": {
-        "month": "2026-10",
-        "status": "insufficient_sample",
-        "transaction_count": 1,
-        "source_count": 1,
-        "median_unit_price": null,
-        "median_total_price": null,
-        "p25_unit_price": null,
-        "p75_unit_price": null,
-        "mom_pct": null,
-        "yoy_pct": null
-      },
-      "observation": {
-        "month": "2026-10",
-        "transaction_count": 1,
-        "source_count": 1,
-        "median_unit_price": 7776,
-        "median_total_price": 292000,
-        "min_unit_price": 7776,
-        "max_unit_price": 7776
-      }
-    },
-    {
       "id": "hongqiao-ef6c3fee48d9",
       "slug": "c-hongqiao-ef6c3fee48d9",
       "name": "涟源里",
@@ -11279,34 +9938,6 @@
         "median_total_price": 492500,
         "min_unit_price": 7530,
         "max_unit_price": 7876
-      }
-    },
-    {
-      "id": "hongqiao-f76c368af1ec",
-      "slug": "c-hongqiao-f76c368af1ec",
-      "name": "天津彪哥悦春里",
-      "submarket": "双环邨",
-      "property_use": "unknown",
-      "latest": {
-        "month": "2026-06",
-        "status": "insufficient_sample",
-        "transaction_count": 1,
-        "source_count": 1,
-        "median_unit_price": null,
-        "median_total_price": null,
-        "p25_unit_price": null,
-        "p75_unit_price": null,
-        "mom_pct": null,
-        "yoy_pct": null
-      },
-      "observation": {
-        "month": "2026-06",
-        "transaction_count": 1,
-        "source_count": 1,
-        "median_unit_price": 7667,
-        "median_total_price": 390000,
-        "min_unit_price": 7667,
-        "max_unit_price": 7667
       }
     },
     {
@@ -11422,34 +10053,6 @@
       }
     },
     {
-      "id": "hongqiao-75f3b3973547",
-      "slug": "c-hongqiao-75f3b3973547",
-      "name": "天津彪哥集平里",
-      "submarket": "西于庄",
-      "property_use": "unknown",
-      "latest": {
-        "month": "2026-06",
-        "status": "insufficient_sample",
-        "transaction_count": 1,
-        "source_count": 1,
-        "median_unit_price": null,
-        "median_total_price": null,
-        "p25_unit_price": null,
-        "p75_unit_price": null,
-        "mom_pct": null,
-        "yoy_pct": null
-      },
-      "observation": {
-        "month": "2026-06",
-        "transaction_count": 1,
-        "source_count": 1,
-        "median_unit_price": 7520,
-        "median_total_price": 340000,
-        "min_unit_price": 7520,
-        "max_unit_price": 7520
-      }
-    },
-    {
       "id": "hongqiao-c7d35b232233",
       "slug": "c-hongqiao-c7d35b232233",
       "name": "南头窑大楼",
@@ -11475,34 +10078,6 @@
         "median_total_price": 200000,
         "min_unit_price": 3791,
         "max_unit_price": 11111
-      }
-    },
-    {
-      "id": "hongqiao-f621af53c5d2",
-      "slug": "c-hongqiao-f621af53c5d2",
-      "name": "欢颜里(北辰区)",
-      "submarket": "天穆镇",
-      "property_use": "unknown",
-      "latest": {
-        "month": "2026-03",
-        "status": "insufficient_sample",
-        "transaction_count": 2,
-        "source_count": 1,
-        "median_unit_price": null,
-        "median_total_price": null,
-        "p25_unit_price": null,
-        "p75_unit_price": null,
-        "mom_pct": null,
-        "yoy_pct": null
-      },
-      "observation": {
-        "month": "2026-03",
-        "transaction_count": 2,
-        "source_count": 1,
-        "median_unit_price": 7445,
-        "median_total_price": 570000,
-        "min_unit_price": 5058,
-        "max_unit_price": 9832
       }
     },
     {
@@ -11559,34 +10134,6 @@
         "median_total_price": 200000,
         "min_unit_price": 7326,
         "max_unit_price": 7326
-      }
-    },
-    {
-      "id": "hongqiao-58ab3fb264d5",
-      "slug": "c-hongqiao-58ab3fb264d5",
-      "name": "暖洋家园",
-      "submarket": "双环邨",
-      "property_use": "unknown",
-      "latest": {
-        "month": "2026-09",
-        "status": "published",
-        "transaction_count": 5,
-        "source_count": 1,
-        "median_unit_price": 7324,
-        "median_total_price": 412000,
-        "p25_unit_price": 6756,
-        "p75_unit_price": 8321,
-        "mom_pct": null,
-        "yoy_pct": null
-      },
-      "observation": {
-        "month": "2026-09",
-        "transaction_count": 5,
-        "source_count": 1,
-        "median_unit_price": 7324,
-        "median_total_price": 412000,
-        "min_unit_price": 3626,
-        "max_unit_price": 8917
       }
     },
     {
@@ -11702,34 +10249,6 @@
       }
     },
     {
-      "id": "hongqiao-234b7d5d4e29",
-      "slug": "c-hongqiao-234b7d5d4e29",
-      "name": "天和雅园",
-      "submarket": "天穆镇",
-      "property_use": "unknown",
-      "latest": {
-        "month": "2026-02",
-        "status": "insufficient_sample",
-        "transaction_count": 1,
-        "source_count": 1,
-        "median_unit_price": null,
-        "median_total_price": null,
-        "p25_unit_price": null,
-        "p75_unit_price": null,
-        "mom_pct": null,
-        "yoy_pct": null
-      },
-      "observation": {
-        "month": "2026-02",
-        "transaction_count": 1,
-        "source_count": 1,
-        "median_unit_price": 7069,
-        "median_total_price": 355000,
-        "min_unit_price": 7069,
-        "max_unit_price": 7069
-      }
-    },
-    {
       "id": "hongqiao-1d669a9812c2",
       "slug": "c-hongqiao-1d669a9812c2",
       "name": "长平里",
@@ -11755,6 +10274,34 @@
         "median_total_price": 370000,
         "min_unit_price": 7066,
         "max_unit_price": 7066
+      }
+    },
+    {
+      "id": "hongqiao-58ab3fb264d5",
+      "slug": "c-hongqiao-58ab3fb264d5",
+      "name": "暖洋家园",
+      "submarket": "双环邨",
+      "property_use": "unknown",
+      "latest": {
+        "month": "2026-09",
+        "status": "published",
+        "transaction_count": 6,
+        "source_count": 1,
+        "median_unit_price": 7040,
+        "median_total_price": 396000,
+        "p25_unit_price": 6756,
+        "p75_unit_price": 8072,
+        "mom_pct": null,
+        "yoy_pct": null
+      },
+      "observation": {
+        "month": "2026-09",
+        "transaction_count": 6,
+        "source_count": 1,
+        "median_unit_price": 7040,
+        "median_total_price": 396000,
+        "min_unit_price": 3626,
+        "max_unit_price": 8917
       }
     },
     {
@@ -11926,90 +10473,6 @@
       }
     },
     {
-      "id": "hongqiao-cf932edd2633",
-      "slug": "c-hongqiao-cf932edd2633",
-      "name": "佳丽园",
-      "submarket": "双环邨",
-      "property_use": "unknown",
-      "latest": {
-        "month": "2026-07",
-        "status": "insufficient_sample",
-        "transaction_count": 2,
-        "source_count": 1,
-        "median_unit_price": null,
-        "median_total_price": null,
-        "p25_unit_price": null,
-        "p75_unit_price": null,
-        "mom_pct": null,
-        "yoy_pct": null
-      },
-      "observation": {
-        "month": "2026-07",
-        "transaction_count": 2,
-        "source_count": 1,
-        "median_unit_price": 6822,
-        "median_total_price": 379000,
-        "min_unit_price": 5303,
-        "max_unit_price": 8340
-      }
-    },
-    {
-      "id": "hongqiao-f01121bc7bbe",
-      "slug": "c-hongqiao-f01121bc7bbe",
-      "name": "彪哥说房锦西里",
-      "submarket": "咸阳北路",
-      "property_use": "unknown",
-      "latest": {
-        "month": "2026-06",
-        "status": "insufficient_sample",
-        "transaction_count": 1,
-        "source_count": 1,
-        "median_unit_price": null,
-        "median_total_price": null,
-        "p25_unit_price": null,
-        "p75_unit_price": null,
-        "mom_pct": null,
-        "yoy_pct": null
-      },
-      "observation": {
-        "month": "2026-06",
-        "transaction_count": 1,
-        "source_count": 1,
-        "median_unit_price": 6790,
-        "median_total_price": 352000,
-        "min_unit_price": 6790,
-        "max_unit_price": 6790
-      }
-    },
-    {
-      "id": "hongqiao-cd2004944db2",
-      "slug": "c-hongqiao-cd2004944db2",
-      "name": "万隆桃香园",
-      "submarket": "天穆镇",
-      "property_use": "unknown",
-      "latest": {
-        "month": "2026-02",
-        "status": "insufficient_sample",
-        "transaction_count": 1,
-        "source_count": 1,
-        "median_unit_price": null,
-        "median_total_price": null,
-        "p25_unit_price": null,
-        "p75_unit_price": null,
-        "mom_pct": null,
-        "yoy_pct": null
-      },
-      "observation": {
-        "month": "2026-02",
-        "transaction_count": 1,
-        "source_count": 1,
-        "median_unit_price": 6766,
-        "median_total_price": 400000,
-        "min_unit_price": 6766,
-        "max_unit_price": 6766
-      }
-    },
-    {
       "id": "hongqiao-03fb497c4e42",
       "slug": "c-hongqiao-03fb497c4e42",
       "name": "金苑公寓",
@@ -12035,34 +10498,6 @@
         "median_total_price": 545000,
         "min_unit_price": 6763,
         "max_unit_price": 6763
-      }
-    },
-    {
-      "id": "hongqiao-d57d9312cf68",
-      "slug": "c-hongqiao-d57d9312cf68",
-      "name": "普天东里",
-      "submarket": "天穆镇",
-      "property_use": "unknown",
-      "latest": {
-        "month": "2026-03",
-        "status": "insufficient_sample",
-        "transaction_count": 2,
-        "source_count": 1,
-        "median_unit_price": null,
-        "median_total_price": null,
-        "p25_unit_price": null,
-        "p75_unit_price": null,
-        "mom_pct": null,
-        "yoy_pct": null
-      },
-      "observation": {
-        "month": "2026-03",
-        "transaction_count": 2,
-        "source_count": 1,
-        "median_unit_price": 6668,
-        "median_total_price": 580000,
-        "min_unit_price": 5972,
-        "max_unit_price": 7364
       }
     },
     {
@@ -12122,34 +10557,6 @@
       }
     },
     {
-      "id": "hongqiao-4d7eabec4574",
-      "slug": "c-hongqiao-4d7eabec4574",
-      "name": "绿岛家园",
-      "submarket": "天穆镇",
-      "property_use": "unknown",
-      "latest": {
-        "month": "2026-03",
-        "status": "insufficient_sample",
-        "transaction_count": 1,
-        "source_count": 1,
-        "median_unit_price": null,
-        "median_total_price": null,
-        "p25_unit_price": null,
-        "p75_unit_price": null,
-        "mom_pct": null,
-        "yoy_pct": null
-      },
-      "observation": {
-        "month": "2026-03",
-        "transaction_count": 1,
-        "source_count": 1,
-        "median_unit_price": 6461,
-        "median_total_price": 585000,
-        "min_unit_price": 6461,
-        "max_unit_price": 6461
-      }
-    },
-    {
       "id": "hongqiao-bc6710691d68",
       "slug": "c-hongqiao-bc6710691d68",
       "name": "同心楼",
@@ -12178,34 +10585,6 @@
       }
     },
     {
-      "id": "hongqiao-dd452f2bda2d",
-      "slug": "c-hongqiao-dd452f2bda2d",
-      "name": "金香里",
-      "submarket": "双环邨",
-      "property_use": "unknown",
-      "latest": {
-        "month": "2026-10",
-        "status": "insufficient_sample",
-        "transaction_count": 1,
-        "source_count": 1,
-        "median_unit_price": null,
-        "median_total_price": null,
-        "p25_unit_price": null,
-        "p75_unit_price": null,
-        "mom_pct": null,
-        "yoy_pct": null
-      },
-      "observation": {
-        "month": "2026-10",
-        "transaction_count": 1,
-        "source_count": 1,
-        "median_unit_price": 6421,
-        "median_total_price": 360000,
-        "min_unit_price": 6421,
-        "max_unit_price": 6421
-      }
-    },
-    {
       "id": "hongqiao-a6502ede44ac",
       "slug": "c-hongqiao-a6502ede44ac",
       "name": "洛川里",
@@ -12231,62 +10610,6 @@
         "median_total_price": 380000,
         "min_unit_price": 6405,
         "max_unit_price": 6405
-      }
-    },
-    {
-      "id": "hongqiao-5386a580e8ba",
-      "slug": "c-hongqiao-5386a580e8ba",
-      "name": "佳平里",
-      "submarket": "双环邨",
-      "property_use": "unknown",
-      "latest": {
-        "month": "2026-09",
-        "status": "insufficient_sample",
-        "transaction_count": 2,
-        "source_count": 1,
-        "median_unit_price": null,
-        "median_total_price": null,
-        "p25_unit_price": null,
-        "p75_unit_price": null,
-        "mom_pct": null,
-        "yoy_pct": null
-      },
-      "observation": {
-        "month": "2026-09",
-        "transaction_count": 2,
-        "source_count": 1,
-        "median_unit_price": 6370,
-        "median_total_price": 500500,
-        "min_unit_price": 5526,
-        "max_unit_price": 7214
-      }
-    },
-    {
-      "id": "hongqiao-2ce98c757a6d",
-      "slug": "c-hongqiao-2ce98c757a6d",
-      "name": "悅春里",
-      "submarket": "双环邨",
-      "property_use": "unknown",
-      "latest": {
-        "month": "2026-05",
-        "status": "insufficient_sample",
-        "transaction_count": 1,
-        "source_count": 1,
-        "median_unit_price": null,
-        "median_total_price": null,
-        "p25_unit_price": null,
-        "p75_unit_price": null,
-        "mom_pct": null,
-        "yoy_pct": null
-      },
-      "observation": {
-        "month": "2026-05",
-        "transaction_count": 1,
-        "source_count": 1,
-        "median_unit_price": 6349,
-        "median_total_price": 350000,
-        "min_unit_price": 6349,
-        "max_unit_price": 6349
       }
     },
     {
@@ -12486,34 +10809,6 @@
       }
     },
     {
-      "id": "hongqiao-e38aed8e4605",
-      "slug": "c-hongqiao-e38aed8e4605",
-      "name": "天穆东里",
-      "submarket": "天穆镇",
-      "property_use": "unknown",
-      "latest": {
-        "month": "2026-03",
-        "status": "insufficient_sample",
-        "transaction_count": 1,
-        "source_count": 1,
-        "median_unit_price": null,
-        "median_total_price": null,
-        "p25_unit_price": null,
-        "p75_unit_price": null,
-        "mom_pct": null,
-        "yoy_pct": null
-      },
-      "observation": {
-        "month": "2026-03",
-        "transaction_count": 1,
-        "source_count": 1,
-        "median_unit_price": 6080,
-        "median_total_price": 152000,
-        "min_unit_price": 6080,
-        "max_unit_price": 6080
-      }
-    },
-    {
       "id": "hongqiao-d0fff5e7d66d",
       "slug": "c-hongqiao-d0fff5e7d66d",
       "name": "庆玉里",
@@ -12626,62 +10921,6 @@
       }
     },
     {
-      "id": "hongqiao-641d34fce063",
-      "slug": "c-hongqiao-641d34fce063",
-      "name": "普天里",
-      "submarket": "天穆镇",
-      "property_use": "unknown",
-      "latest": {
-        "month": "2026-03",
-        "status": "insufficient_sample",
-        "transaction_count": 1,
-        "source_count": 1,
-        "median_unit_price": null,
-        "median_total_price": null,
-        "p25_unit_price": null,
-        "p75_unit_price": null,
-        "mom_pct": null,
-        "yoy_pct": null
-      },
-      "observation": {
-        "month": "2026-03",
-        "transaction_count": 1,
-        "source_count": 1,
-        "median_unit_price": 5789,
-        "median_total_price": 560000,
-        "min_unit_price": 5789,
-        "max_unit_price": 5789
-      }
-    },
-    {
-      "id": "hongqiao-0f3000517285",
-      "slug": "c-hongqiao-0f3000517285",
-      "name": "辰发花园",
-      "submarket": "天穆镇",
-      "property_use": "unknown",
-      "latest": {
-        "month": "2026-03",
-        "status": "insufficient_sample",
-        "transaction_count": 1,
-        "source_count": 1,
-        "median_unit_price": null,
-        "median_total_price": null,
-        "p25_unit_price": null,
-        "p75_unit_price": null,
-        "mom_pct": null,
-        "yoy_pct": null
-      },
-      "observation": {
-        "month": "2026-03",
-        "transaction_count": 1,
-        "source_count": 1,
-        "median_unit_price": 5724,
-        "median_total_price": 340000,
-        "min_unit_price": 5724,
-        "max_unit_price": 5724
-      }
-    },
-    {
       "id": "hongqiao-e4c0f9fe95e8",
       "slug": "c-hongqiao-e4c0f9fe95e8",
       "name": "悦春里",
@@ -12738,31 +10977,31 @@
       }
     },
     {
-      "id": "hongqiao-f454f70dcc7b",
-      "slug": "c-hongqiao-f454f70dcc7b",
-      "name": "佳园东里(东区)",
+      "id": "hongqiao-cf932edd2633",
+      "slug": "c-hongqiao-cf932edd2633",
+      "name": "佳丽园",
       "submarket": "双环邨",
       "property_use": "unknown",
       "latest": {
-        "month": "2026-10",
-        "status": "insufficient_sample",
-        "transaction_count": 2,
+        "month": "2026-07",
+        "status": "published",
+        "transaction_count": 3,
         "source_count": 1,
-        "median_unit_price": null,
-        "median_total_price": null,
-        "p25_unit_price": null,
-        "p75_unit_price": null,
+        "median_unit_price": 5303,
+        "median_total_price": 338000,
+        "p25_unit_price": 5303,
+        "p75_unit_price": 6822,
         "mom_pct": null,
         "yoy_pct": null
       },
       "observation": {
-        "month": "2026-10",
-        "transaction_count": 2,
+        "month": "2026-07",
+        "transaction_count": 3,
         "source_count": 1,
-        "median_unit_price": 5593,
-        "median_total_price": 272500,
-        "min_unit_price": 4457,
-        "max_unit_price": 6729
+        "median_unit_price": 5303,
+        "median_total_price": 338000,
+        "min_unit_price": 5303,
+        "max_unit_price": 8340
       }
     },
     {
@@ -12906,62 +11145,6 @@
       }
     },
     {
-      "id": "hongqiao-7178d27b0cb0",
-      "slug": "c-hongqiao-7178d27b0cb0",
-      "name": "佳安里",
-      "submarket": "双环邨",
-      "property_use": "unknown",
-      "latest": {
-        "month": "2026-07",
-        "status": "insufficient_sample",
-        "transaction_count": 1,
-        "source_count": 1,
-        "median_unit_price": null,
-        "median_total_price": null,
-        "p25_unit_price": null,
-        "p75_unit_price": null,
-        "mom_pct": null,
-        "yoy_pct": null
-      },
-      "observation": {
-        "month": "2026-07",
-        "transaction_count": 1,
-        "source_count": 1,
-        "median_unit_price": 4825,
-        "median_total_price": 415000,
-        "min_unit_price": 4825,
-        "max_unit_price": 4825
-      }
-    },
-    {
-      "id": "hongqiao-10cd843ffd54",
-      "slug": "c-hongqiao-10cd843ffd54",
-      "name": "中粮辰悦",
-      "submarket": "天穆镇",
-      "property_use": "unknown",
-      "latest": {
-        "month": "2026-03",
-        "status": "insufficient_sample",
-        "transaction_count": 1,
-        "source_count": 1,
-        "median_unit_price": null,
-        "median_total_price": null,
-        "p25_unit_price": null,
-        "p75_unit_price": null,
-        "mom_pct": null,
-        "yoy_pct": null
-      },
-      "observation": {
-        "month": "2026-03",
-        "transaction_count": 1,
-        "source_count": 1,
-        "median_unit_price": 4325,
-        "median_total_price": 190000,
-        "min_unit_price": 4325,
-        "max_unit_price": 4325
-      }
-    },
-    {
       "id": "hongqiao-b6bdef75966f",
       "slug": "c-hongqiao-b6bdef75966f",
       "name": "同德楼",
@@ -12998,7 +11181,7 @@
       "latest": {
         "month": "2026-09",
         "status": "insufficient_sample",
-        "transaction_count": 1,
+        "transaction_count": 2,
         "source_count": 1,
         "median_unit_price": null,
         "median_total_price": null,
@@ -13009,7 +11192,7 @@
       },
       "observation": {
         "month": "2026-09",
-        "transaction_count": 1,
+        "transaction_count": 2,
         "source_count": 1,
         "median_unit_price": 3693,
         "median_total_price": 265000,
@@ -13168,10 +11351,10 @@
         "≥144㎡"
       ],
       "counts": [
-        1111,
-        945,
-        421,
-        96,
+        1063,
+        907,
+        392,
+        91,
         51
       ]
     },
@@ -13184,9 +11367,9 @@
         "≥500万"
       ],
       "counts": [
-        1951,
-        470,
-        142,
+        1862,
+        442,
+        139,
         52,
         9
       ]

@@ -13,24 +13,24 @@
   },
   "latest": {
     "month": "2026-10",
-    "status": "insufficient_sample",
-    "transaction_count": 2,
+    "status": "published",
+    "transaction_count": 5,
     "source_count": 1,
-    "median_unit_price": null,
-    "median_total_price": null,
-    "p25_unit_price": null,
-    "p75_unit_price": null,
+    "median_unit_price": 7283,
+    "median_total_price": 715000,
+    "p25_unit_price": 6009,
+    "p75_unit_price": 7702,
     "mom_pct": null,
     "yoy_pct": null
   },
   "observation": {
     "month": "2026-10",
-    "transaction_count": 2,
+    "transaction_count": 5,
     "source_count": 1,
-    "median_unit_price": 5653,
-    "median_total_price": 610000,
+    "median_unit_price": 7283,
+    "median_total_price": 715000,
     "min_unit_price": 5297,
-    "max_unit_price": 6009
+    "max_unit_price": 8900
   },
   "series": [
     {
@@ -252,25 +252,25 @@
     {
       "month": "2026-05",
       "status": "published",
-      "transaction_count": 10,
+      "transaction_count": 11,
       "source_count": 1,
-      "median_unit_price": 7170,
-      "median_total_price": 693759,
-      "p25_unit_price": 6674,
-      "p75_unit_price": 7300,
-      "mom_pct": 1.2,
+      "median_unit_price": 7199,
+      "median_total_price": 707518,
+      "p25_unit_price": 6737,
+      "p75_unit_price": 7417,
+      "mom_pct": 1.7,
       "yoy_pct": null
     },
     {
       "month": "2026-06",
       "status": "published",
-      "transaction_count": 5,
+      "transaction_count": 6,
       "source_count": 1,
-      "median_unit_price": 6825,
-      "median_total_price": 670000,
-      "p25_unit_price": 6465,
-      "p75_unit_price": 7422,
-      "mom_pct": -4.8,
+      "median_unit_price": 6966,
+      "median_total_price": 685000,
+      "p25_unit_price": 6555,
+      "p75_unit_price": 7343,
+      "mom_pct": -3.2,
       "yoy_pct": null
     },
     {
@@ -311,14 +311,14 @@
     },
     {
       "month": "2026-10",
-      "status": "insufficient_sample",
-      "transaction_count": 2,
+      "status": "published",
+      "transaction_count": 5,
       "source_count": 1,
-      "median_unit_price": null,
-      "median_total_price": null,
-      "p25_unit_price": null,
-      "p75_unit_price": null,
-      "mom_pct": null,
+      "median_unit_price": 7283,
+      "median_total_price": 715000,
+      "p25_unit_price": 6009,
+      "p75_unit_price": 7702,
+      "mom_pct": 4.1,
       "yoy_pct": null
     }
   ],
@@ -334,7 +334,7 @@
       "counts": [
         0,
         13,
-        31,
+        36,
         2,
         0
       ]
@@ -348,7 +348,7 @@
         "≥500万"
       ],
       "counts": [
-        45,
+        50,
         1,
         0,
         0,
@@ -357,6 +357,30 @@
     }
   },
   "transactions": [
+    {
+      "deal_date": "2026-10-31",
+      "layout": "2-1-1-1",
+      "area_sqm": 98.68,
+      "floor": "10/24",
+      "total_price_yuan": 760000,
+      "unit_price_yuan": 7702
+    },
+    {
+      "deal_date": "2026-10-27",
+      "layout": "3-1-1-1",
+      "area_sqm": 98.88,
+      "floor": "24/33",
+      "total_price_yuan": 880000,
+      "unit_price_yuan": 8900
+    },
+    {
+      "deal_date": "2026-10-25",
+      "layout": "2-1-1-1",
+      "area_sqm": 98.17,
+      "floor": "14/34",
+      "total_price_yuan": 715000,
+      "unit_price_yuan": 7283
+    },
     {
       "deal_date": "2026-10-13",
       "layout": "3-2-1-2",
@@ -494,6 +518,14 @@
       "unit_price_yuan": 6465
     },
     {
+      "deal_date": "2026-06-19",
+      "layout": "2-1-1-1",
+      "area_sqm": 98.49,
+      "floor": "22/34",
+      "total_price_yuan": 700000,
+      "unit_price_yuan": 7107
+    },
+    {
       "deal_date": "2026-06-11",
       "layout": "2-1-1-1",
       "area_sqm": 98.17,
@@ -564,6 +596,14 @@
       "floor": "",
       "total_price_yuan": 707518,
       "unit_price_yuan": 7199
+    },
+    {
+      "deal_date": "2026-05-11",
+      "layout": "2-1-1-1",
+      "area_sqm": 98.61,
+      "floor": "11/27",
+      "total_price_yuan": 740000,
+      "unit_price_yuan": 7504
     },
     {
       "deal_date": "2026-05-11",

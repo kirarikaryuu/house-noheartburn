@@ -14,21 +14,21 @@
   "latest": {
     "month": "2026-10",
     "status": "published",
-    "transaction_count": 4,
+    "transaction_count": 6,
     "source_count": 1,
-    "median_unit_price": 22274,
-    "median_total_price": 2604000,
-    "p25_unit_price": 20038,
-    "p75_unit_price": 23444,
+    "median_unit_price": 22093,
+    "median_total_price": 2570000,
+    "p25_unit_price": 20366,
+    "p75_unit_price": 23290,
     "mom_pct": null,
     "yoy_pct": null
   },
   "observation": {
     "month": "2026-10",
-    "transaction_count": 4,
+    "transaction_count": 6,
     "source_count": 1,
-    "median_unit_price": 22274,
-    "median_total_price": 2604000,
+    "median_unit_price": 22093,
+    "median_total_price": 2570000,
     "min_unit_price": 16651,
     "max_unit_price": 23635
   },
@@ -312,12 +312,12 @@
     {
       "month": "2026-10",
       "status": "published",
-      "transaction_count": 4,
+      "transaction_count": 6,
       "source_count": 1,
-      "median_unit_price": 22274,
-      "median_total_price": 2604000,
-      "p25_unit_price": 20038,
-      "p75_unit_price": 23444,
+      "median_unit_price": 22093,
+      "median_total_price": 2570000,
+      "p25_unit_price": 20366,
+      "p75_unit_price": 23290,
       "mom_pct": null,
       "yoy_pct": null
     }
@@ -334,7 +334,7 @@
       "counts": [
         0,
         0,
-        10,
+        12,
         5,
         1
       ]
@@ -349,14 +349,30 @@
       ],
       "counts": [
         1,
-        2,
-        10,
+        3,
+        11,
         3,
         0
       ]
     }
   },
   "transactions": [
+    {
+      "deal_date": "2026-10-29",
+      "layout": "2-1-1-1",
+      "area_sqm": 98.51,
+      "floor": "4/6",
+      "total_price_yuan": 1980000,
+      "unit_price_yuan": 20099
+    },
+    {
+      "deal_date": "2026-10-25",
+      "layout": "2-1-1-1",
+      "area_sqm": 110.78,
+      "floor": "3/9",
+      "total_price_yuan": 2550000,
+      "unit_price_yuan": 23019
+    },
     {
       "deal_date": "2026-10-20",
       "layout": "2-2-1-1",

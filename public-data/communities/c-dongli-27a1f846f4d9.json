@@ -8,13 +8,13 @@
     "name": "阅湖苑",
     "district_code": "120110",
     "district_name": "东丽区",
-    "submarket": "东丽湖",
+    "submarket": "湖",
     "property_use": "unknown"
   },
   "latest": {
     "month": "2026-10",
     "status": "insufficient_sample",
-    "transaction_count": 1,
+    "transaction_count": 2,
     "source_count": 1,
     "median_unit_price": null,
     "median_total_price": null,
@@ -25,11 +25,11 @@
   },
   "observation": {
     "month": "2026-10",
-    "transaction_count": 1,
+    "transaction_count": 2,
     "source_count": 1,
-    "median_unit_price": 7138,
-    "median_total_price": 490000,
-    "min_unit_price": 7138,
+    "median_unit_price": 5440,
+    "median_total_price": 412000,
+    "min_unit_price": 3741,
     "max_unit_price": 7138
   },
   "series": [
@@ -312,7 +312,7 @@
     {
       "month": "2026-10",
       "status": "insufficient_sample",
-      "transaction_count": 1,
+      "transaction_count": 2,
       "source_count": 1,
       "median_unit_price": null,
       "median_total_price": null,
@@ -333,7 +333,7 @@
       ],
       "counts": [
         0,
-        9,
+        10,
         8,
         0,
         0
@@ -348,7 +348,7 @@
         "≥500万"
       ],
       "counts": [
-        17,
+        18,
         0,
         0,
         0,
@@ -364,6 +364,14 @@
       "floor": "5/6",
       "total_price_yuan": 490000,
       "unit_price_yuan": 7138
+    },
+    {
+      "deal_date": "2026-10-04",
+      "layout": "3-2-1-1",
+      "area_sqm": 89.14,
+      "floor": "6/27",
+      "total_price_yuan": 334000,
+      "unit_price_yuan": 3741
     },
     {
       "deal_date": "2026-09-21",

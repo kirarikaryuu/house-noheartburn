@@ -8,11 +8,11 @@
     "name": "中建玖棠府",
     "district_code": "120110",
     "district_name": "东丽区",
-    "submarket": "东丽湖",
+    "submarket": "湖",
     "property_use": "unknown"
   },
   "latest": {
-    "month": "2026-08",
+    "month": "2026-10",
     "status": "insufficient_sample",
     "transaction_count": 2,
     "source_count": 1,
@@ -24,13 +24,13 @@
     "yoy_pct": null
   },
   "observation": {
-    "month": "2026-08",
+    "month": "2026-10",
     "transaction_count": 2,
     "source_count": 1,
-    "median_unit_price": 7651,
-    "median_total_price": 831000,
-    "min_unit_price": 7452,
-    "max_unit_price": 7850
+    "median_unit_price": 7648,
+    "median_total_price": 835000,
+    "min_unit_price": 5862,
+    "max_unit_price": 9435
   },
   "series": [
     {
@@ -311,9 +311,9 @@
     },
     {
       "month": "2026-10",
-      "status": "no_data",
-      "transaction_count": 0,
-      "source_count": 0,
+      "status": "insufficient_sample",
+      "transaction_count": 2,
+      "source_count": 1,
       "median_unit_price": null,
       "median_total_price": null,
       "p25_unit_price": null,
@@ -333,9 +333,9 @@
       ],
       "counts": [
         0,
-        0,
+        1,
         2,
-        2,
+        3,
         0
       ]
     },
@@ -348,8 +348,8 @@
         "≥500万"
       ],
       "counts": [
-        4,
-        0,
+        5,
+        1,
         0,
         0,
         0
@@ -357,6 +357,22 @@
     }
   },
   "transactions": [
+    {
+      "deal_date": "2026-10-07",
+      "layout": "3-2-1-2",
+      "area_sqm": 124.01,
+      "floor": "7/7",
+      "total_price_yuan": 1170000,
+      "unit_price_yuan": 9435
+    },
+    {
+      "deal_date": "2026-10-06",
+      "layout": "3-1-1-1",
+      "area_sqm": 85.29,
+      "floor": "1/9",
+      "total_price_yuan": 500000,
+      "unit_price_yuan": 5862
+    },
     {
       "deal_date": "2026-08-21",
       "layout": "3-1-1-2",

@@ -11,13 +11,13 @@
   "latest": {
     "month": "2026-10",
     "status": "published",
-    "transaction_count": 144,
+    "transaction_count": 236,
     "source_count": 1,
-    "median_unit_price": 8100,
-    "median_total_price": 700000,
-    "p25_unit_price": 6013,
-    "p75_unit_price": 10942,
-    "mom_pct": -1.5,
+    "median_unit_price": 8970,
+    "median_total_price": 775000,
+    "p25_unit_price": 6098,
+    "p75_unit_price": 11922,
+    "mom_pct": 9.1,
     "yoy_pct": null
   },
   "series": [
@@ -216,25 +216,25 @@
     {
       "month": "2026-03",
       "status": "published",
-      "transaction_count": 548,
+      "transaction_count": 546,
       "source_count": 1,
       "median_unit_price": 7848,
       "median_total_price": 671500,
-      "p25_unit_price": 5682,
-      "p75_unit_price": 10740,
+      "p25_unit_price": 5677,
+      "p75_unit_price": 10747,
       "mom_pct": -14.0,
       "yoy_pct": null
     },
     {
       "month": "2026-04",
       "status": "published",
-      "transaction_count": 457,
+      "transaction_count": 456,
       "source_count": 1,
-      "median_unit_price": 8276,
-      "median_total_price": 707000,
-      "p25_unit_price": 5693,
-      "p75_unit_price": 11044,
-      "mom_pct": 5.5,
+      "median_unit_price": 8304,
+      "median_total_price": 708500,
+      "p25_unit_price": 5692,
+      "p75_unit_price": 11046,
+      "mom_pct": 5.8,
       "yoy_pct": null
     },
     {
@@ -246,7 +246,7 @@
       "median_total_price": 730000,
       "p25_unit_price": 5642,
       "p75_unit_price": 11780,
-      "mom_pct": 3.6,
+      "mom_pct": 3.2,
       "yoy_pct": null
     },
     {
@@ -276,37 +276,37 @@
     {
       "month": "2026-08",
       "status": "published",
-      "transaction_count": 295,
+      "transaction_count": 292,
       "source_count": 1,
-      "median_unit_price": 7657,
-      "median_total_price": 650000,
-      "p25_unit_price": 5430,
-      "p75_unit_price": 10808,
-      "mom_pct": -10.7,
+      "median_unit_price": 7599,
+      "median_total_price": 647500,
+      "p25_unit_price": 5414,
+      "p75_unit_price": 10806,
+      "mom_pct": -11.3,
       "yoy_pct": null
     },
     {
       "month": "2026-09",
       "status": "published",
-      "transaction_count": 330,
+      "transaction_count": 329,
       "source_count": 1,
-      "median_unit_price": 8225,
-      "median_total_price": 715000,
-      "p25_unit_price": 5926,
-      "p75_unit_price": 11592,
-      "mom_pct": 7.4,
+      "median_unit_price": 8221,
+      "median_total_price": 710000,
+      "p25_unit_price": 5923,
+      "p75_unit_price": 11599,
+      "mom_pct": 8.2,
       "yoy_pct": null
     },
     {
       "month": "2026-10",
       "status": "published",
-      "transaction_count": 144,
+      "transaction_count": 236,
       "source_count": 1,
-      "median_unit_price": 8100,
-      "median_total_price": 700000,
-      "p25_unit_price": 6013,
-      "p75_unit_price": 10942,
-      "mom_pct": -1.5,
+      "median_unit_price": 8970,
+      "median_total_price": 775000,
+      "p25_unit_price": 6098,
+      "p75_unit_price": 11922,
+      "mom_pct": 9.1,
       "yoy_pct": null
     }
   ],
@@ -316,13 +316,13 @@
       "latest": {
         "month": "2026-10",
         "status": "published",
-        "transaction_count": 15,
+        "transaction_count": 30,
         "source_count": 1,
-        "median_unit_price": 14140,
-        "median_total_price": 1285000,
-        "p25_unit_price": 11892,
-        "p75_unit_price": 15429,
-        "mom_pct": 4.5,
+        "median_unit_price": 13541,
+        "median_total_price": 1257500,
+        "p25_unit_price": 11886,
+        "p75_unit_price": 15446,
+        "mom_pct": 0.1,
         "yoy_pct": null
       },
       "series": [
@@ -581,13 +581,13 @@
         {
           "month": "2026-08",
           "status": "published",
-          "transaction_count": 16,
+          "transaction_count": 15,
           "source_count": 1,
-          "median_unit_price": 13890,
-          "median_total_price": 1327500,
-          "p25_unit_price": 12045,
-          "p75_unit_price": 16032,
-          "mom_pct": -1.1,
+          "median_unit_price": 13573,
+          "median_total_price": 1290000,
+          "p25_unit_price": 11647,
+          "p75_unit_price": 15026,
+          "mom_pct": -3.3,
           "yoy_pct": null
         },
         {
@@ -599,19 +599,19 @@
           "median_total_price": 1360000,
           "p25_unit_price": 12612,
           "p75_unit_price": 15425,
-          "mom_pct": -2.6,
+          "mom_pct": -0.3,
           "yoy_pct": null
         },
         {
           "month": "2026-10",
           "status": "published",
-          "transaction_count": 15,
+          "transaction_count": 30,
           "source_count": 1,
-          "median_unit_price": 14140,
-          "median_total_price": 1285000,
-          "p25_unit_price": 11892,
-          "p75_unit_price": 15429,
-          "mom_pct": 4.5,
+          "median_unit_price": 13541,
+          "median_total_price": 1257500,
+          "p25_unit_price": 11886,
+          "p75_unit_price": 15446,
+          "mom_pct": 0.1,
           "yoy_pct": null
         }
       ]
@@ -621,12 +621,12 @@
       "latest": {
         "month": "2026-10",
         "status": "published",
-        "transaction_count": 8,
+        "transaction_count": 20,
         "source_count": 1,
         "median_unit_price": 11731,
         "median_total_price": 1025500,
-        "p25_unit_price": 10752,
-        "p75_unit_price": 12453,
+        "p25_unit_price": 9678,
+        "p75_unit_price": 12872,
         "mom_pct": 18.9,
         "yoy_pct": null
       },
@@ -910,12 +910,12 @@
         {
           "month": "2026-10",
           "status": "published",
-          "transaction_count": 8,
+          "transaction_count": 20,
           "source_count": 1,
           "median_unit_price": 11731,
           "median_total_price": 1025500,
-          "p25_unit_price": 10752,
-          "p75_unit_price": 12453,
+          "p25_unit_price": 9678,
+          "p75_unit_price": 12872,
           "mom_pct": 18.9,
           "yoy_pct": null
         }
@@ -926,13 +926,13 @@
       "latest": {
         "month": "2026-10",
         "status": "published",
-        "transaction_count": 45,
+        "transaction_count": 71,
         "source_count": 1,
-        "median_unit_price": 9693,
+        "median_unit_price": 9934,
         "median_total_price": 822000,
-        "p25_unit_price": 7811,
-        "p75_unit_price": 11241,
-        "mom_pct": 3.8,
+        "p25_unit_price": 7878,
+        "p75_unit_price": 11740,
+        "mom_pct": 6.1,
         "yoy_pct": null
       },
       "series": [
@@ -1131,13 +1131,13 @@
         {
           "month": "2026-03",
           "status": "published",
-          "transaction_count": 123,
+          "transaction_count": 122,
           "source_count": 1,
-          "median_unit_price": 9376,
-          "median_total_price": 745000,
-          "p25_unit_price": 7535,
-          "p75_unit_price": 10986,
-          "mom_pct": -11.0,
+          "median_unit_price": 9404,
+          "median_total_price": 749000,
+          "p25_unit_price": 7536,
+          "p75_unit_price": 11000,
+          "mom_pct": -10.8,
           "yoy_pct": null
         },
         {
@@ -1149,7 +1149,7 @@
           "median_total_price": 866000,
           "p25_unit_price": 7834,
           "p75_unit_price": 11616,
-          "mom_pct": 5.7,
+          "mom_pct": 5.4,
           "yoy_pct": null
         },
         {
@@ -1191,37 +1191,37 @@
         {
           "month": "2026-08",
           "status": "published",
-          "transaction_count": 78,
+          "transaction_count": 77,
           "source_count": 1,
-          "median_unit_price": 9818,
-          "median_total_price": 806507,
-          "p25_unit_price": 7894,
-          "p75_unit_price": 11784,
-          "mom_pct": -0.0,
+          "median_unit_price": 9898,
+          "median_total_price": 825000,
+          "p25_unit_price": 7871,
+          "p75_unit_price": 11809,
+          "mom_pct": 0.8,
           "yoy_pct": null
         },
         {
           "month": "2026-09",
           "status": "published",
-          "transaction_count": 105,
+          "transaction_count": 104,
           "source_count": 1,
-          "median_unit_price": 9334,
-          "median_total_price": 768000,
-          "p25_unit_price": 7460,
-          "p75_unit_price": 11298,
-          "mom_pct": -4.9,
+          "median_unit_price": 9365,
+          "median_total_price": 769000,
+          "p25_unit_price": 7454,
+          "p75_unit_price": 11326,
+          "mom_pct": -5.4,
           "yoy_pct": null
         },
         {
           "month": "2026-10",
           "status": "published",
-          "transaction_count": 45,
+          "transaction_count": 71,
           "source_count": 1,
-          "median_unit_price": 9693,
+          "median_unit_price": 9934,
           "median_total_price": 822000,
-          "p25_unit_price": 7811,
-          "p75_unit_price": 11241,
-          "mom_pct": 3.8,
+          "p25_unit_price": 7878,
+          "p75_unit_price": 11740,
+          "mom_pct": 6.1,
           "yoy_pct": null
         }
       ]
@@ -1229,15 +1229,15 @@
     {
       "name": "张贵庄",
       "latest": {
-        "month": "2026-09",
+        "month": "2026-10",
         "status": "published",
-        "transaction_count": 8,
+        "transaction_count": 7,
         "source_count": 1,
-        "median_unit_price": 8933,
-        "median_total_price": 755000,
-        "p25_unit_price": 7196,
-        "p75_unit_price": 9320,
-        "mom_pct": 3.3,
+        "median_unit_price": 9474,
+        "median_total_price": 510000,
+        "p25_unit_price": 7197,
+        "p75_unit_price": 10252,
+        "mom_pct": 6.1,
         "yoy_pct": null
       },
       "series": [
@@ -1496,13 +1496,13 @@
         {
           "month": "2026-08",
           "status": "published",
-          "transaction_count": 9,
+          "transaction_count": 8,
           "source_count": 1,
-          "median_unit_price": 8647,
-          "median_total_price": 560000,
-          "p25_unit_price": 7072,
-          "p75_unit_price": 9020,
-          "mom_pct": -1.7,
+          "median_unit_price": 8634,
+          "median_total_price": 550000,
+          "p25_unit_price": 6384,
+          "p75_unit_price": 9045,
+          "mom_pct": -1.9,
           "yoy_pct": null
         },
         {
@@ -1514,19 +1514,19 @@
           "median_total_price": 755000,
           "p25_unit_price": 7196,
           "p75_unit_price": 9320,
-          "mom_pct": 3.3,
+          "mom_pct": 3.5,
           "yoy_pct": null
         },
         {
           "month": "2026-10",
-          "status": "insufficient_sample",
-          "transaction_count": 4,
+          "status": "published",
+          "transaction_count": 7,
           "source_count": 1,
-          "median_unit_price": null,
-          "median_total_price": null,
-          "p25_unit_price": null,
-          "p75_unit_price": null,
-          "mom_pct": null,
+          "median_unit_price": 9474,
+          "median_total_price": 510000,
+          "p25_unit_price": 7197,
+          "p75_unit_price": 10252,
+          "mom_pct": 6.1,
           "yoy_pct": null
         }
       ]
@@ -1536,13 +1536,13 @@
       "latest": {
         "month": "2026-10",
         "status": "published",
-        "transaction_count": 15,
+        "transaction_count": 20,
         "source_count": 1,
-        "median_unit_price": 7621,
-        "median_total_price": 700000,
-        "p25_unit_price": 6649,
-        "p75_unit_price": 9350,
-        "mom_pct": -15.9,
+        "median_unit_price": 9032,
+        "median_total_price": 835000,
+        "p25_unit_price": 7127,
+        "p75_unit_price": 11907,
+        "mom_pct": -0.3,
         "yoy_pct": null
       },
       "series": [
@@ -1753,13 +1753,13 @@
         {
           "month": "2026-04",
           "status": "published",
-          "transaction_count": 49,
+          "transaction_count": 48,
           "source_count": 1,
-          "median_unit_price": 9002,
+          "median_unit_price": 9126,
           "median_total_price": 830000,
-          "p25_unit_price": 7055,
-          "p75_unit_price": 13578,
-          "mom_pct": -6.2,
+          "p25_unit_price": 7066,
+          "p75_unit_price": 13593,
+          "mom_pct": -4.9,
           "yoy_pct": null
         },
         {
@@ -1771,7 +1771,7 @@
           "median_total_price": 907000,
           "p25_unit_price": 7083,
           "p75_unit_price": 12022,
-          "mom_pct": 8.5,
+          "mom_pct": 7.1,
           "yoy_pct": null
         },
         {
@@ -1825,13 +1825,13 @@
         {
           "month": "2026-10",
           "status": "published",
-          "transaction_count": 15,
+          "transaction_count": 20,
           "source_count": 1,
-          "median_unit_price": 7621,
-          "median_total_price": 700000,
-          "p25_unit_price": 6649,
-          "p75_unit_price": 9350,
-          "mom_pct": -15.9,
+          "median_unit_price": 9032,
+          "median_total_price": 835000,
+          "p25_unit_price": 7127,
+          "p75_unit_price": 11907,
+          "mom_pct": -0.3,
           "yoy_pct": null
         }
       ]
@@ -1841,13 +1841,13 @@
       "latest": {
         "month": "2026-10",
         "status": "published",
-        "transaction_count": 27,
+        "transaction_count": 45,
         "source_count": 1,
-        "median_unit_price": 7205,
-        "median_total_price": 600000,
-        "p25_unit_price": 4944,
-        "p75_unit_price": 8438,
-        "mom_pct": 0.3,
+        "median_unit_price": 7283,
+        "median_total_price": 645000,
+        "p25_unit_price": 4991,
+        "p75_unit_price": 9004,
+        "mom_pct": 1.4,
         "yoy_pct": null
       },
       "series": [
@@ -2046,13 +2046,13 @@
         {
           "month": "2026-03",
           "status": "published",
-          "transaction_count": 123,
+          "transaction_count": 122,
           "source_count": 1,
-          "median_unit_price": 7429,
-          "median_total_price": 621000,
-          "p25_unit_price": 5588,
+          "median_unit_price": 7410,
+          "median_total_price": 620500,
+          "p25_unit_price": 5567,
           "p75_unit_price": 8403,
-          "mom_pct": -5.8,
+          "mom_pct": -6.0,
           "yoy_pct": null
         },
         {
@@ -2064,7 +2064,7 @@
           "median_total_price": 580000,
           "p25_unit_price": 5347,
           "p75_unit_price": 8593,
-          "mom_pct": -4.0,
+          "mom_pct": -3.7,
           "yoy_pct": null
         },
         {
@@ -2130,13 +2130,13 @@
         {
           "month": "2026-10",
           "status": "published",
-          "transaction_count": 27,
+          "transaction_count": 45,
           "source_count": 1,
-          "median_unit_price": 7205,
-          "median_total_price": 600000,
-          "p25_unit_price": 4944,
-          "p75_unit_price": 8438,
-          "mom_pct": 0.3,
+          "median_unit_price": 7283,
+          "median_total_price": 645000,
+          "p25_unit_price": 4991,
+          "p75_unit_price": 9004,
+          "mom_pct": 1.4,
           "yoy_pct": null
         }
       ]
@@ -2146,13 +2146,13 @@
       "latest": {
         "month": "2026-10",
         "status": "published",
-        "transaction_count": 6,
+        "transaction_count": 7,
         "source_count": 1,
-        "median_unit_price": 5632,
-        "median_total_price": 672500,
-        "p25_unit_price": 4952,
-        "p75_unit_price": 8888,
-        "mom_pct": 28.5,
+        "median_unit_price": 6113,
+        "median_total_price": 725000,
+        "p25_unit_price": 5018,
+        "p75_unit_price": 8024,
+        "mom_pct": 39.5,
         "yoy_pct": null
       },
       "series": [
@@ -2435,27 +2435,27 @@
         {
           "month": "2026-10",
           "status": "published",
-          "transaction_count": 6,
+          "transaction_count": 7,
           "source_count": 1,
-          "median_unit_price": 5632,
-          "median_total_price": 672500,
-          "p25_unit_price": 4952,
-          "p75_unit_price": 8888,
-          "mom_pct": 28.5,
+          "median_unit_price": 6113,
+          "median_total_price": 725000,
+          "p25_unit_price": 5018,
+          "p75_unit_price": 8024,
+          "mom_pct": 39.5,
           "yoy_pct": null
         }
       ]
     },
     {
-      "name": "东丽湖",
+      "name": "湖",
       "latest": {
         "month": "2026-10",
         "status": "published",
-        "transaction_count": 23,
+        "transaction_count": 35,
         "source_count": 1,
         "median_unit_price": 5417,
-        "median_total_price": 490000,
-        "p25_unit_price": 4570,
+        "median_total_price": 500000,
+        "p25_unit_price": 4528,
         "p75_unit_price": 6379,
         "mom_pct": 11.6,
         "yoy_pct": null
@@ -2740,11 +2740,11 @@
         {
           "month": "2026-10",
           "status": "published",
-          "transaction_count": 23,
+          "transaction_count": 35,
           "source_count": 1,
           "median_unit_price": 5417,
-          "median_total_price": 490000,
-          "p25_unit_price": 4570,
+          "median_total_price": 500000,
+          "p25_unit_price": 4528,
           "p75_unit_price": 6379,
           "mom_pct": 11.6,
           "yoy_pct": null
@@ -2753,34 +2753,6 @@
     }
   ],
   "communities": [
-    {
-      "id": "dongli-b9ed1b70d0b4",
-      "slug": "c-dongli-b9ed1b70d0b4",
-      "name": "绿城桂月云翠",
-      "submarket": "空港经济区",
-      "property_use": "unknown",
-      "latest": {
-        "month": "2026-08",
-        "status": "insufficient_sample",
-        "transaction_count": 1,
-        "source_count": 1,
-        "median_unit_price": null,
-        "median_total_price": null,
-        "p25_unit_price": null,
-        "p75_unit_price": null,
-        "mom_pct": null,
-        "yoy_pct": null
-      },
-      "observation": {
-        "month": "2026-08",
-        "transaction_count": 1,
-        "source_count": 1,
-        "median_unit_price": 30982,
-        "median_total_price": 2745000,
-        "min_unit_price": 30982,
-        "max_unit_price": 30982
-      }
-    },
     {
       "id": "dongli-a8a9b5fb0774",
       "slug": "c-dongli-a8a9b5fb0774",
@@ -3034,6 +3006,34 @@
       }
     },
     {
+      "id": "dongli-b7f6a5c17b60",
+      "slug": "c-dongli-b7f6a5c17b60",
+      "name": "绿城·桂语听蘭二期",
+      "submarket": "空港经济区",
+      "property_use": "unknown",
+      "latest": {
+        "month": "2026-10",
+        "status": "insufficient_sample",
+        "transaction_count": 1,
+        "source_count": 1,
+        "median_unit_price": null,
+        "median_total_price": null,
+        "p25_unit_price": null,
+        "p75_unit_price": null,
+        "mom_pct": null,
+        "yoy_pct": null
+      },
+      "observation": {
+        "month": "2026-10",
+        "transaction_count": 1,
+        "source_count": 1,
+        "median_unit_price": 19154,
+        "median_total_price": 2050000,
+        "min_unit_price": 19154,
+        "max_unit_price": 19154
+      }
+    },
+    {
       "id": "dongli-e74d148f9d32",
       "slug": "c-dongli-e74d148f9d32",
       "name": "鲲栖府",
@@ -3090,62 +3090,6 @@
       }
     },
     {
-      "id": "dongli-b7f6a5c17b60",
-      "slug": "c-dongli-b7f6a5c17b60",
-      "name": "绿城·桂语听蘭二期",
-      "submarket": "空港经济区",
-      "property_use": "unknown",
-      "latest": {
-        "month": "2026-08",
-        "status": "insufficient_sample",
-        "transaction_count": 1,
-        "source_count": 1,
-        "median_unit_price": null,
-        "median_total_price": null,
-        "p25_unit_price": null,
-        "p75_unit_price": null,
-        "mom_pct": null,
-        "yoy_pct": null
-      },
-      "observation": {
-        "month": "2026-08",
-        "transaction_count": 1,
-        "source_count": 1,
-        "median_unit_price": 18243,
-        "median_total_price": 1975000,
-        "min_unit_price": 18243,
-        "max_unit_price": 18243
-      }
-    },
-    {
-      "id": "dongli-50d9b71b579e",
-      "slug": "c-dongli-50d9b71b579e",
-      "name": "绿城·桂语听蘭",
-      "submarket": "空港经济区",
-      "property_use": "unknown",
-      "latest": {
-        "month": "2026-09",
-        "status": "insufficient_sample",
-        "transaction_count": 2,
-        "source_count": 1,
-        "median_unit_price": null,
-        "median_total_price": null,
-        "p25_unit_price": null,
-        "p75_unit_price": null,
-        "mom_pct": null,
-        "yoy_pct": null
-      },
-      "observation": {
-        "month": "2026-09",
-        "transaction_count": 2,
-        "source_count": 1,
-        "median_unit_price": 18198,
-        "median_total_price": 1362500,
-        "min_unit_price": 17958,
-        "max_unit_price": 18437
-      }
-    },
-    {
       "id": "dongli-c2faa5f6e95b",
       "slug": "c-dongli-c2faa5f6e95b",
       "name": "金地悅城大境",
@@ -3177,7 +3121,7 @@
       "id": "dongli-5574b14584f3",
       "slug": "c-dongli-5574b14584f3",
       "name": "观澜苑",
-      "submarket": "东丽湖",
+      "submarket": "湖",
       "property_use": "unknown",
       "latest": {
         "month": "2026-06",
@@ -3314,6 +3258,34 @@
       }
     },
     {
+      "id": "dongli-56f57dadc578",
+      "slug": "c-dongli-56f57dadc578",
+      "name": "天保意境雅居",
+      "submarket": "空港经济区",
+      "property_use": "unknown",
+      "latest": {
+        "month": "2026-10",
+        "status": "insufficient_sample",
+        "transaction_count": 1,
+        "source_count": 1,
+        "median_unit_price": null,
+        "median_total_price": null,
+        "p25_unit_price": null,
+        "p75_unit_price": null,
+        "mom_pct": null,
+        "yoy_pct": null
+      },
+      "observation": {
+        "month": "2026-10",
+        "transaction_count": 1,
+        "source_count": 1,
+        "median_unit_price": 17426,
+        "median_total_price": 1740000,
+        "min_unit_price": 17426,
+        "max_unit_price": 17426
+      }
+    },
+    {
       "id": "dongli-76f3abb76385",
       "slug": "c-dongli-76f3abb76385",
       "name": "天保九如品筑怀义轩",
@@ -3367,6 +3339,34 @@
         "median_total_price": 1920000,
         "min_unit_price": 17358,
         "max_unit_price": 17358
+      }
+    },
+    {
+      "id": "dongli-50d9b71b579e",
+      "slug": "c-dongli-50d9b71b579e",
+      "name": "绿城·桂语听蘭",
+      "submarket": "空港经济区",
+      "property_use": "unknown",
+      "latest": {
+        "month": "2026-10",
+        "status": "insufficient_sample",
+        "transaction_count": 1,
+        "source_count": 1,
+        "median_unit_price": null,
+        "median_total_price": null,
+        "p25_unit_price": null,
+        "p75_unit_price": null,
+        "mom_pct": null,
+        "yoy_pct": null
+      },
+      "observation": {
+        "month": "2026-10",
+        "transaction_count": 1,
+        "source_count": 1,
+        "median_unit_price": 17299,
+        "median_total_price": 1300000,
+        "min_unit_price": 17299,
+        "max_unit_price": 17299
       }
     },
     {
@@ -3510,6 +3510,34 @@
       }
     },
     {
+      "id": "dongli-64ea2ec704e8",
+      "slug": "c-dongli-64ea2ec704e8",
+      "name": "想云湾嘉人轩",
+      "submarket": "空港经济区",
+      "property_use": "unknown",
+      "latest": {
+        "month": "2026-10",
+        "status": "insufficient_sample",
+        "transaction_count": 1,
+        "source_count": 1,
+        "median_unit_price": null,
+        "median_total_price": null,
+        "p25_unit_price": null,
+        "p75_unit_price": null,
+        "mom_pct": null,
+        "yoy_pct": null
+      },
+      "observation": {
+        "month": "2026-10",
+        "transaction_count": 1,
+        "source_count": 1,
+        "median_unit_price": 16465,
+        "median_total_price": 1770000,
+        "min_unit_price": 16465,
+        "max_unit_price": 16465
+      }
+    },
+    {
       "id": "dongli-9f07aae3d0d2",
       "slug": "c-dongli-9f07aae3d0d2",
       "name": "融创城融文园",
@@ -3538,9 +3566,9 @@
       }
     },
     {
-      "id": "dongli-5af08d302cb2",
-      "slug": "c-dongli-5af08d302cb2",
-      "name": "中建玖樾府",
+      "id": "dongli-24ea8620dc06",
+      "slug": "c-dongli-24ea8620dc06",
+      "name": "万科民和巷",
       "submarket": "新立街",
       "property_use": "unknown",
       "latest": {
@@ -3559,38 +3587,10 @@
         "month": "2026-10",
         "transaction_count": 1,
         "source_count": 1,
-        "median_unit_price": 16124,
-        "median_total_price": 1555000,
-        "min_unit_price": 16124,
-        "max_unit_price": 16124
-      }
-    },
-    {
-      "id": "dongli-56f57dadc578",
-      "slug": "c-dongli-56f57dadc578",
-      "name": "天保意境雅居",
-      "submarket": "空港经济区",
-      "property_use": "unknown",
-      "latest": {
-        "month": "2026-09",
-        "status": "insufficient_sample",
-        "transaction_count": 1,
-        "source_count": 1,
-        "median_unit_price": null,
-        "median_total_price": null,
-        "p25_unit_price": null,
-        "p75_unit_price": null,
-        "mom_pct": null,
-        "yoy_pct": null
-      },
-      "observation": {
-        "month": "2026-09",
-        "transaction_count": 1,
-        "source_count": 1,
-        "median_unit_price": 16024,
-        "median_total_price": 1600000,
-        "min_unit_price": 16024,
-        "max_unit_price": 16024
+        "median_unit_price": 16151,
+        "median_total_price": 1492000,
+        "min_unit_price": 16151,
+        "max_unit_price": 16151
       }
     },
     {
@@ -3619,6 +3619,34 @@
         "median_total_price": 1884000,
         "min_unit_price": 15683,
         "max_unit_price": 16315
+      }
+    },
+    {
+      "id": "dongli-5af08d302cb2",
+      "slug": "c-dongli-5af08d302cb2",
+      "name": "中建玖樾府",
+      "submarket": "新立街",
+      "property_use": "unknown",
+      "latest": {
+        "month": "2026-10",
+        "status": "insufficient_sample",
+        "transaction_count": 2,
+        "source_count": 1,
+        "median_unit_price": null,
+        "median_total_price": null,
+        "p25_unit_price": null,
+        "p75_unit_price": null,
+        "mom_pct": null,
+        "yoy_pct": null
+      },
+      "observation": {
+        "month": "2026-10",
+        "transaction_count": 2,
+        "source_count": 1,
+        "median_unit_price": 15968,
+        "median_total_price": 1545500,
+        "min_unit_price": 15811,
+        "max_unit_price": 16124
       }
     },
     {
@@ -3678,6 +3706,34 @@
       }
     },
     {
+      "id": "dongli-e40660707cde",
+      "slug": "c-dongli-e40660707cde",
+      "name": "时代之城",
+      "submarket": "金钟街",
+      "property_use": "unknown",
+      "latest": {
+        "month": "2026-10",
+        "status": "insufficient_sample",
+        "transaction_count": 1,
+        "source_count": 1,
+        "median_unit_price": null,
+        "median_total_price": null,
+        "p25_unit_price": null,
+        "p75_unit_price": null,
+        "mom_pct": null,
+        "yoy_pct": null
+      },
+      "observation": {
+        "month": "2026-10",
+        "transaction_count": 1,
+        "source_count": 1,
+        "median_unit_price": 15707,
+        "median_total_price": 1400000,
+        "min_unit_price": 15707,
+        "max_unit_price": 15707
+      }
+    },
+    {
       "id": "dongli-9cf29daaf3cd",
       "slug": "c-dongli-9cf29daaf3cd",
       "name": "远洋潮起东方擎云轩",
@@ -3734,34 +3790,6 @@
       }
     },
     {
-      "id": "dongli-64ea2ec704e8",
-      "slug": "c-dongli-64ea2ec704e8",
-      "name": "想云湾嘉人轩",
-      "submarket": "空港经济区",
-      "property_use": "unknown",
-      "latest": {
-        "month": "2026-09",
-        "status": "insufficient_sample",
-        "transaction_count": 1,
-        "source_count": 1,
-        "median_unit_price": null,
-        "median_total_price": null,
-        "p25_unit_price": null,
-        "p75_unit_price": null,
-        "mom_pct": null,
-        "yoy_pct": null
-      },
-      "observation": {
-        "month": "2026-09",
-        "transaction_count": 1,
-        "source_count": 1,
-        "median_unit_price": 15527,
-        "median_total_price": 1710000,
-        "min_unit_price": 15527,
-        "max_unit_price": 15527
-      }
-    },
-    {
       "id": "dongli-0a5547369d9e",
       "slug": "c-dongli-0a5547369d9e",
       "name": "融创城融翰园",
@@ -3790,15 +3818,15 @@
       }
     },
     {
-      "id": "dongli-bf6b619fcce1",
-      "slug": "c-dongli-bf6b619fcce1",
-      "name": "意境兰庭",
-      "submarket": "空港经济区",
+      "id": "dongli-ea96c3fcbb42",
+      "slug": "c-dongli-ea96c3fcbb42",
+      "name": "汇莲馨苑",
+      "submarket": "万新街",
       "property_use": "unknown",
       "latest": {
         "month": "2026-10",
         "status": "insufficient_sample",
-        "transaction_count": 1,
+        "transaction_count": 2,
         "source_count": 1,
         "median_unit_price": null,
         "median_total_price": null,
@@ -3809,12 +3837,12 @@
       },
       "observation": {
         "month": "2026-10",
-        "transaction_count": 1,
+        "transaction_count": 2,
         "source_count": 1,
         "median_unit_price": 15463,
-        "median_total_price": 2300000,
-        "min_unit_price": 15463,
-        "max_unit_price": 15463
+        "median_total_price": 1807573,
+        "min_unit_price": 14592,
+        "max_unit_price": 16334
       }
     },
     {
@@ -3846,31 +3874,59 @@
       }
     },
     {
-      "id": "dongli-e40660707cde",
-      "slug": "c-dongli-e40660707cde",
-      "name": "时代之城",
-      "submarket": "金钟街",
+      "id": "dongli-7efbf0414294",
+      "slug": "c-dongli-7efbf0414294",
+      "name": "汇莲美苑",
+      "submarket": "万新街",
       "property_use": "unknown",
       "latest": {
-        "month": "2026-09",
-        "status": "published",
-        "transaction_count": 3,
+        "month": "2026-10",
+        "status": "insufficient_sample",
+        "transaction_count": 2,
         "source_count": 1,
-        "median_unit_price": 15314,
-        "median_total_price": 1370000,
-        "p25_unit_price": 8848,
-        "p75_unit_price": 16833,
+        "median_unit_price": null,
+        "median_total_price": null,
+        "p25_unit_price": null,
+        "p75_unit_price": null,
         "mom_pct": null,
         "yoy_pct": null
       },
       "observation": {
-        "month": "2026-09",
-        "transaction_count": 3,
+        "month": "2026-10",
+        "transaction_count": 2,
         "source_count": 1,
-        "median_unit_price": 15314,
-        "median_total_price": 1370000,
-        "min_unit_price": 2381,
-        "max_unit_price": 18352
+        "median_unit_price": 15342,
+        "median_total_price": 1630000,
+        "min_unit_price": 14965,
+        "max_unit_price": 15718
+      }
+    },
+    {
+      "id": "dongli-bf6b619fcce1",
+      "slug": "c-dongli-bf6b619fcce1",
+      "name": "意境兰庭",
+      "submarket": "空港经济区",
+      "property_use": "unknown",
+      "latest": {
+        "month": "2026-10",
+        "status": "insufficient_sample",
+        "transaction_count": 2,
+        "source_count": 1,
+        "median_unit_price": null,
+        "median_total_price": null,
+        "p25_unit_price": null,
+        "p75_unit_price": null,
+        "mom_pct": null,
+        "yoy_pct": null
+      },
+      "observation": {
+        "month": "2026-10",
+        "transaction_count": 2,
+        "source_count": 1,
+        "median_unit_price": 15185,
+        "median_total_price": 1792500,
+        "min_unit_price": 14907,
+        "max_unit_price": 15463
       }
     },
     {
@@ -3902,15 +3958,15 @@
       }
     },
     {
-      "id": "dongli-7efbf0414294",
-      "slug": "c-dongli-7efbf0414294",
-      "name": "汇莲美苑",
-      "submarket": "万新街",
+      "id": "dongli-b04b46580565",
+      "slug": "c-dongli-b04b46580565",
+      "name": "中国铁建桥馨苑",
+      "submarket": "空港经济区",
       "property_use": "unknown",
       "latest": {
-        "month": "2026-09",
+        "month": "2026-10",
         "status": "insufficient_sample",
-        "transaction_count": 1,
+        "transaction_count": 2,
         "source_count": 1,
         "median_unit_price": null,
         "median_total_price": null,
@@ -3920,41 +3976,13 @@
         "yoy_pct": null
       },
       "observation": {
-        "month": "2026-09",
-        "transaction_count": 1,
+        "month": "2026-10",
+        "transaction_count": 2,
         "source_count": 1,
-        "median_unit_price": 14931,
-        "median_total_price": 1720000,
-        "min_unit_price": 14931,
-        "max_unit_price": 14931
-      }
-    },
-    {
-      "id": "dongli-3da80a47bbe1",
-      "slug": "c-dongli-3da80a47bbe1",
-      "name": "天津彪景欣苑",
-      "submarket": "张贵庄",
-      "property_use": "unknown",
-      "latest": {
-        "month": "2026-06",
-        "status": "insufficient_sample",
-        "transaction_count": 1,
-        "source_count": 1,
-        "median_unit_price": null,
-        "median_total_price": null,
-        "p25_unit_price": null,
-        "p75_unit_price": null,
-        "mom_pct": null,
-        "yoy_pct": null
-      },
-      "observation": {
-        "month": "2026-06",
-        "transaction_count": 1,
-        "source_count": 1,
-        "median_unit_price": 14919,
-        "median_total_price": 1325000,
-        "min_unit_price": 14919,
-        "max_unit_price": 14919
+        "median_unit_price": 14853,
+        "median_total_price": 1480000,
+        "min_unit_price": 14502,
+        "max_unit_price": 15204
       }
     },
     {
@@ -4014,62 +4042,6 @@
       }
     },
     {
-      "id": "dongli-ea96c3fcbb42",
-      "slug": "c-dongli-ea96c3fcbb42",
-      "name": "汇莲馨苑",
-      "submarket": "万新街",
-      "property_use": "unknown",
-      "latest": {
-        "month": "2026-10",
-        "status": "insufficient_sample",
-        "transaction_count": 1,
-        "source_count": 1,
-        "median_unit_price": null,
-        "median_total_price": null,
-        "p25_unit_price": null,
-        "p75_unit_price": null,
-        "mom_pct": null,
-        "yoy_pct": null
-      },
-      "observation": {
-        "month": "2026-10",
-        "transaction_count": 1,
-        "source_count": 1,
-        "median_unit_price": 14592,
-        "median_total_price": 1415146,
-        "min_unit_price": 14592,
-        "max_unit_price": 14592
-      }
-    },
-    {
-      "id": "dongli-b04b46580565",
-      "slug": "c-dongli-b04b46580565",
-      "name": "中国铁建桥馨苑",
-      "submarket": "空港经济区",
-      "property_use": "unknown",
-      "latest": {
-        "month": "2026-10",
-        "status": "insufficient_sample",
-        "transaction_count": 1,
-        "source_count": 1,
-        "median_unit_price": null,
-        "median_total_price": null,
-        "p25_unit_price": null,
-        "p75_unit_price": null,
-        "mom_pct": null,
-        "yoy_pct": null
-      },
-      "observation": {
-        "month": "2026-10",
-        "transaction_count": 1,
-        "source_count": 1,
-        "median_unit_price": 14502,
-        "median_total_price": 1350000,
-        "min_unit_price": 14502,
-        "max_unit_price": 14502
-      }
-    },
-    {
       "id": "dongli-70c3502baf0a",
       "slug": "c-dongli-70c3502baf0a",
       "name": "复地温莎堡红庭",
@@ -4095,34 +4067,6 @@
         "median_total_price": 4600000,
         "min_unit_price": 14473,
         "max_unit_price": 14473
-      }
-    },
-    {
-      "id": "dongli-47ff5f54a90e",
-      "slug": "c-dongli-47ff5f54a90e",
-      "name": "中建新丽壹号",
-      "submarket": "新立街",
-      "property_use": "unknown",
-      "latest": {
-        "month": "2026-09",
-        "status": "published",
-        "transaction_count": 4,
-        "source_count": 1,
-        "median_unit_price": 14373,
-        "median_total_price": 1333000,
-        "p25_unit_price": 13969,
-        "p75_unit_price": 14848,
-        "mom_pct": null,
-        "yoy_pct": null
-      },
-      "observation": {
-        "month": "2026-09",
-        "transaction_count": 4,
-        "source_count": 1,
-        "median_unit_price": 14373,
-        "median_total_price": 1333000,
-        "min_unit_price": 13761,
-        "max_unit_price": 15267
       }
     },
     {
@@ -4266,6 +4210,34 @@
       }
     },
     {
+      "id": "dongli-5a467defe0ea",
+      "slug": "c-dongli-5a467defe0ea",
+      "name": "城东春晓雅郡和园",
+      "submarket": "金钟街",
+      "property_use": "unknown",
+      "latest": {
+        "month": "2026-10",
+        "status": "insufficient_sample",
+        "transaction_count": 1,
+        "source_count": 1,
+        "median_unit_price": null,
+        "median_total_price": null,
+        "p25_unit_price": null,
+        "p75_unit_price": null,
+        "mom_pct": null,
+        "yoy_pct": null
+      },
+      "observation": {
+        "month": "2026-10",
+        "transaction_count": 1,
+        "source_count": 1,
+        "median_unit_price": 14105,
+        "median_total_price": 1495000,
+        "min_unit_price": 14105,
+        "max_unit_price": 14105
+      }
+    },
+    {
       "id": "dongli-59df426f47f3",
       "slug": "c-dongli-59df426f47f3",
       "name": "复地林与里玖邻花园",
@@ -4294,38 +4266,10 @@
       }
     },
     {
-      "id": "dongli-76a128a43bb6",
-      "slug": "c-dongli-76a128a43bb6",
-      "name": "万科东郡",
-      "submarket": "万新街",
-      "property_use": "unknown",
-      "latest": {
-        "month": "2026-04",
-        "status": "insufficient_sample",
-        "transaction_count": 2,
-        "source_count": 1,
-        "median_unit_price": null,
-        "median_total_price": null,
-        "p25_unit_price": null,
-        "p75_unit_price": null,
-        "mom_pct": null,
-        "yoy_pct": null
-      },
-      "observation": {
-        "month": "2026-04",
-        "transaction_count": 2,
-        "source_count": 1,
-        "median_unit_price": 13979,
-        "median_total_price": 1389000,
-        "min_unit_price": 12734,
-        "max_unit_price": 15224
-      }
-    },
-    {
-      "id": "dongli-76c994bc3a87",
-      "slug": "c-dongli-76c994bc3a87",
-      "name": "润景家园",
-      "submarket": "万新街",
+      "id": "dongli-10e79dac5f0c",
+      "slug": "c-dongli-10e79dac5f0c",
+      "name": "百郦荣锦苑",
+      "submarket": "新立街",
       "property_use": "unknown",
       "latest": {
         "month": "2026-10",
@@ -4343,10 +4287,10 @@
         "month": "2026-10",
         "transaction_count": 1,
         "source_count": 1,
-        "median_unit_price": 13776,
-        "median_total_price": 1600000,
-        "min_unit_price": 13776,
-        "max_unit_price": 13776
+        "median_unit_price": 13961,
+        "median_total_price": 1150000,
+        "min_unit_price": 13961,
+        "max_unit_price": 13961
       }
     },
     {
@@ -4434,6 +4378,34 @@
       }
     },
     {
+      "id": "dongli-47ff5f54a90e",
+      "slug": "c-dongli-47ff5f54a90e",
+      "name": "中建新丽壹号",
+      "submarket": "新立街",
+      "property_use": "unknown",
+      "latest": {
+        "month": "2026-10",
+        "status": "insufficient_sample",
+        "transaction_count": 1,
+        "source_count": 1,
+        "median_unit_price": null,
+        "median_total_price": null,
+        "p25_unit_price": null,
+        "p75_unit_price": null,
+        "mom_pct": null,
+        "yoy_pct": null
+      },
+      "observation": {
+        "month": "2026-10",
+        "transaction_count": 1,
+        "source_count": 1,
+        "median_unit_price": 13229,
+        "median_total_price": 1105000,
+        "min_unit_price": 13229,
+        "max_unit_price": 13229
+      }
+    },
+    {
       "id": "dongli-b6348faecb2f",
       "slug": "c-dongli-b6348faecb2f",
       "name": "万科金色雅筑南苑",
@@ -4462,10 +4434,38 @@
       }
     },
     {
-      "id": "dongli-67121bd487f4",
-      "slug": "c-dongli-67121bd487f4",
-      "name": "万科金色雅筑北苑",
+      "id": "dongli-76c994bc3a87",
+      "slug": "c-dongli-76c994bc3a87",
+      "name": "润景家园",
       "submarket": "万新街",
+      "property_use": "unknown",
+      "latest": {
+        "month": "2026-10",
+        "status": "insufficient_sample",
+        "transaction_count": 2,
+        "source_count": 1,
+        "median_unit_price": null,
+        "median_total_price": null,
+        "p25_unit_price": null,
+        "p75_unit_price": null,
+        "mom_pct": null,
+        "yoy_pct": null
+      },
+      "observation": {
+        "month": "2026-10",
+        "transaction_count": 2,
+        "source_count": 1,
+        "median_unit_price": 13202,
+        "median_total_price": 1680000,
+        "min_unit_price": 12627,
+        "max_unit_price": 13776
+      }
+    },
+    {
+      "id": "dongli-e6cde0852381",
+      "slug": "c-dongli-e6cde0852381",
+      "name": "复地悦诚花园",
+      "submarket": "空港经济区",
       "property_use": "unknown",
       "latest": {
         "month": "2026-10",
@@ -4483,10 +4483,10 @@
         "month": "2026-10",
         "transaction_count": 1,
         "source_count": 1,
-        "median_unit_price": 13186,
-        "median_total_price": 1170000,
-        "min_unit_price": 13186,
-        "max_unit_price": 13186
+        "median_unit_price": 13162,
+        "median_total_price": 1610000,
+        "min_unit_price": 13162,
+        "max_unit_price": 13162
       }
     },
     {
@@ -4515,34 +4515,6 @@
         "median_total_price": 1200000,
         "min_unit_price": 13135,
         "max_unit_price": 13135
-      }
-    },
-    {
-      "id": "dongli-e6cde0852381",
-      "slug": "c-dongli-e6cde0852381",
-      "name": "复地悦诚花园",
-      "submarket": "空港经济区",
-      "property_use": "unknown",
-      "latest": {
-        "month": "2026-09",
-        "status": "published",
-        "transaction_count": 3,
-        "source_count": 1,
-        "median_unit_price": 13093,
-        "median_total_price": 1360000,
-        "p25_unit_price": 12486,
-        "p75_unit_price": 13826,
-        "mom_pct": null,
-        "yoy_pct": null
-      },
-      "observation": {
-        "month": "2026-09",
-        "transaction_count": 3,
-        "source_count": 1,
-        "median_unit_price": 13093,
-        "median_total_price": 1360000,
-        "min_unit_price": 11879,
-        "max_unit_price": 14559
       }
     },
     {
@@ -4580,35 +4552,7 @@
       "submarket": "华明镇",
       "property_use": "unknown",
       "latest": {
-        "month": "2026-07",
-        "status": "insufficient_sample",
-        "transaction_count": 2,
-        "source_count": 1,
-        "median_unit_price": null,
-        "median_total_price": null,
-        "p25_unit_price": null,
-        "p75_unit_price": null,
-        "mom_pct": null,
-        "yoy_pct": null
-      },
-      "observation": {
-        "month": "2026-07",
-        "transaction_count": 2,
-        "source_count": 1,
-        "median_unit_price": 13079,
-        "median_total_price": 1335000,
-        "min_unit_price": 13011,
-        "max_unit_price": 13147
-      }
-    },
-    {
-      "id": "dongli-e974c0f34b13",
-      "slug": "c-dongli-e974c0f34b13",
-      "name": "俊景苑",
-      "submarket": "张贵庄",
-      "property_use": "unknown",
-      "latest": {
-        "month": "2026-07",
+        "month": "2026-10",
         "status": "insufficient_sample",
         "transaction_count": 1,
         "source_count": 1,
@@ -4620,41 +4564,13 @@
         "yoy_pct": null
       },
       "observation": {
-        "month": "2026-07",
+        "month": "2026-10",
         "transaction_count": 1,
         "source_count": 1,
-        "median_unit_price": 13033,
-        "median_total_price": 1460000,
-        "min_unit_price": 13033,
-        "max_unit_price": 13033
-      }
-    },
-    {
-      "id": "dongli-fcaf292a8f86",
-      "slug": "c-dongli-fcaf292a8f86",
-      "name": "万科新里程家园",
-      "submarket": "空港经济区",
-      "property_use": "unknown",
-      "latest": {
-        "month": "2026-09",
-        "status": "insufficient_sample",
-        "transaction_count": 1,
-        "source_count": 1,
-        "median_unit_price": null,
-        "median_total_price": null,
-        "p25_unit_price": null,
-        "p75_unit_price": null,
-        "mom_pct": null,
-        "yoy_pct": null
-      },
-      "observation": {
-        "month": "2026-09",
-        "transaction_count": 1,
-        "source_count": 1,
-        "median_unit_price": 12977,
-        "median_total_price": 745000,
-        "min_unit_price": 12977,
-        "max_unit_price": 12977
+        "median_unit_price": 13005,
+        "median_total_price": 1300000,
+        "min_unit_price": 13005,
+        "max_unit_price": 13005
       }
     },
     {
@@ -4714,15 +4630,15 @@
       }
     },
     {
-      "id": "dongli-7d3cdcdf2711",
-      "slug": "c-dongli-7d3cdcdf2711",
-      "name": "远洋新干线",
+      "id": "dongli-fcaf292a8f86",
+      "slug": "c-dongli-fcaf292a8f86",
+      "name": "万科新里程家园",
       "submarket": "空港经济区",
       "property_use": "unknown",
       "latest": {
         "month": "2026-10",
         "status": "insufficient_sample",
-        "transaction_count": 2,
+        "transaction_count": 1,
         "source_count": 1,
         "median_unit_price": null,
         "median_total_price": null,
@@ -4733,12 +4649,68 @@
       },
       "observation": {
         "month": "2026-10",
-        "transaction_count": 2,
+        "transaction_count": 1,
         "source_count": 1,
-        "median_unit_price": 12916,
-        "median_total_price": 1125000,
-        "min_unit_price": 12360,
-        "max_unit_price": 13473
+        "median_unit_price": 12919,
+        "median_total_price": 740000,
+        "min_unit_price": 12919,
+        "max_unit_price": 12919
+      }
+    },
+    {
+      "id": "dongli-24c5af7df7a6",
+      "slug": "c-dongli-24c5af7df7a6",
+      "name": "金隅悅城嘉悦园",
+      "submarket": "万新街",
+      "property_use": "unknown",
+      "latest": {
+        "month": "2026-10",
+        "status": "insufficient_sample",
+        "transaction_count": 1,
+        "source_count": 1,
+        "median_unit_price": null,
+        "median_total_price": null,
+        "p25_unit_price": null,
+        "p75_unit_price": null,
+        "mom_pct": null,
+        "yoy_pct": null
+      },
+      "observation": {
+        "month": "2026-10",
+        "transaction_count": 1,
+        "source_count": 1,
+        "median_unit_price": 12848,
+        "median_total_price": 1200000,
+        "min_unit_price": 12848,
+        "max_unit_price": 12848
+      }
+    },
+    {
+      "id": "dongli-316be90aa825",
+      "slug": "c-dongli-316be90aa825",
+      "name": "金隅悦城嘉悦园",
+      "submarket": "万新街",
+      "property_use": "unknown",
+      "latest": {
+        "month": "2026-10",
+        "status": "insufficient_sample",
+        "transaction_count": 1,
+        "source_count": 1,
+        "median_unit_price": null,
+        "median_total_price": null,
+        "p25_unit_price": null,
+        "p75_unit_price": null,
+        "mom_pct": null,
+        "yoy_pct": null
+      },
+      "observation": {
+        "month": "2026-10",
+        "transaction_count": 1,
+        "source_count": 1,
+        "median_unit_price": 12848,
+        "median_total_price": 1200000,
+        "min_unit_price": 12848,
+        "max_unit_price": 12848
       }
     },
     {
@@ -4777,52 +4749,52 @@
       "property_use": "unknown",
       "latest": {
         "month": "2026-10",
-        "status": "insufficient_sample",
-        "transaction_count": 1,
+        "status": "published",
+        "transaction_count": 4,
         "source_count": 1,
-        "median_unit_price": null,
-        "median_total_price": null,
-        "p25_unit_price": null,
-        "p75_unit_price": null,
+        "median_unit_price": 12650,
+        "median_total_price": 1254000,
+        "p25_unit_price": 12642,
+        "p75_unit_price": 12840,
         "mom_pct": null,
         "yoy_pct": null
       },
       "observation": {
         "month": "2026-10",
-        "transaction_count": 1,
+        "transaction_count": 4,
         "source_count": 1,
-        "median_unit_price": 12657,
-        "median_total_price": 1508000,
-        "min_unit_price": 12657,
-        "max_unit_price": 12657
+        "median_unit_price": 12650,
+        "median_total_price": 1254000,
+        "min_unit_price": 12642,
+        "max_unit_price": 13387
       }
     },
     {
-      "id": "dongli-24c5af7df7a6",
-      "slug": "c-dongli-24c5af7df7a6",
-      "name": "金隅悅城嘉悦园",
-      "submarket": "万新街",
+      "id": "dongli-b8b49686b4b5",
+      "slug": "c-dongli-b8b49686b4b5",
+      "name": "中国铁建·花语尚东",
+      "submarket": "金钟街",
       "property_use": "unknown",
       "latest": {
-        "month": "2026-09",
-        "status": "insufficient_sample",
-        "transaction_count": 2,
+        "month": "2026-10",
+        "status": "published",
+        "transaction_count": 4,
         "source_count": 1,
-        "median_unit_price": null,
-        "median_total_price": null,
-        "p25_unit_price": null,
-        "p75_unit_price": null,
+        "median_unit_price": 12505,
+        "median_total_price": 1069000,
+        "p25_unit_price": 12043,
+        "p75_unit_price": 13197,
         "mom_pct": null,
         "yoy_pct": null
       },
       "observation": {
-        "month": "2026-09",
-        "transaction_count": 2,
+        "month": "2026-10",
+        "transaction_count": 4,
         "source_count": 1,
-        "median_unit_price": 12491,
-        "median_total_price": 1164000,
-        "min_unit_price": 12027,
-        "max_unit_price": 12955
+        "median_unit_price": 12505,
+        "median_total_price": 1069000,
+        "min_unit_price": 11494,
+        "max_unit_price": 14436
       }
     },
     {
@@ -4882,62 +4854,6 @@
       }
     },
     {
-      "id": "dongli-a4e55f33ba21",
-      "slug": "c-dongli-a4e55f33ba21",
-      "name": "融湖景苑",
-      "submarket": "东丽湖",
-      "property_use": "unknown",
-      "latest": {
-        "month": "2026-09",
-        "status": "published",
-        "transaction_count": 3,
-        "source_count": 1,
-        "median_unit_price": 12394,
-        "median_total_price": 1588000,
-        "p25_unit_price": 10374,
-        "p75_unit_price": 12449,
-        "mom_pct": null,
-        "yoy_pct": null
-      },
-      "observation": {
-        "month": "2026-09",
-        "transaction_count": 3,
-        "source_count": 1,
-        "median_unit_price": 12394,
-        "median_total_price": 1588000,
-        "min_unit_price": 8353,
-        "max_unit_price": 12504
-      }
-    },
-    {
-      "id": "dongli-d9ceb4e08b5c",
-      "slug": "c-dongli-d9ceb4e08b5c",
-      "name": "万科魅力之城兰雅苑",
-      "submarket": "新立街",
-      "property_use": "unknown",
-      "latest": {
-        "month": "2026-09",
-        "status": "insufficient_sample",
-        "transaction_count": 2,
-        "source_count": 1,
-        "median_unit_price": null,
-        "median_total_price": null,
-        "p25_unit_price": null,
-        "p75_unit_price": null,
-        "mom_pct": null,
-        "yoy_pct": null
-      },
-      "observation": {
-        "month": "2026-09",
-        "transaction_count": 2,
-        "source_count": 1,
-        "median_unit_price": 12353,
-        "median_total_price": 1240000,
-        "min_unit_price": 11855,
-        "max_unit_price": 12851
-      }
-    },
-    {
       "id": "dongli-a7ad73c6140b",
       "slug": "c-dongli-a7ad73c6140b",
       "name": "融创城融丹园",
@@ -4994,6 +4910,62 @@
       }
     },
     {
+      "id": "dongli-76a128a43bb6",
+      "slug": "c-dongli-76a128a43bb6",
+      "name": "万科东郡",
+      "submarket": "万新街",
+      "property_use": "unknown",
+      "latest": {
+        "month": "2026-10",
+        "status": "insufficient_sample",
+        "transaction_count": 1,
+        "source_count": 1,
+        "median_unit_price": null,
+        "median_total_price": null,
+        "p25_unit_price": null,
+        "p75_unit_price": null,
+        "mom_pct": null,
+        "yoy_pct": null
+      },
+      "observation": {
+        "month": "2026-10",
+        "transaction_count": 1,
+        "source_count": 1,
+        "median_unit_price": 12277,
+        "median_total_price": 1230000,
+        "min_unit_price": 12277,
+        "max_unit_price": 12277
+      }
+    },
+    {
+      "id": "dongli-8ecf92c9e33f",
+      "slug": "c-dongli-8ecf92c9e33f",
+      "name": "名居花园",
+      "submarket": "空港经济区",
+      "property_use": "unknown",
+      "latest": {
+        "month": "2026-10",
+        "status": "insufficient_sample",
+        "transaction_count": 2,
+        "source_count": 1,
+        "median_unit_price": null,
+        "median_total_price": null,
+        "p25_unit_price": null,
+        "p75_unit_price": null,
+        "mom_pct": null,
+        "yoy_pct": null
+      },
+      "observation": {
+        "month": "2026-10",
+        "transaction_count": 2,
+        "source_count": 1,
+        "median_unit_price": 12246,
+        "median_total_price": 820000,
+        "min_unit_price": 11423,
+        "max_unit_price": 13069
+      }
+    },
+    {
       "id": "dongli-7e01c574e118",
       "slug": "c-dongli-7e01c574e118",
       "name": "金隅悅城雅悦园",
@@ -5022,59 +4994,31 @@
       }
     },
     {
-      "id": "dongli-10e79dac5f0c",
-      "slug": "c-dongli-10e79dac5f0c",
-      "name": "百郦荣锦苑",
-      "submarket": "新立街",
+      "id": "dongli-7d3cdcdf2711",
+      "slug": "c-dongli-7d3cdcdf2711",
+      "name": "远洋新干线",
+      "submarket": "空港经济区",
       "property_use": "unknown",
       "latest": {
-        "month": "2026-09",
-        "status": "insufficient_sample",
-        "transaction_count": 1,
-        "source_count": 1,
-        "median_unit_price": null,
-        "median_total_price": null,
-        "p25_unit_price": null,
-        "p75_unit_price": null,
-        "mom_pct": null,
-        "yoy_pct": null
-      },
-      "observation": {
-        "month": "2026-09",
-        "transaction_count": 1,
-        "source_count": 1,
-        "median_unit_price": 12159,
-        "median_total_price": 997000,
-        "min_unit_price": 12159,
-        "max_unit_price": 12159
-      }
-    },
-    {
-      "id": "dongli-24ea8620dc06",
-      "slug": "c-dongli-24ea8620dc06",
-      "name": "万科民和巷",
-      "submarket": "新立街",
-      "property_use": "unknown",
-      "latest": {
-        "month": "2026-09",
+        "month": "2026-10",
         "status": "published",
-        "transaction_count": 8,
+        "transaction_count": 4,
         "source_count": 1,
-        "median_unit_price": 12126,
-        "median_total_price": 1125000,
-        "p25_unit_price": 11705,
-        "p75_unit_price": 13063,
+        "median_unit_price": 12156,
+        "median_total_price": 1058000,
+        "p25_unit_price": 11931,
+        "p75_unit_price": 12638,
         "mom_pct": null,
         "yoy_pct": null
       },
       "observation": {
-        "month": "2026-09",
-        "transaction_count": 8,
+        "month": "2026-10",
+        "transaction_count": 4,
         "source_count": 1,
-        "median_unit_price": 12126,
-        "median_total_price": 1125000,
-        "min_unit_price": 11182,
-        "max_unit_price": 17005
+        "median_unit_price": 12156,
+        "median_total_price": 1058000,
+        "min_unit_price": 11864,
+        "max_unit_price": 13473
       }
     },
     {
@@ -5106,34 +5050,6 @@
       }
     },
     {
-      "id": "dongli-8b81d3eeade3",
-      "slug": "c-dongli-8b81d3eeade3",
-      "name": "春秀园",
-      "submarket": "万新街",
-      "property_use": "unknown",
-      "latest": {
-        "month": "2026-09",
-        "status": "insufficient_sample",
-        "transaction_count": 1,
-        "source_count": 1,
-        "median_unit_price": null,
-        "median_total_price": null,
-        "p25_unit_price": null,
-        "p75_unit_price": null,
-        "mom_pct": null,
-        "yoy_pct": null
-      },
-      "observation": {
-        "month": "2026-09",
-        "transaction_count": 1,
-        "source_count": 1,
-        "median_unit_price": 11974,
-        "median_total_price": 920000,
-        "min_unit_price": 11974,
-        "max_unit_price": 11974
-      }
-    },
-    {
       "id": "dongli-99770b569e36",
       "slug": "c-dongli-99770b569e36",
       "name": "锦绣当红上锦兰园",
@@ -5162,6 +5078,34 @@
       }
     },
     {
+      "id": "dongli-986cc9e39706",
+      "slug": "c-dongli-986cc9e39706",
+      "name": "万科新里程花园",
+      "submarket": "空港经济区",
+      "property_use": "unknown",
+      "latest": {
+        "month": "2026-10",
+        "status": "insufficient_sample",
+        "transaction_count": 2,
+        "source_count": 1,
+        "median_unit_price": null,
+        "median_total_price": null,
+        "p25_unit_price": null,
+        "p75_unit_price": null,
+        "mom_pct": null,
+        "yoy_pct": null
+      },
+      "observation": {
+        "month": "2026-10",
+        "transaction_count": 2,
+        "source_count": 1,
+        "median_unit_price": 11925,
+        "median_total_price": 1184000,
+        "min_unit_price": 11105,
+        "max_unit_price": 12745
+      }
+    },
+    {
       "id": "dongli-f41177d9da09",
       "slug": "c-dongli-f41177d9da09",
       "name": "上东金茂悦",
@@ -5187,34 +5131,6 @@
         "median_total_price": 1000000,
         "min_unit_price": 11912,
         "max_unit_price": 11912
-      }
-    },
-    {
-      "id": "dongli-b8b49686b4b5",
-      "slug": "c-dongli-b8b49686b4b5",
-      "name": "中国铁建·花语尚东",
-      "submarket": "金钟街",
-      "property_use": "unknown",
-      "latest": {
-        "month": "2026-10",
-        "status": "insufficient_sample",
-        "transaction_count": 2,
-        "source_count": 1,
-        "median_unit_price": null,
-        "median_total_price": null,
-        "p25_unit_price": null,
-        "p75_unit_price": null,
-        "mom_pct": null,
-        "yoy_pct": null
-      },
-      "observation": {
-        "month": "2026-10",
-        "transaction_count": 2,
-        "source_count": 1,
-        "median_unit_price": 11860,
-        "median_total_price": 1025500,
-        "min_unit_price": 11494,
-        "max_unit_price": 12226
       }
     },
     {
@@ -5249,7 +5165,7 @@
       "id": "dongli-5bd3e2b1f6d7",
       "slug": "c-dongli-5bd3e2b1f6d7",
       "name": "碧虹苑",
-      "submarket": "东丽湖",
+      "submarket": "湖",
       "property_use": "unknown",
       "latest": {
         "month": "2026-04",
@@ -5271,6 +5187,34 @@
         "median_total_price": 2240000,
         "min_unit_price": 11789,
         "max_unit_price": 11789
+      }
+    },
+    {
+      "id": "dongli-8d7793e026fc",
+      "slug": "c-dongli-8d7793e026fc",
+      "name": "金地·万悦城",
+      "submarket": "金钟街",
+      "property_use": "unknown",
+      "latest": {
+        "month": "2026-10",
+        "status": "insufficient_sample",
+        "transaction_count": 2,
+        "source_count": 1,
+        "median_unit_price": null,
+        "median_total_price": null,
+        "p25_unit_price": null,
+        "p75_unit_price": null,
+        "mom_pct": null,
+        "yoy_pct": null
+      },
+      "observation": {
+        "month": "2026-10",
+        "transaction_count": 2,
+        "source_count": 1,
+        "median_unit_price": 11764,
+        "median_total_price": 1051000,
+        "min_unit_price": 10887,
+        "max_unit_price": 12640
       }
     },
     {
@@ -5330,6 +5274,34 @@
       }
     },
     {
+      "id": "dongli-5227409f9daa",
+      "slug": "c-dongli-5227409f9daa",
+      "name": "保利玫瑰湾",
+      "submarket": "金钟街",
+      "property_use": "unknown",
+      "latest": {
+        "month": "2026-10",
+        "status": "published",
+        "transaction_count": 4,
+        "source_count": 1,
+        "median_unit_price": 11676,
+        "median_total_price": 1070000,
+        "p25_unit_price": 9852,
+        "p75_unit_price": 12752,
+        "mom_pct": null,
+        "yoy_pct": null
+      },
+      "observation": {
+        "month": "2026-10",
+        "transaction_count": 4,
+        "source_count": 1,
+        "median_unit_price": 11676,
+        "median_total_price": 1070000,
+        "min_unit_price": 6437,
+        "max_unit_price": 13927
+      }
+    },
+    {
       "id": "dongli-b1beecc4a228",
       "slug": "c-dongli-b1beecc4a228",
       "name": "泰欣公寓",
@@ -5355,34 +5327,6 @@
         "median_total_price": 1117000,
         "min_unit_price": 11496,
         "max_unit_price": 11496
-      }
-    },
-    {
-      "id": "dongli-60f34d5fa377",
-      "slug": "c-dongli-60f34d5fa377",
-      "name": "舒畅园",
-      "submarket": "万新街",
-      "property_use": "unknown",
-      "latest": {
-        "month": "2026-08",
-        "status": "insufficient_sample",
-        "transaction_count": 1,
-        "source_count": 1,
-        "median_unit_price": null,
-        "median_total_price": null,
-        "p25_unit_price": null,
-        "p75_unit_price": null,
-        "mom_pct": null,
-        "yoy_pct": null
-      },
-      "observation": {
-        "month": "2026-08",
-        "transaction_count": 1,
-        "source_count": 1,
-        "median_unit_price": 11481,
-        "median_total_price": 880000,
-        "min_unit_price": 11481,
-        "max_unit_price": 11481
       }
     },
     {
@@ -5414,62 +5358,6 @@
       }
     },
     {
-      "id": "dongli-316be90aa825",
-      "slug": "c-dongli-316be90aa825",
-      "name": "金隅悦城嘉悦园",
-      "submarket": "万新街",
-      "property_use": "unknown",
-      "latest": {
-        "month": "2026-08",
-        "status": "insufficient_sample",
-        "transaction_count": 1,
-        "source_count": 1,
-        "median_unit_price": null,
-        "median_total_price": null,
-        "p25_unit_price": null,
-        "p75_unit_price": null,
-        "mom_pct": null,
-        "yoy_pct": null
-      },
-      "observation": {
-        "month": "2026-08",
-        "transaction_count": 1,
-        "source_count": 1,
-        "median_unit_price": 11456,
-        "median_total_price": 1070000,
-        "min_unit_price": 11456,
-        "max_unit_price": 11456
-      }
-    },
-    {
-      "id": "dongli-8ecf92c9e33f",
-      "slug": "c-dongli-8ecf92c9e33f",
-      "name": "名居花园",
-      "submarket": "空港经济区",
-      "property_use": "unknown",
-      "latest": {
-        "month": "2026-10",
-        "status": "insufficient_sample",
-        "transaction_count": 1,
-        "source_count": 1,
-        "median_unit_price": null,
-        "median_total_price": null,
-        "p25_unit_price": null,
-        "p75_unit_price": null,
-        "mom_pct": null,
-        "yoy_pct": null
-      },
-      "observation": {
-        "month": "2026-10",
-        "transaction_count": 1,
-        "source_count": 1,
-        "median_unit_price": 11423,
-        "median_total_price": 770000,
-        "min_unit_price": 11423,
-        "max_unit_price": 11423
-      }
-    },
-    {
       "id": "dongli-18ec1f23506f",
       "slug": "c-dongli-18ec1f23506f",
       "name": "童年湖",
@@ -5498,62 +5386,6 @@
       }
     },
     {
-      "id": "dongli-1b00a0252795",
-      "slug": "c-dongli-1b00a0252795",
-      "name": "昆仑北里C区",
-      "submarket": "万新街",
-      "property_use": "unknown",
-      "latest": {
-        "month": "2026-09",
-        "status": "insufficient_sample",
-        "transaction_count": 1,
-        "source_count": 1,
-        "median_unit_price": null,
-        "median_total_price": null,
-        "p25_unit_price": null,
-        "p75_unit_price": null,
-        "mom_pct": null,
-        "yoy_pct": null
-      },
-      "observation": {
-        "month": "2026-09",
-        "transaction_count": 1,
-        "source_count": 1,
-        "median_unit_price": 11298,
-        "median_total_price": 905000,
-        "min_unit_price": 11298,
-        "max_unit_price": 11298
-      }
-    },
-    {
-      "id": "dongli-b00026db5bc6",
-      "slug": "c-dongli-b00026db5bc6",
-      "name": "香邑国际",
-      "submarket": "万新街",
-      "property_use": "unknown",
-      "latest": {
-        "month": "2026-10",
-        "status": "insufficient_sample",
-        "transaction_count": 2,
-        "source_count": 1,
-        "median_unit_price": null,
-        "median_total_price": null,
-        "p25_unit_price": null,
-        "p75_unit_price": null,
-        "mom_pct": null,
-        "yoy_pct": null
-      },
-      "observation": {
-        "month": "2026-10",
-        "transaction_count": 2,
-        "source_count": 1,
-        "median_unit_price": 11190,
-        "median_total_price": 1205000,
-        "min_unit_price": 10378,
-        "max_unit_price": 12002
-      }
-    },
-    {
       "id": "dongli-87a81f1a8da3",
       "slug": "c-dongli-87a81f1a8da3",
       "name": "金隅悦城品香苑",
@@ -5562,7 +5394,7 @@
       "latest": {
         "month": "2026-10",
         "status": "insufficient_sample",
-        "transaction_count": 1,
+        "transaction_count": 2,
         "source_count": 1,
         "median_unit_price": null,
         "median_total_price": null,
@@ -5573,12 +5405,12 @@
       },
       "observation": {
         "month": "2026-10",
-        "transaction_count": 1,
+        "transaction_count": 2,
         "source_count": 1,
-        "median_unit_price": 11183,
-        "median_total_price": 835000,
+        "median_unit_price": 11215,
+        "median_total_price": 822500,
         "min_unit_price": 11183,
-        "max_unit_price": 11183
+        "max_unit_price": 11247
       }
     },
     {
@@ -5694,34 +5526,6 @@
       }
     },
     {
-      "id": "dongli-986cc9e39706",
-      "slug": "c-dongli-986cc9e39706",
-      "name": "万科新里程花园",
-      "submarket": "空港经济区",
-      "property_use": "unknown",
-      "latest": {
-        "month": "2026-10",
-        "status": "insufficient_sample",
-        "transaction_count": 1,
-        "source_count": 1,
-        "median_unit_price": null,
-        "median_total_price": null,
-        "p25_unit_price": null,
-        "p75_unit_price": null,
-        "mom_pct": null,
-        "yoy_pct": null
-      },
-      "observation": {
-        "month": "2026-10",
-        "transaction_count": 1,
-        "source_count": 1,
-        "median_unit_price": 11105,
-        "median_total_price": 1503000,
-        "min_unit_price": 11105,
-        "max_unit_price": 11105
-      }
-    },
-    {
       "id": "dongli-7d5143e80d41",
       "slug": "c-dongli-7d5143e80d41",
       "name": "城东春晓雅郡馨园",
@@ -5775,6 +5579,62 @@
         "median_total_price": 1449976,
         "min_unit_price": 10998,
         "max_unit_price": 10998
+      }
+    },
+    {
+      "id": "dongli-e974c0f34b13",
+      "slug": "c-dongli-e974c0f34b13",
+      "name": "俊景苑",
+      "submarket": "张贵庄",
+      "property_use": "unknown",
+      "latest": {
+        "month": "2026-10",
+        "status": "insufficient_sample",
+        "transaction_count": 1,
+        "source_count": 1,
+        "median_unit_price": null,
+        "median_total_price": null,
+        "p25_unit_price": null,
+        "p75_unit_price": null,
+        "mom_pct": null,
+        "yoy_pct": null
+      },
+      "observation": {
+        "month": "2026-10",
+        "transaction_count": 1,
+        "source_count": 1,
+        "median_unit_price": 10966,
+        "median_total_price": 1228000,
+        "min_unit_price": 10966,
+        "max_unit_price": 10966
+      }
+    },
+    {
+      "id": "dongli-d9ceb4e08b5c",
+      "slug": "c-dongli-d9ceb4e08b5c",
+      "name": "万科魅力之城兰雅苑",
+      "submarket": "新立街",
+      "property_use": "unknown",
+      "latest": {
+        "month": "2026-10",
+        "status": "insufficient_sample",
+        "transaction_count": 1,
+        "source_count": 1,
+        "median_unit_price": null,
+        "median_total_price": null,
+        "p25_unit_price": null,
+        "p75_unit_price": null,
+        "mom_pct": null,
+        "yoy_pct": null
+      },
+      "observation": {
+        "month": "2026-10",
+        "transaction_count": 1,
+        "source_count": 1,
+        "median_unit_price": 10962,
+        "median_total_price": 888000,
+        "min_unit_price": 10962,
+        "max_unit_price": 10962
       }
     },
     {
@@ -5862,34 +5722,6 @@
       }
     },
     {
-      "id": "dongli-8d7793e026fc",
-      "slug": "c-dongli-8d7793e026fc",
-      "name": "金地·万悦城",
-      "submarket": "金钟街",
-      "property_use": "unknown",
-      "latest": {
-        "month": "2026-10",
-        "status": "insufficient_sample",
-        "transaction_count": 1,
-        "source_count": 1,
-        "median_unit_price": null,
-        "median_total_price": null,
-        "p25_unit_price": null,
-        "p75_unit_price": null,
-        "mom_pct": null,
-        "yoy_pct": null
-      },
-      "observation": {
-        "month": "2026-10",
-        "transaction_count": 1,
-        "source_count": 1,
-        "median_unit_price": 10887,
-        "median_total_price": 825000,
-        "min_unit_price": 10887,
-        "max_unit_price": 10887
-      }
-    },
-    {
       "id": "dongli-ab0f6c548f03",
       "slug": "c-dongli-ab0f6c548f03",
       "name": "金隅悦城晟悦园",
@@ -5943,34 +5775,6 @@
         "median_total_price": 850000,
         "min_unit_price": 10856,
         "max_unit_price": 10856
-      }
-    },
-    {
-      "id": "dongli-630444c4580b",
-      "slug": "c-dongli-630444c4580b",
-      "name": "翠海佳园",
-      "submarket": "万新街",
-      "property_use": "unknown",
-      "latest": {
-        "month": "2026-10",
-        "status": "insufficient_sample",
-        "transaction_count": 1,
-        "source_count": 1,
-        "median_unit_price": null,
-        "median_total_price": null,
-        "p25_unit_price": null,
-        "p75_unit_price": null,
-        "mom_pct": null,
-        "yoy_pct": null
-      },
-      "observation": {
-        "month": "2026-10",
-        "transaction_count": 1,
-        "source_count": 1,
-        "median_unit_price": 10805,
-        "median_total_price": 1068000,
-        "min_unit_price": 10805,
-        "max_unit_price": 10805
       }
     },
     {
@@ -6030,6 +5834,34 @@
       }
     },
     {
+      "id": "dongli-630444c4580b",
+      "slug": "c-dongli-630444c4580b",
+      "name": "翠海佳园",
+      "submarket": "万新街",
+      "property_use": "unknown",
+      "latest": {
+        "month": "2026-10",
+        "status": "insufficient_sample",
+        "transaction_count": 2,
+        "source_count": 1,
+        "median_unit_price": null,
+        "median_total_price": null,
+        "p25_unit_price": null,
+        "p75_unit_price": null,
+        "mom_pct": null,
+        "yoy_pct": null
+      },
+      "observation": {
+        "month": "2026-10",
+        "transaction_count": 2,
+        "source_count": 1,
+        "median_unit_price": 10745,
+        "median_total_price": 1049000,
+        "min_unit_price": 10685,
+        "max_unit_price": 10805
+      }
+    },
+    {
       "id": "dongli-2bb5ba4de32b",
       "slug": "c-dongli-2bb5ba4de32b",
       "name": "金隅悅城茗香苑",
@@ -6083,6 +5915,34 @@
         "median_total_price": 1340000,
         "min_unit_price": 10519,
         "max_unit_price": 11411
+      }
+    },
+    {
+      "id": "dongli-8b81d3eeade3",
+      "slug": "c-dongli-8b81d3eeade3",
+      "name": "春秀园",
+      "submarket": "万新街",
+      "property_use": "unknown",
+      "latest": {
+        "month": "2026-10",
+        "status": "insufficient_sample",
+        "transaction_count": 1,
+        "source_count": 1,
+        "median_unit_price": null,
+        "median_total_price": null,
+        "p25_unit_price": null,
+        "p75_unit_price": null,
+        "mom_pct": null,
+        "yoy_pct": null
+      },
+      "observation": {
+        "month": "2026-10",
+        "transaction_count": 1,
+        "source_count": 1,
+        "median_unit_price": 10715,
+        "median_total_price": 740000,
+        "min_unit_price": 10715,
+        "max_unit_price": 10715
       }
     },
     {
@@ -6170,13 +6030,13 @@
       }
     },
     {
-      "id": "dongli-5a467defe0ea",
-      "slug": "c-dongli-5a467defe0ea",
-      "name": "城东春晓雅郡和园",
-      "submarket": "金钟街",
+      "id": "dongli-1b00a0252795",
+      "slug": "c-dongli-1b00a0252795",
+      "name": "昆仑北里C区",
+      "submarket": "万新街",
       "property_use": "unknown",
       "latest": {
-        "month": "2026-09",
+        "month": "2026-10",
         "status": "insufficient_sample",
         "transaction_count": 1,
         "source_count": 1,
@@ -6188,13 +6048,13 @@
         "yoy_pct": null
       },
       "observation": {
-        "month": "2026-09",
+        "month": "2026-10",
         "transaction_count": 1,
         "source_count": 1,
-        "median_unit_price": 10595,
-        "median_total_price": 915000,
-        "min_unit_price": 10595,
-        "max_unit_price": 10595
+        "median_unit_price": 10600,
+        "median_total_price": 825000,
+        "min_unit_price": 10600,
+        "max_unit_price": 10600
       }
     },
     {
@@ -6338,6 +6198,34 @@
       }
     },
     {
+      "id": "dongli-b00026db5bc6",
+      "slug": "c-dongli-b00026db5bc6",
+      "name": "香邑国际",
+      "submarket": "万新街",
+      "property_use": "unknown",
+      "latest": {
+        "month": "2026-10",
+        "status": "published",
+        "transaction_count": 4,
+        "source_count": 1,
+        "median_unit_price": 10476,
+        "median_total_price": 1002500,
+        "p25_unit_price": 10185,
+        "p75_unit_price": 10930,
+        "mom_pct": null,
+        "yoy_pct": null
+      },
+      "observation": {
+        "month": "2026-10",
+        "transaction_count": 4,
+        "source_count": 1,
+        "median_unit_price": 10476,
+        "median_total_price": 1002500,
+        "min_unit_price": 9607,
+        "max_unit_price": 12002
+      }
+    },
+    {
       "id": "dongli-bba969dd6bbb",
       "slug": "c-dongli-bba969dd6bbb",
       "name": "舒畅欣园",
@@ -6366,15 +6254,15 @@
       }
     },
     {
-      "id": "dongli-ab82c868d8ec",
-      "slug": "c-dongli-ab82c868d8ec",
-      "name": "昆仑里(东丽区)",
+      "id": "dongli-d5a17aed7ed9",
+      "slug": "c-dongli-d5a17aed7ed9",
+      "name": "嘉春园",
       "submarket": "万新街",
       "property_use": "unknown",
       "latest": {
-        "month": "2026-09",
+        "month": "2026-10",
         "status": "insufficient_sample",
-        "transaction_count": 1,
+        "transaction_count": 2,
         "source_count": 1,
         "median_unit_price": null,
         "median_total_price": null,
@@ -6384,13 +6272,13 @@
         "yoy_pct": null
       },
       "observation": {
-        "month": "2026-09",
-        "transaction_count": 1,
+        "month": "2026-10",
+        "transaction_count": 2,
         "source_count": 1,
-        "median_unit_price": 10468,
-        "median_total_price": 400000,
-        "min_unit_price": 10468,
-        "max_unit_price": 10468
+        "median_unit_price": 10440,
+        "median_total_price": 1175000,
+        "min_unit_price": 9310,
+        "max_unit_price": 11569
       }
     },
     {
@@ -6450,34 +6338,6 @@
       }
     },
     {
-      "id": "dongli-d826408fe86b",
-      "slug": "c-dongli-d826408fe86b",
-      "name": "金隅金玉府",
-      "submarket": "金钟街",
-      "property_use": "unknown",
-      "latest": {
-        "month": "2026-10",
-        "status": "insufficient_sample",
-        "transaction_count": 1,
-        "source_count": 1,
-        "median_unit_price": null,
-        "median_total_price": null,
-        "p25_unit_price": null,
-        "p75_unit_price": null,
-        "mom_pct": null,
-        "yoy_pct": null
-      },
-      "observation": {
-        "month": "2026-10",
-        "transaction_count": 1,
-        "source_count": 1,
-        "median_unit_price": 10349,
-        "median_total_price": 870000,
-        "min_unit_price": 10349,
-        "max_unit_price": 10349
-      }
-    },
-    {
       "id": "dongli-a606dda2d7fd",
       "slug": "c-dongli-a606dda2d7fd",
       "name": "润风家园",
@@ -6503,62 +6363,6 @@
         "median_total_price": 915000,
         "min_unit_price": 10266,
         "max_unit_price": 10266
-      }
-    },
-    {
-      "id": "dongli-5dd025e5188f",
-      "slug": "c-dongli-5dd025e5188f",
-      "name": "万科金域华府C区",
-      "submarket": "新立街",
-      "property_use": "unknown",
-      "latest": {
-        "month": "2026-10",
-        "status": "insufficient_sample",
-        "transaction_count": 2,
-        "source_count": 1,
-        "median_unit_price": null,
-        "median_total_price": null,
-        "p25_unit_price": null,
-        "p75_unit_price": null,
-        "mom_pct": null,
-        "yoy_pct": null
-      },
-      "observation": {
-        "month": "2026-10",
-        "transaction_count": 2,
-        "source_count": 1,
-        "median_unit_price": 10228,
-        "median_total_price": 935000,
-        "min_unit_price": 9216,
-        "max_unit_price": 11241
-      }
-    },
-    {
-      "id": "dongli-5227409f9daa",
-      "slug": "c-dongli-5227409f9daa",
-      "name": "保利玫瑰湾",
-      "submarket": "金钟街",
-      "property_use": "unknown",
-      "latest": {
-        "month": "2026-10",
-        "status": "insufficient_sample",
-        "transaction_count": 2,
-        "source_count": 1,
-        "median_unit_price": null,
-        "median_total_price": null,
-        "p25_unit_price": null,
-        "p75_unit_price": null,
-        "mom_pct": null,
-        "yoy_pct": null
-      },
-      "observation": {
-        "month": "2026-10",
-        "transaction_count": 2,
-        "source_count": 1,
-        "median_unit_price": 10182,
-        "median_total_price": 832000,
-        "min_unit_price": 6437,
-        "max_unit_price": 13927
       }
     },
     {
@@ -6618,6 +6422,62 @@
       }
     },
     {
+      "id": "dongli-60f34d5fa377",
+      "slug": "c-dongli-60f34d5fa377",
+      "name": "舒畅园",
+      "submarket": "万新街",
+      "property_use": "unknown",
+      "latest": {
+        "month": "2026-10",
+        "status": "insufficient_sample",
+        "transaction_count": 1,
+        "source_count": 1,
+        "median_unit_price": null,
+        "median_total_price": null,
+        "p25_unit_price": null,
+        "p75_unit_price": null,
+        "mom_pct": null,
+        "yoy_pct": null
+      },
+      "observation": {
+        "month": "2026-10",
+        "transaction_count": 1,
+        "source_count": 1,
+        "median_unit_price": 10088,
+        "median_total_price": 795000,
+        "min_unit_price": 10088,
+        "max_unit_price": 10088
+      }
+    },
+    {
+      "id": "dongli-d826408fe86b",
+      "slug": "c-dongli-d826408fe86b",
+      "name": "金隅金玉府",
+      "submarket": "金钟街",
+      "property_use": "unknown",
+      "latest": {
+        "month": "2026-10",
+        "status": "insufficient_sample",
+        "transaction_count": 2,
+        "source_count": 1,
+        "median_unit_price": null,
+        "median_total_price": null,
+        "p25_unit_price": null,
+        "p75_unit_price": null,
+        "mom_pct": null,
+        "yoy_pct": null
+      },
+      "observation": {
+        "month": "2026-10",
+        "transaction_count": 2,
+        "source_count": 1,
+        "median_unit_price": 10078,
+        "median_total_price": 891000,
+        "min_unit_price": 9806,
+        "max_unit_price": 10349
+      }
+    },
+    {
       "id": "dongli-818349b914cf",
       "slug": "c-dongli-818349b914cf",
       "name": "铁城公寓北院",
@@ -6649,7 +6509,7 @@
       "id": "dongli-09143695620f",
       "slug": "c-dongli-09143695620f",
       "name": "月映苑",
-      "submarket": "东丽湖",
+      "submarket": "湖",
       "property_use": "unknown",
       "latest": {
         "month": "2026-06",
@@ -6699,34 +6559,6 @@
         "median_total_price": 440000,
         "min_unit_price": 9905,
         "max_unit_price": 9905
-      }
-    },
-    {
-      "id": "dongli-047cf978718e",
-      "slug": "c-dongli-047cf978718e",
-      "name": "雪莲东里",
-      "submarket": "万新街",
-      "property_use": "unknown",
-      "latest": {
-        "month": "2026-08",
-        "status": "published",
-        "transaction_count": 6,
-        "source_count": 1,
-        "median_unit_price": 9888,
-        "median_total_price": 947991,
-        "p25_unit_price": 8944,
-        "p75_unit_price": 10048,
-        "mom_pct": null,
-        "yoy_pct": null
-      },
-      "observation": {
-        "month": "2026-08",
-        "transaction_count": 6,
-        "source_count": 1,
-        "median_unit_price": 9888,
-        "median_total_price": 947991,
-        "min_unit_price": 8368,
-        "max_unit_price": 16002
       }
     },
     {
@@ -6786,6 +6618,34 @@
       }
     },
     {
+      "id": "dongli-9da39a3f68b7",
+      "slug": "c-dongli-9da39a3f68b7",
+      "name": "东城家园",
+      "submarket": "万新街",
+      "property_use": "unknown",
+      "latest": {
+        "month": "2026-10",
+        "status": "insufficient_sample",
+        "transaction_count": 1,
+        "source_count": 1,
+        "median_unit_price": null,
+        "median_total_price": null,
+        "p25_unit_price": null,
+        "p75_unit_price": null,
+        "mom_pct": null,
+        "yoy_pct": null
+      },
+      "observation": {
+        "month": "2026-10",
+        "transaction_count": 1,
+        "source_count": 1,
+        "median_unit_price": 9771,
+        "median_total_price": 760000,
+        "min_unit_price": 9771,
+        "max_unit_price": 9771
+      }
+    },
+    {
       "id": "dongli-fb9c31edb1f5",
       "slug": "c-dongli-fb9c31edb1f5",
       "name": "枫泽园",
@@ -6817,7 +6677,7 @@
       "id": "dongli-5c6c76738134",
       "slug": "c-dongli-5c6c76738134",
       "name": "慕澜苑",
-      "submarket": "东丽湖",
+      "submarket": "湖",
       "property_use": "unknown",
       "latest": {
         "month": "2026-04",
@@ -6870,38 +6730,10 @@
       }
     },
     {
-      "id": "dongli-6861134c0af9",
-      "slug": "c-dongli-6861134c0af9",
-      "name": "津门里",
-      "submarket": "张贵庄",
-      "property_use": "unknown",
-      "latest": {
-        "month": "2026-08",
-        "status": "insufficient_sample",
-        "transaction_count": 1,
-        "source_count": 1,
-        "median_unit_price": null,
-        "median_total_price": null,
-        "p25_unit_price": null,
-        "p75_unit_price": null,
-        "mom_pct": null,
-        "yoy_pct": null
-      },
-      "observation": {
-        "month": "2026-08",
-        "transaction_count": 1,
-        "source_count": 1,
-        "median_unit_price": 9726,
-        "median_total_price": 710000,
-        "min_unit_price": 9726,
-        "max_unit_price": 9726
-      }
-    },
-    {
       "id": "dongli-ebd20e0f540b",
       "slug": "c-dongli-ebd20e0f540b",
       "name": "夏阳溪韵",
-      "submarket": "东丽湖",
+      "submarket": "湖",
       "property_use": "unknown",
       "latest": {
         "month": "2026-10",
@@ -7038,34 +6870,6 @@
       }
     },
     {
-      "id": "dongli-378519f536c1",
-      "slug": "c-dongli-378519f536c1",
-      "name": "首创溪堤郡颂园",
-      "submarket": "华明镇",
-      "property_use": "unknown",
-      "latest": {
-        "month": "2026-10",
-        "status": "insufficient_sample",
-        "transaction_count": 1,
-        "source_count": 1,
-        "median_unit_price": null,
-        "median_total_price": null,
-        "p25_unit_price": null,
-        "p75_unit_price": null,
-        "mom_pct": null,
-        "yoy_pct": null
-      },
-      "observation": {
-        "month": "2026-10",
-        "transaction_count": 1,
-        "source_count": 1,
-        "median_unit_price": 9486,
-        "median_total_price": 1915000,
-        "min_unit_price": 9486,
-        "max_unit_price": 9486
-      }
-    },
-    {
       "id": "dongli-ab3f162c1a40",
       "slug": "c-dongli-ab3f162c1a40",
       "name": "万科金域华府D区",
@@ -7122,34 +6926,6 @@
       }
     },
     {
-      "id": "dongli-e2b73ee1b43e",
-      "slug": "c-dongli-e2b73ee1b43e",
-      "name": "畅悦华庭",
-      "submarket": "万新街",
-      "property_use": "unknown",
-      "latest": {
-        "month": "2026-10",
-        "status": "published",
-        "transaction_count": 4,
-        "source_count": 1,
-        "median_unit_price": 9438,
-        "median_total_price": 745500,
-        "p25_unit_price": 7273,
-        "p75_unit_price": 9753,
-        "mom_pct": null,
-        "yoy_pct": null
-      },
-      "observation": {
-        "month": "2026-10",
-        "transaction_count": 4,
-        "source_count": 1,
-        "median_unit_price": 9438,
-        "median_total_price": 745500,
-        "min_unit_price": 1546,
-        "max_unit_price": 9934
-      }
-    },
-    {
       "id": "dongli-2932f76432a4",
       "slug": "c-dongli-2932f76432a4",
       "name": "昆仑公寓",
@@ -7175,6 +6951,34 @@
         "median_total_price": 940000,
         "min_unit_price": 9422,
         "max_unit_price": 9422
+      }
+    },
+    {
+      "id": "dongli-e2b73ee1b43e",
+      "slug": "c-dongli-e2b73ee1b43e",
+      "name": "畅悦华庭",
+      "submarket": "万新街",
+      "property_use": "unknown",
+      "latest": {
+        "month": "2026-10",
+        "status": "published",
+        "transaction_count": 5,
+        "source_count": 1,
+        "median_unit_price": 9381,
+        "median_total_price": 870000,
+        "p25_unit_price": 9182,
+        "p75_unit_price": 9693,
+        "mom_pct": null,
+        "yoy_pct": null
+      },
+      "observation": {
+        "month": "2026-10",
+        "transaction_count": 5,
+        "source_count": 1,
+        "median_unit_price": 9381,
+        "median_total_price": 870000,
+        "min_unit_price": 1546,
+        "max_unit_price": 9934
       }
     },
     {
@@ -7262,10 +7066,10 @@
       }
     },
     {
-      "id": "dongli-d5a17aed7ed9",
-      "slug": "c-dongli-d5a17aed7ed9",
-      "name": "嘉春园",
-      "submarket": "万新街",
+      "id": "dongli-17e4e439760d",
+      "slug": "c-dongli-17e4e439760d",
+      "name": "赵沽里新苑",
+      "submarket": "金钟街",
       "property_use": "unknown",
       "latest": {
         "month": "2026-10",
@@ -7283,22 +7087,22 @@
         "month": "2026-10",
         "transaction_count": 1,
         "source_count": 1,
-        "median_unit_price": 9310,
-        "median_total_price": 920000,
-        "min_unit_price": 9310,
-        "max_unit_price": 9310
+        "median_unit_price": 9294,
+        "median_total_price": 790000,
+        "min_unit_price": 9294,
+        "max_unit_price": 9294
       }
     },
     {
-      "id": "dongli-3a78f971d228",
-      "slug": "c-dongli-3a78f971d228",
-      "name": "海晟园",
+      "id": "dongli-67121bd487f4",
+      "slug": "c-dongli-67121bd487f4",
+      "name": "万科金色雅筑北苑",
       "submarket": "万新街",
       "property_use": "unknown",
       "latest": {
-        "month": "2026-09",
+        "month": "2026-10",
         "status": "insufficient_sample",
-        "transaction_count": 1,
+        "transaction_count": 2,
         "source_count": 1,
         "median_unit_price": null,
         "median_total_price": null,
@@ -7308,13 +7112,41 @@
         "yoy_pct": null
       },
       "observation": {
-        "month": "2026-09",
-        "transaction_count": 1,
+        "month": "2026-10",
+        "transaction_count": 2,
         "source_count": 1,
-        "median_unit_price": 9268,
-        "median_total_price": 725000,
-        "min_unit_price": 9268,
-        "max_unit_price": 9268
+        "median_unit_price": 9290,
+        "median_total_price": 746000,
+        "min_unit_price": 5393,
+        "max_unit_price": 13186
+      }
+    },
+    {
+      "id": "dongli-5dd025e5188f",
+      "slug": "c-dongli-5dd025e5188f",
+      "name": "万科金域华府C区",
+      "submarket": "新立街",
+      "property_use": "unknown",
+      "latest": {
+        "month": "2026-10",
+        "status": "published",
+        "transaction_count": 3,
+        "source_count": 1,
+        "median_unit_price": 9216,
+        "median_total_price": 850000,
+        "p25_unit_price": 7838,
+        "p75_unit_price": 10228,
+        "mom_pct": null,
+        "yoy_pct": null
+      },
+      "observation": {
+        "month": "2026-10",
+        "transaction_count": 3,
+        "source_count": 1,
+        "median_unit_price": 9216,
+        "median_total_price": 850000,
+        "min_unit_price": 6459,
+        "max_unit_price": 11241
       }
     },
     {
@@ -7346,34 +7178,6 @@
       }
     },
     {
-      "id": "dongli-be7a0de37023",
-      "slug": "c-dongli-be7a0de37023",
-      "name": "大唐印象比松花园",
-      "submarket": "华明镇",
-      "property_use": "unknown",
-      "latest": {
-        "month": "2026-10",
-        "status": "insufficient_sample",
-        "transaction_count": 1,
-        "source_count": 1,
-        "median_unit_price": null,
-        "median_total_price": null,
-        "p25_unit_price": null,
-        "p75_unit_price": null,
-        "mom_pct": null,
-        "yoy_pct": null
-      },
-      "observation": {
-        "month": "2026-10",
-        "transaction_count": 1,
-        "source_count": 1,
-        "median_unit_price": 9175,
-        "median_total_price": 860000,
-        "min_unit_price": 9175,
-        "max_unit_price": 9175
-      }
-    },
-    {
       "id": "dongli-abe7e4bb7f0c",
       "slug": "c-dongli-abe7e4bb7f0c",
       "name": "华润橡树湾留润轩",
@@ -7402,6 +7206,34 @@
       }
     },
     {
+      "id": "dongli-ea571cb00b9f",
+      "slug": "c-dongli-ea571cb00b9f",
+      "name": "大唐印象唐雅苑",
+      "submarket": "华明镇",
+      "property_use": "unknown",
+      "latest": {
+        "month": "2026-10",
+        "status": "published",
+        "transaction_count": 4,
+        "source_count": 1,
+        "median_unit_price": 8970,
+        "median_total_price": 807500,
+        "p25_unit_price": 8476,
+        "p75_unit_price": 9069,
+        "mom_pct": null,
+        "yoy_pct": null
+      },
+      "observation": {
+        "month": "2026-10",
+        "transaction_count": 4,
+        "source_count": 1,
+        "median_unit_price": 8970,
+        "median_total_price": 807500,
+        "min_unit_price": 7101,
+        "max_unit_price": 9265
+      }
+    },
+    {
       "id": "dongli-b8b6e187c5c6",
       "slug": "c-dongli-b8b6e187c5c6",
       "name": "先锋公寓",
@@ -7427,34 +7259,6 @@
         "median_total_price": 810000,
         "min_unit_price": 8946,
         "max_unit_price": 8946
-      }
-    },
-    {
-      "id": "dongli-ea571cb00b9f",
-      "slug": "c-dongli-ea571cb00b9f",
-      "name": "大唐印象唐雅苑",
-      "submarket": "华明镇",
-      "property_use": "unknown",
-      "latest": {
-        "month": "2026-10",
-        "status": "published",
-        "transaction_count": 3,
-        "source_count": 1,
-        "median_unit_price": 8935,
-        "median_total_price": 825000,
-        "p25_unit_price": 8018,
-        "p75_unit_price": 9100,
-        "mom_pct": null,
-        "yoy_pct": null
-      },
-      "observation": {
-        "month": "2026-10",
-        "transaction_count": 3,
-        "source_count": 1,
-        "median_unit_price": 8935,
-        "median_total_price": 825000,
-        "min_unit_price": 7101,
-        "max_unit_price": 9265
       }
     },
     {
@@ -7514,34 +7318,6 @@
       }
     },
     {
-      "id": "dongli-81bd6836964c",
-      "slug": "c-dongli-81bd6836964c",
-      "name": "惠民里(东丽区)",
-      "submarket": "张贵庄",
-      "property_use": "unknown",
-      "latest": {
-        "month": "2026-08",
-        "status": "insufficient_sample",
-        "transaction_count": 2,
-        "source_count": 1,
-        "median_unit_price": null,
-        "median_total_price": null,
-        "p25_unit_price": null,
-        "p75_unit_price": null,
-        "mom_pct": null,
-        "yoy_pct": null
-      },
-      "observation": {
-        "month": "2026-08",
-        "transaction_count": 2,
-        "source_count": 1,
-        "median_unit_price": 8884,
-        "median_total_price": 692500,
-        "min_unit_price": 8647,
-        "max_unit_price": 9120
-      }
-    },
-    {
       "id": "dongli-a3121bd88c6a",
       "slug": "c-dongli-a3121bd88c6a",
       "name": "恒大名都馨园",
@@ -7570,38 +7346,10 @@
       }
     },
     {
-      "id": "dongli-307eb6701ec7",
-      "slug": "c-dongli-307eb6701ec7",
-      "name": "昆俞欣园",
-      "submarket": "华明镇",
-      "property_use": "unknown",
-      "latest": {
-        "month": "2026-10",
-        "status": "insufficient_sample",
-        "transaction_count": 1,
-        "source_count": 1,
-        "median_unit_price": null,
-        "median_total_price": null,
-        "p25_unit_price": null,
-        "p75_unit_price": null,
-        "mom_pct": null,
-        "yoy_pct": null
-      },
-      "observation": {
-        "month": "2026-10",
-        "transaction_count": 1,
-        "source_count": 1,
-        "median_unit_price": 8804,
-        "median_total_price": 859000,
-        "min_unit_price": 8804,
-        "max_unit_price": 8804
-      }
-    },
-    {
       "id": "dongli-e156f4967033",
       "slug": "c-dongli-e156f4967033",
       "name": "夏阳溪韻",
-      "submarket": "东丽湖",
+      "submarket": "湖",
       "property_use": "unknown",
       "latest": {
         "month": "2026-01",
@@ -7654,6 +7402,34 @@
       }
     },
     {
+      "id": "dongli-a4e55f33ba21",
+      "slug": "c-dongli-a4e55f33ba21",
+      "name": "融湖景苑",
+      "submarket": "湖",
+      "property_use": "unknown",
+      "latest": {
+        "month": "2026-10",
+        "status": "insufficient_sample",
+        "transaction_count": 2,
+        "source_count": 1,
+        "median_unit_price": null,
+        "median_total_price": null,
+        "p25_unit_price": null,
+        "p75_unit_price": null,
+        "mom_pct": null,
+        "yoy_pct": null
+      },
+      "observation": {
+        "month": "2026-10",
+        "transaction_count": 2,
+        "source_count": 1,
+        "median_unit_price": 8734,
+        "median_total_price": 900000,
+        "min_unit_price": 7543,
+        "max_unit_price": 9925
+      }
+    },
+    {
       "id": "dongli-d27431bf683f",
       "slug": "c-dongli-d27431bf683f",
       "name": "季景家园",
@@ -7679,34 +7455,6 @@
         "median_total_price": 660000,
         "min_unit_price": 7811,
         "max_unit_price": 10275
-      }
-    },
-    {
-      "id": "dongli-da3d18e10270",
-      "slug": "c-dongli-da3d18e10270",
-      "name": "振兴里",
-      "submarket": "张贵庄",
-      "property_use": "unknown",
-      "latest": {
-        "month": "2026-08",
-        "status": "insufficient_sample",
-        "transaction_count": 1,
-        "source_count": 1,
-        "median_unit_price": null,
-        "median_total_price": null,
-        "p25_unit_price": null,
-        "p75_unit_price": null,
-        "mom_pct": null,
-        "yoy_pct": null
-      },
-      "observation": {
-        "month": "2026-08",
-        "transaction_count": 1,
-        "source_count": 1,
-        "median_unit_price": 8710,
-        "median_total_price": 850000,
-        "min_unit_price": 8710,
-        "max_unit_price": 8710
       }
     },
     {
@@ -7794,6 +7542,62 @@
       }
     },
     {
+      "id": "dongli-307eb6701ec7",
+      "slug": "c-dongli-307eb6701ec7",
+      "name": "昆俞欣园",
+      "submarket": "华明镇",
+      "property_use": "unknown",
+      "latest": {
+        "month": "2026-10",
+        "status": "published",
+        "transaction_count": 4,
+        "source_count": 1,
+        "median_unit_price": 8536,
+        "median_total_price": 836000,
+        "p25_unit_price": 8116,
+        "p75_unit_price": 9068,
+        "mom_pct": null,
+        "yoy_pct": null
+      },
+      "observation": {
+        "month": "2026-10",
+        "transaction_count": 4,
+        "source_count": 1,
+        "median_unit_price": 8536,
+        "median_total_price": 836000,
+        "min_unit_price": 7664,
+        "max_unit_price": 9862
+      }
+    },
+    {
+      "id": "dongli-be7a0de37023",
+      "slug": "c-dongli-be7a0de37023",
+      "name": "大唐印象比松花园",
+      "submarket": "华明镇",
+      "property_use": "unknown",
+      "latest": {
+        "month": "2026-10",
+        "status": "insufficient_sample",
+        "transaction_count": 2,
+        "source_count": 1,
+        "median_unit_price": null,
+        "median_total_price": null,
+        "p25_unit_price": null,
+        "p75_unit_price": null,
+        "mom_pct": null,
+        "yoy_pct": null
+      },
+      "observation": {
+        "month": "2026-10",
+        "transaction_count": 2,
+        "source_count": 1,
+        "median_unit_price": 8528,
+        "median_total_price": 830000,
+        "min_unit_price": 7882,
+        "max_unit_price": 9175
+      }
+    },
+    {
       "id": "dongli-f82efa43c0dc",
       "slug": "c-dongli-f82efa43c0dc",
       "name": "畅悅华庭",
@@ -7819,6 +7623,34 @@
         "median_total_price": 520000,
         "min_unit_price": 8327,
         "max_unit_price": 9850
+      }
+    },
+    {
+      "id": "dongli-ab82c868d8ec",
+      "slug": "c-dongli-ab82c868d8ec",
+      "name": "昆仑里(东丽区)",
+      "submarket": "万新街",
+      "property_use": "unknown",
+      "latest": {
+        "month": "2026-10",
+        "status": "insufficient_sample",
+        "transaction_count": 1,
+        "source_count": 1,
+        "median_unit_price": null,
+        "median_total_price": null,
+        "p25_unit_price": null,
+        "p75_unit_price": null,
+        "mom_pct": null,
+        "yoy_pct": null
+      },
+      "observation": {
+        "month": "2026-10",
+        "transaction_count": 1,
+        "source_count": 1,
+        "median_unit_price": 8486,
+        "median_total_price": 500000,
+        "min_unit_price": 8486,
+        "max_unit_price": 8486
       }
     },
     {
@@ -7962,6 +7794,34 @@
       }
     },
     {
+      "id": "dongli-0ae51a0d7664",
+      "slug": "c-dongli-0ae51a0d7664",
+      "name": "欣圆小区",
+      "submarket": "万新街",
+      "property_use": "unknown",
+      "latest": {
+        "month": "2026-10",
+        "status": "insufficient_sample",
+        "transaction_count": 1,
+        "source_count": 1,
+        "median_unit_price": null,
+        "median_total_price": null,
+        "p25_unit_price": null,
+        "p75_unit_price": null,
+        "mom_pct": null,
+        "yoy_pct": null
+      },
+      "observation": {
+        "month": "2026-10",
+        "transaction_count": 1,
+        "source_count": 1,
+        "median_unit_price": 8241,
+        "median_total_price": 740000,
+        "min_unit_price": 8241,
+        "max_unit_price": 8241
+      }
+    },
+    {
       "id": "dongli-64efcff51d31",
       "slug": "c-dongli-64efcff51d31",
       "name": "天铁公寓",
@@ -8102,6 +7962,34 @@
       }
     },
     {
+      "id": "dongli-047cf978718e",
+      "slug": "c-dongli-047cf978718e",
+      "name": "雪莲东里",
+      "submarket": "万新街",
+      "property_use": "unknown",
+      "latest": {
+        "month": "2026-10",
+        "status": "insufficient_sample",
+        "transaction_count": 1,
+        "source_count": 1,
+        "median_unit_price": null,
+        "median_total_price": null,
+        "p25_unit_price": null,
+        "p75_unit_price": null,
+        "mom_pct": null,
+        "yoy_pct": null
+      },
+      "observation": {
+        "month": "2026-10",
+        "transaction_count": 1,
+        "source_count": 1,
+        "median_unit_price": 8087,
+        "median_total_price": 610000,
+        "min_unit_price": 8087,
+        "max_unit_price": 8087
+      }
+    },
+    {
       "id": "dongli-28d5b9655dc2",
       "slug": "c-dongli-28d5b9655dc2",
       "name": "首创溪堤郡景园",
@@ -8161,7 +8049,7 @@
       "id": "dongli-dd46fa3c4e58",
       "slug": "c-dongli-dd46fa3c4e58",
       "name": "融澜景苑",
-      "submarket": "东丽湖",
+      "submarket": "湖",
       "property_use": "unknown",
       "latest": {
         "month": "2026-04",
@@ -8211,62 +8099,6 @@
         "median_total_price": 636000,
         "min_unit_price": 7973,
         "max_unit_price": 7973
-      }
-    },
-    {
-      "id": "dongli-8470c8a58922",
-      "slug": "c-dongli-8470c8a58922",
-      "name": "华润橡树湾茗润轩",
-      "submarket": "华明镇",
-      "property_use": "unknown",
-      "latest": {
-        "month": "2026-10",
-        "status": "insufficient_sample",
-        "transaction_count": 1,
-        "source_count": 1,
-        "median_unit_price": null,
-        "median_total_price": null,
-        "p25_unit_price": null,
-        "p75_unit_price": null,
-        "mom_pct": null,
-        "yoy_pct": null
-      },
-      "observation": {
-        "month": "2026-10",
-        "transaction_count": 1,
-        "source_count": 1,
-        "median_unit_price": 7929,
-        "median_total_price": 637000,
-        "min_unit_price": 7929,
-        "max_unit_price": 7929
-      }
-    },
-    {
-      "id": "dongli-9764357899c6",
-      "slug": "c-dongli-9764357899c6",
-      "name": "明瑞园",
-      "submarket": "华明镇",
-      "property_use": "unknown",
-      "latest": {
-        "month": "2026-03",
-        "status": "insufficient_sample",
-        "transaction_count": 1,
-        "source_count": 1,
-        "median_unit_price": null,
-        "median_total_price": null,
-        "p25_unit_price": null,
-        "p75_unit_price": null,
-        "mom_pct": null,
-        "yoy_pct": null
-      },
-      "observation": {
-        "month": "2026-03",
-        "transaction_count": 1,
-        "source_count": 1,
-        "median_unit_price": 7880,
-        "median_total_price": 710000,
-        "min_unit_price": 7880,
-        "max_unit_price": 7880
       }
     },
     {
@@ -8326,31 +8158,31 @@
       }
     },
     {
-      "id": "dongli-9da39a3f68b7",
-      "slug": "c-dongli-9da39a3f68b7",
-      "name": "东城家园",
-      "submarket": "万新街",
+      "id": "dongli-12c5f9302228",
+      "slug": "c-dongli-12c5f9302228",
+      "name": "昆俞家园",
+      "submarket": "华明镇",
       "property_use": "unknown",
       "latest": {
-        "month": "2026-09",
+        "month": "2026-10",
         "status": "published",
         "transaction_count": 4,
         "source_count": 1,
-        "median_unit_price": 7846,
-        "median_total_price": 623000,
-        "p25_unit_price": 7099,
-        "p75_unit_price": 8449,
+        "median_unit_price": 7836,
+        "median_total_price": 604500,
+        "p25_unit_price": 7322,
+        "p75_unit_price": 8419,
         "mom_pct": null,
         "yoy_pct": null
       },
       "observation": {
-        "month": "2026-09",
+        "month": "2026-10",
         "transaction_count": 4,
         "source_count": 1,
-        "median_unit_price": 7846,
-        "median_total_price": 623000,
-        "min_unit_price": 5818,
-        "max_unit_price": 9302
+        "median_unit_price": 7836,
+        "median_total_price": 604500,
+        "min_unit_price": 6489,
+        "max_unit_price": 9464
       }
     },
     {
@@ -8497,10 +8329,10 @@
       "id": "dongli-a9de15ac1139",
       "slug": "c-dongli-a9de15ac1139",
       "name": "中建玖棠府",
-      "submarket": "东丽湖",
+      "submarket": "湖",
       "property_use": "unknown",
       "latest": {
-        "month": "2026-08",
+        "month": "2026-10",
         "status": "insufficient_sample",
         "transaction_count": 2,
         "source_count": 1,
@@ -8512,13 +8344,13 @@
         "yoy_pct": null
       },
       "observation": {
-        "month": "2026-08",
+        "month": "2026-10",
         "transaction_count": 2,
         "source_count": 1,
-        "median_unit_price": 7651,
-        "median_total_price": 831000,
-        "min_unit_price": 7452,
-        "max_unit_price": 7850
+        "median_unit_price": 7648,
+        "median_total_price": 835000,
+        "min_unit_price": 5862,
+        "max_unit_price": 9435
       }
     },
     {
@@ -8550,34 +8382,6 @@
       }
     },
     {
-      "id": "dongli-17e4e439760d",
-      "slug": "c-dongli-17e4e439760d",
-      "name": "赵沽里新苑",
-      "submarket": "金钟街",
-      "property_use": "unknown",
-      "latest": {
-        "month": "2026-09",
-        "status": "insufficient_sample",
-        "transaction_count": 2,
-        "source_count": 1,
-        "median_unit_price": null,
-        "median_total_price": null,
-        "p25_unit_price": null,
-        "p75_unit_price": null,
-        "mom_pct": null,
-        "yoy_pct": null
-      },
-      "observation": {
-        "month": "2026-09",
-        "transaction_count": 2,
-        "source_count": 1,
-        "median_unit_price": 7625,
-        "median_total_price": 570000,
-        "min_unit_price": 6624,
-        "max_unit_price": 8626
-      }
-    },
-    {
       "id": "dongli-c603f1f8509c",
       "slug": "c-dongli-c603f1f8509c",
       "name": "丽瑞华庭",
@@ -8603,6 +8407,34 @@
         "median_total_price": 700000,
         "min_unit_price": 7621,
         "max_unit_price": 7621
+      }
+    },
+    {
+      "id": "dongli-378519f536c1",
+      "slug": "c-dongli-378519f536c1",
+      "name": "首创溪堤郡颂园",
+      "submarket": "华明镇",
+      "property_use": "unknown",
+      "latest": {
+        "month": "2026-10",
+        "status": "insufficient_sample",
+        "transaction_count": 2,
+        "source_count": 1,
+        "median_unit_price": null,
+        "median_total_price": null,
+        "p25_unit_price": null,
+        "p75_unit_price": null,
+        "mom_pct": null,
+        "yoy_pct": null
+      },
+      "observation": {
+        "month": "2026-10",
+        "transaction_count": 2,
+        "source_count": 1,
+        "median_unit_price": 7619,
+        "median_total_price": 1207500,
+        "min_unit_price": 5752,
+        "max_unit_price": 9486
       }
     },
     {
@@ -8634,62 +8466,6 @@
       }
     },
     {
-      "id": "dongli-0126d0bbe5b0",
-      "slug": "c-dongli-0126d0bbe5b0",
-      "name": "海丽园",
-      "submarket": "万新街",
-      "property_use": "unknown",
-      "latest": {
-        "month": "2026-07",
-        "status": "insufficient_sample",
-        "transaction_count": 1,
-        "source_count": 1,
-        "median_unit_price": null,
-        "median_total_price": null,
-        "p25_unit_price": null,
-        "p75_unit_price": null,
-        "mom_pct": null,
-        "yoy_pct": null
-      },
-      "observation": {
-        "month": "2026-07",
-        "transaction_count": 1,
-        "source_count": 1,
-        "median_unit_price": 7602,
-        "median_total_price": 465000,
-        "min_unit_price": 7602,
-        "max_unit_price": 7602
-      }
-    },
-    {
-      "id": "dongli-12c5f9302228",
-      "slug": "c-dongli-12c5f9302228",
-      "name": "昆俞家园",
-      "submarket": "华明镇",
-      "property_use": "unknown",
-      "latest": {
-        "month": "2026-10",
-        "status": "published",
-        "transaction_count": 3,
-        "source_count": 1,
-        "median_unit_price": 7600,
-        "median_total_price": 512000,
-        "p25_unit_price": 7044,
-        "p75_unit_price": 7836,
-        "mom_pct": null,
-        "yoy_pct": null
-      },
-      "observation": {
-        "month": "2026-10",
-        "transaction_count": 3,
-        "source_count": 1,
-        "median_unit_price": 7600,
-        "median_total_price": 512000,
-        "min_unit_price": 6489,
-        "max_unit_price": 8071
-      }
-    },
-    {
       "id": "dongli-1db96dc4c928",
       "slug": "c-dongli-1db96dc4c928",
       "name": "丽晟华庭",
@@ -8715,6 +8491,34 @@
         "median_total_price": 700000,
         "min_unit_price": 7600,
         "max_unit_price": 7600
+      }
+    },
+    {
+      "id": "dongli-539b3e385e90",
+      "slug": "c-dongli-539b3e385e90",
+      "name": "汇海北里",
+      "submarket": "万新街",
+      "property_use": "unknown",
+      "latest": {
+        "month": "2026-10",
+        "status": "insufficient_sample",
+        "transaction_count": 2,
+        "source_count": 1,
+        "median_unit_price": null,
+        "median_total_price": null,
+        "p25_unit_price": null,
+        "p75_unit_price": null,
+        "mom_pct": null,
+        "yoy_pct": null
+      },
+      "observation": {
+        "month": "2026-10",
+        "transaction_count": 2,
+        "source_count": 1,
+        "median_unit_price": 7580,
+        "median_total_price": 780000,
+        "min_unit_price": 7580,
+        "max_unit_price": 7580
       }
     },
     {
@@ -8833,7 +8637,7 @@
       "id": "dongli-b03a251737cb",
       "slug": "c-dongli-b03a251737cb",
       "name": "北大资源阅府",
-      "submarket": "东丽湖",
+      "submarket": "湖",
       "property_use": "unknown",
       "latest": {
         "month": "2026-10",
@@ -9029,7 +8833,7 @@
       "id": "dongli-bd9c9acb745b",
       "slug": "c-dongli-bd9c9acb745b",
       "name": "融熙景苑",
-      "submarket": "东丽湖",
+      "submarket": "湖",
       "property_use": "unknown",
       "latest": {
         "month": "2026-09",
@@ -9054,15 +8858,15 @@
       }
     },
     {
-      "id": "dongli-267698aa2a3d",
-      "slug": "c-dongli-267698aa2a3d",
-      "name": "安居原尚园",
-      "submarket": "华明镇",
+      "id": "dongli-0126d0bbe5b0",
+      "slug": "c-dongli-0126d0bbe5b0",
+      "name": "海丽园",
+      "submarket": "万新街",
       "property_use": "unknown",
       "latest": {
         "month": "2026-10",
         "status": "insufficient_sample",
-        "transaction_count": 2,
+        "transaction_count": 1,
         "source_count": 1,
         "median_unit_price": null,
         "median_total_price": null,
@@ -9073,12 +8877,12 @@
       },
       "observation": {
         "month": "2026-10",
-        "transaction_count": 2,
+        "transaction_count": 1,
         "source_count": 1,
-        "median_unit_price": 7307,
-        "median_total_price": 705000,
-        "min_unit_price": 7106,
-        "max_unit_price": 7508
+        "median_unit_price": 7324,
+        "median_total_price": 448000,
+        "min_unit_price": 7324,
+        "max_unit_price": 7324
       }
     },
     {
@@ -9110,6 +8914,34 @@
       }
     },
     {
+      "id": "dongli-81bd6836964c",
+      "slug": "c-dongli-81bd6836964c",
+      "name": "惠民里(东丽区)",
+      "submarket": "张贵庄",
+      "property_use": "unknown",
+      "latest": {
+        "month": "2026-10",
+        "status": "insufficient_sample",
+        "transaction_count": 1,
+        "source_count": 1,
+        "median_unit_price": null,
+        "median_total_price": null,
+        "p25_unit_price": null,
+        "p75_unit_price": null,
+        "mom_pct": null,
+        "yoy_pct": null
+      },
+      "observation": {
+        "month": "2026-10",
+        "transaction_count": 1,
+        "source_count": 1,
+        "median_unit_price": 7251,
+        "median_total_price": 475000,
+        "min_unit_price": 7251,
+        "max_unit_price": 7251
+      }
+    },
+    {
       "id": "dongli-a8649b486982",
       "slug": "c-dongli-a8649b486982",
       "name": "华城庭苑",
@@ -9135,6 +8967,34 @@
         "median_total_price": 553000,
         "min_unit_price": 7205,
         "max_unit_price": 7283
+      }
+    },
+    {
+      "id": "dongli-8470c8a58922",
+      "slug": "c-dongli-8470c8a58922",
+      "name": "华润橡树湾茗润轩",
+      "submarket": "华明镇",
+      "property_use": "unknown",
+      "latest": {
+        "month": "2026-10",
+        "status": "insufficient_sample",
+        "transaction_count": 2,
+        "source_count": 1,
+        "median_unit_price": null,
+        "median_total_price": null,
+        "p25_unit_price": null,
+        "p75_unit_price": null,
+        "mom_pct": null,
+        "yoy_pct": null
+      },
+      "observation": {
+        "month": "2026-10",
+        "transaction_count": 2,
+        "source_count": 1,
+        "median_unit_price": 7234,
+        "median_total_price": 626000,
+        "min_unit_price": 6540,
+        "max_unit_price": 7929
       }
     },
     {
@@ -9197,7 +9057,7 @@
       "id": "dongli-6f946e7b4cf1",
       "slug": "c-dongli-6f946e7b4cf1",
       "name": "賞湖苑",
-      "submarket": "东丽湖",
+      "submarket": "湖",
       "property_use": "unknown",
       "latest": {
         "month": "2026-05",
@@ -9247,6 +9107,34 @@
         "median_total_price": 1007000,
         "min_unit_price": 7221,
         "max_unit_price": 7221
+      }
+    },
+    {
+      "id": "dongli-3cf7d52f1ffd",
+      "slug": "c-dongli-3cf7d52f1ffd",
+      "name": "程春里",
+      "submarket": "万新街",
+      "property_use": "unknown",
+      "latest": {
+        "month": "2026-10",
+        "status": "insufficient_sample",
+        "transaction_count": 1,
+        "source_count": 1,
+        "median_unit_price": null,
+        "median_total_price": null,
+        "p25_unit_price": null,
+        "p75_unit_price": null,
+        "mom_pct": null,
+        "yoy_pct": null
+      },
+      "observation": {
+        "month": "2026-10",
+        "transaction_count": 1,
+        "source_count": 1,
+        "median_unit_price": 7211,
+        "median_total_price": 520000,
+        "min_unit_price": 7211,
+        "max_unit_price": 7211
       }
     },
     {
@@ -9309,7 +9197,7 @@
       "id": "dongli-13a7d19cb3da",
       "slug": "c-dongli-13a7d19cb3da",
       "name": "金融街碧桂园熙湖台",
-      "submarket": "东丽湖",
+      "submarket": "湖",
       "property_use": "unknown",
       "latest": {
         "month": "2026-04",
@@ -9362,31 +9250,31 @@
       }
     },
     {
-      "id": "dongli-27a1f846f4d9",
-      "slug": "c-dongli-27a1f846f4d9",
-      "name": "阅湖苑",
-      "submarket": "东丽湖",
+      "id": "dongli-267698aa2a3d",
+      "slug": "c-dongli-267698aa2a3d",
+      "name": "安居原尚园",
+      "submarket": "华明镇",
       "property_use": "unknown",
       "latest": {
         "month": "2026-10",
-        "status": "insufficient_sample",
-        "transaction_count": 1,
+        "status": "published",
+        "transaction_count": 3,
         "source_count": 1,
-        "median_unit_price": null,
-        "median_total_price": null,
-        "p25_unit_price": null,
-        "p75_unit_price": null,
+        "median_unit_price": 7106,
+        "median_total_price": 690000,
+        "p25_unit_price": 7098,
+        "p75_unit_price": 7307,
         "mom_pct": null,
         "yoy_pct": null
       },
       "observation": {
         "month": "2026-10",
-        "transaction_count": 1,
+        "transaction_count": 3,
         "source_count": 1,
-        "median_unit_price": 7138,
-        "median_total_price": 490000,
-        "min_unit_price": 7138,
-        "max_unit_price": 7138
+        "median_unit_price": 7106,
+        "median_total_price": 690000,
+        "min_unit_price": 7091,
+        "max_unit_price": 7508
       }
     },
     {
@@ -9471,6 +9359,34 @@
         "median_total_price": 700000,
         "min_unit_price": 7057,
         "max_unit_price": 7057
+      }
+    },
+    {
+      "id": "dongli-6861134c0af9",
+      "slug": "c-dongli-6861134c0af9",
+      "name": "津门里",
+      "submarket": "张贵庄",
+      "property_use": "unknown",
+      "latest": {
+        "month": "2026-10",
+        "status": "insufficient_sample",
+        "transaction_count": 1,
+        "source_count": 1,
+        "median_unit_price": null,
+        "median_total_price": null,
+        "p25_unit_price": null,
+        "p75_unit_price": null,
+        "mom_pct": null,
+        "yoy_pct": null
+      },
+      "observation": {
+        "month": "2026-10",
+        "transaction_count": 1,
+        "source_count": 1,
+        "median_unit_price": 7047,
+        "median_total_price": 268000,
+        "min_unit_price": 7047,
+        "max_unit_price": 7047
       }
     },
     {
@@ -9589,7 +9505,7 @@
       "id": "dongli-376f884691f1",
       "slug": "c-dongli-376f884691f1",
       "name": "月荷苑",
-      "submarket": "东丽湖",
+      "submarket": "湖",
       "property_use": "unknown",
       "latest": {
         "month": "2026-03",
@@ -9701,7 +9617,7 @@
       "id": "dongli-5b7c9c1603e4",
       "slug": "c-dongli-5b7c9c1603e4",
       "name": "映湖苑",
-      "submarket": "东丽湖",
+      "submarket": "湖",
       "property_use": "unknown",
       "latest": {
         "month": "2026-10",
@@ -9838,38 +9754,10 @@
       }
     },
     {
-      "id": "dongli-3cf7d52f1ffd",
-      "slug": "c-dongli-3cf7d52f1ffd",
-      "name": "程春里",
-      "submarket": "万新街",
-      "property_use": "unknown",
-      "latest": {
-        "month": "2026-07",
-        "status": "insufficient_sample",
-        "transaction_count": 1,
-        "source_count": 1,
-        "median_unit_price": null,
-        "median_total_price": null,
-        "p25_unit_price": null,
-        "p75_unit_price": null,
-        "mom_pct": null,
-        "yoy_pct": null
-      },
-      "observation": {
-        "month": "2026-07",
-        "transaction_count": 1,
-        "source_count": 1,
-        "median_unit_price": 6709,
-        "median_total_price": 357000,
-        "min_unit_price": 6709,
-        "max_unit_price": 6709
-      }
-    },
-    {
       "id": "dongli-ce21b64bf889",
       "slug": "c-dongli-ce21b64bf889",
       "name": "天津华侨城寄涛苑",
-      "submarket": "东丽湖",
+      "submarket": "湖",
       "property_use": "unknown",
       "latest": {
         "month": "2026-10",
@@ -9978,34 +9866,6 @@
       }
     },
     {
-      "id": "dongli-8d24ba30bb17",
-      "slug": "c-dongli-8d24ba30bb17",
-      "name": "丽恒花苑",
-      "submarket": "新立街",
-      "property_use": "unknown",
-      "latest": {
-        "month": "2026-10",
-        "status": "insufficient_sample",
-        "transaction_count": 1,
-        "source_count": 1,
-        "median_unit_price": null,
-        "median_total_price": null,
-        "p25_unit_price": null,
-        "p75_unit_price": null,
-        "mom_pct": null,
-        "yoy_pct": null
-      },
-      "observation": {
-        "month": "2026-10",
-        "transaction_count": 1,
-        "source_count": 1,
-        "median_unit_price": 6639,
-        "median_total_price": 600000,
-        "min_unit_price": 6639,
-        "max_unit_price": 6639
-      }
-    },
-    {
       "id": "dongli-e57d18080373",
       "slug": "c-dongli-e57d18080373",
       "name": "金水里",
@@ -10065,7 +9925,7 @@
       "id": "dongli-1c47c9528260",
       "slug": "c-dongli-1c47c9528260",
       "name": "松江东湖小镇",
-      "submarket": "东丽湖",
+      "submarket": "湖",
       "property_use": "unknown",
       "latest": {
         "month": "2026-10",
@@ -10202,15 +10062,15 @@
       }
     },
     {
-      "id": "dongli-c7cb9820e53e",
-      "slug": "c-dongli-c7cb9820e53e",
-      "name": "赏湖苑",
-      "submarket": "东丽湖",
+      "id": "dongli-720c2c261b46",
+      "slug": "c-dongli-720c2c261b46",
+      "name": "贵环花园",
+      "submarket": "万新街",
       "property_use": "unknown",
       "latest": {
-        "month": "2026-09",
+        "month": "2026-10",
         "status": "insufficient_sample",
-        "transaction_count": 1,
+        "transaction_count": 2,
         "source_count": 1,
         "median_unit_price": null,
         "median_total_price": null,
@@ -10220,13 +10080,13 @@
         "yoy_pct": null
       },
       "observation": {
-        "month": "2026-09",
-        "transaction_count": 1,
+        "month": "2026-10",
+        "transaction_count": 2,
         "source_count": 1,
-        "median_unit_price": 6392,
-        "median_total_price": 560000,
-        "min_unit_price": 6392,
-        "max_unit_price": 6392
+        "median_unit_price": 6350,
+        "median_total_price": 457500,
+        "min_unit_price": 6180,
+        "max_unit_price": 6520
       }
     },
     {
@@ -10398,34 +10258,6 @@
       }
     },
     {
-      "id": "dongli-22ca90116c87",
-      "slug": "c-dongli-22ca90116c87",
-      "name": "信号厂北",
-      "submarket": "新立街",
-      "property_use": "unknown",
-      "latest": {
-        "month": "2026-04",
-        "status": "insufficient_sample",
-        "transaction_count": 1,
-        "source_count": 1,
-        "median_unit_price": null,
-        "median_total_price": null,
-        "p25_unit_price": null,
-        "p75_unit_price": null,
-        "mom_pct": null,
-        "yoy_pct": null
-      },
-      "observation": {
-        "month": "2026-04",
-        "transaction_count": 1,
-        "source_count": 1,
-        "median_unit_price": 6285,
-        "median_total_price": 200000,
-        "min_unit_price": 6285,
-        "max_unit_price": 6285
-      }
-    },
-    {
       "id": "dongli-9df847c05202",
       "slug": "c-dongli-9df847c05202",
       "name": "汇海南里",
@@ -10485,7 +10317,7 @@
       "id": "dongli-404b4cb404cc",
       "slug": "c-dongli-404b4cb404cc",
       "name": "天津华侨城聆水苑",
-      "submarket": "东丽湖",
+      "submarket": "湖",
       "property_use": "unknown",
       "latest": {
         "month": "2026-10",
@@ -10513,7 +10345,7 @@
       "id": "dongli-e096ca1da07b",
       "slug": "c-dongli-e096ca1da07b",
       "name": "朗钜水镜天苑",
-      "submarket": "东丽湖",
+      "submarket": "湖",
       "property_use": "unknown",
       "latest": {
         "month": "2026-04",
@@ -10790,6 +10622,34 @@
       }
     },
     {
+      "id": "dongli-c7cb9820e53e",
+      "slug": "c-dongli-c7cb9820e53e",
+      "name": "赏湖苑",
+      "submarket": "湖",
+      "property_use": "unknown",
+      "latest": {
+        "month": "2026-10",
+        "status": "insufficient_sample",
+        "transaction_count": 1,
+        "source_count": 1,
+        "median_unit_price": null,
+        "median_total_price": null,
+        "p25_unit_price": null,
+        "p75_unit_price": null,
+        "mom_pct": null,
+        "yoy_pct": null
+      },
+      "observation": {
+        "month": "2026-10",
+        "transaction_count": 1,
+        "source_count": 1,
+        "median_unit_price": 6051,
+        "median_total_price": 543000,
+        "min_unit_price": 6051,
+        "max_unit_price": 6051
+      }
+    },
+    {
       "id": "dongli-0ceda2094e78",
       "slug": "c-dongli-0ceda2094e78",
       "name": "华润橡树湾香润轩",
@@ -10849,7 +10709,7 @@
       "id": "dongli-a069aeeafb23",
       "slug": "c-dongli-a069aeeafb23",
       "name": "融沁景苑",
-      "submarket": "东丽湖",
+      "submarket": "湖",
       "property_use": "unknown",
       "latest": {
         "month": "2026-10",
@@ -11073,7 +10933,7 @@
       "id": "dongli-bd07110ac812",
       "slug": "c-dongli-bd07110ac812",
       "name": "慕湖苑",
-      "submarket": "东丽湖",
+      "submarket": "湖",
       "property_use": "unknown",
       "latest": {
         "month": "2026-10",
@@ -11098,38 +10958,10 @@
       }
     },
     {
-      "id": "dongli-539b3e385e90",
-      "slug": "c-dongli-539b3e385e90",
-      "name": "汇海北里",
-      "submarket": "万新街",
-      "property_use": "unknown",
-      "latest": {
-        "month": "2026-09",
-        "status": "insufficient_sample",
-        "transaction_count": 1,
-        "source_count": 1,
-        "median_unit_price": null,
-        "median_total_price": null,
-        "p25_unit_price": null,
-        "p75_unit_price": null,
-        "mom_pct": null,
-        "yoy_pct": null
-      },
-      "observation": {
-        "month": "2026-09",
-        "transaction_count": 1,
-        "source_count": 1,
-        "median_unit_price": 5824,
-        "median_total_price": 290000,
-        "min_unit_price": 5824,
-        "max_unit_price": 5824
-      }
-    },
-    {
       "id": "dongli-c8fc3837b4e0",
       "slug": "c-dongli-c8fc3837b4e0",
       "name": "碧溪苑",
-      "submarket": "东丽湖",
+      "submarket": "湖",
       "property_use": "unknown",
       "latest": {
         "month": "2026-08",
@@ -11151,6 +10983,34 @@
         "median_total_price": 825000,
         "min_unit_price": 5765,
         "max_unit_price": 5765
+      }
+    },
+    {
+      "id": "dongli-80bbb284dd19",
+      "slug": "c-dongli-80bbb284dd19",
+      "name": "天津华侨城寄湖苑",
+      "submarket": "湖",
+      "property_use": "unknown",
+      "latest": {
+        "month": "2026-10",
+        "status": "insufficient_sample",
+        "transaction_count": 1,
+        "source_count": 1,
+        "median_unit_price": null,
+        "median_total_price": null,
+        "p25_unit_price": null,
+        "p75_unit_price": null,
+        "mom_pct": null,
+        "yoy_pct": null
+      },
+      "observation": {
+        "month": "2026-10",
+        "transaction_count": 1,
+        "source_count": 1,
+        "median_unit_price": 5752,
+        "median_total_price": 643000,
+        "min_unit_price": 5752,
+        "max_unit_price": 5752
       }
     },
     {
@@ -11182,15 +11042,15 @@
       }
     },
     {
-      "id": "dongli-49914a3b7ee7",
-      "slug": "c-dongli-49914a3b7ee7",
-      "name": "昱和里",
-      "submarket": "金钟街",
+      "id": "dongli-0b0870f2447d",
+      "slug": "c-dongli-0b0870f2447d",
+      "name": "秋棠轩",
+      "submarket": "军粮城",
       "property_use": "unknown",
       "latest": {
-        "month": "2026-09",
+        "month": "2026-10",
         "status": "insufficient_sample",
-        "transaction_count": 1,
+        "transaction_count": 2,
         "source_count": 1,
         "median_unit_price": null,
         "median_total_price": null,
@@ -11200,41 +11060,13 @@
         "yoy_pct": null
       },
       "observation": {
-        "month": "2026-09",
-        "transaction_count": 1,
+        "month": "2026-10",
+        "transaction_count": 2,
         "source_count": 1,
-        "median_unit_price": 5704,
-        "median_total_price": 550000,
-        "min_unit_price": 5704,
-        "max_unit_price": 5704
-      }
-    },
-    {
-      "id": "dongli-7fe2e08f24ab",
-      "slug": "c-dongli-7fe2e08f24ab",
-      "name": "松江津滨置地广场",
-      "submarket": "万新街",
-      "property_use": "unknown",
-      "latest": {
-        "month": "2026-03",
-        "status": "insufficient_sample",
-        "transaction_count": 1,
-        "source_count": 1,
-        "median_unit_price": null,
-        "median_total_price": null,
-        "p25_unit_price": null,
-        "p75_unit_price": null,
-        "mom_pct": null,
-        "yoy_pct": null
-      },
-      "observation": {
-        "month": "2026-03",
-        "transaction_count": 1,
-        "source_count": 1,
-        "median_unit_price": 5686,
-        "median_total_price": 233000,
-        "min_unit_price": 5686,
-        "max_unit_price": 5686
+        "median_unit_price": 5694,
+        "median_total_price": 680000,
+        "min_unit_price": 5152,
+        "max_unit_price": 6236
       }
     },
     {
@@ -11263,34 +11095,6 @@
         "median_total_price": 525000,
         "min_unit_price": 5676,
         "max_unit_price": 5676
-      }
-    },
-    {
-      "id": "dongli-4f560465f19e",
-      "slug": "c-dongli-4f560465f19e",
-      "name": "坤园",
-      "submarket": "华明镇",
-      "property_use": "unknown",
-      "latest": {
-        "month": "2026-09",
-        "status": "insufficient_sample",
-        "transaction_count": 1,
-        "source_count": 1,
-        "median_unit_price": null,
-        "median_total_price": null,
-        "p25_unit_price": null,
-        "p75_unit_price": null,
-        "mom_pct": null,
-        "yoy_pct": null
-      },
-      "observation": {
-        "month": "2026-09",
-        "transaction_count": 1,
-        "source_count": 1,
-        "median_unit_price": 5645,
-        "median_total_price": 685000,
-        "min_unit_price": 5645,
-        "max_unit_price": 5645
       }
     },
     {
@@ -11437,7 +11241,7 @@
       "id": "dongli-c952190287f9",
       "slug": "c-dongli-c952190287f9",
       "name": "恆大绿洲馨园",
-      "submarket": "东丽湖",
+      "submarket": "湖",
       "property_use": "unknown",
       "latest": {
         "month": "2026-04",
@@ -11487,34 +11291,6 @@
         "median_total_price": 1064000,
         "min_unit_price": 4793,
         "max_unit_price": 6271
-      }
-    },
-    {
-      "id": "dongli-8e78a3a80a91",
-      "slug": "c-dongli-8e78a3a80a91",
-      "name": "天安象屿智慧城-都城",
-      "submarket": "东丽湖",
-      "property_use": "unknown",
-      "latest": {
-        "month": "2026-09",
-        "status": "published",
-        "transaction_count": 4,
-        "source_count": 1,
-        "median_unit_price": 5526,
-        "median_total_price": 497500,
-        "p25_unit_price": 5052,
-        "p75_unit_price": 6257,
-        "mom_pct": null,
-        "yoy_pct": null
-      },
-      "observation": {
-        "month": "2026-09",
-        "transaction_count": 4,
-        "source_count": 1,
-        "median_unit_price": 5526,
-        "median_total_price": 497500,
-        "min_unit_price": 4820,
-        "max_unit_price": 7259
       }
     },
     {
@@ -11605,7 +11381,7 @@
       "id": "dongli-87dcf5deb120",
       "slug": "c-dongli-87dcf5deb120",
       "name": "凭澜苑",
-      "submarket": "东丽湖",
+      "submarket": "湖",
       "property_use": "unknown",
       "latest": {
         "month": "2026-10",
@@ -11658,6 +11434,34 @@
       }
     },
     {
+      "id": "dongli-27a1f846f4d9",
+      "slug": "c-dongli-27a1f846f4d9",
+      "name": "阅湖苑",
+      "submarket": "湖",
+      "property_use": "unknown",
+      "latest": {
+        "month": "2026-10",
+        "status": "insufficient_sample",
+        "transaction_count": 2,
+        "source_count": 1,
+        "median_unit_price": null,
+        "median_total_price": null,
+        "p25_unit_price": null,
+        "p75_unit_price": null,
+        "mom_pct": null,
+        "yoy_pct": null
+      },
+      "observation": {
+        "month": "2026-10",
+        "transaction_count": 2,
+        "source_count": 1,
+        "median_unit_price": 5440,
+        "median_total_price": 412000,
+        "min_unit_price": 3741,
+        "max_unit_price": 7138
+      }
+    },
+    {
       "id": "dongli-28ec22a18c6f",
       "slug": "c-dongli-28ec22a18c6f",
       "name": "金环里(东丽区)",
@@ -11689,7 +11493,7 @@
       "id": "dongli-276947926955",
       "slug": "c-dongli-276947926955",
       "name": "揽湖苑",
-      "submarket": "东丽湖",
+      "submarket": "湖",
       "property_use": "unknown",
       "latest": {
         "month": "2026-10",
@@ -11717,7 +11521,7 @@
       "id": "dongli-a355a9ff7ffe",
       "slug": "c-dongli-a355a9ff7ffe",
       "name": "天骥智谷",
-      "submarket": "东丽湖",
+      "submarket": "湖",
       "property_use": "unknown",
       "latest": {
         "month": "2026-10",
@@ -11773,7 +11577,7 @@
       "id": "dongli-a8511e782c9d",
       "slug": "c-dongli-a8511e782c9d",
       "name": "恆大翡翠华庭",
-      "submarket": "东丽湖",
+      "submarket": "湖",
       "property_use": "unknown",
       "latest": {
         "month": "2026-08",
@@ -11801,7 +11605,7 @@
       "id": "dongli-7cf3bc01762b",
       "slug": "c-dongli-7cf3bc01762b",
       "name": "恒大绿洲花园",
-      "submarket": "东丽湖",
+      "submarket": "湖",
       "property_use": "unknown",
       "latest": {
         "month": "2026-10",
@@ -11829,7 +11633,7 @@
       "id": "dongli-93d6f5280acc",
       "slug": "c-dongli-93d6f5280acc",
       "name": "华侨城汇涛苑",
-      "submarket": "东丽湖",
+      "submarket": "湖",
       "property_use": "unknown",
       "latest": {
         "month": "2026-07",
@@ -11851,34 +11655,6 @@
         "median_total_price": 455000,
         "min_unit_price": 5300,
         "max_unit_price": 5300
-      }
-    },
-    {
-      "id": "dongli-7c3b7032cd01",
-      "slug": "c-dongli-7c3b7032cd01",
-      "name": "程和家园",
-      "submarket": "万新街",
-      "property_use": "unknown",
-      "latest": {
-        "month": "2026-10",
-        "status": "insufficient_sample",
-        "transaction_count": 1,
-        "source_count": 1,
-        "median_unit_price": null,
-        "median_total_price": null,
-        "p25_unit_price": null,
-        "p75_unit_price": null,
-        "mom_pct": null,
-        "yoy_pct": null
-      },
-      "observation": {
-        "month": "2026-10",
-        "transaction_count": 1,
-        "source_count": 1,
-        "median_unit_price": 5298,
-        "median_total_price": 328000,
-        "min_unit_price": 5298,
-        "max_unit_price": 5298
       }
     },
     {
@@ -11907,6 +11683,34 @@
         "median_total_price": 470000,
         "min_unit_price": 5296,
         "max_unit_price": 5296
+      }
+    },
+    {
+      "id": "dongli-49914a3b7ee7",
+      "slug": "c-dongli-49914a3b7ee7",
+      "name": "昱和里",
+      "submarket": "金钟街",
+      "property_use": "unknown",
+      "latest": {
+        "month": "2026-10",
+        "status": "insufficient_sample",
+        "transaction_count": 1,
+        "source_count": 1,
+        "median_unit_price": null,
+        "median_total_price": null,
+        "p25_unit_price": null,
+        "p75_unit_price": null,
+        "mom_pct": null,
+        "yoy_pct": null
+      },
+      "observation": {
+        "month": "2026-10",
+        "transaction_count": 1,
+        "source_count": 1,
+        "median_unit_price": 5289,
+        "median_total_price": 510000,
+        "min_unit_price": 5289,
+        "max_unit_price": 5289
       }
     },
     {
@@ -11969,7 +11773,7 @@
       "id": "dongli-8652570a7c29",
       "slug": "c-dongli-8652570a7c29",
       "name": "万科赏溪苑",
-      "submarket": "东丽湖",
+      "submarket": "湖",
       "property_use": "unknown",
       "latest": {
         "month": "2026-09",
@@ -12053,7 +11857,7 @@
       "id": "dongli-e76ceb0515a0",
       "slug": "c-dongli-e76ceb0515a0",
       "name": "恒大绿洲馨园",
-      "submarket": "东丽湖",
+      "submarket": "湖",
       "property_use": "unknown",
       "latest": {
         "month": "2026-09",
@@ -12134,90 +11938,6 @@
       }
     },
     {
-      "id": "dongli-c94495e50e95",
-      "slug": "c-dongli-c94495e50e95",
-      "name": "德翔里",
-      "submarket": "金钟街",
-      "property_use": "unknown",
-      "latest": {
-        "month": "2026-07",
-        "status": "insufficient_sample",
-        "transaction_count": 1,
-        "source_count": 1,
-        "median_unit_price": null,
-        "median_total_price": null,
-        "p25_unit_price": null,
-        "p75_unit_price": null,
-        "mom_pct": null,
-        "yoy_pct": null
-      },
-      "observation": {
-        "month": "2026-07",
-        "transaction_count": 1,
-        "source_count": 1,
-        "median_unit_price": 5160,
-        "median_total_price": 645000,
-        "min_unit_price": 5160,
-        "max_unit_price": 5160
-      }
-    },
-    {
-      "id": "dongli-720c2c261b46",
-      "slug": "c-dongli-720c2c261b46",
-      "name": "贵环花园",
-      "submarket": "万新街",
-      "property_use": "unknown",
-      "latest": {
-        "month": "2026-07",
-        "status": "insufficient_sample",
-        "transaction_count": 1,
-        "source_count": 1,
-        "median_unit_price": null,
-        "median_total_price": null,
-        "p25_unit_price": null,
-        "p75_unit_price": null,
-        "mom_pct": null,
-        "yoy_pct": null
-      },
-      "observation": {
-        "month": "2026-07",
-        "transaction_count": 1,
-        "source_count": 1,
-        "median_unit_price": 5157,
-        "median_total_price": 410000,
-        "min_unit_price": 5157,
-        "max_unit_price": 5157
-      }
-    },
-    {
-      "id": "dongli-0b0870f2447d",
-      "slug": "c-dongli-0b0870f2447d",
-      "name": "秋棠轩",
-      "submarket": "军粮城",
-      "property_use": "unknown",
-      "latest": {
-        "month": "2026-10",
-        "status": "insufficient_sample",
-        "transaction_count": 1,
-        "source_count": 1,
-        "median_unit_price": null,
-        "median_total_price": null,
-        "p25_unit_price": null,
-        "p75_unit_price": null,
-        "mom_pct": null,
-        "yoy_pct": null
-      },
-      "observation": {
-        "month": "2026-10",
-        "transaction_count": 1,
-        "source_count": 1,
-        "median_unit_price": 5152,
-        "median_total_price": 620000,
-        "min_unit_price": 5152,
-        "max_unit_price": 5152
-      }
-    },
-    {
       "id": "dongli-3194919ab4ad",
       "slug": "c-dongli-3194919ab4ad",
       "name": "岭昌里",
@@ -12274,6 +11994,62 @@
       }
     },
     {
+      "id": "dongli-c94495e50e95",
+      "slug": "c-dongli-c94495e50e95",
+      "name": "德翔里",
+      "submarket": "金钟街",
+      "property_use": "unknown",
+      "latest": {
+        "month": "2026-10",
+        "status": "insufficient_sample",
+        "transaction_count": 1,
+        "source_count": 1,
+        "median_unit_price": null,
+        "median_total_price": null,
+        "p25_unit_price": null,
+        "p75_unit_price": null,
+        "mom_pct": null,
+        "yoy_pct": null
+      },
+      "observation": {
+        "month": "2026-10",
+        "transaction_count": 1,
+        "source_count": 1,
+        "median_unit_price": 5120,
+        "median_total_price": 640000,
+        "min_unit_price": 5120,
+        "max_unit_price": 5120
+      }
+    },
+    {
+      "id": "dongli-e2171e236d5e",
+      "slug": "c-dongli-e2171e236d5e",
+      "name": "天津华侨城沁水苑",
+      "submarket": "湖",
+      "property_use": "unknown",
+      "latest": {
+        "month": "2026-10",
+        "status": "insufficient_sample",
+        "transaction_count": 1,
+        "source_count": 1,
+        "median_unit_price": null,
+        "median_total_price": null,
+        "p25_unit_price": null,
+        "p75_unit_price": null,
+        "mom_pct": null,
+        "yoy_pct": null
+      },
+      "observation": {
+        "month": "2026-10",
+        "transaction_count": 1,
+        "source_count": 1,
+        "median_unit_price": 5116,
+        "median_total_price": 600000,
+        "min_unit_price": 5116,
+        "max_unit_price": 5116
+      }
+    },
+    {
       "id": "dongli-84fcbaf4fb14",
       "slug": "c-dongli-84fcbaf4fb14",
       "name": "常熟北里",
@@ -12299,62 +12075,6 @@
         "median_total_price": 110000,
         "min_unit_price": 5109,
         "max_unit_price": 5109
-      }
-    },
-    {
-      "id": "dongli-56deb84d7de2",
-      "slug": "c-dongli-56deb84d7de2",
-      "name": "军祥园",
-      "submarket": "军粮城",
-      "property_use": "unknown",
-      "latest": {
-        "month": "2026-08",
-        "status": "insufficient_sample",
-        "transaction_count": 2,
-        "source_count": 1,
-        "median_unit_price": null,
-        "median_total_price": null,
-        "p25_unit_price": null,
-        "p75_unit_price": null,
-        "mom_pct": null,
-        "yoy_pct": null
-      },
-      "observation": {
-        "month": "2026-08",
-        "transaction_count": 2,
-        "source_count": 1,
-        "median_unit_price": 5102,
-        "median_total_price": 460000,
-        "min_unit_price": 4963,
-        "max_unit_price": 5242
-      }
-    },
-    {
-      "id": "dongli-80bbb284dd19",
-      "slug": "c-dongli-80bbb284dd19",
-      "name": "天津华侨城寄湖苑",
-      "submarket": "东丽湖",
-      "property_use": "unknown",
-      "latest": {
-        "month": "2026-07",
-        "status": "insufficient_sample",
-        "transaction_count": 1,
-        "source_count": 1,
-        "median_unit_price": null,
-        "median_total_price": null,
-        "p25_unit_price": null,
-        "p75_unit_price": null,
-        "mom_pct": null,
-        "yoy_pct": null
-      },
-      "observation": {
-        "month": "2026-07",
-        "transaction_count": 1,
-        "source_count": 1,
-        "median_unit_price": 5064,
-        "median_total_price": 450000,
-        "min_unit_price": 5064,
-        "max_unit_price": 5064
       }
     },
     {
@@ -12442,59 +12162,31 @@
       }
     },
     {
-      "id": "dongli-739479698fa1",
-      "slug": "c-dongli-739479698fa1",
-      "name": "茗和里",
-      "submarket": "金钟街",
-      "property_use": "unknown",
-      "latest": {
-        "month": "2026-08",
-        "status": "published",
-        "transaction_count": 3,
-        "source_count": 1,
-        "median_unit_price": 4978,
-        "median_total_price": 480000,
-        "p25_unit_price": 4900,
-        "p75_unit_price": 5082,
-        "mom_pct": null,
-        "yoy_pct": null
-      },
-      "observation": {
-        "month": "2026-08",
-        "transaction_count": 3,
-        "source_count": 1,
-        "median_unit_price": 4978,
-        "median_total_price": 480000,
-        "min_unit_price": 4822,
-        "max_unit_price": 5185
-      }
-    },
-    {
       "id": "dongli-036ba8e16876",
       "slug": "c-dongli-036ba8e16876",
       "name": "华富家园南区",
       "submarket": "华明镇",
       "property_use": "unknown",
       "latest": {
-        "month": "2026-07",
+        "month": "2026-10",
         "status": "published",
         "transaction_count": 3,
         "source_count": 1,
-        "median_unit_price": 4978,
-        "median_total_price": 390000,
-        "p25_unit_price": 4840,
-        "p75_unit_price": 5000,
+        "median_unit_price": 4991,
+        "median_total_price": 450000,
+        "p25_unit_price": 4921,
+        "p75_unit_price": 5018,
         "mom_pct": null,
         "yoy_pct": null
       },
       "observation": {
-        "month": "2026-07",
+        "month": "2026-10",
         "transaction_count": 3,
         "source_count": 1,
-        "median_unit_price": 4978,
-        "median_total_price": 390000,
-        "min_unit_price": 4703,
-        "max_unit_price": 5022
+        "median_unit_price": 4991,
+        "median_total_price": 450000,
+        "min_unit_price": 4851,
+        "max_unit_price": 5045
       }
     },
     {
@@ -12526,6 +12218,34 @@
       }
     },
     {
+      "id": "dongli-739479698fa1",
+      "slug": "c-dongli-739479698fa1",
+      "name": "茗和里",
+      "submarket": "金钟街",
+      "property_use": "unknown",
+      "latest": {
+        "month": "2026-10",
+        "status": "insufficient_sample",
+        "transaction_count": 1,
+        "source_count": 1,
+        "median_unit_price": null,
+        "median_total_price": null,
+        "p25_unit_price": null,
+        "p75_unit_price": null,
+        "mom_pct": null,
+        "yoy_pct": null
+      },
+      "observation": {
+        "month": "2026-10",
+        "transaction_count": 1,
+        "source_count": 1,
+        "median_unit_price": 4971,
+        "median_total_price": 450000,
+        "min_unit_price": 4971,
+        "max_unit_price": 4971
+      }
+    },
+    {
       "id": "dongli-c4f09cc8d086",
       "slug": "c-dongli-c4f09cc8d086",
       "name": "军丽园",
@@ -12551,34 +12271,6 @@
         "median_total_price": 415000,
         "min_unit_price": 4936,
         "max_unit_price": 4936
-      }
-    },
-    {
-      "id": "dongli-e2171e236d5e",
-      "slug": "c-dongli-e2171e236d5e",
-      "name": "天津华侨城沁水苑",
-      "submarket": "东丽湖",
-      "property_use": "unknown",
-      "latest": {
-        "month": "2026-09",
-        "status": "insufficient_sample",
-        "transaction_count": 1,
-        "source_count": 1,
-        "median_unit_price": null,
-        "median_total_price": null,
-        "p25_unit_price": null,
-        "p75_unit_price": null,
-        "mom_pct": null,
-        "yoy_pct": null
-      },
-      "observation": {
-        "month": "2026-09",
-        "transaction_count": 1,
-        "source_count": 1,
-        "median_unit_price": 4920,
-        "median_total_price": 660000,
-        "min_unit_price": 4920,
-        "max_unit_price": 4920
       }
     },
     {
@@ -12669,7 +12361,7 @@
       "id": "dongli-4fe42499956a",
       "slug": "c-dongli-4fe42499956a",
       "name": "东丽湖万科城阅桦苑",
-      "submarket": "东丽湖",
+      "submarket": "湖",
       "property_use": "unknown",
       "latest": {
         "month": "2026-10",
@@ -12697,7 +12389,7 @@
       "id": "dongli-4da9a3f9a69e",
       "slug": "c-dongli-4da9a3f9a69e",
       "name": "华侨城望涛苑",
-      "submarket": "东丽湖",
+      "submarket": "湖",
       "property_use": "unknown",
       "latest": {
         "month": "2026-07",
@@ -12781,7 +12473,7 @@
       "id": "dongli-bda3a979b891",
       "slug": "c-dongli-bda3a979b891",
       "name": "观湖苑",
-      "submarket": "东丽湖",
+      "submarket": "湖",
       "property_use": "unknown",
       "latest": {
         "month": "2026-09",
@@ -12859,34 +12551,6 @@
         "median_total_price": 370000,
         "min_unit_price": 4789,
         "max_unit_price": 4789
-      }
-    },
-    {
-      "id": "dongli-5341a7d617fa",
-      "slug": "c-dongli-5341a7d617fa",
-      "name": "枫悦园",
-      "submarket": "军粮城",
-      "property_use": "unknown",
-      "latest": {
-        "month": "2026-10",
-        "status": "insufficient_sample",
-        "transaction_count": 1,
-        "source_count": 1,
-        "median_unit_price": null,
-        "median_total_price": null,
-        "p25_unit_price": null,
-        "p75_unit_price": null,
-        "mom_pct": null,
-        "yoy_pct": null
-      },
-      "observation": {
-        "month": "2026-10",
-        "transaction_count": 1,
-        "source_count": 1,
-        "median_unit_price": 4768,
-        "median_total_price": 432000,
-        "min_unit_price": 4768,
-        "max_unit_price": 4768
       }
     },
     {
@@ -13002,38 +12666,10 @@
       }
     },
     {
-      "id": "dongli-0ae51a0d7664",
-      "slug": "c-dongli-0ae51a0d7664",
-      "name": "欣圆小区",
-      "submarket": "万新街",
-      "property_use": "unknown",
-      "latest": {
-        "month": "2026-07",
-        "status": "insufficient_sample",
-        "transaction_count": 1,
-        "source_count": 1,
-        "median_unit_price": null,
-        "median_total_price": null,
-        "p25_unit_price": null,
-        "p75_unit_price": null,
-        "mom_pct": null,
-        "yoy_pct": null
-      },
-      "observation": {
-        "month": "2026-07",
-        "transaction_count": 1,
-        "source_count": 1,
-        "median_unit_price": 4709,
-        "median_total_price": 515000,
-        "min_unit_price": 4709,
-        "max_unit_price": 4709
-      }
-    },
-    {
       "id": "dongli-a8ef33874ca9",
       "slug": "c-dongli-a8ef33874ca9",
       "name": "华侨城善水苑",
-      "submarket": "东丽湖",
+      "submarket": "湖",
       "property_use": "unknown",
       "latest": {
         "month": "2026-10",
@@ -13114,6 +12750,34 @@
       }
     },
     {
+      "id": "dongli-56deb84d7de2",
+      "slug": "c-dongli-56deb84d7de2",
+      "name": "军祥园",
+      "submarket": "军粮城",
+      "property_use": "unknown",
+      "latest": {
+        "month": "2026-10",
+        "status": "insufficient_sample",
+        "transaction_count": 1,
+        "source_count": 1,
+        "median_unit_price": null,
+        "median_total_price": null,
+        "p25_unit_price": null,
+        "p75_unit_price": null,
+        "mom_pct": null,
+        "yoy_pct": null
+      },
+      "observation": {
+        "month": "2026-10",
+        "transaction_count": 1,
+        "source_count": 1,
+        "median_unit_price": 4650,
+        "median_total_price": 390000,
+        "min_unit_price": 4650,
+        "max_unit_price": 4650
+      }
+    },
+    {
       "id": "dongli-f023a88aaeb9",
       "slug": "c-dongli-f023a88aaeb9",
       "name": "融信金地澜悅(二期)",
@@ -13170,34 +12834,6 @@
       }
     },
     {
-      "id": "dongli-bd979a1e27c2",
-      "slug": "c-dongli-bd979a1e27c2",
-      "name": "揽城苑",
-      "submarket": "东丽湖",
-      "property_use": "unknown",
-      "latest": {
-        "month": "2026-08",
-        "status": "insufficient_sample",
-        "transaction_count": 2,
-        "source_count": 1,
-        "median_unit_price": null,
-        "median_total_price": null,
-        "p25_unit_price": null,
-        "p75_unit_price": null,
-        "mom_pct": null,
-        "yoy_pct": null
-      },
-      "observation": {
-        "month": "2026-08",
-        "transaction_count": 2,
-        "source_count": 1,
-        "median_unit_price": 4552,
-        "median_total_price": 391500,
-        "min_unit_price": 4474,
-        "max_unit_price": 4631
-      }
-    },
-    {
       "id": "dongli-0233760b677d",
       "slug": "c-dongli-0233760b677d",
       "name": "仁雅家园",
@@ -13223,6 +12859,34 @@
         "median_total_price": 405452,
         "min_unit_price": 4527,
         "max_unit_price": 4527
+      }
+    },
+    {
+      "id": "dongli-dadcad9f4d6f",
+      "slug": "c-dongli-dadcad9f4d6f",
+      "name": "三源英华郡",
+      "submarket": "湖",
+      "property_use": "unknown",
+      "latest": {
+        "month": "2026-10",
+        "status": "insufficient_sample",
+        "transaction_count": 1,
+        "source_count": 1,
+        "median_unit_price": null,
+        "median_total_price": null,
+        "p25_unit_price": null,
+        "p75_unit_price": null,
+        "mom_pct": null,
+        "yoy_pct": null
+      },
+      "observation": {
+        "month": "2026-10",
+        "transaction_count": 1,
+        "source_count": 1,
+        "median_unit_price": 4519,
+        "median_total_price": 410000,
+        "min_unit_price": 4519,
+        "max_unit_price": 4519
       }
     },
     {
@@ -13282,6 +12946,34 @@
       }
     },
     {
+      "id": "dongli-e2361c2895eb",
+      "slug": "c-dongli-e2361c2895eb",
+      "name": "米兰东湖湾",
+      "submarket": "湖",
+      "property_use": "unknown",
+      "latest": {
+        "month": "2026-10",
+        "status": "insufficient_sample",
+        "transaction_count": 2,
+        "source_count": 1,
+        "median_unit_price": null,
+        "median_total_price": null,
+        "p25_unit_price": null,
+        "p75_unit_price": null,
+        "mom_pct": null,
+        "yoy_pct": null
+      },
+      "observation": {
+        "month": "2026-10",
+        "transaction_count": 2,
+        "source_count": 1,
+        "median_unit_price": 4442,
+        "median_total_price": 274000,
+        "min_unit_price": 3756,
+        "max_unit_price": 5129
+      }
+    },
+    {
       "id": "dongli-095e2a00c77a",
       "slug": "c-dongli-095e2a00c77a",
       "name": "军宏园",
@@ -13335,34 +13027,6 @@
         "median_total_price": 272000,
         "min_unit_price": 4426,
         "max_unit_price": 4426
-      }
-    },
-    {
-      "id": "dongli-4e1a3c48a24d",
-      "slug": "c-dongli-4e1a3c48a24d",
-      "name": "海航YOHO",
-      "submarket": "空港经济区",
-      "property_use": "unknown",
-      "latest": {
-        "month": "2026-10",
-        "status": "insufficient_sample",
-        "transaction_count": 1,
-        "source_count": 1,
-        "median_unit_price": null,
-        "median_total_price": null,
-        "p25_unit_price": null,
-        "p75_unit_price": null,
-        "mom_pct": null,
-        "yoy_pct": null
-      },
-      "observation": {
-        "month": "2026-10",
-        "transaction_count": 1,
-        "source_count": 1,
-        "median_unit_price": 4416,
-        "median_total_price": 250000,
-        "min_unit_price": 4416,
-        "max_unit_price": 4416
       }
     },
     {
@@ -13422,10 +13086,38 @@
       }
     },
     {
+      "id": "dongli-8e78a3a80a91",
+      "slug": "c-dongli-8e78a3a80a91",
+      "name": "天安象屿智慧城-都城",
+      "submarket": "湖",
+      "property_use": "unknown",
+      "latest": {
+        "month": "2026-10",
+        "status": "insufficient_sample",
+        "transaction_count": 1,
+        "source_count": 1,
+        "median_unit_price": null,
+        "median_total_price": null,
+        "p25_unit_price": null,
+        "p75_unit_price": null,
+        "mom_pct": null,
+        "yoy_pct": null
+      },
+      "observation": {
+        "month": "2026-10",
+        "transaction_count": 1,
+        "source_count": 1,
+        "median_unit_price": 4349,
+        "median_total_price": 390000,
+        "min_unit_price": 4349,
+        "max_unit_price": 4349
+      }
+    },
+    {
       "id": "dongli-6dee622ec482",
       "slug": "c-dongli-6dee622ec482",
       "name": "阅溪苑",
-      "submarket": "东丽湖",
+      "submarket": "湖",
       "property_use": "unknown",
       "latest": {
         "month": "2026-07",
@@ -13618,6 +13310,62 @@
       }
     },
     {
+      "id": "dongli-4e1a3c48a24d",
+      "slug": "c-dongli-4e1a3c48a24d",
+      "name": "海航YOHO",
+      "submarket": "空港经济区",
+      "property_use": "unknown",
+      "latest": {
+        "month": "2026-10",
+        "status": "published",
+        "transaction_count": 3,
+        "source_count": 1,
+        "median_unit_price": 4214,
+        "median_total_price": 300000,
+        "p25_unit_price": 4104,
+        "p75_unit_price": 4315,
+        "mom_pct": null,
+        "yoy_pct": null
+      },
+      "observation": {
+        "month": "2026-10",
+        "transaction_count": 3,
+        "source_count": 1,
+        "median_unit_price": 4214,
+        "median_total_price": 300000,
+        "min_unit_price": 3995,
+        "max_unit_price": 4416
+      }
+    },
+    {
+      "id": "dongli-4f560465f19e",
+      "slug": "c-dongli-4f560465f19e",
+      "name": "坤园",
+      "submarket": "华明镇",
+      "property_use": "unknown",
+      "latest": {
+        "month": "2026-10",
+        "status": "insufficient_sample",
+        "transaction_count": 2,
+        "source_count": 1,
+        "median_unit_price": null,
+        "median_total_price": null,
+        "p25_unit_price": null,
+        "p75_unit_price": null,
+        "mom_pct": null,
+        "yoy_pct": null
+      },
+      "observation": {
+        "month": "2026-10",
+        "transaction_count": 2,
+        "source_count": 1,
+        "median_unit_price": 4207,
+        "median_total_price": 463000,
+        "min_unit_price": 3692,
+        "max_unit_price": 4722
+      }
+    },
+    {
       "id": "dongli-105f06913ac6",
       "slug": "c-dongli-105f06913ac6",
       "name": "仅德翔里",
@@ -13705,7 +13453,7 @@
       "id": "dongli-183bb9fd45a3",
       "slug": "c-dongli-183bb9fd45a3",
       "name": "恒大翡翠华庭",
-      "submarket": "东丽湖",
+      "submarket": "湖",
       "property_use": "unknown",
       "latest": {
         "month": "2026-10",
@@ -13727,6 +13475,34 @@
         "median_total_price": 305000,
         "min_unit_price": 3751,
         "max_unit_price": 4536
+      }
+    },
+    {
+      "id": "dongli-bd979a1e27c2",
+      "slug": "c-dongli-bd979a1e27c2",
+      "name": "揽城苑",
+      "submarket": "湖",
+      "property_use": "unknown",
+      "latest": {
+        "month": "2026-10",
+        "status": "insufficient_sample",
+        "transaction_count": 1,
+        "source_count": 1,
+        "median_unit_price": null,
+        "median_total_price": null,
+        "p25_unit_price": null,
+        "p75_unit_price": null,
+        "mom_pct": null,
+        "yoy_pct": null
+      },
+      "observation": {
+        "month": "2026-10",
+        "transaction_count": 1,
+        "source_count": 1,
+        "median_unit_price": 4137,
+        "median_total_price": 330000,
+        "min_unit_price": 4137,
+        "max_unit_price": 4137
       }
     },
     {
@@ -13755,34 +13531,6 @@
         "median_total_price": 315000,
         "min_unit_price": 4098,
         "max_unit_price": 4161
-      }
-    },
-    {
-      "id": "dongli-dadcad9f4d6f",
-      "slug": "c-dongli-dadcad9f4d6f",
-      "name": "三源英华郡",
-      "submarket": "东丽湖",
-      "property_use": "unknown",
-      "latest": {
-        "month": "2026-07",
-        "status": "insufficient_sample",
-        "transaction_count": 2,
-        "source_count": 1,
-        "median_unit_price": null,
-        "median_total_price": null,
-        "p25_unit_price": null,
-        "p75_unit_price": null,
-        "mom_pct": null,
-        "yoy_pct": null
-      },
-      "observation": {
-        "month": "2026-07",
-        "transaction_count": 2,
-        "source_count": 1,
-        "median_unit_price": 4083,
-        "median_total_price": 372500,
-        "min_unit_price": 3991,
-        "max_unit_price": 4176
       }
     },
     {
@@ -13845,7 +13593,7 @@
       "id": "dongli-75a3dbd5aa9d",
       "slug": "c-dongli-75a3dbd5aa9d",
       "name": "万科城盛锦苑",
-      "submarket": "东丽湖",
+      "submarket": "湖",
       "property_use": "unknown",
       "latest": {
         "month": "2026-08",
@@ -14063,34 +13811,6 @@
         "median_total_price": 480000,
         "min_unit_price": 3805,
         "max_unit_price": 3805
-      }
-    },
-    {
-      "id": "dongli-e2361c2895eb",
-      "slug": "c-dongli-e2361c2895eb",
-      "name": "米兰东湖湾",
-      "submarket": "东丽湖",
-      "property_use": "unknown",
-      "latest": {
-        "month": "2026-10",
-        "status": "insufficient_sample",
-        "transaction_count": 1,
-        "source_count": 1,
-        "median_unit_price": null,
-        "median_total_price": null,
-        "p25_unit_price": null,
-        "p75_unit_price": null,
-        "mom_pct": null,
-        "yoy_pct": null
-      },
-      "observation": {
-        "month": "2026-10",
-        "transaction_count": 1,
-        "source_count": 1,
-        "median_unit_price": 3756,
-        "median_total_price": 338000,
-        "min_unit_price": 3756,
-        "max_unit_price": 3756
       }
     },
     {
@@ -14321,7 +14041,7 @@
       "id": "dongli-de72b4f629cd",
       "slug": "c-dongli-de72b4f629cd",
       "name": "朗钜维尔蓝堤花园",
-      "submarket": "东丽湖",
+      "submarket": "湖",
       "property_use": "unknown",
       "latest": {
         "month": "2026-10",
@@ -14489,7 +14209,7 @@
       "id": "dongli-825c06444259",
       "slug": "c-dongli-825c06444259",
       "name": "天域广场",
-      "submarket": "东丽湖",
+      "submarket": "湖",
       "property_use": "unknown",
       "latest": {
         "month": "2026-03",
@@ -14517,7 +14237,7 @@
       "id": "dongli-680fe0e43b79",
       "slug": "c-dongli-680fe0e43b79",
       "name": "万科城邻水苑",
-      "submarket": "东丽湖",
+      "submarket": "湖",
       "property_use": "unknown",
       "latest": {
         "month": "2026-09",
@@ -14539,34 +14259,6 @@
         "median_total_price": 200000,
         "min_unit_price": 2171,
         "max_unit_price": 2171
-      }
-    },
-    {
-      "id": "dongli-eda7012c5018",
-      "slug": "c-dongli-eda7012c5018",
-      "name": "丽港大廈",
-      "submarket": "空港经济区",
-      "property_use": "unknown",
-      "latest": {
-        "month": "2026-09",
-        "status": "published",
-        "transaction_count": 3,
-        "source_count": 1,
-        "median_unit_price": 2054,
-        "median_total_price": 210000,
-        "p25_unit_price": 1982,
-        "p75_unit_price": 2056,
-        "mom_pct": null,
-        "yoy_pct": null
-      },
-      "observation": {
-        "month": "2026-09",
-        "transaction_count": 3,
-        "source_count": 1,
-        "median_unit_price": 2054,
-        "median_total_price": 210000,
-        "min_unit_price": 1909,
-        "max_unit_price": 2059
       }
     },
     {
@@ -14624,6 +14316,34 @@
         "min_unit_price": 1837,
         "max_unit_price": 1837
       }
+    },
+    {
+      "id": "dongli-eda7012c5018",
+      "slug": "c-dongli-eda7012c5018",
+      "name": "丽港大廈",
+      "submarket": "空港经济区",
+      "property_use": "unknown",
+      "latest": {
+        "month": "2026-10",
+        "status": "insufficient_sample",
+        "transaction_count": 1,
+        "source_count": 1,
+        "median_unit_price": null,
+        "median_total_price": null,
+        "p25_unit_price": null,
+        "p75_unit_price": null,
+        "mom_pct": null,
+        "yoy_pct": null
+      },
+      "observation": {
+        "month": "2026-10",
+        "transaction_count": 1,
+        "source_count": 1,
+        "median_unit_price": 1746,
+        "median_total_price": 100000,
+        "min_unit_price": 1746,
+        "max_unit_price": 1746
+      }
     }
   ],
   "distribution": {
@@ -14636,10 +14356,10 @@
         "≥144㎡"
       ],
       "counts": [
-        315,
-        1303,
-        1175,
-        242,
+        319,
+        1338,
+        1212,
+        251,
         125
       ]
     },
@@ -14652,9 +14372,9 @@
         "≥500万"
       ],
       "counts": [
-        2243,
-        816,
-        93,
+        2293,
+        850,
+        94,
         8,
         0
       ]

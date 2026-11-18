@@ -252,7 +252,7 @@
     {
       "month": "2026-05",
       "status": "insufficient_sample",
-      "transaction_count": 1,
+      "transaction_count": 2,
       "source_count": 1,
       "median_unit_price": null,
       "median_total_price": null,
@@ -332,7 +332,7 @@
         "≥144㎡"
       ],
       "counts": [
-        8,
+        9,
         2,
         0,
         0,
@@ -348,7 +348,7 @@
         "≥500万"
       ],
       "counts": [
-        10,
+        11,
         0,
         0,
         0,
@@ -420,6 +420,14 @@
       "floor": "15/15",
       "total_price_yuan": 355000,
       "unit_price_yuan": 6193
+    },
+    {
+      "deal_date": "2026-05-01",
+      "layout": "1-1-1-1",
+      "area_sqm": 50.69,
+      "floor": "2/14",
+      "total_price_yuan": 288000,
+      "unit_price_yuan": 5672
     },
     {
       "deal_date": "2026-03-01",

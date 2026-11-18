@@ -8,29 +8,29 @@
     "name": "天安象屿智慧城-都城",
     "district_code": "120110",
     "district_name": "东丽区",
-    "submarket": "东丽湖",
+    "submarket": "湖",
     "property_use": "unknown"
   },
   "latest": {
-    "month": "2026-09",
-    "status": "published",
-    "transaction_count": 4,
+    "month": "2026-10",
+    "status": "insufficient_sample",
+    "transaction_count": 1,
     "source_count": 1,
-    "median_unit_price": 5526,
-    "median_total_price": 497500,
-    "p25_unit_price": 5052,
-    "p75_unit_price": 6257,
+    "median_unit_price": null,
+    "median_total_price": null,
+    "p25_unit_price": null,
+    "p75_unit_price": null,
     "mom_pct": null,
     "yoy_pct": null
   },
   "observation": {
-    "month": "2026-09",
-    "transaction_count": 4,
+    "month": "2026-10",
+    "transaction_count": 1,
     "source_count": 1,
-    "median_unit_price": 5526,
-    "median_total_price": 497500,
-    "min_unit_price": 4820,
-    "max_unit_price": 7259
+    "median_unit_price": 4349,
+    "median_total_price": 390000,
+    "min_unit_price": 4349,
+    "max_unit_price": 4349
   },
   "series": [
     {
@@ -311,9 +311,9 @@
     },
     {
       "month": "2026-10",
-      "status": "no_data",
-      "transaction_count": 0,
-      "source_count": 0,
+      "status": "insufficient_sample",
+      "transaction_count": 1,
+      "source_count": 1,
       "median_unit_price": null,
       "median_total_price": null,
       "p25_unit_price": null,
@@ -333,7 +333,7 @@
       ],
       "counts": [
         0,
-        11,
+        12,
         2,
         1,
         1
@@ -348,7 +348,7 @@
         "≥500万"
       ],
       "counts": [
-        15,
+        16,
         0,
         0,
         0,
@@ -357,6 +357,14 @@
     }
   },
   "transactions": [
+    {
+      "deal_date": "2026-10-01",
+      "layout": "3-1-1-1",
+      "area_sqm": 89.68,
+      "floor": "32/32",
+      "total_price_yuan": 390000,
+      "unit_price_yuan": 4349
+    },
     {
       "deal_date": "2026-09-27",
       "layout": "2-1-1-1",

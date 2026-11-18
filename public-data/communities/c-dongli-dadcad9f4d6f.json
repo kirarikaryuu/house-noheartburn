@@ -8,13 +8,13 @@
     "name": "三源英华郡",
     "district_code": "120110",
     "district_name": "东丽区",
-    "submarket": "东丽湖",
+    "submarket": "湖",
     "property_use": "unknown"
   },
   "latest": {
-    "month": "2026-07",
+    "month": "2026-10",
     "status": "insufficient_sample",
-    "transaction_count": 2,
+    "transaction_count": 1,
     "source_count": 1,
     "median_unit_price": null,
     "median_total_price": null,
@@ -24,13 +24,13 @@
     "yoy_pct": null
   },
   "observation": {
-    "month": "2026-07",
-    "transaction_count": 2,
+    "month": "2026-10",
+    "transaction_count": 1,
     "source_count": 1,
-    "median_unit_price": 4083,
-    "median_total_price": 372500,
-    "min_unit_price": 3991,
-    "max_unit_price": 4176
+    "median_unit_price": 4519,
+    "median_total_price": 410000,
+    "min_unit_price": 4519,
+    "max_unit_price": 4519
   },
   "series": [
     {
@@ -311,9 +311,9 @@
     },
     {
       "month": "2026-10",
-      "status": "no_data",
-      "transaction_count": 0,
-      "source_count": 0,
+      "status": "insufficient_sample",
+      "transaction_count": 1,
+      "source_count": 1,
       "median_unit_price": null,
       "median_total_price": null,
       "p25_unit_price": null,
@@ -334,7 +334,7 @@
       "counts": [
         0,
         0,
-        9,
+        10,
         0,
         1
       ]
@@ -348,7 +348,7 @@
         "≥500万"
       ],
       "counts": [
-        9,
+        10,
         0,
         1,
         0,
@@ -357,6 +357,14 @@
     }
   },
   "transactions": [
+    {
+      "deal_date": "2026-10-06",
+      "layout": "2-2-1-1",
+      "area_sqm": 90.72,
+      "floor": "6/9",
+      "total_price_yuan": 410000,
+      "unit_price_yuan": 4519
+    },
     {
       "deal_date": "2026-07-15",
       "layout": "2-1-1-1",

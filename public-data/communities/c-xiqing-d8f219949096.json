@@ -251,14 +251,14 @@
     },
     {
       "month": "2026-05",
-      "status": "insufficient_sample",
-      "transaction_count": 2,
+      "status": "published",
+      "transaction_count": 3,
       "source_count": 1,
-      "median_unit_price": null,
-      "median_total_price": null,
-      "p25_unit_price": null,
-      "p75_unit_price": null,
-      "mom_pct": null,
+      "median_unit_price": 11232,
+      "median_total_price": 1160000,
+      "p25_unit_price": 10956,
+      "p75_unit_price": 12148,
+      "mom_pct": 6.7,
       "yoy_pct": null
     },
     {
@@ -333,7 +333,7 @@
       ],
       "counts": [
         0,
-        9,
+        10,
         3,
         2,
         0
@@ -349,7 +349,7 @@
       ],
       "counts": [
         4,
-        9,
+        10,
         1,
         0,
         0
@@ -412,6 +412,14 @@
       "floor": "5/6",
       "total_price_yuan": 795000,
       "unit_price_yuan": 10680
+    },
+    {
+      "deal_date": "2026-05-09",
+      "layout": "2-1-1-1",
+      "area_sqm": 88.79,
+      "floor": "5/6",
+      "total_price_yuan": 1160000,
+      "unit_price_yuan": 13065
     },
     {
       "deal_date": "2026-04-18",

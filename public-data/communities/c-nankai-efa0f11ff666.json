@@ -5,7 +5,7 @@
   "community": {
     "id": "nankai-efa0f11ff666",
     "slug": "c-nankai-efa0f11ff666",
-    "name": "雅环里津彪",
+    "name": "雅环里",
     "district_code": "120104",
     "district_name": "南开区",
     "submarket": "长虹街",
@@ -227,9 +227,9 @@
     },
     {
       "month": "2026-03",
-      "status": "no_data",
-      "transaction_count": 0,
-      "source_count": 0,
+      "status": "insufficient_sample",
+      "transaction_count": 1,
+      "source_count": 1,
       "median_unit_price": null,
       "median_total_price": null,
       "p25_unit_price": null,
@@ -332,7 +332,7 @@
         "≥144㎡"
       ],
       "counts": [
-        1,
+        2,
         0,
         0,
         0,
@@ -348,7 +348,7 @@
         "≥500万"
       ],
       "counts": [
-        1,
+        2,
         0,
         0,
         0,
@@ -364,6 +364,14 @@
       "floor": "4/6",
       "total_price_yuan": 600000,
       "unit_price_yuan": 10101
+    },
+    {
+      "deal_date": "2026-03-21",
+      "layout": "1-1-1-1",
+      "area_sqm": 57.87,
+      "floor": "5/6",
+      "total_price_yuan": 598000,
+      "unit_price_yuan": 10334
     }
   ]
 }

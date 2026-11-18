@@ -14,23 +14,23 @@
   "latest": {
     "month": "2026-10",
     "status": "published",
-    "transaction_count": 3,
+    "transaction_count": 5,
     "source_count": 1,
-    "median_unit_price": 3770,
-    "median_total_price": 440000,
-    "p25_unit_price": 3748,
-    "p75_unit_price": 4500,
+    "median_unit_price": 3786,
+    "median_total_price": 545000,
+    "p25_unit_price": 3770,
+    "p75_unit_price": 5230,
     "mom_pct": null,
     "yoy_pct": null
   },
   "observation": {
     "month": "2026-10",
-    "transaction_count": 3,
+    "transaction_count": 5,
     "source_count": 1,
-    "median_unit_price": 3770,
-    "median_total_price": 440000,
+    "median_unit_price": 3786,
+    "median_total_price": 545000,
     "min_unit_price": 3727,
-    "max_unit_price": 5230
+    "max_unit_price": 6167
   },
   "series": [
     {
@@ -312,12 +312,12 @@
     {
       "month": "2026-10",
       "status": "published",
-      "transaction_count": 3,
+      "transaction_count": 5,
       "source_count": 1,
-      "median_unit_price": 3770,
-      "median_total_price": 440000,
-      "p25_unit_price": 3748,
-      "p75_unit_price": 4500,
+      "median_unit_price": 3786,
+      "median_total_price": 545000,
+      "p25_unit_price": 3770,
+      "p75_unit_price": 5230,
       "mom_pct": null,
       "yoy_pct": null
     }
@@ -333,10 +333,10 @@
       ],
       "counts": [
         0,
-        7,
+        8,
         3,
         12,
-        4
+        5
       ]
     },
     "total_price": {
@@ -348,7 +348,7 @@
         "≥500万"
       ],
       "counts": [
-        19,
+        21,
         6,
         1,
         0,
@@ -357,6 +357,22 @@
     }
   },
   "transactions": [
+    {
+      "deal_date": "2026-10-24",
+      "layout": "3-2-1-2",
+      "area_sqm": 184.9,
+      "floor": "3/4",
+      "total_price_yuan": 700000,
+      "unit_price_yuan": 3786
+    },
+    {
+      "deal_date": "2026-10-23",
+      "layout": "2-2-1-1",
+      "area_sqm": 88.37,
+      "floor": "6/15",
+      "total_price_yuan": 545000,
+      "unit_price_yuan": 6167
+    },
     {
       "deal_date": "2026-10-20",
       "layout": "3-2-1-2",

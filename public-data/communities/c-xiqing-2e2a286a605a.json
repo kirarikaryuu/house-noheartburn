@@ -252,7 +252,7 @@
     {
       "month": "2026-05",
       "status": "insufficient_sample",
-      "transaction_count": 1,
+      "transaction_count": 2,
       "source_count": 1,
       "median_unit_price": null,
       "median_total_price": null,
@@ -334,7 +334,7 @@
       "counts": [
         0,
         0,
-        2,
+        3,
         9,
         0
       ]
@@ -349,7 +349,7 @@
       ],
       "counts": [
         0,
-        9,
+        10,
         2,
         0,
         0
@@ -404,6 +404,14 @@
       "floor": "7/11",
       "total_price_yuan": 1400000,
       "unit_price_yuan": 14712
+    },
+    {
+      "deal_date": "2026-05-08",
+      "layout": "3-2-1-1",
+      "area_sqm": 95.16,
+      "floor": "7/11",
+      "total_price_yuan": 1407000,
+      "unit_price_yuan": 14786
     },
     {
       "deal_date": "2026-04-27",

@@ -5,7 +5,7 @@
   "community": {
     "id": "hongqiao-e38ced96ca82",
     "slug": "c-hongqiao-e38ced96ca82",
-    "name": "天津彪哥锦西南里",
+    "name": "锦西南里",
     "district_code": "120106",
     "district_name": "红桥区",
     "submarket": "咸阳北路",
@@ -251,9 +251,9 @@
     },
     {
       "month": "2026-05",
-      "status": "no_data",
-      "transaction_count": 0,
-      "source_count": 0,
+      "status": "insufficient_sample",
+      "transaction_count": 1,
+      "source_count": 1,
       "median_unit_price": null,
       "median_total_price": null,
       "p25_unit_price": null,
@@ -334,7 +334,7 @@
       "counts": [
         0,
         0,
-        1,
+        2,
         0,
         0
       ]
@@ -349,7 +349,7 @@
       ],
       "counts": [
         1,
-        0,
+        1,
         0,
         0,
         0
@@ -364,6 +364,14 @@
       "floor": "2/6",
       "total_price_yuan": 800000,
       "unit_price_yuan": 8586
+    },
+    {
+      "deal_date": "2026-05-08",
+      "layout": "2-1-1-1",
+      "area_sqm": 93.77,
+      "floor": "",
+      "total_price_yuan": 1165000,
+      "unit_price_yuan": 12424
     }
   ]
 }

@@ -11,13 +11,13 @@
   "latest": {
     "month": "2026-10",
     "status": "published",
-    "transaction_count": 122,
+    "transaction_count": 119,
     "source_count": 1,
-    "median_unit_price": 7810,
-    "median_total_price": 652500,
-    "p25_unit_price": 6690,
-    "p75_unit_price": 10366,
-    "mom_pct": -1.3,
+    "median_unit_price": 7837,
+    "median_total_price": 650000,
+    "p25_unit_price": 6596,
+    "p75_unit_price": 10334,
+    "mom_pct": -3.0,
     "yoy_pct": null
   },
   "series": [
@@ -192,121 +192,121 @@
     {
       "month": "2026-01",
       "status": "published",
-      "transaction_count": 117,
+      "transaction_count": 106,
       "source_count": 1,
-      "median_unit_price": 7862,
-      "median_total_price": 600000,
-      "p25_unit_price": 5790,
-      "p75_unit_price": 10144,
+      "median_unit_price": 8049,
+      "median_total_price": 679000,
+      "p25_unit_price": 5746,
+      "p75_unit_price": 10204,
       "mom_pct": null,
       "yoy_pct": null
     },
     {
       "month": "2026-02",
       "status": "published",
-      "transaction_count": 148,
+      "transaction_count": 131,
       "source_count": 1,
-      "median_unit_price": 7854,
-      "median_total_price": 620000,
-      "p25_unit_price": 6288,
-      "p75_unit_price": 10024,
-      "mom_pct": -0.1,
+      "median_unit_price": 7887,
+      "median_total_price": 625000,
+      "p25_unit_price": 6232,
+      "p75_unit_price": 10186,
+      "mom_pct": -2.0,
       "yoy_pct": null
     },
     {
       "month": "2026-03",
       "status": "published",
-      "transaction_count": 601,
+      "transaction_count": 550,
       "source_count": 1,
-      "median_unit_price": 7963,
-      "median_total_price": 630000,
-      "p25_unit_price": 6591,
-      "p75_unit_price": 10126,
-      "mom_pct": 1.4,
+      "median_unit_price": 8075,
+      "median_total_price": 655000,
+      "p25_unit_price": 6533,
+      "p75_unit_price": 10388,
+      "mom_pct": 2.4,
       "yoy_pct": null
     },
     {
       "month": "2026-04",
       "status": "published",
-      "transaction_count": 464,
+      "transaction_count": 421,
       "source_count": 1,
-      "median_unit_price": 7938,
-      "median_total_price": 642000,
-      "p25_unit_price": 6700,
-      "p75_unit_price": 10160,
-      "mom_pct": -0.3,
+      "median_unit_price": 8149,
+      "median_total_price": 650000,
+      "p25_unit_price": 6669,
+      "p75_unit_price": 10351,
+      "mom_pct": 0.9,
       "yoy_pct": null
     },
     {
       "month": "2026-05",
       "status": "published",
-      "transaction_count": 392,
+      "transaction_count": 369,
       "source_count": 1,
-      "median_unit_price": 8272,
-      "median_total_price": 697500,
-      "p25_unit_price": 6618,
-      "p75_unit_price": 10289,
-      "mom_pct": 4.2,
+      "median_unit_price": 8298,
+      "median_total_price": 715000,
+      "p25_unit_price": 6541,
+      "p75_unit_price": 10405,
+      "mom_pct": 1.8,
       "yoy_pct": null
     },
     {
       "month": "2026-06",
       "status": "published",
-      "transaction_count": 370,
+      "transaction_count": 346,
       "source_count": 1,
-      "median_unit_price": 8012,
-      "median_total_price": 615500,
-      "p25_unit_price": 6394,
-      "p75_unit_price": 10240,
-      "mom_pct": -3.1,
+      "median_unit_price": 8100,
+      "median_total_price": 642500,
+      "p25_unit_price": 6363,
+      "p75_unit_price": 10332,
+      "mom_pct": -2.4,
       "yoy_pct": null
     },
     {
       "month": "2026-07",
       "status": "published",
-      "transaction_count": 350,
+      "transaction_count": 330,
       "source_count": 1,
-      "median_unit_price": 7832,
-      "median_total_price": 625000,
-      "p25_unit_price": 6075,
-      "p75_unit_price": 9708,
-      "mom_pct": -2.2,
+      "median_unit_price": 7815,
+      "median_total_price": 645000,
+      "p25_unit_price": 6048,
+      "p75_unit_price": 9763,
+      "mom_pct": -3.5,
       "yoy_pct": null
     },
     {
       "month": "2026-08",
       "status": "published",
-      "transaction_count": 355,
+      "transaction_count": 318,
       "source_count": 1,
-      "median_unit_price": 7930,
-      "median_total_price": 640000,
-      "p25_unit_price": 6422,
-      "p75_unit_price": 9867,
-      "mom_pct": 1.3,
+      "median_unit_price": 7932,
+      "median_total_price": 656500,
+      "p25_unit_price": 6216,
+      "p75_unit_price": 9868,
+      "mom_pct": 1.5,
       "yoy_pct": null
     },
     {
       "month": "2026-09",
       "status": "published",
-      "transaction_count": 309,
+      "transaction_count": 285,
       "source_count": 1,
-      "median_unit_price": 7909,
-      "median_total_price": 650000,
-      "p25_unit_price": 6313,
-      "p75_unit_price": 10146,
-      "mom_pct": -0.3,
+      "median_unit_price": 8083,
+      "median_total_price": 675000,
+      "p25_unit_price": 6227,
+      "p75_unit_price": 10322,
+      "mom_pct": 1.9,
       "yoy_pct": null
     },
     {
       "month": "2026-10",
       "status": "published",
-      "transaction_count": 122,
+      "transaction_count": 119,
       "source_count": 1,
-      "median_unit_price": 7810,
-      "median_total_price": 652500,
-      "p25_unit_price": 6690,
-      "p75_unit_price": 10366,
-      "mom_pct": -1.3,
+      "median_unit_price": 7837,
+      "median_total_price": 650000,
+      "p25_unit_price": 6596,
+      "p75_unit_price": 10334,
+      "mom_pct": -3.0,
       "yoy_pct": null
     }
   ],
@@ -922,6 +922,311 @@
       ]
     },
     {
+      "name": "双环邨",
+      "latest": {
+        "month": "2026-10",
+        "status": "published",
+        "transaction_count": 13,
+        "source_count": 1,
+        "median_unit_price": 9489,
+        "median_total_price": 525000,
+        "p25_unit_price": 6729,
+        "p75_unit_price": 9745,
+        "mom_pct": -3.0,
+        "yoy_pct": null
+      },
+      "series": [
+        {
+          "month": "2024-11",
+          "status": "no_data",
+          "transaction_count": 0,
+          "source_count": 0,
+          "median_unit_price": null,
+          "median_total_price": null,
+          "p25_unit_price": null,
+          "p75_unit_price": null,
+          "mom_pct": null,
+          "yoy_pct": null
+        },
+        {
+          "month": "2024-12",
+          "status": "no_data",
+          "transaction_count": 0,
+          "source_count": 0,
+          "median_unit_price": null,
+          "median_total_price": null,
+          "p25_unit_price": null,
+          "p75_unit_price": null,
+          "mom_pct": null,
+          "yoy_pct": null
+        },
+        {
+          "month": "2025-01",
+          "status": "no_data",
+          "transaction_count": 0,
+          "source_count": 0,
+          "median_unit_price": null,
+          "median_total_price": null,
+          "p25_unit_price": null,
+          "p75_unit_price": null,
+          "mom_pct": null,
+          "yoy_pct": null
+        },
+        {
+          "month": "2025-02",
+          "status": "no_data",
+          "transaction_count": 0,
+          "source_count": 0,
+          "median_unit_price": null,
+          "median_total_price": null,
+          "p25_unit_price": null,
+          "p75_unit_price": null,
+          "mom_pct": null,
+          "yoy_pct": null
+        },
+        {
+          "month": "2025-03",
+          "status": "no_data",
+          "transaction_count": 0,
+          "source_count": 0,
+          "median_unit_price": null,
+          "median_total_price": null,
+          "p25_unit_price": null,
+          "p75_unit_price": null,
+          "mom_pct": null,
+          "yoy_pct": null
+        },
+        {
+          "month": "2025-04",
+          "status": "no_data",
+          "transaction_count": 0,
+          "source_count": 0,
+          "median_unit_price": null,
+          "median_total_price": null,
+          "p25_unit_price": null,
+          "p75_unit_price": null,
+          "mom_pct": null,
+          "yoy_pct": null
+        },
+        {
+          "month": "2025-05",
+          "status": "no_data",
+          "transaction_count": 0,
+          "source_count": 0,
+          "median_unit_price": null,
+          "median_total_price": null,
+          "p25_unit_price": null,
+          "p75_unit_price": null,
+          "mom_pct": null,
+          "yoy_pct": null
+        },
+        {
+          "month": "2025-06",
+          "status": "no_data",
+          "transaction_count": 0,
+          "source_count": 0,
+          "median_unit_price": null,
+          "median_total_price": null,
+          "p25_unit_price": null,
+          "p75_unit_price": null,
+          "mom_pct": null,
+          "yoy_pct": null
+        },
+        {
+          "month": "2025-07",
+          "status": "no_data",
+          "transaction_count": 0,
+          "source_count": 0,
+          "median_unit_price": null,
+          "median_total_price": null,
+          "p25_unit_price": null,
+          "p75_unit_price": null,
+          "mom_pct": null,
+          "yoy_pct": null
+        },
+        {
+          "month": "2025-08",
+          "status": "no_data",
+          "transaction_count": 0,
+          "source_count": 0,
+          "median_unit_price": null,
+          "median_total_price": null,
+          "p25_unit_price": null,
+          "p75_unit_price": null,
+          "mom_pct": null,
+          "yoy_pct": null
+        },
+        {
+          "month": "2025-09",
+          "status": "no_data",
+          "transaction_count": 0,
+          "source_count": 0,
+          "median_unit_price": null,
+          "median_total_price": null,
+          "p25_unit_price": null,
+          "p75_unit_price": null,
+          "mom_pct": null,
+          "yoy_pct": null
+        },
+        {
+          "month": "2025-10",
+          "status": "no_data",
+          "transaction_count": 0,
+          "source_count": 0,
+          "median_unit_price": null,
+          "median_total_price": null,
+          "p25_unit_price": null,
+          "p75_unit_price": null,
+          "mom_pct": null,
+          "yoy_pct": null
+        },
+        {
+          "month": "2025-11",
+          "status": "no_data",
+          "transaction_count": 0,
+          "source_count": 0,
+          "median_unit_price": null,
+          "median_total_price": null,
+          "p25_unit_price": null,
+          "p75_unit_price": null,
+          "mom_pct": null,
+          "yoy_pct": null
+        },
+        {
+          "month": "2025-12",
+          "status": "no_data",
+          "transaction_count": 0,
+          "source_count": 0,
+          "median_unit_price": null,
+          "median_total_price": null,
+          "p25_unit_price": null,
+          "p75_unit_price": null,
+          "mom_pct": null,
+          "yoy_pct": null
+        },
+        {
+          "month": "2026-01",
+          "status": "published",
+          "transaction_count": 11,
+          "source_count": 1,
+          "median_unit_price": 9123,
+          "median_total_price": 400000,
+          "p25_unit_price": 5769,
+          "p75_unit_price": 9978,
+          "mom_pct": null,
+          "yoy_pct": null
+        },
+        {
+          "month": "2026-02",
+          "status": "published",
+          "transaction_count": 8,
+          "source_count": 1,
+          "median_unit_price": 8554,
+          "median_total_price": 457500,
+          "p25_unit_price": 8077,
+          "p75_unit_price": 9291,
+          "mom_pct": -6.2,
+          "yoy_pct": null
+        },
+        {
+          "month": "2026-03",
+          "status": "published",
+          "transaction_count": 28,
+          "source_count": 1,
+          "median_unit_price": 7276,
+          "median_total_price": 434000,
+          "p25_unit_price": 6368,
+          "p75_unit_price": 8690,
+          "mom_pct": -14.9,
+          "yoy_pct": null
+        },
+        {
+          "month": "2026-04",
+          "status": "published",
+          "transaction_count": 30,
+          "source_count": 1,
+          "median_unit_price": 7258,
+          "median_total_price": 415000,
+          "p25_unit_price": 6138,
+          "p75_unit_price": 7759,
+          "mom_pct": -0.2,
+          "yoy_pct": null
+        },
+        {
+          "month": "2026-05",
+          "status": "published",
+          "transaction_count": 38,
+          "source_count": 1,
+          "median_unit_price": 8232,
+          "median_total_price": 495000,
+          "p25_unit_price": 6386,
+          "p75_unit_price": 10318,
+          "mom_pct": 13.4,
+          "yoy_pct": null
+        },
+        {
+          "month": "2026-06",
+          "status": "published",
+          "transaction_count": 21,
+          "source_count": 1,
+          "median_unit_price": 7084,
+          "median_total_price": 390000,
+          "p25_unit_price": 6195,
+          "p75_unit_price": 9168,
+          "mom_pct": -13.9,
+          "yoy_pct": null
+        },
+        {
+          "month": "2026-07",
+          "status": "published",
+          "transaction_count": 21,
+          "source_count": 1,
+          "median_unit_price": 7395,
+          "median_total_price": 413000,
+          "p25_unit_price": 6165,
+          "p75_unit_price": 8090,
+          "mom_pct": 4.4,
+          "yoy_pct": null
+        },
+        {
+          "month": "2026-08",
+          "status": "published",
+          "transaction_count": 11,
+          "source_count": 1,
+          "median_unit_price": 8848,
+          "median_total_price": 653000,
+          "p25_unit_price": 5768,
+          "p75_unit_price": 11146,
+          "mom_pct": 19.6,
+          "yoy_pct": null
+        },
+        {
+          "month": "2026-09",
+          "status": "published",
+          "transaction_count": 15,
+          "source_count": 1,
+          "median_unit_price": 9785,
+          "median_total_price": 667000,
+          "p25_unit_price": 8154,
+          "p75_unit_price": 10760,
+          "mom_pct": 10.6,
+          "yoy_pct": null
+        },
+        {
+          "month": "2026-10",
+          "status": "published",
+          "transaction_count": 13,
+          "source_count": 1,
+          "median_unit_price": 9489,
+          "median_total_price": 525000,
+          "p25_unit_price": 6729,
+          "p75_unit_price": 9745,
+          "mom_pct": -3.0,
+          "yoy_pct": null
+        }
+      ]
+    },
+    {
       "name": "小淀镇",
       "latest": {
         "month": "2026-09",
@@ -1227,311 +1532,6 @@
       ]
     },
     {
-      "name": "双环邨",
-      "latest": {
-        "month": "2026-10",
-        "status": "published",
-        "transaction_count": 16,
-        "source_count": 1,
-        "median_unit_price": 8430,
-        "median_total_price": 497500,
-        "p25_unit_price": 7289,
-        "p75_unit_price": 9553,
-        "mom_pct": 8.0,
-        "yoy_pct": null
-      },
-      "series": [
-        {
-          "month": "2024-11",
-          "status": "no_data",
-          "transaction_count": 0,
-          "source_count": 0,
-          "median_unit_price": null,
-          "median_total_price": null,
-          "p25_unit_price": null,
-          "p75_unit_price": null,
-          "mom_pct": null,
-          "yoy_pct": null
-        },
-        {
-          "month": "2024-12",
-          "status": "no_data",
-          "transaction_count": 0,
-          "source_count": 0,
-          "median_unit_price": null,
-          "median_total_price": null,
-          "p25_unit_price": null,
-          "p75_unit_price": null,
-          "mom_pct": null,
-          "yoy_pct": null
-        },
-        {
-          "month": "2025-01",
-          "status": "no_data",
-          "transaction_count": 0,
-          "source_count": 0,
-          "median_unit_price": null,
-          "median_total_price": null,
-          "p25_unit_price": null,
-          "p75_unit_price": null,
-          "mom_pct": null,
-          "yoy_pct": null
-        },
-        {
-          "month": "2025-02",
-          "status": "no_data",
-          "transaction_count": 0,
-          "source_count": 0,
-          "median_unit_price": null,
-          "median_total_price": null,
-          "p25_unit_price": null,
-          "p75_unit_price": null,
-          "mom_pct": null,
-          "yoy_pct": null
-        },
-        {
-          "month": "2025-03",
-          "status": "no_data",
-          "transaction_count": 0,
-          "source_count": 0,
-          "median_unit_price": null,
-          "median_total_price": null,
-          "p25_unit_price": null,
-          "p75_unit_price": null,
-          "mom_pct": null,
-          "yoy_pct": null
-        },
-        {
-          "month": "2025-04",
-          "status": "no_data",
-          "transaction_count": 0,
-          "source_count": 0,
-          "median_unit_price": null,
-          "median_total_price": null,
-          "p25_unit_price": null,
-          "p75_unit_price": null,
-          "mom_pct": null,
-          "yoy_pct": null
-        },
-        {
-          "month": "2025-05",
-          "status": "no_data",
-          "transaction_count": 0,
-          "source_count": 0,
-          "median_unit_price": null,
-          "median_total_price": null,
-          "p25_unit_price": null,
-          "p75_unit_price": null,
-          "mom_pct": null,
-          "yoy_pct": null
-        },
-        {
-          "month": "2025-06",
-          "status": "no_data",
-          "transaction_count": 0,
-          "source_count": 0,
-          "median_unit_price": null,
-          "median_total_price": null,
-          "p25_unit_price": null,
-          "p75_unit_price": null,
-          "mom_pct": null,
-          "yoy_pct": null
-        },
-        {
-          "month": "2025-07",
-          "status": "no_data",
-          "transaction_count": 0,
-          "source_count": 0,
-          "median_unit_price": null,
-          "median_total_price": null,
-          "p25_unit_price": null,
-          "p75_unit_price": null,
-          "mom_pct": null,
-          "yoy_pct": null
-        },
-        {
-          "month": "2025-08",
-          "status": "no_data",
-          "transaction_count": 0,
-          "source_count": 0,
-          "median_unit_price": null,
-          "median_total_price": null,
-          "p25_unit_price": null,
-          "p75_unit_price": null,
-          "mom_pct": null,
-          "yoy_pct": null
-        },
-        {
-          "month": "2025-09",
-          "status": "no_data",
-          "transaction_count": 0,
-          "source_count": 0,
-          "median_unit_price": null,
-          "median_total_price": null,
-          "p25_unit_price": null,
-          "p75_unit_price": null,
-          "mom_pct": null,
-          "yoy_pct": null
-        },
-        {
-          "month": "2025-10",
-          "status": "no_data",
-          "transaction_count": 0,
-          "source_count": 0,
-          "median_unit_price": null,
-          "median_total_price": null,
-          "p25_unit_price": null,
-          "p75_unit_price": null,
-          "mom_pct": null,
-          "yoy_pct": null
-        },
-        {
-          "month": "2025-11",
-          "status": "no_data",
-          "transaction_count": 0,
-          "source_count": 0,
-          "median_unit_price": null,
-          "median_total_price": null,
-          "p25_unit_price": null,
-          "p75_unit_price": null,
-          "mom_pct": null,
-          "yoy_pct": null
-        },
-        {
-          "month": "2025-12",
-          "status": "no_data",
-          "transaction_count": 0,
-          "source_count": 0,
-          "median_unit_price": null,
-          "median_total_price": null,
-          "p25_unit_price": null,
-          "p75_unit_price": null,
-          "mom_pct": null,
-          "yoy_pct": null
-        },
-        {
-          "month": "2026-01",
-          "status": "published",
-          "transaction_count": 22,
-          "source_count": 1,
-          "median_unit_price": 6937,
-          "median_total_price": 408000,
-          "p25_unit_price": 6126,
-          "p75_unit_price": 9316,
-          "mom_pct": null,
-          "yoy_pct": null
-        },
-        {
-          "month": "2026-02",
-          "status": "published",
-          "transaction_count": 25,
-          "source_count": 1,
-          "median_unit_price": 8206,
-          "median_total_price": 515000,
-          "p25_unit_price": 6812,
-          "p75_unit_price": 9046,
-          "mom_pct": 18.3,
-          "yoy_pct": null
-        },
-        {
-          "month": "2026-03",
-          "status": "published",
-          "transaction_count": 82,
-          "source_count": 1,
-          "median_unit_price": 7397,
-          "median_total_price": 454500,
-          "p25_unit_price": 6736,
-          "p75_unit_price": 8325,
-          "mom_pct": -9.9,
-          "yoy_pct": null
-        },
-        {
-          "month": "2026-04",
-          "status": "published",
-          "transaction_count": 73,
-          "source_count": 1,
-          "median_unit_price": 7344,
-          "median_total_price": 440000,
-          "p25_unit_price": 6315,
-          "p75_unit_price": 8063,
-          "mom_pct": -0.7,
-          "yoy_pct": null
-        },
-        {
-          "month": "2026-05",
-          "status": "published",
-          "transaction_count": 61,
-          "source_count": 1,
-          "median_unit_price": 8135,
-          "median_total_price": 472000,
-          "p25_unit_price": 6777,
-          "p75_unit_price": 9672,
-          "mom_pct": 10.8,
-          "yoy_pct": null
-        },
-        {
-          "month": "2026-06",
-          "status": "published",
-          "transaction_count": 45,
-          "source_count": 1,
-          "median_unit_price": 7731,
-          "median_total_price": 435000,
-          "p25_unit_price": 6486,
-          "p75_unit_price": 8712,
-          "mom_pct": -5.0,
-          "yoy_pct": null
-        },
-        {
-          "month": "2026-07",
-          "status": "published",
-          "transaction_count": 41,
-          "source_count": 1,
-          "median_unit_price": 7542,
-          "median_total_price": 500000,
-          "p25_unit_price": 6275,
-          "p75_unit_price": 8340,
-          "mom_pct": -2.4,
-          "yoy_pct": null
-        },
-        {
-          "month": "2026-08",
-          "status": "published",
-          "transaction_count": 48,
-          "source_count": 1,
-          "median_unit_price": 8034,
-          "median_total_price": 500000,
-          "p25_unit_price": 7317,
-          "p75_unit_price": 10139,
-          "mom_pct": 6.5,
-          "yoy_pct": null
-        },
-        {
-          "month": "2026-09",
-          "status": "published",
-          "transaction_count": 39,
-          "source_count": 1,
-          "median_unit_price": 7806,
-          "median_total_price": 535000,
-          "p25_unit_price": 6964,
-          "p75_unit_price": 9078,
-          "mom_pct": -2.8,
-          "yoy_pct": null
-        },
-        {
-          "month": "2026-10",
-          "status": "published",
-          "transaction_count": 16,
-          "source_count": 1,
-          "median_unit_price": 8430,
-          "median_total_price": 497500,
-          "p25_unit_price": 7289,
-          "p75_unit_price": 9553,
-          "mom_pct": 8.0,
-          "yoy_pct": null
-        }
-      ]
-    },
-    {
       "name": "天穆镇",
       "latest": {
         "month": "2026-10",
@@ -1741,13 +1741,13 @@
         {
           "month": "2026-03",
           "status": "published",
-          "transaction_count": 90,
+          "transaction_count": 93,
           "source_count": 1,
-          "median_unit_price": 8788,
-          "median_total_price": 812500,
-          "p25_unit_price": 7306,
-          "p75_unit_price": 11165,
-          "mom_pct": 18.1,
+          "median_unit_price": 8996,
+          "median_total_price": 838000,
+          "p25_unit_price": 7336,
+          "p75_unit_price": 11257,
+          "mom_pct": 20.9,
           "yoy_pct": null
         },
         {
@@ -1759,7 +1759,7 @@
           "median_total_price": 740000,
           "p25_unit_price": 7127,
           "p75_unit_price": 10150,
-          "mom_pct": -3.1,
+          "mom_pct": -5.4,
           "yoy_pct": null
         },
         {
@@ -4285,34 +4285,6 @@
       }
     },
     {
-      "id": "beichen-8bf65cd5f664",
-      "slug": "c-beichen-8bf65cd5f664",
-      "name": "启春里",
-      "submarket": "双环邨",
-      "property_use": "unknown",
-      "latest": {
-        "month": "2026-09",
-        "status": "insufficient_sample",
-        "transaction_count": 1,
-        "source_count": 1,
-        "median_unit_price": null,
-        "median_total_price": null,
-        "p25_unit_price": null,
-        "p75_unit_price": null,
-        "mom_pct": null,
-        "yoy_pct": null
-      },
-      "observation": {
-        "month": "2026-09",
-        "transaction_count": 1,
-        "source_count": 1,
-        "median_unit_price": 14363,
-        "median_total_price": 1380000,
-        "min_unit_price": 14363,
-        "max_unit_price": 14363
-      }
-    },
-    {
       "id": "beichen-cc674935d958",
       "slug": "c-beichen-cc674935d958",
       "name": "金地艺城华府北泽雅",
@@ -4341,6 +4313,34 @@
       }
     },
     {
+      "id": "beichen-8bf65cd5f664",
+      "slug": "c-beichen-8bf65cd5f664",
+      "name": "启春里",
+      "submarket": "双环邨",
+      "property_use": "unknown",
+      "latest": {
+        "month": "2026-10",
+        "status": "insufficient_sample",
+        "transaction_count": 1,
+        "source_count": 1,
+        "median_unit_price": null,
+        "median_total_price": null,
+        "p25_unit_price": null,
+        "p75_unit_price": null,
+        "mom_pct": null,
+        "yoy_pct": null
+      },
+      "observation": {
+        "month": "2026-10",
+        "transaction_count": 1,
+        "source_count": 1,
+        "median_unit_price": 14284,
+        "median_total_price": 1425000,
+        "min_unit_price": 14284,
+        "max_unit_price": 14284
+      }
+    },
+    {
       "id": "beichen-ac16becd6130",
       "slug": "c-beichen-ac16becd6130",
       "name": "铭辰雅苑铭辰佳苑",
@@ -4366,34 +4366,6 @@
         "median_total_price": 850000,
         "min_unit_price": 14240,
         "max_unit_price": 14240
-      }
-    },
-    {
-      "id": "beichen-20455e79d054",
-      "slug": "c-beichen-20455e79d054",
-      "name": "中交春风景里",
-      "submarket": "双环邨",
-      "property_use": "unknown",
-      "latest": {
-        "month": "2026-09",
-        "status": "insufficient_sample",
-        "transaction_count": 1,
-        "source_count": 1,
-        "median_unit_price": null,
-        "median_total_price": null,
-        "p25_unit_price": null,
-        "p75_unit_price": null,
-        "mom_pct": null,
-        "yoy_pct": null
-      },
-      "observation": {
-        "month": "2026-09",
-        "transaction_count": 1,
-        "source_count": 1,
-        "median_unit_price": 14222,
-        "median_total_price": 1266000,
-        "min_unit_price": 14222,
-        "max_unit_price": 14222
       }
     },
     {
@@ -4534,34 +4506,6 @@
         "median_total_price": 780000,
         "min_unit_price": 13703,
         "max_unit_price": 13703
-      }
-    },
-    {
-      "id": "beichen-679bbfb8ab61",
-      "slug": "c-beichen-679bbfb8ab61",
-      "name": "佳宁里",
-      "submarket": "双环邨",
-      "property_use": "unknown",
-      "latest": {
-        "month": "2026-09",
-        "status": "insufficient_sample",
-        "transaction_count": 1,
-        "source_count": 1,
-        "median_unit_price": null,
-        "median_total_price": null,
-        "p25_unit_price": null,
-        "p75_unit_price": null,
-        "mom_pct": null,
-        "yoy_pct": null
-      },
-      "observation": {
-        "month": "2026-09",
-        "transaction_count": 1,
-        "source_count": 1,
-        "median_unit_price": 13692,
-        "median_total_price": 1370000,
-        "min_unit_price": 13692,
-        "max_unit_price": 13692
       }
     },
     {
@@ -4898,34 +4842,6 @@
         "median_total_price": 1555000,
         "min_unit_price": 12696,
         "max_unit_price": 12696
-      }
-    },
-    {
-      "id": "beichen-0cfd24ee9180",
-      "slug": "c-beichen-0cfd24ee9180",
-      "name": "人民家园",
-      "submarket": "双环邨",
-      "property_use": "unknown",
-      "latest": {
-        "month": "2026-08",
-        "status": "insufficient_sample",
-        "transaction_count": 1,
-        "source_count": 1,
-        "median_unit_price": null,
-        "median_total_price": null,
-        "p25_unit_price": null,
-        "p75_unit_price": null,
-        "mom_pct": null,
-        "yoy_pct": null
-      },
-      "observation": {
-        "month": "2026-08",
-        "transaction_count": 1,
-        "source_count": 1,
-        "median_unit_price": 12664,
-        "median_total_price": 1100000,
-        "min_unit_price": 12664,
-        "max_unit_price": 12664
       }
     },
     {
@@ -5825,34 +5741,6 @@
       }
     },
     {
-      "id": "beichen-253e4fd87373",
-      "slug": "c-beichen-253e4fd87373",
-      "name": "天津彪雍祥府",
-      "submarket": "天穆镇",
-      "property_use": "unknown",
-      "latest": {
-        "month": "2026-05",
-        "status": "insufficient_sample",
-        "transaction_count": 1,
-        "source_count": 1,
-        "median_unit_price": null,
-        "median_total_price": null,
-        "p25_unit_price": null,
-        "p75_unit_price": null,
-        "mom_pct": null,
-        "yoy_pct": null
-      },
-      "observation": {
-        "month": "2026-05",
-        "transaction_count": 1,
-        "source_count": 1,
-        "median_unit_price": 10950,
-        "median_total_price": 1255000,
-        "min_unit_price": 10950,
-        "max_unit_price": 10950
-      }
-    },
-    {
       "id": "beichen-cad0b8632a1b",
       "slug": "c-beichen-cad0b8632a1b",
       "name": "金隅金成熙府",
@@ -5906,34 +5794,6 @@
         "median_total_price": 720000,
         "min_unit_price": 10919,
         "max_unit_price": 10919
-      }
-    },
-    {
-      "id": "beichen-9bed660a19b0",
-      "slug": "c-beichen-9bed660a19b0",
-      "name": "栊翠里",
-      "submarket": "双环邨",
-      "property_use": "unknown",
-      "latest": {
-        "month": "2026-03",
-        "status": "insufficient_sample",
-        "transaction_count": 2,
-        "source_count": 1,
-        "median_unit_price": null,
-        "median_total_price": null,
-        "p25_unit_price": null,
-        "p75_unit_price": null,
-        "mom_pct": null,
-        "yoy_pct": null
-      },
-      "observation": {
-        "month": "2026-03",
-        "transaction_count": 2,
-        "source_count": 1,
-        "median_unit_price": 10881,
-        "median_total_price": 840000,
-        "min_unit_price": 9933,
-        "max_unit_price": 11829
       }
     },
     {
@@ -6105,34 +5965,6 @@
       }
     },
     {
-      "id": "beichen-f10349c2c4b9",
-      "slug": "c-beichen-f10349c2c4b9",
-      "name": "瑞亨花园",
-      "submarket": "双环邨",
-      "property_use": "unknown",
-      "latest": {
-        "month": "2026-04",
-        "status": "insufficient_sample",
-        "transaction_count": 1,
-        "source_count": 1,
-        "median_unit_price": null,
-        "median_total_price": null,
-        "p25_unit_price": null,
-        "p75_unit_price": null,
-        "mom_pct": null,
-        "yoy_pct": null
-      },
-      "observation": {
-        "month": "2026-04",
-        "transaction_count": 1,
-        "source_count": 1,
-        "median_unit_price": 10488,
-        "median_total_price": 690000,
-        "min_unit_price": 10488,
-        "max_unit_price": 10488
-      }
-    },
-    {
       "id": "beichen-dc95b97dbfcb",
       "slug": "c-beichen-dc95b97dbfcb",
       "name": "星河国际辰雅佳苑",
@@ -6186,34 +6018,6 @@
         "median_total_price": 930000,
         "min_unit_price": 10430,
         "max_unit_price": 10430
-      }
-    },
-    {
-      "id": "beichen-c89ea67dbcbb",
-      "slug": "c-beichen-c89ea67dbcbb",
-      "name": "佳春里",
-      "submarket": "双环邨",
-      "property_use": "unknown",
-      "latest": {
-        "month": "2026-10",
-        "status": "insufficient_sample",
-        "transaction_count": 1,
-        "source_count": 1,
-        "median_unit_price": null,
-        "median_total_price": null,
-        "p25_unit_price": null,
-        "p75_unit_price": null,
-        "mom_pct": null,
-        "yoy_pct": null
-      },
-      "observation": {
-        "month": "2026-10",
-        "transaction_count": 1,
-        "source_count": 1,
-        "median_unit_price": 10429,
-        "median_total_price": 396000,
-        "min_unit_price": 10429,
-        "max_unit_price": 10429
       }
     },
     {
@@ -6441,34 +6245,6 @@
       }
     },
     {
-      "id": "beichen-ce8d9b14f274",
-      "slug": "c-beichen-ce8d9b14f274",
-      "name": "彭哥说普发里",
-      "submarket": "普东街",
-      "property_use": "unknown",
-      "latest": {
-        "month": "2026-07",
-        "status": "insufficient_sample",
-        "transaction_count": 1,
-        "source_count": 1,
-        "median_unit_price": null,
-        "median_total_price": null,
-        "p25_unit_price": null,
-        "p75_unit_price": null,
-        "mom_pct": null,
-        "yoy_pct": null
-      },
-      "observation": {
-        "month": "2026-07",
-        "transaction_count": 1,
-        "source_count": 1,
-        "median_unit_price": 10077,
-        "median_total_price": 1880000,
-        "min_unit_price": 10077,
-        "max_unit_price": 10077
-      }
-    },
-    {
       "id": "beichen-f9692fa2b308",
       "slug": "c-beichen-f9692fa2b308",
       "name": "宝翠花都焕景园",
@@ -6494,34 +6270,6 @@
         "median_total_price": 1273000,
         "min_unit_price": 9995,
         "max_unit_price": 9995
-      }
-    },
-    {
-      "id": "beichen-e7bd4b692e27",
-      "slug": "c-beichen-e7bd4b692e27",
-      "name": "井田公寓",
-      "submarket": "双环邨",
-      "property_use": "unknown",
-      "latest": {
-        "month": "2026-08",
-        "status": "insufficient_sample",
-        "transaction_count": 2,
-        "source_count": 1,
-        "median_unit_price": null,
-        "median_total_price": null,
-        "p25_unit_price": null,
-        "p75_unit_price": null,
-        "mom_pct": null,
-        "yoy_pct": null
-      },
-      "observation": {
-        "month": "2026-08",
-        "transaction_count": 2,
-        "source_count": 1,
-        "median_unit_price": 9987,
-        "median_total_price": 670000,
-        "min_unit_price": 8534,
-        "max_unit_price": 11440
       }
     },
     {
@@ -6637,31 +6385,31 @@
       }
     },
     {
-      "id": "beichen-a76f939d781d",
-      "slug": "c-beichen-a76f939d781d",
-      "name": "佳欣里",
+      "id": "beichen-02feb8bc3cb5",
+      "slug": "c-beichen-02feb8bc3cb5",
+      "name": "佳园北里",
       "submarket": "双环邨",
       "property_use": "unknown",
       "latest": {
         "month": "2026-10",
-        "status": "insufficient_sample",
-        "transaction_count": 2,
+        "status": "published",
+        "transaction_count": 4,
         "source_count": 1,
-        "median_unit_price": null,
-        "median_total_price": null,
-        "p25_unit_price": null,
-        "p75_unit_price": null,
+        "median_unit_price": 9736,
+        "median_total_price": 572500,
+        "p25_unit_price": 8438,
+        "p75_unit_price": 9745,
         "mom_pct": null,
         "yoy_pct": null
       },
       "observation": {
         "month": "2026-10",
-        "transaction_count": 2,
+        "transaction_count": 4,
         "source_count": 1,
-        "median_unit_price": 9784,
-        "median_total_price": 595000,
-        "min_unit_price": 9489,
-        "max_unit_price": 10079
+        "median_unit_price": 9736,
+        "median_total_price": 572500,
+        "min_unit_price": 4576,
+        "max_unit_price": 9745
       }
     },
     {
@@ -6945,6 +6693,34 @@
       }
     },
     {
+      "id": "beichen-a76f939d781d",
+      "slug": "c-beichen-a76f939d781d",
+      "name": "佳欣里",
+      "submarket": "双环邨",
+      "property_use": "unknown",
+      "latest": {
+        "month": "2026-10",
+        "status": "published",
+        "transaction_count": 3,
+        "source_count": 1,
+        "median_unit_price": 9489,
+        "median_total_price": 525000,
+        "p25_unit_price": 9489,
+        "p75_unit_price": 9784,
+        "mom_pct": null,
+        "yoy_pct": null
+      },
+      "observation": {
+        "month": "2026-10",
+        "transaction_count": 3,
+        "source_count": 1,
+        "median_unit_price": 9489,
+        "median_total_price": 525000,
+        "min_unit_price": 9489,
+        "max_unit_price": 10079
+      }
+    },
+    {
       "id": "beichen-e355f5b5388a",
       "slug": "c-beichen-e355f5b5388a",
       "name": "大华锦绣华城",
@@ -7026,34 +6802,6 @@
         "median_total_price": 1080000,
         "min_unit_price": 9411,
         "max_unit_price": 9411
-      }
-    },
-    {
-      "id": "beichen-3f782b4ce8e4",
-      "slug": "c-beichen-3f782b4ce8e4",
-      "name": "佳荣里",
-      "submarket": "双环邨",
-      "property_use": "unknown",
-      "latest": {
-        "month": "2026-10",
-        "status": "insufficient_sample",
-        "transaction_count": 1,
-        "source_count": 1,
-        "median_unit_price": null,
-        "median_total_price": null,
-        "p25_unit_price": null,
-        "p75_unit_price": null,
-        "mom_pct": null,
-        "yoy_pct": null
-      },
-      "observation": {
-        "month": "2026-10",
-        "transaction_count": 1,
-        "source_count": 1,
-        "median_unit_price": 9392,
-        "median_total_price": 697000,
-        "min_unit_price": 9392,
-        "max_unit_price": 9392
       }
     },
     {
@@ -7250,34 +6998,6 @@
         "median_total_price": 790000,
         "min_unit_price": 9123,
         "max_unit_price": 9123
-      }
-    },
-    {
-      "id": "beichen-141ff8b07bb5",
-      "slug": "c-beichen-141ff8b07bb5",
-      "name": "佳庆里",
-      "submarket": "双环邨",
-      "property_use": "unknown",
-      "latest": {
-        "month": "2026-08",
-        "status": "insufficient_sample",
-        "transaction_count": 1,
-        "source_count": 1,
-        "median_unit_price": null,
-        "median_total_price": null,
-        "p25_unit_price": null,
-        "p75_unit_price": null,
-        "mom_pct": null,
-        "yoy_pct": null
-      },
-      "observation": {
-        "month": "2026-08",
-        "transaction_count": 1,
-        "source_count": 1,
-        "median_unit_price": 9121,
-        "median_total_price": 420000,
-        "min_unit_price": 9121,
-        "max_unit_price": 9121
       }
     },
     {
@@ -7589,34 +7309,6 @@
       }
     },
     {
-      "id": "beichen-1acc73ef2e75",
-      "slug": "c-beichen-1acc73ef2e75",
-      "name": "瑞达里",
-      "submarket": "双环邨",
-      "property_use": "unknown",
-      "latest": {
-        "month": "2026-10",
-        "status": "insufficient_sample",
-        "transaction_count": 1,
-        "source_count": 1,
-        "median_unit_price": null,
-        "median_total_price": null,
-        "p25_unit_price": null,
-        "p75_unit_price": null,
-        "mom_pct": null,
-        "yoy_pct": null
-      },
-      "observation": {
-        "month": "2026-10",
-        "transaction_count": 1,
-        "source_count": 1,
-        "median_unit_price": 8821,
-        "median_total_price": 750000,
-        "min_unit_price": 8821,
-        "max_unit_price": 8821
-      }
-    },
-    {
       "id": "beichen-795cfccaaeb9",
       "slug": "c-beichen-795cfccaaeb9",
       "name": "碧樾园",
@@ -7726,34 +7418,6 @@
         "median_total_price": 773000,
         "min_unit_price": 8657,
         "max_unit_price": 8657
-      }
-    },
-    {
-      "id": "beichen-bbf7aa85c7b4",
-      "slug": "c-beichen-bbf7aa85c7b4",
-      "name": "佳园东里(东区)",
-      "submarket": "双环邨",
-      "property_use": "unknown",
-      "latest": {
-        "month": "2026-09",
-        "status": "insufficient_sample",
-        "transaction_count": 2,
-        "source_count": 1,
-        "median_unit_price": null,
-        "median_total_price": null,
-        "p25_unit_price": null,
-        "p75_unit_price": null,
-        "mom_pct": null,
-        "yoy_pct": null
-      },
-      "observation": {
-        "month": "2026-09",
-        "transaction_count": 2,
-        "source_count": 1,
-        "median_unit_price": 8612,
-        "median_total_price": 683500,
-        "min_unit_price": 8408,
-        "max_unit_price": 8816
       }
     },
     {
@@ -7894,34 +7558,6 @@
         "median_total_price": 620000,
         "min_unit_price": 7999,
         "max_unit_price": 9031
-      }
-    },
-    {
-      "id": "beichen-90fbdd6b80e8",
-      "slug": "c-beichen-90fbdd6b80e8",
-      "name": "瑞顺里",
-      "submarket": "双环邨",
-      "property_use": "unknown",
-      "latest": {
-        "month": "2026-08",
-        "status": "insufficient_sample",
-        "transaction_count": 1,
-        "source_count": 1,
-        "median_unit_price": null,
-        "median_total_price": null,
-        "p25_unit_price": null,
-        "p75_unit_price": null,
-        "mom_pct": null,
-        "yoy_pct": null
-      },
-      "observation": {
-        "month": "2026-08",
-        "transaction_count": 1,
-        "source_count": 1,
-        "median_unit_price": 8446,
-        "median_total_price": 450000,
-        "min_unit_price": 8446,
-        "max_unit_price": 8446
       }
     },
     {
@@ -8513,9 +8149,9 @@
       }
     },
     {
-      "id": "beichen-b10790698f21",
-      "slug": "c-beichen-b10790698f21",
-      "name": "浩达公寓",
+      "id": "beichen-679bbfb8ab61",
+      "slug": "c-beichen-679bbfb8ab61",
+      "name": "佳宁里",
       "submarket": "双环邨",
       "property_use": "unknown",
       "latest": {
@@ -8534,10 +8170,10 @@
         "month": "2026-10",
         "transaction_count": 1,
         "source_count": 1,
-        "median_unit_price": 8040,
-        "median_total_price": 607000,
-        "min_unit_price": 8040,
-        "max_unit_price": 8040
+        "median_unit_price": 8043,
+        "median_total_price": 390000,
+        "min_unit_price": 8043,
+        "max_unit_price": 8043
       }
     },
     {
@@ -8877,6 +8513,34 @@
       }
     },
     {
+      "id": "beichen-6bae7b7cfd68",
+      "slug": "c-beichen-6bae7b7cfd68",
+      "name": "佳园东里(西区)",
+      "submarket": "双环邨",
+      "property_use": "unknown",
+      "latest": {
+        "month": "2026-10",
+        "status": "insufficient_sample",
+        "transaction_count": 1,
+        "source_count": 1,
+        "median_unit_price": null,
+        "median_total_price": null,
+        "p25_unit_price": null,
+        "p75_unit_price": null,
+        "mom_pct": null,
+        "yoy_pct": null
+      },
+      "observation": {
+        "month": "2026-10",
+        "transaction_count": 1,
+        "source_count": 1,
+        "median_unit_price": 7776,
+        "median_total_price": 292000,
+        "min_unit_price": 7776,
+        "max_unit_price": 7776
+      }
+    },
+    {
       "id": "beichen-3fd5ac166ca8",
       "slug": "c-beichen-3fd5ac166ca8",
       "name": "翡翠城",
@@ -9101,34 +8765,6 @@
       }
     },
     {
-      "id": "beichen-2b9bca2fc7a3",
-      "slug": "c-beichen-2b9bca2fc7a3",
-      "name": "佳园南里",
-      "submarket": "双环邨",
-      "property_use": "unknown",
-      "latest": {
-        "month": "2026-10",
-        "status": "insufficient_sample",
-        "transaction_count": 1,
-        "source_count": 1,
-        "median_unit_price": null,
-        "median_total_price": null,
-        "p25_unit_price": null,
-        "p75_unit_price": null,
-        "mom_pct": null,
-        "yoy_pct": null
-      },
-      "observation": {
-        "month": "2026-10",
-        "transaction_count": 1,
-        "source_count": 1,
-        "median_unit_price": 7593,
-        "median_total_price": 440000,
-        "min_unit_price": 7593,
-        "max_unit_price": 7593
-      }
-    },
-    {
       "id": "beichen-4c2064db858d",
       "slug": "c-beichen-4c2064db858d",
       "name": "金悅花园",
@@ -9157,34 +8793,6 @@
       }
     },
     {
-      "id": "beichen-d91dd89ef9b5",
-      "slug": "c-beichen-d91dd89ef9b5",
-      "name": "碧春园",
-      "submarket": "双环邨",
-      "property_use": "unknown",
-      "latest": {
-        "month": "2026-10",
-        "status": "published",
-        "transaction_count": 6,
-        "source_count": 1,
-        "median_unit_price": 7566,
-        "median_total_price": 466000,
-        "p25_unit_price": 7172,
-        "p75_unit_price": 8782,
-        "mom_pct": null,
-        "yoy_pct": null
-      },
-      "observation": {
-        "month": "2026-10",
-        "transaction_count": 6,
-        "source_count": 1,
-        "median_unit_price": 7566,
-        "median_total_price": 466000,
-        "min_unit_price": 6925,
-        "max_unit_price": 11708
-      }
-    },
-    {
       "id": "beichen-27080bb595ca",
       "slug": "c-beichen-27080bb595ca",
       "name": "万科运河文化村",
@@ -9210,34 +8818,6 @@
         "median_total_price": 720000,
         "min_unit_price": 6663,
         "max_unit_price": 8463
-      }
-    },
-    {
-      "id": "beichen-840d9b4944a2",
-      "slug": "c-beichen-840d9b4944a2",
-      "name": "金香里",
-      "submarket": "双环邨",
-      "property_use": "unknown",
-      "latest": {
-        "month": "2026-07",
-        "status": "published",
-        "transaction_count": 3,
-        "source_count": 1,
-        "median_unit_price": 7542,
-        "median_total_price": 455000,
-        "p25_unit_price": 7468,
-        "p75_unit_price": 7816,
-        "mom_pct": null,
-        "yoy_pct": null
-      },
-      "observation": {
-        "month": "2026-07",
-        "transaction_count": 3,
-        "source_count": 1,
-        "median_unit_price": 7542,
-        "median_total_price": 455000,
-        "min_unit_price": 7395,
-        "max_unit_price": 8090
       }
     },
     {
@@ -9521,34 +9101,6 @@
       }
     },
     {
-      "id": "beichen-73598e41b9a0",
-      "slug": "c-beichen-73598e41b9a0",
-      "name": "暖洋家园",
-      "submarket": "双环邨",
-      "property_use": "unknown",
-      "latest": {
-        "month": "2026-09",
-        "status": "published",
-        "transaction_count": 5,
-        "source_count": 1,
-        "median_unit_price": 7324,
-        "median_total_price": 412000,
-        "p25_unit_price": 6756,
-        "p75_unit_price": 8321,
-        "mom_pct": null,
-        "yoy_pct": null
-      },
-      "observation": {
-        "month": "2026-09",
-        "transaction_count": 5,
-        "source_count": 1,
-        "median_unit_price": 7324,
-        "median_total_price": 412000,
-        "min_unit_price": 3626,
-        "max_unit_price": 8917
-      }
-    },
-    {
       "id": "beichen-11a5c731884f",
       "slug": "c-beichen-11a5c731884f",
       "name": "玉琢里",
@@ -9658,34 +9210,6 @@
         "median_total_price": 502500,
         "min_unit_price": 6138,
         "max_unit_price": 8413
-      }
-    },
-    {
-      "id": "beichen-ddb2bbe60286",
-      "slug": "c-beichen-ddb2bbe60286",
-      "name": "金苑公寓",
-      "submarket": "双环邨",
-      "property_use": "unknown",
-      "latest": {
-        "month": "2026-09",
-        "status": "published",
-        "transaction_count": 4,
-        "source_count": 1,
-        "median_unit_price": 7258,
-        "median_total_price": 599500,
-        "p25_unit_price": 7018,
-        "p75_unit_price": 7442,
-        "mom_pct": null,
-        "yoy_pct": null
-      },
-      "observation": {
-        "month": "2026-09",
-        "transaction_count": 4,
-        "source_count": 1,
-        "median_unit_price": 7258,
-        "median_total_price": 599500,
-        "min_unit_price": 6482,
-        "max_unit_price": 7806
       }
     },
     {
@@ -9857,34 +9381,6 @@
       }
     },
     {
-      "id": "beichen-02feb8bc3cb5",
-      "slug": "c-beichen-02feb8bc3cb5",
-      "name": "佳园北里",
-      "submarket": "双环邨",
-      "property_use": "unknown",
-      "latest": {
-        "month": "2026-10",
-        "status": "insufficient_sample",
-        "transaction_count": 2,
-        "source_count": 1,
-        "median_unit_price": null,
-        "median_total_price": null,
-        "p25_unit_price": null,
-        "p75_unit_price": null,
-        "mom_pct": null,
-        "yoy_pct": null
-      },
-      "observation": {
-        "month": "2026-10",
-        "transaction_count": 2,
-        "source_count": 1,
-        "median_unit_price": 7160,
-        "median_total_price": 435000,
-        "min_unit_price": 4576,
-        "max_unit_price": 9745
-      }
-    },
-    {
       "id": "beichen-95a2b2cf8f2a",
       "slug": "c-beichen-95a2b2cf8f2a",
       "name": "强宜里",
@@ -9966,34 +9462,6 @@
         "median_total_price": 850000,
         "min_unit_price": 5462,
         "max_unit_price": 8854
-      }
-    },
-    {
-      "id": "beichen-6bae7b7cfd68",
-      "slug": "c-beichen-6bae7b7cfd68",
-      "name": "佳园东里(西区)",
-      "submarket": "双环邨",
-      "property_use": "unknown",
-      "latest": {
-        "month": "2026-09",
-        "status": "insufficient_sample",
-        "transaction_count": 1,
-        "source_count": 1,
-        "median_unit_price": null,
-        "median_total_price": null,
-        "p25_unit_price": null,
-        "p75_unit_price": null,
-        "mom_pct": null,
-        "yoy_pct": null
-      },
-      "observation": {
-        "month": "2026-09",
-        "transaction_count": 1,
-        "source_count": 1,
-        "median_unit_price": 7155,
-        "median_total_price": 427714,
-        "min_unit_price": 7155,
-        "max_unit_price": 7155
       }
     },
     {
@@ -10333,62 +9801,6 @@
       }
     },
     {
-      "id": "beichen-47fba22bdbbd",
-      "slug": "c-beichen-47fba22bdbbd",
-      "name": "彭哥说拜泉里",
-      "submarket": "集贤里",
-      "property_use": "unknown",
-      "latest": {
-        "month": "2026-08",
-        "status": "insufficient_sample",
-        "transaction_count": 1,
-        "source_count": 1,
-        "median_unit_price": null,
-        "median_total_price": null,
-        "p25_unit_price": null,
-        "p75_unit_price": null,
-        "mom_pct": null,
-        "yoy_pct": null
-      },
-      "observation": {
-        "month": "2026-08",
-        "transaction_count": 1,
-        "source_count": 1,
-        "median_unit_price": 6847,
-        "median_total_price": 220000,
-        "min_unit_price": 6847,
-        "max_unit_price": 6847
-      }
-    },
-    {
-      "id": "beichen-ebb303074b92",
-      "slug": "c-beichen-ebb303074b92",
-      "name": "佳丽园",
-      "submarket": "双环邨",
-      "property_use": "unknown",
-      "latest": {
-        "month": "2026-07",
-        "status": "insufficient_sample",
-        "transaction_count": 2,
-        "source_count": 1,
-        "median_unit_price": null,
-        "median_total_price": null,
-        "p25_unit_price": null,
-        "p75_unit_price": null,
-        "mom_pct": null,
-        "yoy_pct": null
-      },
-      "observation": {
-        "month": "2026-07",
-        "transaction_count": 2,
-        "source_count": 1,
-        "median_unit_price": 6822,
-        "median_total_price": 379000,
-        "min_unit_price": 5303,
-        "max_unit_price": 8340
-      }
-    },
-    {
       "id": "beichen-618866c00a3b",
       "slug": "c-beichen-618866c00a3b",
       "name": "双街新邨",
@@ -10669,34 +10081,6 @@
       }
     },
     {
-      "id": "beichen-d33ef87b8d23",
-      "slug": "c-beichen-d33ef87b8d23",
-      "name": "瑞通里",
-      "submarket": "双环邨",
-      "property_use": "unknown",
-      "latest": {
-        "month": "2026-09",
-        "status": "insufficient_sample",
-        "transaction_count": 1,
-        "source_count": 1,
-        "median_unit_price": null,
-        "median_total_price": null,
-        "p25_unit_price": null,
-        "p75_unit_price": null,
-        "mom_pct": null,
-        "yoy_pct": null
-      },
-      "observation": {
-        "month": "2026-09",
-        "transaction_count": 1,
-        "source_count": 1,
-        "median_unit_price": 6548,
-        "median_total_price": 640000,
-        "min_unit_price": 6548,
-        "max_unit_price": 6548
-      }
-    },
-    {
       "id": "beichen-e5cafa8d362f",
       "slug": "c-beichen-e5cafa8d362f",
       "name": "红郡大厦",
@@ -10921,6 +10305,34 @@
       }
     },
     {
+      "id": "beichen-840d9b4944a2",
+      "slug": "c-beichen-840d9b4944a2",
+      "name": "金香里",
+      "submarket": "双环邨",
+      "property_use": "unknown",
+      "latest": {
+        "month": "2026-10",
+        "status": "insufficient_sample",
+        "transaction_count": 1,
+        "source_count": 1,
+        "median_unit_price": null,
+        "median_total_price": null,
+        "p25_unit_price": null,
+        "p75_unit_price": null,
+        "mom_pct": null,
+        "yoy_pct": null
+      },
+      "observation": {
+        "month": "2026-10",
+        "transaction_count": 1,
+        "source_count": 1,
+        "median_unit_price": 6421,
+        "median_total_price": 360000,
+        "min_unit_price": 6421,
+        "max_unit_price": 6421
+      }
+    },
+    {
       "id": "beichen-2d50887965ee",
       "slug": "c-beichen-2d50887965ee",
       "name": "荣欢园",
@@ -11030,34 +10442,6 @@
         "median_total_price": 500500,
         "min_unit_price": 5526,
         "max_unit_price": 7214
-      }
-    },
-    {
-      "id": "beichen-6eeb8324d357",
-      "slug": "c-beichen-6eeb8324d357",
-      "name": "益春里",
-      "submarket": "双环邨",
-      "property_use": "unknown",
-      "latest": {
-        "month": "2026-10",
-        "status": "insufficient_sample",
-        "transaction_count": 1,
-        "source_count": 1,
-        "median_unit_price": null,
-        "median_total_price": null,
-        "p25_unit_price": null,
-        "p75_unit_price": null,
-        "mom_pct": null,
-        "yoy_pct": null
-      },
-      "observation": {
-        "month": "2026-10",
-        "transaction_count": 1,
-        "source_count": 1,
-        "median_unit_price": 6368,
-        "median_total_price": 380000,
-        "min_unit_price": 6368,
-        "max_unit_price": 6368
       }
     },
     {
@@ -11282,34 +10666,6 @@
         "median_total_price": 565000,
         "min_unit_price": 6265,
         "max_unit_price": 6265
-      }
-    },
-    {
-      "id": "beichen-93a09e3d936d",
-      "slug": "c-beichen-93a09e3d936d",
-      "name": "瑞晨家园",
-      "submarket": "双环邨",
-      "property_use": "unknown",
-      "latest": {
-        "month": "2026-09",
-        "status": "insufficient_sample",
-        "transaction_count": 1,
-        "source_count": 1,
-        "median_unit_price": null,
-        "median_total_price": null,
-        "p25_unit_price": null,
-        "p75_unit_price": null,
-        "mom_pct": null,
-        "yoy_pct": null
-      },
-      "observation": {
-        "month": "2026-09",
-        "transaction_count": 1,
-        "source_count": 1,
-        "median_unit_price": 6257,
-        "median_total_price": 535000,
-        "min_unit_price": 6257,
-        "max_unit_price": 6257
       }
     },
     {
@@ -12097,34 +11453,6 @@
       }
     },
     {
-      "id": "beichen-9ec766885e5a",
-      "slug": "c-beichen-9ec766885e5a",
-      "name": "悦春里",
-      "submarket": "双环邨",
-      "property_use": "unknown",
-      "latest": {
-        "month": "2026-07",
-        "status": "insufficient_sample",
-        "transaction_count": 1,
-        "source_count": 1,
-        "median_unit_price": null,
-        "median_total_price": null,
-        "p25_unit_price": null,
-        "p75_unit_price": null,
-        "mom_pct": null,
-        "yoy_pct": null
-      },
-      "observation": {
-        "month": "2026-07",
-        "transaction_count": 1,
-        "source_count": 1,
-        "median_unit_price": 5634,
-        "median_total_price": 265000,
-        "min_unit_price": 5634,
-        "max_unit_price": 5634
-      }
-    },
-    {
       "id": "beichen-ede5d1713d0f",
       "slug": "c-beichen-ede5d1713d0f",
       "name": "辰发花园",
@@ -12181,15 +11509,15 @@
       }
     },
     {
-      "id": "beichen-24bc57383d0c",
-      "slug": "c-beichen-24bc57383d0c",
-      "name": "彭哥说盛泽园",
-      "submarket": "北仓镇",
+      "id": "beichen-bbf7aa85c7b4",
+      "slug": "c-beichen-bbf7aa85c7b4",
+      "name": "佳园东里(东区)",
+      "submarket": "双环邨",
       "property_use": "unknown",
       "latest": {
-        "month": "2026-07",
+        "month": "2026-10",
         "status": "insufficient_sample",
-        "transaction_count": 1,
+        "transaction_count": 2,
         "source_count": 1,
         "median_unit_price": null,
         "median_total_price": null,
@@ -12199,13 +11527,13 @@
         "yoy_pct": null
       },
       "observation": {
-        "month": "2026-07",
-        "transaction_count": 1,
+        "month": "2026-10",
+        "transaction_count": 2,
         "source_count": 1,
-        "median_unit_price": 5611,
-        "median_total_price": 430000,
-        "min_unit_price": 5611,
-        "max_unit_price": 5611
+        "median_unit_price": 5593,
+        "median_total_price": 272500,
+        "min_unit_price": 4457,
+        "max_unit_price": 6729
       }
     },
     {
@@ -12766,34 +12094,6 @@
         "median_total_price": 400000,
         "min_unit_price": 4878,
         "max_unit_price": 4878
-      }
-    },
-    {
-      "id": "beichen-ab0cce36c0f4",
-      "slug": "c-beichen-ab0cce36c0f4",
-      "name": "顺义南里",
-      "submarket": "天穆镇",
-      "property_use": "unknown",
-      "latest": {
-        "month": "2026-03",
-        "status": "insufficient_sample",
-        "transaction_count": 1,
-        "source_count": 1,
-        "median_unit_price": null,
-        "median_total_price": null,
-        "p25_unit_price": null,
-        "p75_unit_price": null,
-        "mom_pct": null,
-        "yoy_pct": null
-      },
-      "observation": {
-        "month": "2026-03",
-        "transaction_count": 1,
-        "source_count": 1,
-        "median_unit_price": 4859,
-        "median_total_price": 160000,
-        "min_unit_price": 4859,
-        "max_unit_price": 4859
       }
     },
     {
@@ -13441,34 +12741,6 @@
       }
     },
     {
-      "id": "beichen-4f0440b399a5",
-      "slug": "c-beichen-4f0440b399a5",
-      "name": "龙泉里(北辰区)",
-      "submarket": "双环邨",
-      "property_use": "unknown",
-      "latest": {
-        "month": "2026-09",
-        "status": "insufficient_sample",
-        "transaction_count": 1,
-        "source_count": 1,
-        "median_unit_price": null,
-        "median_total_price": null,
-        "p25_unit_price": null,
-        "p75_unit_price": null,
-        "mom_pct": null,
-        "yoy_pct": null
-      },
-      "observation": {
-        "month": "2026-09",
-        "transaction_count": 1,
-        "source_count": 1,
-        "median_unit_price": 3693,
-        "median_total_price": 265000,
-        "min_unit_price": 3693,
-        "max_unit_price": 3693
-      }
-    },
-    {
       "id": "beichen-9320c79cf415",
       "slug": "c-beichen-9320c79cf415",
       "name": "文雅苑",
@@ -13787,9 +13059,9 @@
         "≥144㎡"
       ],
       "counts": [
-        682,
-        1409,
-        905,
+        567,
+        1305,
+        871,
         168,
         64
       ]
@@ -13803,8 +13075,8 @@
         "≥500万"
       ],
       "counts": [
-        2521,
-        638,
+        2277,
+        629,
         60,
         9,
         0

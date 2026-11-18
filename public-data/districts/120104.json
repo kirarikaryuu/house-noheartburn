@@ -4394,34 +4394,6 @@
       }
     },
     {
-      "id": "nankai-0ef078fe7926",
-      "slug": "c-nankai-0ef078fe7926",
-      "name": "天霖园哥说",
-      "submarket": "鼓楼街",
-      "property_use": "unknown",
-      "latest": {
-        "month": "2026-10",
-        "status": "insufficient_sample",
-        "transaction_count": 1,
-        "source_count": 1,
-        "median_unit_price": null,
-        "median_total_price": null,
-        "p25_unit_price": null,
-        "p75_unit_price": null,
-        "mom_pct": null,
-        "yoy_pct": null
-      },
-      "observation": {
-        "month": "2026-10",
-        "transaction_count": 1,
-        "source_count": 1,
-        "median_unit_price": 33975,
-        "median_total_price": 4360000,
-        "min_unit_price": 33975,
-        "max_unit_price": 33975
-      }
-    },
-    {
       "id": "nankai-affad24e7931",
       "slug": "c-nankai-affad24e7931",
       "name": "翠泉別墅",
@@ -4506,6 +4478,34 @@
       }
     },
     {
+      "id": "nankai-a2a230db6fbc",
+      "slug": "c-nankai-a2a230db6fbc",
+      "name": "天霖园",
+      "submarket": "鼓楼街",
+      "property_use": "unknown",
+      "latest": {
+        "month": "2026-10",
+        "status": "published",
+        "transaction_count": 9,
+        "source_count": 1,
+        "median_unit_price": 33410,
+        "median_total_price": 4120000,
+        "p25_unit_price": 32704,
+        "p75_unit_price": 33825,
+        "mom_pct": null,
+        "yoy_pct": null
+      },
+      "observation": {
+        "month": "2026-10",
+        "transaction_count": 9,
+        "source_count": 1,
+        "median_unit_price": 33410,
+        "median_total_price": 4120000,
+        "min_unit_price": 30660,
+        "max_unit_price": 35816
+      }
+    },
+    {
       "id": "nankai-2eb1f6b6d25e",
       "slug": "c-nankai-2eb1f6b6d25e",
       "name": "凯祥花园",
@@ -4531,34 +4531,6 @@
         "median_total_price": 3750000,
         "min_unit_price": 33289,
         "max_unit_price": 33289
-      }
-    },
-    {
-      "id": "nankai-a2a230db6fbc",
-      "slug": "c-nankai-a2a230db6fbc",
-      "name": "天霖园",
-      "submarket": "鼓楼街",
-      "property_use": "unknown",
-      "latest": {
-        "month": "2026-10",
-        "status": "published",
-        "transaction_count": 8,
-        "source_count": 1,
-        "median_unit_price": 33220,
-        "median_total_price": 4120000,
-        "p25_unit_price": 32537,
-        "p75_unit_price": 33554,
-        "mom_pct": null,
-        "yoy_pct": null
-      },
-      "observation": {
-        "month": "2026-10",
-        "transaction_count": 8,
-        "source_count": 1,
-        "median_unit_price": 33220,
-        "median_total_price": 4120000,
-        "min_unit_price": 30660,
-        "max_unit_price": 35816
       }
     },
     {
@@ -6018,34 +5990,6 @@
       }
     },
     {
-      "id": "nankai-bc51365e2bb7",
-      "slug": "c-nankai-bc51365e2bb7",
-      "name": "盛达园哥说房",
-      "submarket": "长虹街",
-      "property_use": "unknown",
-      "latest": {
-        "month": "2026-07",
-        "status": "insufficient_sample",
-        "transaction_count": 1,
-        "source_count": 1,
-        "median_unit_price": null,
-        "median_total_price": null,
-        "p25_unit_price": null,
-        "p75_unit_price": null,
-        "mom_pct": null,
-        "yoy_pct": null
-      },
-      "observation": {
-        "month": "2026-07",
-        "transaction_count": 1,
-        "source_count": 1,
-        "median_unit_price": 26105,
-        "median_total_price": 3100000,
-        "min_unit_price": 26105,
-        "max_unit_price": 26105
-      }
-    },
-    {
       "id": "nankai-51b4fb9e3315",
       "slug": "c-nankai-51b4fb9e3315",
       "name": "隆翔嘉园",
@@ -6071,34 +6015,6 @@
         "median_total_price": 2810000,
         "min_unit_price": 26086,
         "max_unit_price": 26086
-      }
-    },
-    {
-      "id": "nankai-53941e373bec",
-      "slug": "c-nankai-53941e373bec",
-      "name": "津彪哥说清新园",
-      "submarket": "万兴街",
-      "property_use": "unknown",
-      "latest": {
-        "month": "2026-06",
-        "status": "insufficient_sample",
-        "transaction_count": 1,
-        "source_count": 1,
-        "median_unit_price": null,
-        "median_total_price": null,
-        "p25_unit_price": null,
-        "p75_unit_price": null,
-        "mom_pct": null,
-        "yoy_pct": null
-      },
-      "observation": {
-        "month": "2026-06",
-        "transaction_count": 1,
-        "source_count": 1,
-        "median_unit_price": 26045,
-        "median_total_price": 3570000,
-        "min_unit_price": 26045,
-        "max_unit_price": 26045
       }
     },
     {
@@ -7138,62 +7054,6 @@
       }
     },
     {
-      "id": "nankai-1f2cb6114dbd",
-      "slug": "c-nankai-1f2cb6114dbd",
-      "name": "馨名园哥说",
-      "submarket": "学府街",
-      "property_use": "unknown",
-      "latest": {
-        "month": "2026-10",
-        "status": "insufficient_sample",
-        "transaction_count": 1,
-        "source_count": 1,
-        "median_unit_price": null,
-        "median_total_price": null,
-        "p25_unit_price": null,
-        "p75_unit_price": null,
-        "mom_pct": null,
-        "yoy_pct": null
-      },
-      "observation": {
-        "month": "2026-10",
-        "transaction_count": 1,
-        "source_count": 1,
-        "median_unit_price": 23841,
-        "median_total_price": 3600000,
-        "min_unit_price": 23841,
-        "max_unit_price": 23841
-      }
-    },
-    {
-      "id": "nankai-fade1f56fc8e",
-      "slug": "c-nankai-fade1f56fc8e",
-      "name": "碧华里哥说房",
-      "submarket": "华苑",
-      "property_use": "unknown",
-      "latest": {
-        "month": "2026-07",
-        "status": "insufficient_sample",
-        "transaction_count": 1,
-        "source_count": 1,
-        "median_unit_price": null,
-        "median_total_price": null,
-        "p25_unit_price": null,
-        "p75_unit_price": null,
-        "mom_pct": null,
-        "yoy_pct": null
-      },
-      "observation": {
-        "month": "2026-07",
-        "transaction_count": 1,
-        "source_count": 1,
-        "median_unit_price": 23778,
-        "median_total_price": 1800000,
-        "min_unit_price": 23778,
-        "max_unit_price": 23778
-      }
-    },
-    {
       "id": "nankai-a62d27981476",
       "slug": "c-nankai-a62d27981476",
       "name": "平祥大厦",
@@ -7894,6 +7754,34 @@
       }
     },
     {
+      "id": "nankai-2bb8de9c70a9",
+      "slug": "c-nankai-2bb8de9c70a9",
+      "name": "馨名园",
+      "submarket": "学府街",
+      "property_use": "unknown",
+      "latest": {
+        "month": "2026-10",
+        "status": "published",
+        "transaction_count": 3,
+        "source_count": 1,
+        "median_unit_price": 22599,
+        "median_total_price": 3600000,
+        "p25_unit_price": 20464,
+        "p75_unit_price": 23220,
+        "mom_pct": null,
+        "yoy_pct": null
+      },
+      "observation": {
+        "month": "2026-10",
+        "transaction_count": 3,
+        "source_count": 1,
+        "median_unit_price": 22599,
+        "median_total_price": 3600000,
+        "min_unit_price": 18328,
+        "max_unit_price": 23841
+      }
+    },
+    {
       "id": "nankai-c11526b0c48e",
       "slug": "c-nankai-c11526b0c48e",
       "name": "天华里社区",
@@ -8115,34 +8003,6 @@
         "median_total_price": 1000000,
         "min_unit_price": 22222,
         "max_unit_price": 22222
-      }
-    },
-    {
-      "id": "nankai-e58b957d8e51",
-      "slug": "c-nankai-e58b957d8e51",
-      "name": "聚英里",
-      "submarket": "兴南街",
-      "property_use": "unknown",
-      "latest": {
-        "month": "2026-10",
-        "status": "insufficient_sample",
-        "transaction_count": 2,
-        "source_count": 1,
-        "median_unit_price": null,
-        "median_total_price": null,
-        "p25_unit_price": null,
-        "p75_unit_price": null,
-        "mom_pct": null,
-        "yoy_pct": null
-      },
-      "observation": {
-        "month": "2026-10",
-        "transaction_count": 2,
-        "source_count": 1,
-        "median_unit_price": 22182,
-        "median_total_price": 952500,
-        "min_unit_price": 18640,
-        "max_unit_price": 25725
       }
     },
     {
@@ -8846,34 +8706,6 @@
       }
     },
     {
-      "id": "nankai-f31f8427e69f",
-      "slug": "c-nankai-f31f8427e69f",
-      "name": "津彪哥说府湖里",
-      "submarket": "学府街",
-      "property_use": "unknown",
-      "latest": {
-        "month": "2026-06",
-        "status": "insufficient_sample",
-        "transaction_count": 1,
-        "source_count": 1,
-        "median_unit_price": null,
-        "median_total_price": null,
-        "p25_unit_price": null,
-        "p75_unit_price": null,
-        "mom_pct": null,
-        "yoy_pct": null
-      },
-      "observation": {
-        "month": "2026-06",
-        "transaction_count": 1,
-        "source_count": 1,
-        "median_unit_price": 21020,
-        "median_total_price": 870000,
-        "min_unit_price": 21020,
-        "max_unit_price": 21020
-      }
-    },
-    {
       "id": "nankai-ae2eb7298023",
       "slug": "c-nankai-ae2eb7298023",
       "name": "堤翠家园",
@@ -9207,34 +9039,6 @@
         "median_total_price": 1698000,
         "min_unit_price": 13082,
         "max_unit_price": 26953
-      }
-    },
-    {
-      "id": "nankai-2bb8de9c70a9",
-      "slug": "c-nankai-2bb8de9c70a9",
-      "name": "馨名园",
-      "submarket": "学府街",
-      "property_use": "unknown",
-      "latest": {
-        "month": "2026-10",
-        "status": "insufficient_sample",
-        "transaction_count": 2,
-        "source_count": 1,
-        "median_unit_price": null,
-        "median_total_price": null,
-        "p25_unit_price": null,
-        "p75_unit_price": null,
-        "mom_pct": null,
-        "yoy_pct": null
-      },
-      "observation": {
-        "month": "2026-10",
-        "transaction_count": 2,
-        "source_count": 1,
-        "median_unit_price": 20464,
-        "median_total_price": 3265000,
-        "min_unit_price": 18328,
-        "max_unit_price": 22599
       }
     },
     {
@@ -10694,6 +10498,34 @@
       }
     },
     {
+      "id": "nankai-e58b957d8e51",
+      "slug": "c-nankai-e58b957d8e51",
+      "name": "聚英里",
+      "submarket": "兴南街",
+      "property_use": "unknown",
+      "latest": {
+        "month": "2026-10",
+        "status": "published",
+        "transaction_count": 3,
+        "source_count": 1,
+        "median_unit_price": 18640,
+        "median_total_price": 825000,
+        "p25_unit_price": 14388,
+        "p75_unit_price": 22182,
+        "mom_pct": null,
+        "yoy_pct": null
+      },
+      "observation": {
+        "month": "2026-10",
+        "transaction_count": 3,
+        "source_count": 1,
+        "median_unit_price": 18640,
+        "median_total_price": 825000,
+        "min_unit_price": 10137,
+        "max_unit_price": 25725
+      }
+    },
+    {
       "id": "nankai-502bd4394926",
       "slug": "c-nankai-502bd4394926",
       "name": "金潭花园",
@@ -11478,34 +11310,6 @@
       }
     },
     {
-      "id": "nankai-c4b139a3ac5e",
-      "slug": "c-nankai-c4b139a3ac5e",
-      "name": "邮电公寓说",
-      "submarket": "兴南街",
-      "property_use": "unknown",
-      "latest": {
-        "month": "2026-08",
-        "status": "insufficient_sample",
-        "transaction_count": 1,
-        "source_count": 1,
-        "median_unit_price": null,
-        "median_total_price": null,
-        "p25_unit_price": null,
-        "p75_unit_price": null,
-        "mom_pct": null,
-        "yoy_pct": null
-      },
-      "observation": {
-        "month": "2026-08",
-        "transaction_count": 1,
-        "source_count": 1,
-        "median_unit_price": 17695,
-        "median_total_price": 1810000,
-        "min_unit_price": 17695,
-        "max_unit_price": 17695
-      }
-    },
-    {
       "id": "nankai-d08861ffca14",
       "slug": "c-nankai-d08861ffca14",
       "name": "水琳园",
@@ -11534,34 +11338,6 @@
       }
     },
     {
-      "id": "nankai-a8d13b66ca5a",
-      "slug": "c-nankai-a8d13b66ca5a",
-      "name": "天津彪协龙里",
-      "submarket": "万兴街",
-      "property_use": "unknown",
-      "latest": {
-        "month": "2026-05",
-        "status": "insufficient_sample",
-        "transaction_count": 1,
-        "source_count": 1,
-        "median_unit_price": null,
-        "median_total_price": null,
-        "p25_unit_price": null,
-        "p75_unit_price": null,
-        "mom_pct": null,
-        "yoy_pct": null
-      },
-      "observation": {
-        "month": "2026-05",
-        "transaction_count": 1,
-        "source_count": 1,
-        "median_unit_price": 17635,
-        "median_total_price": 780000,
-        "min_unit_price": 17635,
-        "max_unit_price": 17635
-      }
-    },
-    {
       "id": "nankai-23ed8dad23c7",
       "slug": "c-nankai-23ed8dad23c7",
       "name": "川南公寓",
@@ -11587,34 +11363,6 @@
         "median_total_price": 1666000,
         "min_unit_price": 17628,
         "max_unit_price": 17628
-      }
-    },
-    {
-      "id": "nankai-c5ca6b98f393",
-      "slug": "c-nankai-c5ca6b98f393",
-      "name": "天津彪堤中里",
-      "submarket": "王顶堤",
-      "property_use": "unknown",
-      "latest": {
-        "month": "2026-06",
-        "status": "insufficient_sample",
-        "transaction_count": 1,
-        "source_count": 1,
-        "median_unit_price": null,
-        "median_total_price": null,
-        "p25_unit_price": null,
-        "p75_unit_price": null,
-        "mom_pct": null,
-        "yoy_pct": null
-      },
-      "observation": {
-        "month": "2026-06",
-        "transaction_count": 1,
-        "source_count": 1,
-        "median_unit_price": 17624,
-        "median_total_price": 838000,
-        "min_unit_price": 17624,
-        "max_unit_price": 17624
       }
     },
     {
@@ -11727,34 +11475,6 @@
         "median_total_price": 750000,
         "min_unit_price": 16749,
         "max_unit_price": 19182
-      }
-    },
-    {
-      "id": "nankai-15aee54c2069",
-      "slug": "c-nankai-15aee54c2069",
-      "name": "程华里哥说房",
-      "submarket": "华苑",
-      "property_use": "unknown",
-      "latest": {
-        "month": "2026-05",
-        "status": "insufficient_sample",
-        "transaction_count": 1,
-        "source_count": 1,
-        "median_unit_price": null,
-        "median_total_price": null,
-        "p25_unit_price": null,
-        "p75_unit_price": null,
-        "mom_pct": null,
-        "yoy_pct": null
-      },
-      "observation": {
-        "month": "2026-05",
-        "transaction_count": 1,
-        "source_count": 1,
-        "median_unit_price": 17472,
-        "median_total_price": 1648000,
-        "min_unit_price": 17472,
-        "max_unit_price": 17472
       }
     },
     {
@@ -12738,34 +12458,6 @@
       }
     },
     {
-      "id": "nankai-76acdb91dcf4",
-      "slug": "c-nankai-76acdb91dcf4",
-      "name": "金禧园",
-      "submarket": "体育中心街",
-      "property_use": "unknown",
-      "latest": {
-        "month": "2026-09",
-        "status": "insufficient_sample",
-        "transaction_count": 1,
-        "source_count": 1,
-        "median_unit_price": null,
-        "median_total_price": null,
-        "p25_unit_price": null,
-        "p75_unit_price": null,
-        "mom_pct": null,
-        "yoy_pct": null
-      },
-      "observation": {
-        "month": "2026-09",
-        "transaction_count": 1,
-        "source_count": 1,
-        "median_unit_price": 16653,
-        "median_total_price": 1190000,
-        "min_unit_price": 16653,
-        "max_unit_price": 16653
-      }
-    },
-    {
       "id": "nankai-1b4b70ef4a8b",
       "slug": "c-nankai-1b4b70ef4a8b",
       "name": "华鹊里",
@@ -13020,7 +12712,7 @@
     {
       "id": "nankai-c8b412b3e420",
       "slug": "c-nankai-c8b412b3e420",
-      "name": "康定里哥说房",
+      "name": "康定里",
       "submarket": "嘉陵道街",
       "property_use": "unknown",
       "latest": {
@@ -13298,34 +12990,6 @@
       }
     },
     {
-      "id": "nankai-edfcf66d45b2",
-      "slug": "c-nankai-edfcf66d45b2",
-      "name": "寿康里哥说房",
-      "submarket": "兴南街",
-      "property_use": "unknown",
-      "latest": {
-        "month": "2026-05",
-        "status": "insufficient_sample",
-        "transaction_count": 1,
-        "source_count": 1,
-        "median_unit_price": null,
-        "median_total_price": null,
-        "p25_unit_price": null,
-        "p75_unit_price": null,
-        "mom_pct": null,
-        "yoy_pct": null
-      },
-      "observation": {
-        "month": "2026-05",
-        "transaction_count": 1,
-        "source_count": 1,
-        "median_unit_price": 16133,
-        "median_total_price": 1245000,
-        "min_unit_price": 16133,
-        "max_unit_price": 16133
-      }
-    },
-    {
       "id": "nankai-41bf8e23a55c",
       "slug": "c-nankai-41bf8e23a55c",
       "name": "群富里",
@@ -13575,34 +13239,6 @@
         "median_total_price": 1585000,
         "min_unit_price": 15947,
         "max_unit_price": 15947
-      }
-    },
-    {
-      "id": "nankai-1a385469f737",
-      "slug": "c-nankai-1a385469f737",
-      "name": "天津彪园荫里",
-      "submarket": "王顶堤",
-      "property_use": "unknown",
-      "latest": {
-        "month": "2026-05",
-        "status": "insufficient_sample",
-        "transaction_count": 1,
-        "source_count": 1,
-        "median_unit_price": null,
-        "median_total_price": null,
-        "p25_unit_price": null,
-        "p75_unit_price": null,
-        "mom_pct": null,
-        "yoy_pct": null
-      },
-      "observation": {
-        "month": "2026-05",
-        "transaction_count": 1,
-        "source_count": 1,
-        "median_unit_price": 15941,
-        "median_total_price": 916000,
-        "min_unit_price": 15941,
-        "max_unit_price": 15941
       }
     },
     {
@@ -14222,34 +13858,6 @@
       }
     },
     {
-      "id": "nankai-0bf05fd57239",
-      "slug": "c-nankai-0bf05fd57239",
-      "name": "天津彪燕园里",
-      "submarket": "王顶堤",
-      "property_use": "unknown",
-      "latest": {
-        "month": "2026-05",
-        "status": "insufficient_sample",
-        "transaction_count": 1,
-        "source_count": 1,
-        "median_unit_price": null,
-        "median_total_price": null,
-        "p25_unit_price": null,
-        "p75_unit_price": null,
-        "mom_pct": null,
-        "yoy_pct": null
-      },
-      "observation": {
-        "month": "2026-05",
-        "transaction_count": 1,
-        "source_count": 1,
-        "median_unit_price": 15303,
-        "median_total_price": 920000,
-        "min_unit_price": 15303,
-        "max_unit_price": 15303
-      }
-    },
-    {
       "id": "nankai-6ea46522b370",
       "slug": "c-nankai-6ea46522b370",
       "name": "雅阳光100天塔喜马拉",
@@ -14642,34 +14250,6 @@
       }
     },
     {
-      "id": "nankai-4a8af9523965",
-      "slug": "c-nankai-4a8af9523965",
-      "name": "竹华里",
-      "submarket": "华苑",
-      "property_use": "unknown",
-      "latest": {
-        "month": "2026-10",
-        "status": "insufficient_sample",
-        "transaction_count": 2,
-        "source_count": 1,
-        "median_unit_price": null,
-        "median_total_price": null,
-        "p25_unit_price": null,
-        "p75_unit_price": null,
-        "mom_pct": null,
-        "yoy_pct": null
-      },
-      "observation": {
-        "month": "2026-10",
-        "transaction_count": 2,
-        "source_count": 1,
-        "median_unit_price": 14964,
-        "median_total_price": 1395000,
-        "min_unit_price": 12333,
-        "max_unit_price": 17594
-      }
-    },
-    {
       "id": "nankai-2cc825949835",
       "slug": "c-nankai-2cc825949835",
       "name": "长江里",
@@ -15006,34 +14586,6 @@
       }
     },
     {
-      "id": "nankai-34f205df6339",
-      "slug": "c-nankai-34f205df6339",
-      "name": "天津彪复康里",
-      "submarket": "水上公园街",
-      "property_use": "unknown",
-      "latest": {
-        "month": "2026-05",
-        "status": "insufficient_sample",
-        "transaction_count": 1,
-        "source_count": 1,
-        "median_unit_price": null,
-        "median_total_price": null,
-        "p25_unit_price": null,
-        "p75_unit_price": null,
-        "mom_pct": null,
-        "yoy_pct": null
-      },
-      "observation": {
-        "month": "2026-05",
-        "transaction_count": 1,
-        "source_count": 1,
-        "median_unit_price": 14710,
-        "median_total_price": 520000,
-        "min_unit_price": 14710,
-        "max_unit_price": 14710
-      }
-    },
-    {
       "id": "nankai-98fc5e183877",
       "slug": "c-nankai-98fc5e183877",
       "name": "乐园里",
@@ -15342,31 +14894,31 @@
       }
     },
     {
-      "id": "nankai-acfdd04b3c4b",
-      "slug": "c-nankai-acfdd04b3c4b",
-      "name": "竹华里津彪",
+      "id": "nankai-4a8af9523965",
+      "slug": "c-nankai-4a8af9523965",
+      "name": "竹华里",
       "submarket": "华苑",
       "property_use": "unknown",
       "latest": {
         "month": "2026-10",
-        "status": "insufficient_sample",
-        "transaction_count": 1,
+        "status": "published",
+        "transaction_count": 3,
         "source_count": 1,
-        "median_unit_price": null,
-        "median_total_price": null,
-        "p25_unit_price": null,
-        "p75_unit_price": null,
+        "median_unit_price": 14386,
+        "median_total_price": 1590000,
+        "p25_unit_price": 13360,
+        "p75_unit_price": 15990,
         "mom_pct": null,
         "yoy_pct": null
       },
       "observation": {
         "month": "2026-10",
-        "transaction_count": 1,
+        "transaction_count": 3,
         "source_count": 1,
         "median_unit_price": 14386,
-        "median_total_price": 1890000,
-        "min_unit_price": 14386,
-        "max_unit_price": 14386
+        "median_total_price": 1590000,
+        "min_unit_price": 12333,
+        "max_unit_price": 17594
       }
     },
     {
@@ -15535,34 +15087,6 @@
         "median_total_price": 370000,
         "min_unit_price": 14275,
         "max_unit_price": 14275
-      }
-    },
-    {
-      "id": "nankai-f75ce392e82a",
-      "slug": "c-nankai-f75ce392e82a",
-      "name": "金禧园津彪",
-      "submarket": "体育中心街",
-      "property_use": "unknown",
-      "latest": {
-        "month": "2026-10",
-        "status": "insufficient_sample",
-        "transaction_count": 1,
-        "source_count": 1,
-        "median_unit_price": null,
-        "median_total_price": null,
-        "p25_unit_price": null,
-        "p75_unit_price": null,
-        "mom_pct": null,
-        "yoy_pct": null
-      },
-      "observation": {
-        "month": "2026-10",
-        "transaction_count": 1,
-        "source_count": 1,
-        "median_unit_price": 14183,
-        "median_total_price": 1300000,
-        "min_unit_price": 14183,
-        "max_unit_price": 14183
       }
     },
     {
@@ -15846,34 +15370,6 @@
       }
     },
     {
-      "id": "nankai-a97e3376cb5c",
-      "slug": "c-nankai-a97e3376cb5c",
-      "name": "易川里津彪",
-      "submarket": "嘉陵道街",
-      "property_use": "unknown",
-      "latest": {
-        "month": "2026-10",
-        "status": "insufficient_sample",
-        "transaction_count": 1,
-        "source_count": 1,
-        "median_unit_price": null,
-        "median_total_price": null,
-        "p25_unit_price": null,
-        "p75_unit_price": null,
-        "mom_pct": null,
-        "yoy_pct": null
-      },
-      "observation": {
-        "month": "2026-10",
-        "transaction_count": 1,
-        "source_count": 1,
-        "median_unit_price": 14021,
-        "median_total_price": 500000,
-        "min_unit_price": 14021,
-        "max_unit_price": 14021
-      }
-    },
-    {
       "id": "nankai-28184ea61b73",
       "slug": "c-nankai-28184ea61b73",
       "name": "嘉泰花园",
@@ -15986,6 +15482,34 @@
       }
     },
     {
+      "id": "nankai-07adebebb88e",
+      "slug": "c-nankai-07adebebb88e",
+      "name": "易川里",
+      "submarket": "嘉陵道街",
+      "property_use": "unknown",
+      "latest": {
+        "month": "2026-10",
+        "status": "insufficient_sample",
+        "transaction_count": 2,
+        "source_count": 1,
+        "median_unit_price": null,
+        "median_total_price": null,
+        "p25_unit_price": null,
+        "p75_unit_price": null,
+        "mom_pct": null,
+        "yoy_pct": null
+      },
+      "observation": {
+        "month": "2026-10",
+        "transaction_count": 2,
+        "source_count": 1,
+        "median_unit_price": 13932,
+        "median_total_price": 540000,
+        "min_unit_price": 13842,
+        "max_unit_price": 14021
+      }
+    },
+    {
       "id": "nankai-a145e9db5775",
       "slug": "c-nankai-a145e9db5775",
       "name": "嘉陵北里",
@@ -16011,34 +15535,6 @@
         "median_total_price": 350000,
         "min_unit_price": 13928,
         "max_unit_price": 13928
-      }
-    },
-    {
-      "id": "nankai-40319030393c",
-      "slug": "c-nankai-40319030393c",
-      "name": "雅美里",
-      "submarket": "长虹街",
-      "property_use": "unknown",
-      "latest": {
-        "month": "2026-10",
-        "status": "insufficient_sample",
-        "transaction_count": 1,
-        "source_count": 1,
-        "median_unit_price": null,
-        "median_total_price": null,
-        "p25_unit_price": null,
-        "p75_unit_price": null,
-        "mom_pct": null,
-        "yoy_pct": null
-      },
-      "observation": {
-        "month": "2026-10",
-        "transaction_count": 1,
-        "source_count": 1,
-        "median_unit_price": 13926,
-        "median_total_price": 880000,
-        "min_unit_price": 13926,
-        "max_unit_price": 13926
       }
     },
     {
@@ -16123,34 +15619,6 @@
         "median_total_price": 1315000,
         "min_unit_price": 13855,
         "max_unit_price": 13855
-      }
-    },
-    {
-      "id": "nankai-07adebebb88e",
-      "slug": "c-nankai-07adebebb88e",
-      "name": "易川里",
-      "submarket": "嘉陵道街",
-      "property_use": "unknown",
-      "latest": {
-        "month": "2026-10",
-        "status": "insufficient_sample",
-        "transaction_count": 1,
-        "source_count": 1,
-        "median_unit_price": null,
-        "median_total_price": null,
-        "p25_unit_price": null,
-        "p75_unit_price": null,
-        "mom_pct": null,
-        "yoy_pct": null
-      },
-      "observation": {
-        "month": "2026-10",
-        "transaction_count": 1,
-        "source_count": 1,
-        "median_unit_price": 13842,
-        "median_total_price": 580000,
-        "min_unit_price": 13842,
-        "max_unit_price": 13842
       }
     },
     {
@@ -17050,6 +16518,34 @@
       }
     },
     {
+      "id": "nankai-76acdb91dcf4",
+      "slug": "c-nankai-76acdb91dcf4",
+      "name": "金禧园",
+      "submarket": "体育中心街",
+      "property_use": "unknown",
+      "latest": {
+        "month": "2026-10",
+        "status": "insufficient_sample",
+        "transaction_count": 2,
+        "source_count": 1,
+        "median_unit_price": null,
+        "median_total_price": null,
+        "p25_unit_price": null,
+        "p75_unit_price": null,
+        "mom_pct": null,
+        "yoy_pct": null
+      },
+      "observation": {
+        "month": "2026-10",
+        "transaction_count": 2,
+        "source_count": 1,
+        "median_unit_price": 13088,
+        "median_total_price": 1189000,
+        "min_unit_price": 11994,
+        "max_unit_price": 14183
+      }
+    },
+    {
       "id": "nankai-71ffd6e94622",
       "slug": "c-nankai-71ffd6e94622",
       "name": "春景大厦",
@@ -17946,6 +17442,34 @@
       }
     },
     {
+      "id": "nankai-40319030393c",
+      "slug": "c-nankai-40319030393c",
+      "name": "雅美里",
+      "submarket": "长虹街",
+      "property_use": "unknown",
+      "latest": {
+        "month": "2026-10",
+        "status": "insufficient_sample",
+        "transaction_count": 2,
+        "source_count": 1,
+        "median_unit_price": null,
+        "median_total_price": null,
+        "p25_unit_price": null,
+        "p75_unit_price": null,
+        "mom_pct": null,
+        "yoy_pct": null
+      },
+      "observation": {
+        "month": "2026-10",
+        "transaction_count": 2,
+        "source_count": 1,
+        "median_unit_price": 12211,
+        "median_total_price": 674000,
+        "min_unit_price": 10496,
+        "max_unit_price": 13926
+      }
+    },
+    {
       "id": "nankai-40d6d12b0008",
       "slug": "c-nankai-40d6d12b0008",
       "name": "卫安西里",
@@ -18055,34 +17579,6 @@
         "median_total_price": 405000,
         "min_unit_price": 12068,
         "max_unit_price": 12068
-      }
-    },
-    {
-      "id": "nankai-af5e7712194d",
-      "slug": "c-nankai-af5e7712194d",
-      "name": "金禧园哥说",
-      "submarket": "体育中心街",
-      "property_use": "unknown",
-      "latest": {
-        "month": "2026-10",
-        "status": "insufficient_sample",
-        "transaction_count": 1,
-        "source_count": 1,
-        "median_unit_price": null,
-        "median_total_price": null,
-        "p25_unit_price": null,
-        "p75_unit_price": null,
-        "mom_pct": null,
-        "yoy_pct": null
-      },
-      "observation": {
-        "month": "2026-10",
-        "transaction_count": 1,
-        "source_count": 1,
-        "median_unit_price": 11994,
-        "median_total_price": 1078000,
-        "min_unit_price": 11994,
-        "max_unit_price": 11994
       }
     },
     {
@@ -18447,62 +17943,6 @@
         "median_total_price": 696000,
         "min_unit_price": 11719,
         "max_unit_price": 11719
-      }
-    },
-    {
-      "id": "nankai-f5d4dfbfad28",
-      "slug": "c-nankai-f5d4dfbfad28",
-      "name": "义兴南里说",
-      "submarket": "万兴街",
-      "property_use": "unknown",
-      "latest": {
-        "month": "2026-08",
-        "status": "insufficient_sample",
-        "transaction_count": 1,
-        "source_count": 1,
-        "median_unit_price": null,
-        "median_total_price": null,
-        "p25_unit_price": null,
-        "p75_unit_price": null,
-        "mom_pct": null,
-        "yoy_pct": null
-      },
-      "observation": {
-        "month": "2026-08",
-        "transaction_count": 1,
-        "source_count": 1,
-        "median_unit_price": 11691,
-        "median_total_price": 755000,
-        "min_unit_price": 11691,
-        "max_unit_price": 11691
-      }
-    },
-    {
-      "id": "nankai-d366a1f3034a",
-      "slug": "c-nankai-d366a1f3034a",
-      "name": "康定里",
-      "submarket": "嘉陵道街",
-      "property_use": "unknown",
-      "latest": {
-        "month": "2026-01",
-        "status": "insufficient_sample",
-        "transaction_count": 1,
-        "source_count": 1,
-        "median_unit_price": null,
-        "median_total_price": null,
-        "p25_unit_price": null,
-        "p75_unit_price": null,
-        "mom_pct": null,
-        "yoy_pct": null
-      },
-      "observation": {
-        "month": "2026-01",
-        "transaction_count": 1,
-        "source_count": 1,
-        "median_unit_price": 11586,
-        "median_total_price": 290000,
-        "min_unit_price": 11586,
-        "max_unit_price": 11586
       }
     },
     {
@@ -19038,34 +18478,6 @@
       }
     },
     {
-      "id": "nankai-b9724654ca74",
-      "slug": "c-nankai-b9724654ca74",
-      "name": "津彪哥说昔阳南里",
-      "submarket": "向阳路",
-      "property_use": "unknown",
-      "latest": {
-        "month": "2026-06",
-        "status": "insufficient_sample",
-        "transaction_count": 1,
-        "source_count": 1,
-        "median_unit_price": null,
-        "median_total_price": null,
-        "p25_unit_price": null,
-        "p75_unit_price": null,
-        "mom_pct": null,
-        "yoy_pct": null
-      },
-      "observation": {
-        "month": "2026-06",
-        "transaction_count": 1,
-        "source_count": 1,
-        "median_unit_price": 10753,
-        "median_total_price": 530000,
-        "min_unit_price": 10753,
-        "max_unit_price": 10753
-      }
-    },
-    {
       "id": "nankai-c92f3389a4ea",
       "slug": "c-nankai-c92f3389a4ea",
       "name": "横江里",
@@ -19234,34 +18646,6 @@
       }
     },
     {
-      "id": "nankai-40ca41cb2cd2",
-      "slug": "c-nankai-40ca41cb2cd2",
-      "name": "雅美里津彪",
-      "submarket": "长虹街",
-      "property_use": "unknown",
-      "latest": {
-        "month": "2026-10",
-        "status": "insufficient_sample",
-        "transaction_count": 1,
-        "source_count": 1,
-        "median_unit_price": null,
-        "median_total_price": null,
-        "p25_unit_price": null,
-        "p75_unit_price": null,
-        "mom_pct": null,
-        "yoy_pct": null
-      },
-      "observation": {
-        "month": "2026-10",
-        "transaction_count": 1,
-        "source_count": 1,
-        "median_unit_price": 10496,
-        "median_total_price": 468000,
-        "min_unit_price": 10496,
-        "max_unit_price": 10496
-      }
-    },
-    {
       "id": "nankai-c84335ba06ec",
       "slug": "c-nankai-c84335ba06ec",
       "name": "雅川家园",
@@ -19287,34 +18671,6 @@
         "median_total_price": 960000,
         "min_unit_price": 10495,
         "max_unit_price": 10495
-      }
-    },
-    {
-      "id": "nankai-f29edc7e2dd0",
-      "slug": "c-nankai-f29edc7e2dd0",
-      "name": "瑞地里哥说房",
-      "submarket": "水上公园街",
-      "property_use": "unknown",
-      "latest": {
-        "month": "2026-07",
-        "status": "insufficient_sample",
-        "transaction_count": 1,
-        "source_count": 1,
-        "median_unit_price": null,
-        "median_total_price": null,
-        "p25_unit_price": null,
-        "p75_unit_price": null,
-        "mom_pct": null,
-        "yoy_pct": null
-      },
-      "observation": {
-        "month": "2026-07",
-        "transaction_count": 1,
-        "source_count": 1,
-        "median_unit_price": 10457,
-        "median_total_price": 1080000,
-        "min_unit_price": 10457,
-        "max_unit_price": 10457
       }
     },
     {
@@ -19371,34 +18727,6 @@
         "median_total_price": 258000,
         "min_unit_price": 10366,
         "max_unit_price": 10366
-      }
-    },
-    {
-      "id": "nankai-779255fc3e99",
-      "slug": "c-nankai-779255fc3e99",
-      "name": "雅环里",
-      "submarket": "长虹街",
-      "property_use": "unknown",
-      "latest": {
-        "month": "2026-03",
-        "status": "insufficient_sample",
-        "transaction_count": 1,
-        "source_count": 1,
-        "median_unit_price": null,
-        "median_total_price": null,
-        "p25_unit_price": null,
-        "p75_unit_price": null,
-        "mom_pct": null,
-        "yoy_pct": null
-      },
-      "observation": {
-        "month": "2026-03",
-        "transaction_count": 1,
-        "source_count": 1,
-        "median_unit_price": 10334,
-        "median_total_price": 598000,
-        "min_unit_price": 10334,
-        "max_unit_price": 10334
       }
     },
     {
@@ -19542,37 +18870,9 @@
       }
     },
     {
-      "id": "nankai-5339a78762bb",
-      "slug": "c-nankai-5339a78762bb",
-      "name": "聚英里津",
-      "submarket": "兴南街",
-      "property_use": "unknown",
-      "latest": {
-        "month": "2026-10",
-        "status": "insufficient_sample",
-        "transaction_count": 1,
-        "source_count": 1,
-        "median_unit_price": null,
-        "median_total_price": null,
-        "p25_unit_price": null,
-        "p75_unit_price": null,
-        "mom_pct": null,
-        "yoy_pct": null
-      },
-      "observation": {
-        "month": "2026-10",
-        "transaction_count": 1,
-        "source_count": 1,
-        "median_unit_price": 10137,
-        "median_total_price": 400000,
-        "min_unit_price": 10137,
-        "max_unit_price": 10137
-      }
-    },
-    {
       "id": "nankai-efa0f11ff666",
       "slug": "c-nankai-efa0f11ff666",
-      "name": "雅环里津彪",
+      "name": "雅环里",
       "submarket": "长虹街",
       "property_use": "unknown",
       "latest": {
@@ -19679,34 +18979,6 @@
         "median_total_price": 538000,
         "min_unit_price": 10011,
         "max_unit_price": 10011
-      }
-    },
-    {
-      "id": "nankai-77024c7eddbd",
-      "slug": "c-nankai-77024c7eddbd",
-      "name": "川南里津",
-      "submarket": "嘉陵道街",
-      "property_use": "unknown",
-      "latest": {
-        "month": "2026-10",
-        "status": "insufficient_sample",
-        "transaction_count": 1,
-        "source_count": 1,
-        "median_unit_price": null,
-        "median_total_price": null,
-        "p25_unit_price": null,
-        "p75_unit_price": null,
-        "mom_pct": null,
-        "yoy_pct": null
-      },
-      "observation": {
-        "month": "2026-10",
-        "transaction_count": 1,
-        "source_count": 1,
-        "median_unit_price": 9955,
-        "median_total_price": 420000,
-        "min_unit_price": 9955,
-        "max_unit_price": 9955
       }
     },
     {
@@ -19934,6 +19206,34 @@
       }
     },
     {
+      "id": "nankai-de9f1ee3f273",
+      "slug": "c-nankai-de9f1ee3f273",
+      "name": "川南里",
+      "submarket": "嘉陵道街",
+      "property_use": "unknown",
+      "latest": {
+        "month": "2026-10",
+        "status": "insufficient_sample",
+        "transaction_count": 2,
+        "source_count": 1,
+        "median_unit_price": null,
+        "median_total_price": null,
+        "p25_unit_price": null,
+        "p75_unit_price": null,
+        "mom_pct": null,
+        "yoy_pct": null
+      },
+      "observation": {
+        "month": "2026-10",
+        "transaction_count": 2,
+        "source_count": 1,
+        "median_unit_price": 9592,
+        "median_total_price": 512500,
+        "min_unit_price": 9230,
+        "max_unit_price": 9955
+      }
+    },
+    {
       "id": "nankai-7013485c32af",
       "slug": "c-nankai-7013485c32af",
       "name": "宮民里",
@@ -19987,34 +19287,6 @@
         "median_total_price": 510000,
         "min_unit_price": 9552,
         "max_unit_price": 9552
-      }
-    },
-    {
-      "id": "nankai-a89712499cb0",
-      "slug": "c-nankai-a89712499cb0",
-      "name": "貌川里",
-      "submarket": "嘉陵道街",
-      "property_use": "unknown",
-      "latest": {
-        "month": "2026-08",
-        "status": "insufficient_sample",
-        "transaction_count": 1,
-        "source_count": 1,
-        "median_unit_price": null,
-        "median_total_price": null,
-        "p25_unit_price": null,
-        "p75_unit_price": null,
-        "mom_pct": null,
-        "yoy_pct": null
-      },
-      "observation": {
-        "month": "2026-08",
-        "transaction_count": 1,
-        "source_count": 1,
-        "median_unit_price": 9484,
-        "median_total_price": 740000,
-        "min_unit_price": 9484,
-        "max_unit_price": 9484
       }
     },
     {
@@ -20242,9 +19514,9 @@
       }
     },
     {
-      "id": "nankai-61758aec56ea",
-      "slug": "c-nankai-61758aec56ea",
-      "name": "貌川里津彪",
+      "id": "nankai-a89712499cb0",
+      "slug": "c-nankai-a89712499cb0",
+      "name": "貌川里",
       "submarket": "嘉陵道街",
       "property_use": "unknown",
       "latest": {
@@ -20295,34 +19567,6 @@
         "median_total_price": 750000,
         "min_unit_price": 9231,
         "max_unit_price": 9231
-      }
-    },
-    {
-      "id": "nankai-de9f1ee3f273",
-      "slug": "c-nankai-de9f1ee3f273",
-      "name": "川南里",
-      "submarket": "嘉陵道街",
-      "property_use": "unknown",
-      "latest": {
-        "month": "2026-10",
-        "status": "insufficient_sample",
-        "transaction_count": 1,
-        "source_count": 1,
-        "median_unit_price": null,
-        "median_total_price": null,
-        "p25_unit_price": null,
-        "p75_unit_price": null,
-        "mom_pct": null,
-        "yoy_pct": null
-      },
-      "observation": {
-        "month": "2026-10",
-        "transaction_count": 1,
-        "source_count": 1,
-        "median_unit_price": 9230,
-        "median_total_price": 605000,
-        "min_unit_price": 9230,
-        "max_unit_price": 9230
       }
     },
     {
